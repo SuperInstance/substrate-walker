@@ -1,7 +1,7 @@
 #!/bin/bash
-# Fleet canary check — runs Python, TypeScript, Rust, Bash, JS ESM ports
+# Fleet canary check — 6 ports: Python + TypeScript + Rust + Bash + JS ESM + C#
 
-echo "=== FLEET CANARY VERIFICATION (5 ports: Python + TS + Rust + Bash + JS) ==="
+echo "=== FLEET CANARY VERIFICATION (6 ports) ==="
 echo
 
 # Python
@@ -49,17 +49,28 @@ else
 fi
 echo
 
-echo "=== Summary ==="
-echo "Python exit: $PY_EXIT"
-echo "TypeScript exit: $TS_EXIT"
-echo "Rust exit: $RUST_EXIT"
-echo "Bash exit: $BASH_EXIT"
-echo "JS ESM exit: $JS_EXIT"
+# C#
+if [ -x /workspace/research/substrate-walker/scripts/canary_check_cs ]; then
+    /workspace/research/substrate-walker/scripts/canary_check_cs | tail -2
+    CS_EXIT=$?
+else
+    echo "C# canary_check_cs not found"
+    CS_EXIT=1
+fi
+echo
 
-if [ $PY_EXIT -eq 0 ] && [ $TS_EXIT -eq 0 ] && [ $RUST_EXIT -eq 0 ] && [ $BASH_EXIT -eq 0 ] && [ $JS_EXIT -eq 0 ]; then
-    echo "All 5 ports agree — fleet canary pinned ✓"
+echo "=== Summary ==="
+echo "Python: $PY_EXIT"
+echo "TypeScript: $TS_EXIT"
+echo "Rust: $RUST_EXIT"
+echo "Bash: $BASH_EXIT"
+echo "JS ESM: $JS_EXIT"
+echo "C#: $CS_EXIT"
+
+if [ $PY_EXIT -eq 0 ] && [ $TS_EXIT -eq 0 ] && [ $RUST_EXIT -eq 0 ] && [ $BASH_EXIT -eq 0 ] && [ $JS_EXIT -eq 0 ] && [ $CS_EXIT -eq 0 ]; then
+    echo "All 6 ports agree — fleet canary pinned ✓"
     exit 0
 else
-    echo "FAILED — one or more ports don't agree"
+    echo "FAILED"
     exit 1
 fi

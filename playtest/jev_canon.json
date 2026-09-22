@@ -1,0 +1,1002 @@
+[
+  {
+    "seed": 70051917,
+    "score": 0.8691666666666666,
+    "lore": "Brutalist megastructures erupt from a flooded grid, their jagged facades pierced by neon glyphs. The city dreams itself into being, one alley at a time.",
+    "noul_canon": 0.67,
+    "noul_distinct": 0.82,
+    "jev_voice": "lyricist",
+    "density": 2.69,
+    "promote": false
+  },
+  {
+    "seed": 4685000,
+    "score": 0.86875,
+    "lore": "A sprawling vertical labyrinth of angular tenements and skybridges, each window a flickering pixel in the city's electric soul.",
+    "noul_canon": 0.71,
+    "noul_distinct": 0.79,
+    "jev_voice": "lyricist",
+    "density": 2.51,
+    "promote": true
+  },
+  {
+    "seed": 3289967,
+    "score": 0.8683333333333333,
+    "lore": "Monolithic brutalist towers rise from a flooded grid, their jagged facades pierced by neon glyphs and decaying data streams.",
+    "noul_canon": 0.7,
+    "noul_distinct": 0.76,
+    "jev_voice": "structuralist",
+    "density": 2.98,
+    "promote": false
+  },
+  {
+    "seed": 57322595,
+    "score": 0.8683333333333333,
+    "lore": "In the cathedral of light and rust, towers claw at the rain-heavy sky. The street below hums with ten thousand footsteps.",
+    "noul_canon": 0.56,
+    "noul_distinct": 0.78,
+    "jev_voice": "lyricist",
+    "density": 2.63,
+    "promote": false
+  },
+  {
+    "seed": 90625407,
+    "score": 0.8683333333333333,
+    "lore": "Concrete canyons carved by neon rivers, where every alley ends in a glyph and every glyph ends in a question.",
+    "noul_canon": 0.73,
+    "noul_distinct": 0.84,
+    "jev_voice": "lyricist",
+    "density": 2.01,
+    "promote": true
+  },
+  {
+    "seed": 1504276,
+    "score": 0.8675,
+    "lore": "In the city's labyrinthine heart, towering skyscrapers with angular, aerodynamic designs pierced the smog-choked skies, their steel and glass facades reflecting the neon-lit darkness.",
+    "noul_canon": 0.7,
+    "noul_distinct": 0.41,
+    "jev_voice": "noir_classic",
+    "density": 3.07,
+    "promote": false
+  },
+  {
+    "seed": 14608133,
+    "score": 0.8675,
+    "lore": "Brutalist megastructures erupt in staggered clusters, their surfaces inscribed with the city's forgotten names.",
+    "noul_canon": 0.43,
+    "noul_distinct": 0.78,
+    "jev_voice": "lyricist",
+    "density": 2.04,
+    "promote": false
+  },
+  {
+    "seed": 18437566,
+    "score": 0.8675,
+    "lore": "The metropolis folds inward on itself, a labyrinth of rain-dark towers and buzzing holographic advertisements.",
+    "noul_canon": 0.77,
+    "noul_distinct": 0.67,
+    "jev_voice": "lyricist",
+    "density": 2.63,
+    "promote": true
+  },
+  {
+    "seed": 79279361,
+    "score": 0.8675,
+    "lore": "Angular monoliths pierce the perpetual dusk of the urban sprawl, their windows pulsing with the heartbeat of a million strangers.",
+    "noul_canon": 0.62,
+    "noul_distinct": 0.69,
+    "jev_voice": "lyricist",
+    "density": 2.12,
+    "promote": false
+  },
+  {
+    "seed": 6358192,
+    "score": 0.8670833333333333,
+    "lore": "The rain-soaked streets of Neo-Tokyo.\n\nYou are standing in a dimly lit alleyway, surrounded by towering skyscrapers. The air is thick with the smell of smoke and desperation. A lone streetlight flickers above, casting eerie shadows on the ground.\n\nYour character is a",
+    "noul_canon": 0.65,
+    "noul_distinct": 0.33,
+    "jev_voice": "noir_classic",
+    "density": 2.88,
+    "promote": false
+  },
+  {
+    "seed": 13328051,
+    "score": 0.8670833333333333,
+    "lore": "A labyrinthine megalopolis built on the bones of older cities, every street a layer of forgotten history.",
+    "noul_canon": 0.63,
+    "noul_distinct": 0.76,
+    "jev_voice": "lyricist",
+    "density": 1.34,
+    "promote": false
+  },
+  {
+    "seed": 17759001,
+    "score": 0.8670833333333333,
+    "lore": "Tenements rise like vertebrae against the bruised sky, interconnected by skybridges that hum with electric prayer.",
+    "noul_canon": 0.71,
+    "noul_distinct": 0.86,
+    "jev_voice": "lyricist",
+    "density": 2.37,
+    "promote": true
+  },
+  {
+    "seed": 28692206,
+    "score": 0.8670833333333333,
+    "lore": "In the city's deepest hour, only the neon survives \u2014 a glyph-by-glyph archaeology of what we built and why.",
+    "noul_canon": 0.63,
+    "noul_distinct": 0.84,
+    "jev_voice": "lyricist",
+    "density": 1.09,
+    "promote": false
+  },
+  {
+    "seed": 30264850,
+    "score": 0.8670833333333333,
+    "lore": "A pure brutalist cathedral of glass and rust, where every pane reflects a different version of the same skyline.",
+    "noul_canon": 0.41,
+    "noul_distinct": 0.84,
+    "jev_voice": "lyricist",
+    "density": 2.34,
+    "promote": false
+  },
+  {
+    "seed": 45919340,
+    "score": 0.8670833333333333,
+    "lore": "Neon rivers carve through the city's deep anatomy, their light pooling in alleys where stories go to ferment.",
+    "noul_canon": 0.72,
+    "noul_distinct": 0.84,
+    "jev_voice": "lyricist",
+    "density": 2.05,
+    "promote": true
+  },
+  {
+    "seed": 48680865,
+    "score": 0.8670833333333333,
+    "lore": "The city breathes in concrete, exhales in neon. Its every artery is a question; every vein, a glyph.",
+    "noul_canon": 0.61,
+    "noul_distinct": 0.84,
+    "jev_voice": "lyricist",
+    "density": 1.2,
+    "promote": false
+  },
+  {
+    "seed": 63605960,
+    "score": 0.8670833333333333,
+    "lore": "A dense cluster of vertical habitations, their windows interlocking like puzzle pieces in the rain-dark air.",
+    "noul_canon": 0.54,
+    "noul_distinct": 0.77,
+    "jev_voice": "lyricist",
+    "density": 2.72,
+    "promote": false
+  },
+  {
+    "seed": 78059087,
+    "score": 0.8670833333333333,
+    "lore": "Sky-piercing monoliths stand as witness to a century of weather, their surfaces a palimpsest of light and shadow.",
+    "noul_canon": 0.31,
+    "noul_distinct": 0.74,
+    "jev_voice": "lyricist",
+    "density": 1.62,
+    "promote": false
+  },
+  {
+    "seed": 97054056,
+    "score": 0.8670833333333333,
+    "lore": "The grid of streets becomes a grid of glyphs; the glyphs become a story; the story becomes the city.",
+    "noul_canon": 0.41,
+    "noul_distinct": 0.75,
+    "jev_voice": "structuralist",
+    "density": 0.16,
+    "promote": false
+  },
+  {
+    "seed": 302238,
+    "score": 0.8666666666666667,
+    "lore": "In the neon-drenched sprawl of New Eden, towering skyscrapers pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of verticality.",
+    "noul_canon": 0.65,
+    "noul_distinct": 0.44,
+    "jev_voice": "lyricist",
+    "density": 2.7,
+    "promote": false
+  },
+  {
+    "seed": 550551,
+    "score": 0.8666666666666667,
+    "lore": "A labyrinthine metropolis sprawls across a scorched terrain, its skeletal skyscrapers twisted in impossible geometries, a testament to humanity's hubris and despair.",
+    "noul_canon": 0.59,
+    "noul_distinct": 0.71,
+    "jev_voice": "cosmic_horror",
+    "density": 2.38,
+    "promote": false
+  },
+  {
+    "seed": 662290,
+    "score": 0.8666666666666667,
+    "lore": "In the labyrinthine metropolis of New Erebus, the synthetic and the organic coalesce, yet the artificial abyss of the 'Net' devours all truth, and the city itself is a sentient, labyrinthine entity, devouring its own inhabitants.",
+    "noul_canon": 0.6,
+    "noul_distinct": 0.75,
+    "jev_voice": "cosmic_horror",
+    "density": 0.77,
+    "promote": false
+  },
+  {
+    "seed": 2184160,
+    "score": 0.8666666666666667,
+    "lore": "In the dystopian metropolis of Neo-Tokyo, the enigmatic Architect, Ryker, weaves a tapestry of steel and neon, his creations a testament to humanity's fleeting grip on the city's crumbling landscape.",
+    "noul_canon": 0.64,
+    "noul_distinct": 0.63,
+    "jev_voice": "lyricist",
+    "density": 1.53,
+    "promote": false
+  },
+  {
+    "seed": 6426315,
+    "score": 0.8666666666666667,
+    "lore": "An angular megacity where every corner hides a cathedral and every cathedral hides a corner.",
+    "noul_canon": 0.5,
+    "noul_distinct": 0.81,
+    "jev_voice": "cosmic_horror",
+    "density": 0.95,
+    "promote": false
+  },
+  {
+    "seed": 7118707,
+    "score": 0.8666666666666667,
+    "lore": "Brutalist towers erupt in staggered geometric patterns, their facades inscribed with the day's slow decay.",
+    "noul_canon": 0.37,
+    "noul_distinct": 0.77,
+    "jev_voice": "structuralist",
+    "density": 1.93,
+    "promote": false
+  },
+  {
+    "seed": 13694761,
+    "score": 0.8666666666666667,
+    "lore": "A vertical metropolis of stone and neon, where the buildings lean together as if sharing secrets in the rain.",
+    "noul_canon": 0.66,
+    "noul_distinct": 0.79,
+    "jev_voice": "lyricist",
+    "density": 2.43,
+    "promote": false
+  },
+  {
+    "seed": 152417070,
+    "score": 0.86625,
+    "lore": "Brutalist megastructures erupt in ASCII grids, their jagged data-towers and fractured facades encoding a decaying cyberpunk metropolis.",
+    "noul_canon": 0.49,
+    "noul_distinct": 0.78,
+    "jev_voice": "structuralist",
+    "density": 2.57,
+    "promote": false
+  },
+  {
+    "seed": 11414805,
+    "score": 0.86625,
+    "lore": "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets.",
+    "noul_canon": 0.55,
+    "noul_distinct": 0.36,
+    "jev_voice": "noir_classic",
+    "density": 2.13,
+    "promote": false
+  },
+  {
+    "seed": 16777171,
+    "score": 0.86625,
+    "lore": "Monolithic data-temples rise in staggered brutalist clusters, their fractured facades pierced by neon circuitry and shadowed by perpetual rain.",
+    "noul_canon": 0.69,
+    "noul_distinct": 0.79,
+    "jev_voice": "lyricist",
+    "density": 3.08,
+    "promote": false
+  },
+  {
+    "seed": 39509,
+    "score": 0.86625,
+    "lore": "Brutalist modular megastructures rise from a flooded grid, their jagged towers pierced by neon data-streams and shadowed by decay.",
+    "noul_canon": 0.72,
+    "noul_distinct": 0.73,
+    "jev_voice": "structuralist",
+    "density": 2.92,
+    "promote": true
+  },
+  {
+    "seed": 69006,
+    "score": 0.86625,
+    "lore": "The sprawling metropolis of Neo-Tokyo unfolded like a fractured crystal, its angular skyscrapers and neon-drenched streets a testament to the city's turbulent, asymmetrical beauty.",
+    "noul_canon": 0.63,
+    "noul_distinct": 0.69,
+    "jev_voice": "lyricist",
+    "density": 2.36,
+    "promote": false
+  },
+  {
+    "seed": 11751601,
+    "score": 0.8658333333333333,
+    "lore": "A vertical grid of monolithic towers rises from a flooded, circuit-like ground plane, their fragmented facades forming a brutalist, dystopian cityscape.",
+    "noul_canon": 0.52,
+    "noul_distinct": 0.73,
+    "jev_voice": "structuralist",
+    "density": 2.65,
+    "promote": false
+  },
+  {
+    "seed": 99310068,
+    "score": 0.8658333333333333,
+    "lore": "The city's fractured grid dissolves into a recursive lattice of glitching data-towers, where corrupted code and neon ruins intertwine.",
+    "noul_canon": 0.64,
+    "noul_distinct": 0.76,
+    "jev_voice": "structuralist",
+    "density": 2.28,
+    "promote": false
+  },
+  {
+    "seed": 1668051,
+    "score": 0.8658333333333333,
+    "lore": "In the city's labyrinthine underbelly, a maze of metallic spires and angular skyscrapers pierced the smog-choked sky, a testament to humanity's insatiable quest for vertical dominance.",
+    "noul_canon": 0.62,
+    "noul_distinct": 0.56,
+    "jev_voice": "lyricist",
+    "density": 2.42,
+    "promote": false
+  },
+  {
+    "seed": 18994366,
+    "score": 0.8658333333333333,
+    "lore": "Rainy streets, dark alleys, and a future lost.\n\nYou are in the sprawling metropolis of New Eden, where corporations reign and the streets are a battleground for those who refuse to be silenced. Your name is Jack, a former netrunner turned private investigator, seeking to uncover the truth in",
+    "noul_canon": 0.59,
+    "noul_distinct": 0.35,
+    "jev_voice": "noir_classic",
+    "density": 1.37,
+    "promote": false
+  },
+  {
+    "seed": 326028,
+    "score": 0.8658333333333333,
+    "lore": "In slumber, New Erebo stirs, its skyscrapers whispering secrets to the wind, its streets a tapestry of dreams and darkness, its voice a perpetual whisper: 'Arise, my child, the city's hunger is a hunger for you.'",
+    "noul_canon": 0.52,
+    "noul_distinct": 0.8,
+    "jev_voice": "lyricist",
+    "density": 1.35,
+    "promote": false
+  },
+  {
+    "seed": 1955253,
+    "score": 0.8654166666666666,
+    "lore": "In this cyberpunk cityscape, crystalline spires pierce the smog-choked skies, their angular geometry a testament to the city's underlying lattice of intersecting circuitry and steel.",
+    "noul_canon": 0.57,
+    "noul_distinct": 0.64,
+    "jev_voice": "structuralist",
+    "density": 2.77,
+    "promote": false
+  },
+  {
+    "seed": 67108827,
+    "score": 0.8654166666666666,
+    "lore": "A dense grid of monolithic towers rises from liquid data, their fragmented facades reflecting neon and decay.",
+    "noul_canon": 0.7,
+    "noul_distinct": 0.77,
+    "jev_voice": "structuralist",
+    "density": 2.75,
+    "promote": false
+  },
+  {
+    "seed": 271216,
+    "score": 0.8654166666666666,
+    "lore": "In the cyberpunk city's labyrinthine undercroft, crystalline spires pierced the smog-choked sky, their faceted geometry a testament to the architect's obsession with fractal perfection.",
+    "noul_canon": 0.57,
+    "noul_distinct": 0.71,
+    "jev_voice": "structuralist",
+    "density": 2.81,
+    "promote": false
+  },
+  {
+    "seed": 728365,
+    "score": 0.8654166666666666,
+    "lore": "Rainy night, shadows dance, streets of New Eden.\n\nWhat do you do?\n\nA) Investigate the source of the darkness\nB) Follow the faint glow of a holographic sign\nC) Approach the lone figure standing at the edge of the light\nD) Retreat into the alley,",
+    "noul_canon": 0.46,
+    "noul_distinct": 0.47,
+    "jev_voice": "noir_classic",
+    "density": 1.73,
+    "promote": false
+  },
+  {
+    "seed": 995930,
+    "score": 0.8654166666666666,
+    "lore": "As I walk down the rain-slicked streets of New Eden, the neon glow of holographic advertisements clashes with the city's perpetual darkness, a cacophony of light and sound that assaults my senses.",
+    "noul_canon": 0.69,
+    "noul_distinct": 0.51,
+    "jev_voice": "noir_classic",
+    "density": 2.69,
+    "promote": false
+  },
+  {
+    "seed": 327067,
+    "score": 0.865,
+    "lore": "The city's veins pulsed with a dark, electric heartbeat, whispering ancient secrets to the wind, as Kaelin's footsteps echoed through the streets, a siren's call to the shadows that shrouded its soul.",
+    "noul_canon": 0.49,
+    "noul_distinct": 0.65,
+    "jev_voice": "lyricist",
+    "density": 1.07,
+    "promote": false
+  },
+  {
+    "seed": 3371,
+    "score": 0.865,
+    "lore": "A sprawling modular grid of monolithic towers and crystalline voids forms a fractured, neon-drenched urban labyrinth of recursive density.",
+    "noul_canon": 0.61,
+    "noul_distinct": 0.75,
+    "jev_voice": "structuralist",
+    "density": 2.46,
+    "promote": false
+  },
+  {
+    "seed": 5659,
+    "score": 0.865,
+    "lore": "A vertical megastructure grid of blackened spires and luminous data veins, its brutalist skeleton carved by rain and neon.",
+    "noul_canon": 0.78,
+    "noul_distinct": 0.8,
+    "jev_voice": "structuralist",
+    "density": 3.05,
+    "promote": true
+  },
+  {
+    "seed": 56953,
+    "score": 0.865,
+    "lore": "Rain-soaked streets. Neon glare. Shadow's lurking.\n\nWhat do you do?\n\nA) Investigate the source of the light\nB) Head towards the dark alley\nC) Approach the suspicious character\nD) Keep moving, can't stay in one spot",
+    "noul_canon": 0.38,
+    "noul_distinct": 0.45,
+    "jev_voice": "noir_classic",
+    "density": 2.03,
+    "promote": false
+  },
+  {
+    "seed": 2388205,
+    "score": 0.865,
+    "lore": "The rain-soaked streets of Neo-Tokyo's undercity gleam like a diseased mirror, reflecting the neon hellscapes that cling to its crumbling skyscrapers like a bad dream.",
+    "noul_canon": 0.74,
+    "noul_distinct": 0.68,
+    "jev_voice": "noir_classic",
+    "density": 2.92,
+    "promote": true
+  },
+  {
+    "seed": 2464645,
+    "score": 0.8645833333333334,
+    "lore": "In the city's labyrinthine underbelly, a sprawling metropolis of interconnected domes and spires stretched like a mechanical organism, its skeletal framework a testament to humanity's unyielding pursuit of verticality.",
+    "noul_canon": 0.54,
+    "noul_distinct": 0.7,
+    "jev_voice": "futurist",
+    "density": 2.14,
+    "promote": false
+  },
+  {
+    "seed": 18926250,
+    "score": 0.8645833333333334,
+    "lore": "Brutalist modular megastructures rise in fragmented crystalline clusters, their jagged silhouettes pierced by neon-lit interstitial voids and rain-slicked reflective surfaces.",
+    "noul_canon": 0.69,
+    "noul_distinct": 0.75,
+    "jev_voice": "structuralist",
+    "density": 3.17,
+    "promote": false
+  },
+  {
+    "seed": 95732187,
+    "score": 0.8645833333333334,
+    "lore": "Brutalist data-towers rise from a flooded grid, their fractured facades reflecting neon static across a submerged cyberpunk cityscape.",
+    "noul_canon": 0.65,
+    "noul_distinct": 0.73,
+    "jev_voice": "lyricist",
+    "density": 2.99,
+    "promote": false
+  },
+  {
+    "seed": 60575860,
+    "score": 0.8645833333333334,
+    "lore": "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid.",
+    "noul_canon": 0.69,
+    "noul_distinct": 0.71,
+    "jev_voice": "structuralist",
+    "density": 2.69,
+    "promote": false
+  },
+  {
+    "seed": 128056006,
+    "score": 0.8645833333333334,
+    "lore": "Symmetrical monolithic towers rise from dense ASCII grid, their crystalline facades punctuated by scattered windows and shadowed voids.",
+    "noul_canon": 0.37,
+    "noul_distinct": 0.6,
+    "jev_voice": "structuralist",
+    "density": 2.31,
+    "promote": false
+  },
+  {
+    "seed": 2540836,
+    "score": 0.8645833333333334,
+    "lore": "Modular ziggurat cells stack into brutalist towers, their circuit-etched facades forming a decentralized, self-replicating urban lattice.",
+    "noul_canon": 0.37,
+    "noul_distinct": 0.73,
+    "jev_voice": "structuralist",
+    "density": 1.97,
+    "promote": false
+  },
+  {
+    "seed": 32849565,
+    "score": 0.8645833333333334,
+    "lore": "A cellular grid of monolithic towers rises through layered fog, their faceted forms etched with luminous data-streams and shadowed arterial streets.",
+    "noul_canon": 0.7,
+    "noul_distinct": 0.75,
+    "jev_voice": "structuralist",
+    "density": 2.9,
+    "promote": false
+  },
+  {
+    "seed": 38155762,
+    "score": 0.8645833333333334,
+    "lore": "The city sprawls beyond geometry, its angles whispering in tongues that erode reason, and I fear it dreams us into its endless, nameless alleys.",
+    "noul_canon": 0.37,
+    "noul_distinct": 0.85,
+    "jev_voice": "cosmic_horror",
+    "density": 0.62,
+    "promote": false
+  },
+  {
+    "seed": 5351356,
+    "score": 0.8645833333333334,
+    "lore": "Vertical monoliths, jagged neon lattice, and armored arcologies compress the city cell into a noir canyon of surveillance, decay, and electric rain.",
+    "noul_canon": 0.73,
+    "noul_distinct": 0.78,
+    "jev_voice": "lyricist",
+    "density": 3.27,
+    "promote": true
+  },
+  {
+    "seed": 4073,
+    "score": 0.8645833333333334,
+    "lore": "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams.\"  (Or, if you prefer something more visceral: \"The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.\")",
+    "noul_canon": 0.59,
+    "noul_distinct": 0.75,
+    "jev_voice": "lyricist",
+    "density": 2.39,
+    "promote": false
+  },
+  {
+    "seed": 21037341,
+    "score": 0.8645833333333334,
+    "lore": "A monolithic cyberpunk cell rises in jagged vertical strata, its neon-veined fa\u00e7ade and cramped alleyways framing a rain-slicked noir metropolis.",
+    "noul_canon": 0.67,
+    "noul_distinct": 0.7,
+    "jev_voice": "lyricist",
+    "density": 2.99,
+    "promote": false
+  },
+  {
+    "seed": 509,
+    "score": 0.8645833333333334,
+    "lore": "Neon-lit megastructures rise in dense layered blocks, their shattered facades and labyrinthine alleys framing a rain-soaked, surveillance-choked cyberpunk metropolis.",
+    "noul_canon": 0.71,
+    "noul_distinct": 0.5,
+    "jev_voice": "lyricist",
+    "density": 3.2,
+    "promote": false
+  },
+  {
+    "seed": 44279,
+    "score": 0.8645833333333334,
+    "lore": "The city breathes through angles no human eye can parse, a vast nameless god dreaming our streets into squamous, half-remembered existence.",
+    "noul_canon": 0.37,
+    "noul_distinct": 0.86,
+    "jev_voice": "cosmic_horror",
+    "density": 0.8,
+    "promote": false
+  },
+  {
+    "seed": 49789,
+    "score": 0.8645833333333334,
+    "lore": "Towering brutalist monoliths, tangled skybridges, and neon-lit tenements form a stratified cyberpunk city cell where power flows upward and shadows pool below.",
+    "noul_canon": 0.69,
+    "noul_distinct": 0.72,
+    "jev_voice": "lyricist",
+    "density": 2.92,
+    "promote": false
+  },
+  {
+    "seed": 39621,
+    "score": 0.8645833333333334,
+    "lore": "As the last remnants of daylight surrendered to the city's eternal night, its veins pulsed with the prophecy: 'I will devour, I will speak, I will dream, and in my darkness, you will be reborn.'",
+    "noul_canon": 0.63,
+    "noul_distinct": 0.75,
+    "jev_voice": "futurist",
+    "density": 1.05,
+    "promote": false
+  },
+  {
+    "seed": 59340,
+    "score": 0.8645833333333334,
+    "lore": "Raining on the neon streets of New Eden\"\n\nWhat do you do?\n\n(Note: you can enter any valid command, such as movement directions, actions, or questions. I'll respond with the outcome.)",
+    "noul_canon": 0.47,
+    "noul_distinct": 0.69,
+    "jev_voice": "lyricist",
+    "density": 1.66,
+    "promote": false
+  },
+  {
+    "seed": 817102,
+    "score": 0.8645833333333334,
+    "lore": "I stepped out of the rain-soaked alley and onto the neon-drenched streets of New Eden, the city's perpetual hum of machinery and despair thrumming through my veins.",
+    "noul_canon": 0.69,
+    "noul_distinct": 0.64,
+    "jev_voice": "noir_classic",
+    "density": 2.62,
+    "promote": false
+  },
+  {
+    "seed": 2027091,
+    "score": 0.8645833333333334,
+    "lore": "A cellular grid of monolithic towers punctuated by encrypted courtyards, where shadowed arcades and neon veins carve brutalist geometry into Noir's rain-slicked, circuit-like urban fabric.",
+    "noul_canon": 0.72,
+    "noul_distinct": 0.82,
+    "jev_voice": "structuralist",
+    "density": 3.3,
+    "promote": true
+  },
+  {
+    "seed": 3801903,
+    "score": 0.8645833333333334,
+    "lore": "Fractured city cells of steel and neon intertwine, forming a geometrically chaotic, yet rigidly structured, dystopian landscape of interconnected towers and shadowed alleys.",
+    "noul_canon": 0.63,
+    "noul_distinct": 0.66,
+    "jev_voice": "structuralist",
+    "density": 2.25,
+    "promote": false
+  },
+  {
+    "seed": 2658,
+    "score": 0.8645833333333334,
+    "lore": "A vertical megastructure grid of monolithic towers connected by skybridges, forming a dense, layered cyberpunk cityscape.",
+    "noul_canon": 0.35,
+    "noul_distinct": 0.4,
+    "jev_voice": "structuralist",
+    "density": 1.89,
+    "promote": false
+  },
+  {
+    "seed": 2041,
+    "score": 0.8642849344978166,
+    "lore": "Beneath squamous spires, the city breathes through angles no mind should know, devouring thought as we crawl through its dreaming streets.",
+    "noul_canon": 0.54,
+    "noul_distinct": 0.84,
+    "jev_voice": "cosmic_horror",
+    "density": 1.08,
+    "promote": false
+  },
+  {
+    "seed": 1015,
+    "score": 0.8641666666666666,
+    "lore": "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament.",
+    "noul_canon": 0.74,
+    "noul_distinct": 0.84,
+    "jev_voice": "lyricist",
+    "density": 3.56,
+    "promote": true
+  },
+  {
+    "seed": 357489,
+    "score": 0.8641666666666666,
+    "lore": "I stalk rain-slick alleys, neon bleeding across chrome skin, while distant sirens hum through the smog and my boots splash through oily pudd",
+    "noul_canon": 0.67,
+    "noul_distinct": 0.73,
+    "jev_voice": "noir_classic",
+    "density": 3.38,
+    "promote": false
+  },
+  {
+    "seed": 181517931,
+    "score": 0.8641666666666666,
+    "lore": "She walked into my office with neon rain dripping off her chrome, and I knew the city had a bad attitude and the job paid seven credits.",
+    "noul_canon": 0.67,
+    "noul_distinct": 0.82,
+    "jev_voice": "noir_classic",
+    "density": 2.85,
+    "promote": false
+  },
+  {
+    "seed": 35375967,
+    "score": 0.8641666666666666,
+    "lore": "The rain in this chrome-plated hell washes nothing clean; it just makes the neon bleed faster, and in this town, trouble always finds you first.",
+    "noul_canon": 0.71,
+    "noul_distinct": 0.75,
+    "jev_voice": "noir_classic",
+    "density": 2.55,
+    "promote": true
+  },
+  {
+    "seed": 5216405,
+    "score": 0.8641666666666666,
+    "lore": "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis.",
+    "noul_canon": 0.64,
+    "noul_distinct": 0.73,
+    "jev_voice": "lyricist",
+    "density": 2.31,
+    "promote": false
+  },
+  {
+    "seed": 78503634,
+    "score": 0.8641666666666666,
+    "lore": "Brutalist data-spires and glitched tenements fuse into a fractured grid of neon ruins and coded shadows.",
+    "noul_canon": 0.7,
+    "noul_distinct": 0.8,
+    "jev_voice": "structuralist",
+    "density": 2.66,
+    "promote": false
+  },
+  {
+    "seed": 559153,
+    "score": 0.8641666666666666,
+    "lore": "In the city's gridlocked core, angular skyscrapers pierced the smog-choked sky, their lattice facades a testament to the architect's obsession with geometric precision.",
+    "noul_canon": 0.48,
+    "noul_distinct": 0.6,
+    "jev_voice": "structuralist",
+    "density": 2.85,
+    "promote": false
+  },
+  {
+    "seed": 49455,
+    "score": 0.8641666666666666,
+    "lore": "Rain pours down on the city's dirty streets.\"\n\nWhat do you want to do?\n\n(Note: I'll be using a simplified ASCII art representation of the environment, with characters representing the buildings, roads, and other features. The \".\"s represent the rain pouring down. Your actions will be displayed in",
+    "noul_canon": 0.25,
+    "noul_distinct": 0.32,
+    "jev_voice": "noir_classic",
+    "density": 1.23,
+    "promote": false
+  },
+  {
+    "seed": 612171,
+    "score": 0.8641666666666666,
+    "lore": "Here's a prophetic sentence, aiming for the requested tone and length, inspired by the ASCII art:  **The neon arteries pulsed with regret, and New Shanghai whispered forgotten futures in the acid rain.**    I tried to evoke the \"living organism\" feel, focusing on a sense of sentience and decay within the city itself. The rain and neon felt fitting for the cyberpunk noir aesthetic.",
+    "noul_canon": 0.45,
+    "noul_distinct": 0.76,
+    "jev_voice": "futurist",
+    "density": 2.59,
+    "promote": false
+  },
+  {
+    "seed": 799480,
+    "score": 0.8641666666666666,
+    "lore": "The skyscraper's lattice-like fa\u00e7ade, a mesh of intersecting hyperbolas and parabolas, seemed to defy gravity, a three-dimensional manifestation of the city's chaotic logic.",
+    "noul_canon": 0.42,
+    "noul_distinct": 0.78,
+    "jev_voice": "structuralist",
+    "density": 1.63,
+    "promote": false
+  },
+  {
+    "seed": 1308153,
+    "score": 0.8641666666666666,
+    "lore": "In the city's sprawling metropolis, a maze of interconnected skyscrapers formed a labyrinthine architecture, with angular lines and geometric patterns dominating the urban landscape.",
+    "noul_canon": 0.28,
+    "noul_distinct": 0.31,
+    "jev_voice": "structuralist",
+    "density": 1.74,
+    "promote": false
+  },
+  {
+    "seed": 636805,
+    "score": 0.8641666666666666,
+    "lore": "The rain-soaked streets of Neo-Tokyo stretch out before me, a labyrinth of shadows and neon lights. I stand outside the rain-drenched alley, a cigarette burning in the corner of my mouth.\n\nI look down at my cyberdeck, the streets' secrets and lies laid bare before me",
+    "noul_canon": 0.64,
+    "noul_distinct": 0.47,
+    "jev_voice": "noir_classic",
+    "density": 2.6,
+    "promote": false
+  },
+  {
+    "seed": 3049215,
+    "score": 0.8641666666666666,
+    "lore": "A fractured grid of monolithic data-towers rises from a flooded, neon-scarred matrix, its brutalist forms dissolving into recursive urban decay.",
+    "noul_canon": 0.64,
+    "noul_distinct": 0.8,
+    "jev_voice": "structuralist",
+    "density": 2.53,
+    "promote": false
+  },
+  {
+    "seed": 3868371,
+    "score": 0.8641666666666666,
+    "lore": "Symmetrical modular megastructure rises from cascading ASCII grid, its crystalline towers and dense urban blocks forming a fractured, glitched brutalist skyline.",
+    "noul_canon": 0.37,
+    "noul_distinct": 0.69,
+    "jev_voice": "structuralist",
+    "density": 2.41,
+    "promote": false
+  },
+  {
+    "seed": 1206,
+    "score": 0.8641666666666666,
+    "lore": "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix.",
+    "noul_canon": 0.47,
+    "noul_distinct": 0.66,
+    "jev_voice": "structuralist",
+    "density": 2.64,
+    "promote": false
+  },
+  {
+    "seed": 309645,
+    "score": 0.8641666666666666,
+    "lore": "A sprawling metropolis of interconnected, organically-grown skyscrapers and labyrinthine streets, its architecture a symphony of angles and curves in perpetual, dystopian decay.",
+    "noul_canon": 0.58,
+    "noul_distinct": 0.72,
+    "jev_voice": "lyricist",
+    "density": 2.29,
+    "promote": false
+  },
+  {
+    "seed": 857516,
+    "score": 0.864,
+    "lore": "The rain-soaked streets were always darkest.",
+    "noul_canon": 0.45,
+    "noul_distinct": 0.48,
+    "jev_voice": "noir_classic",
+    "density": 1.29,
+    "promote": false
+  },
+  {
+    "seed": 3163870,
+    "score": 0.8638391557496361,
+    "lore": "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis.",
+    "noul_canon": 0.43,
+    "noul_distinct": 0.55,
+    "jev_voice": "structuralist",
+    "density": 2.2,
+    "promote": false
+  },
+  {
+    "seed": 1809721,
+    "score": 0.86375,
+    "lore": "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power.",
+    "noul_canon": 0.65,
+    "noul_distinct": 0.8,
+    "jev_voice": "structuralist",
+    "density": 2.36,
+    "promote": false
+  },
+  {
+    "seed": 1777555,
+    "score": 0.86375,
+    "lore": "In the sprawling metropolis, skyscrapers of intersecting crystalline structures pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of geometric perfection.",
+    "noul_canon": 0.48,
+    "noul_distinct": 0.63,
+    "jev_voice": "structuralist",
+    "density": 2.62,
+    "promote": false
+  },
+  {
+    "seed": 226609321,
+    "score": 0.86375,
+    "lore": "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance",
+    "noul_canon": 0.73,
+    "noul_distinct": 0.71,
+    "jev_voice": "lyricist",
+    "density": 3.08,
+    "promote": true
+  },
+  {
+    "seed": 55006666,
+    "score": 0.86375,
+    "lore": "Rain soaks streets, neon lights bleed\"\n\n(The player is in a dimly lit alleyway, the only sound the patter of rain on the pavement. The camera pans down to the player's character, a worn leather duster coat and fedora-clad figure, eyes fixed on a large",
+    "noul_canon": 0.63,
+    "noul_distinct": 0.63,
+    "jev_voice": "noir_classic",
+    "density": 2.78,
+    "promote": false
+  },
+  {
+    "seed": 3097600,
+    "score": 0.86375,
+    "lore": "Brutalist megastructures rise from ASCII ruins, their jagged geometric towers piercing a corrupted digital skyline of fractured code.",
+    "noul_canon": 0.52,
+    "noul_distinct": 0.76,
+    "jev_voice": "structuralist",
+    "density": 2.46,
+    "promote": false
+  },
+  {
+    "seed": 1538456,
+    "score": 0.86375,
+    "lore": "Brutalist megastructures rise from a glyph-scattered grid, their fractured facades and crystalline towers encoding a sprawling, asymmetric cyberpunk metropolis.",
+    "noul_canon": 0.53,
+    "noul_distinct": 0.76,
+    "jev_voice": "structuralist",
+    "density": 2.53,
+    "promote": false
+  },
+  {
+    "seed": 77072320,
+    "score": 0.86375,
+    "lore": "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers.",
+    "noul_canon": 0.6,
+    "noul_distinct": 0.82,
+    "jev_voice": "cosmic_horror",
+    "density": 0.88,
+    "promote": false
+  },
+  {
+    "seed": 17781081,
+    "score": 0.86375,
+    "lore": "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me.",
+    "noul_canon": 0.66,
+    "noul_distinct": 0.77,
+    "jev_voice": "noir_classic",
+    "density": 2.41,
+    "promote": false
+  },
+  {
+    "seed": 4293784,
+    "score": 0.86375,
+    "lore": "Brutalist megastructures rise from ASCII ruins, their fragmented geometric facades encoding a decaying cyberpunk metropolis in monochrome.",
+    "noul_canon": 0.51,
+    "noul_distinct": 0.74,
+    "jev_voice": "structuralist",
+    "density": 2.2,
+    "promote": false
+  },
+  {
+    "seed": 15167010,
+    "score": 0.86375,
+    "lore": "I walk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum beneath the chrome sky.",
+    "noul_canon": 0.7,
+    "noul_distinct": 0.69,
+    "jev_voice": "noir_classic",
+    "density": 3.39,
+    "promote": false
+  },
+  {
+    "seed": 19754564,
+    "score": 0.86375,
+    "lore": "A cellular grid of monolithic towers and suspended bridges forms a fractured, rain-slicked cyberpunk skyline.",
+    "noul_canon": 0.61,
+    "noul_distinct": 0.66,
+    "jev_voice": "structuralist",
+    "density": 2.63,
+    "promote": false
+  },
+  {
+    "seed": 24,
+    "score": 0.86375,
+    "lore": "Vertical arcologies rise through toxic rain, their fractured facades stitching corporate spires, transit veins, and shadowed alley cells into a relentless noir grid.",
+    "noul_canon": 0.74,
+    "noul_distinct": 0.81,
+    "jev_voice": "noir_classic",
+    "density": 2.89,
+    "promote": true
+  },
+  {
+    "seed": 17923,
+    "score": 0.86375,
+    "lore": "The city breathes through geometries no mind was meant to parse, and we are merely fleeting thoughts it dreams in the dark.",
+    "noul_canon": 0.5,
+    "noul_distinct": 0.83,
+    "jev_voice": "cosmic_horror",
+    "density": 0.18,
+    "promote": false
+  },
+  {
+    "seed": 25303,
+    "score": 0.86375,
+    "lore": "I glimpsed the city\u2019s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear.",
+    "noul_canon": 0.35,
+    "noul_distinct": 0.81,
+    "jev_voice": "cosmic_horror",
+    "density": 0.48,
+    "promote": false
+  },
+  {
+    "seed": 153181,
+    "score": 0.86375,
+    "lore": "In the city's labyrinthine sprawl, towering skyscrapers pierced the smog-filled sky, their angular silhouettes a testament to the architect's obsessive pursuit of geometric perfection.",
+    "noul_canon": 0.47,
+    "noul_distinct": 0.52,
+    "jev_voice": "structuralist",
+    "density": 2.54,
+    "promote": false
+  }
+]
