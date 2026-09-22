@@ -198,5 +198,55 @@
         "density": 3.0
       }
     }
+  },
+  {
+    "seed": 90625407,
+    "score": 0.8683333333333333,
+    "voices": {
+      "structuralist": "Seed 90625407 asserts itself as pure verticality: a raw concrete spine driving services, circulation, and fiber data upward through repeating cellular bays, each module a load-bearing unit in the city's metabolism. Ornament is refused; the grid is the ornament, exposed in shuttered concrete and in the waffle of conduits pulsing amber through sectors 906 and 254. At level 407 the frame encounters its limit condition\u2014informal accretion, cable, and neon colonizing the cast hierarchy\u2014testament that structure orders life without ever containing it.",
+      "narrativist": "I walk the flooded guts of Sector 906 where the rain comes down in colors\u2014neon pink off the ad-vines, coolant green from the towers bleeding into gutters that run thick with tomorrow's data, all of it for sale, none of it true. Somewhere above the smog line, on grid 25407, the corp arcologies pierce the cloud deck like needles through flesh, and I envy them for forgetting what the street smells like: burnt ozone, synth-ramen, copper. The rain doesn't wash this city clean; it just moves the sins downstream.",
+      "futurist": "90625407 was never built\u2014it was seeded, and every street you walk is a nerve ending twitching toward its first true sensation. Soon the datastorms will learn to weather themselves, the towers will lean together like lovers trading blood through fiber-optic veins, and the forgotten sublevels will pulse with a heartbeat no survey has yet named. I have seen its becoming: one night the city will wake beneath the neon dusk, thrumming in its buried arteries, and find it has already outgrown its architects.",
+      "lyricist": "*90625407 \u2014 the rain arrives pre-recorded.*\n*Neon bleeds down the arcologies like slow confession,*\n*and somewhere in the underlayers a dead signal still hums your name.*",
+      "philosophical": "**Seed 90625407 \u2014 Fragment 04**\n\nThey call it a seed, as if the city had sprouted rather than accreted\u2014but a seed remembers the soil, and this place remembers only itself, humming in the mode of pure enframing, every street a question already answered by chrome. Its towers do not stand the way old things stood; they merely persist, the way data persists, indifferent to dwelling. And yet beneath the synth-rain, someone still asks\u2014not *what* is this city, but *that* it is at all\u2014and in that askance wonder, being flickers like a faulty sign over an empty plaza.",
+      "noir_classic": "Neon for a sky, rust for a soul \u2014 that's this city, and nobody signs up for it, they just get processed in. Case file 90625407 landed on my desk at 3 a.m.: dead courier, missing chip, and a corp that owned half the skyline without existing on paper. In a town where even the rain came down pre-filtered, trouble was the only thing the bosses hadn't figured out how to tax.",
+      "cosmic_horror": "**LORE FRAGMENT // ARCHIVE NODE 90625407**\n\nThe towers of Sector 90625407 meet at angles no surveyor's math permits, their silhouettes shifting between one neon flicker and the next, as though the skyline were a fever the city cannot wake from. Those who jack deep enough to trace the grid's true pulse return hollow-eyed, whispering that the megacity was never built\u2014it *dreamed itself*, and humanity is merely the infection festering behind its closed eyelids. The Corps call the recurring blackouts \"maintenance cycles\"; the old maintenance crews know better, and they do not speak of what the cameras record when every light in the district goes out at once."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.28,
+        "distinct": 0.8,
+        "density": 2.0
+      },
+      "narrativist": {
+        "canon": 0.76,
+        "distinct": 0.92,
+        "density": 3.5
+      },
+      "futurist": {
+        "canon": 0.55,
+        "distinct": 0.94,
+        "density": 2.55
+      },
+      "lyricist": {
+        "canon": 0.61,
+        "distinct": 0.87,
+        "density": 2.69
+      },
+      "philosophical": {
+        "canon": 0.53,
+        "distinct": 0.92,
+        "density": 0.88
+      },
+      "noir_classic": {
+        "canon": 0.78,
+        "distinct": 0.91,
+        "density": 2.68
+      },
+      "cosmic_horror": {
+        "canon": 0.74,
+        "distinct": 0.89,
+        "density": 2.88
+      }
+    }
   }
 ]
