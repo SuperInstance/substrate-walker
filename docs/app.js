@@ -297,9 +297,42 @@ class SubstrateWalker {
             const stats = this.cortex.getStats();
             apiEl.textContent = `API: ${stats.apiCalls} calls, ${stats.cacheHits} cached, ${stats.districtCache} districts`;
         }
+
+        // JEPA prediction indicator
+        const jepaEl = document.getElementById('jepa-prediction');
+        if (jepaEl && this.lastPrediction !== undefined) {
+            if (this.lastPrediction > 0) {
+                jepaEl.textContent = `JEPA: next cell h=${this.lastPrediction}`;
+                jepaEl.style.color = '#80FFFF';
+            } else {
+                jepaEl.textContent = 'JEPA: idle';
+                jepaEl.style.color = '#666';
+            }
+        }
     }
 
     render(time) {
+        // JEPA prediction — runs every frame, no API
+        if (this.exports && this.lastVx !== undefined) {
+            const vx = this.lastVx || 0;
+            const vy = this.lastVy || 0;
+            if (Math.abs(vx) > 0.01 || Math.abs(vy) > 0.01) {
+                const x = this.exports.camera_x();
+                const y = this.exports.camera_y();
+                this.lastPrediction = this.exports.predict_height(x, y, vx, vy, 1);
+            }
+        }
+
+        // Track velocity for prediction
+        if (this.lastX !== undefined && this.lastY !== undefined) {
+            const x = this.exports.camera_x();
+            const y = this.exports.camera_y();
+            this.lastVx = x - this.lastX;
+            this.lastVy = y - this.lastY;
+        }
+        this.lastX = this.exports ? this.exports.camera_x() : 0;
+        this.lastY = this.exports ? this.exports.camera_y() : 0;
+
         if (!this.exports || !this.gl) {
             requestAnimationFrame(this.render.bind(this));
             return;

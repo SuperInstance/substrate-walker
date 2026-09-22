@@ -27,11 +27,13 @@ extern crate alloc;
 
 mod cell;
 mod engine;
+mod jepa_predict;
 mod lore;
 mod types;
 
 pub use cell::{CityCell, CityGrid};
 pub use engine::{Camera, Raycaster};
+pub use jepa_predict::{JepaPredictor, Velocity};
 pub use lore::{LoreKind, LoreSlot};
 pub use types::{
     fnv1a_64, pack_cell, verify_canary,
@@ -268,6 +270,25 @@ mod wasm_api {
         #[wasm_bindgen]
         pub fn grid_hash_last(&self) -> u64 {
             self.engine.grid.cells.last().map(|c| c.hash).unwrap_or(0)
+        }
+
+        /// Predict next cells the player will visit given velocity (vx, vy).
+        /// Returns the cell height at the predicted position (0 = no building).
+        /// -1 means invalid prediction.
+        #[wasm_bindgen]
+        pub fn predict_height(&self, x: f32, y: f32, vx: f32, vy: f32, steps_out: u32) -> i32 {
+            use crate::jepa_predict::{JepaPredictor, Velocity};
+            let predictor = JepaPredictor {
+                look_ahead: steps_out.max(1) as usize,
+                prediction_threshold: 0.0,
+            };
+            let velocity = Velocity { vx, vy };
+            let preds = predictor.predict(&self.engine.grid, x, y, velocity);
+            if let Some((px, py, _)) = preds.first() {
+                self.engine.grid.get(*px, *py).map(|c| c.height as i32).unwrap_or(-1)
+            } else {
+                -1
+            }
         }
     }
 }
