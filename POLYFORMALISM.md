@@ -21,17 +21,18 @@ This is the canary that ties every substrate-* project together.
 | `"café Δ 日本語"` | `0x024a555471370b18d` |
 | `"witness log is the prediction"` | `0x176137b542efe82a` |
 
-## Ports (4 verified implementations)
+## Ports (6 verified implementations)
 
-| Language | File | Notes |
-|----------|------|-------|
-| Python 3 | `scripts/canary_check.py` | reference |
-| TypeScript | `scripts/canary_check.ts` + `canary_check.js` | runs on Node |
-| Rust | `scripts/canary_check_rust.rs` | compiled to `canary_check_rust` |
-| Bash | `scripts/canary_check_bash.sh` | uses 64-bit bash arithmetic |
-| JavaScript ESM | `scripts/canary_check.mjs` | Node 18+ BigInt |
+| # | Language | File | Status | Notes |
+|---|----------|------|--------|-------|
+| 1 | Python 3 | `scripts/canary_check.py` | ✓ | reference |
+| 2 | TypeScript | `scripts/canary_check.ts` + `.js` | ✓ | runs on Node |
+| 3 | Rust | `scripts/canary_check_rust.rs` | ✓ | compiled to `canary_check_rust` |
+| 4 | Bash | `scripts/canary_check_bash.sh` | ✓ | uses 64-bit bash arithmetic |
+| 5 | JavaScript ESM | `scripts/canary_check.mjs` | ✓ | Node 18+ BigInt |
+| 6 | C# / .NET 9 | `scripts/canary_check_cs` + `cs/` | ✓ | Microsoft.NETCore.App 9.0 |
 
-All five agree on the fleet canary. Run `./scripts/canary_test.sh` to verify.
+All six agree on the fleet canary. Run `./scripts/canary_test.sh` to verify.
 
 ## Why polyformalism matters
 
@@ -46,16 +47,36 @@ This is the same polyformalism principle as:
 
 ## Polyformalism scope
 
-Substrate walker's polyformalism has 4 ports today:
+Substrate walker's polyformalism has 6 ports today:
 1. Python (3.10+)
 2. TypeScript (Node 18+)
 3. Rust (1.65+)
 4. Bash (4.0+ for 64-bit arithmetic)
 5. JavaScript ESM (Node 18+, BigInt support)
+6. C# / .NET 9 (Microsoft.NETCore.App)
 
-Future ports: Go (when available), Zig, OCaml, Haskell, Lua, Ruby, PHP, Java.
+Future ports (not yet available in sandbox): Go, Zig, OCaml, Haskell, Lua, Ruby, PHP, Java.
 
 Each port must:
 - Pass the fleet canary (6 reference vectors)
 - Use the same FNV-1a 64-bit constants
 - Produce byte-exact output for all inputs
+
+## JEV Canon-Gate (NEW — Sept 22 evening)
+
+JEV (Typesafe.ai System One model, `jev-latest`) was applied as a
+canon-acceptance oracle on 100 great_moments. Each lore was scored:
+
+| Question | Type | Result |
+|----------|------|--------|
+| Is this canon-worthy cyberpunk-noir prose? | noul | 14/100 ACCEPT (p>0.7) |
+| Does this have a distinctive voice? | noul | filter >0.5 |
+| Which voice register? | choice | structuralist/lyricist/etc |
+| Concrete sensory density (1-5) | score | median 2.5-3.5 |
+
+**Voice distribution among accepted lores:**
+- lyricist: 8 (compressed image)
+- structuralist: 3 (architecture)
+- noir_classic: 3 (hard-boiled detective)
+
+This validates JEV as a useful oracle for canon-discovery in cellular-first design.
