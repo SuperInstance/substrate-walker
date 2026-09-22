@@ -1,22 +1,24 @@
 {
-  "version": "2.4.0",
-  "updated_at": "2026-09-22T17:57:48.726598",
-  "fnv_canary": "0x24a555471370b18d",
-  "total_cells": 100,
-  "best_score": 0.8691666666666666,
+  "version": "2.5.0",
+  "updated_at": "2026-09-22T18:30:00Z",
+  "fnv_canary": "0x024a555471370b18d",
+  "total_cells": 110,
+  "best_score": 1.0,
   "type_breakdown": {
+    "doctrine-prime-abstract": 10,
+    "doctrine-prime": 19,
     "doctrine": 65,
-    "canon": 16,
-    "doctrine-prime": 19
+    "canon": 16
   },
   "voice_breakdown": {
     "structuralist": 59,
+    "narrativist": 8,
     "futurist": 7,
-    "philosophical": 4,
     "cosmic_horror": 6,
+    "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "narrativist": 8
+    "witness": 10
   },
   "entries": [
     {
@@ -1118,6 +1120,116 @@
       "type": "canon",
       "voice": "structuralist",
       "hash": "0xe83dc640c4b4da41"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-100",
+      "path": "canon/cells/doctrine_100.md",
+      "seed": "doctrine-100",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce484222389"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-101",
+      "path": "canon/cells/doctrine_101.md",
+      "seed": "doctrine-101",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce48422238a"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-102",
+      "path": "canon/cells/doctrine_102.md",
+      "seed": "doctrine-102",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce48422238b"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-103",
+      "path": "canon/cells/doctrine_103.md",
+      "seed": "doctrine-103",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce48422238c"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-104",
+      "path": "canon/cells/doctrine_104.md",
+      "seed": "doctrine-104",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce48422238d"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-105",
+      "path": "canon/cells/doctrine_105.md",
+      "seed": "doctrine-105",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce48422238e"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-106",
+      "path": "canon/cells/doctrine_106.md",
+      "seed": "doctrine-106",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce48422238f"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-107",
+      "path": "canon/cells/doctrine_107.md",
+      "seed": "doctrine-107",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce484222390"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-108",
+      "path": "canon/cells/doctrine_108.md",
+      "seed": "doctrine-108",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce484222391"
+    },
+    {
+      "rank": -1,
+      "cell_id": "doctrine-109",
+      "path": "canon/cells/doctrine_109.md",
+      "seed": "doctrine-109",
+      "score": 1.0,
+      "lore": "Doctrine-prime (abstract substrate canon)",
+      "type": "doctrine-prime",
+      "voice": "witness",
+      "hash": "0xcbf29ce484222392"
     }
   ]
 }
