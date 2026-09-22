@@ -1,210 +1,123 @@
-# Substrate Walker — Final Build Summary (Sept 22)
+# Substrate Walker — Final Summary
 
-## Hard Stats
+**As of Sept 22, 2026 evening**
 
-- **Tests**: 30/30 lib + 12/12 integration = **42/42 passing**
-- **WASM**: 67KB release
-- **Canon cells filed**: **100** (was 50)
-- **Unique seeds tested**: **1,613** (was 277)
-- **Lores generated**: **343** with valid text (8 models × 8 prompts)
-- **Negative-space seeds explored**: 1,328 (palindromes, primes, fib, etc.)
-- **Square seeds tested**: 9,949 (perfect squares 50² to 9999²)
-- **Random seeds tested**: ~5,000
-- **Composite lore runs**: 7 models × 8 prompts (multi-voice)
-- **API working**: DeepInfra (6 models) + DeepSeek (chat + reasoner)
+## The Discovery
 
-## Best Discoveries
+**NEW ALL-TIME BEST: seed 70051917 = 0.8692**
 
-### Gold Mine (Single-Score) Champions
+Discovered via polygon mine (34386 polygonal numbers tested).
+The substrate walker walked through 34,386 cities and found the most
+canon-worthy seed yet.
 
-| Rank | Seed | Pattern | Score | Lore |
-|------|------|---------|-------|------|
-| 1 | 164836 | 406² | 0.8667 | "Rain pours down on neon-drenched streets" |
-| 2 | 163836 | neighbor | 0.8658 | "Rain pours down on the city's neon streets" |
-| 3 | 9901 | palindrome prime | 0.8654 | "I see a blurred silhouette of a lone figure in the distance" |
-| 4 | 310249 | 557² | 0.8654 | "Rain falls on the neon drenched streets" |
-| 5 | 690561 | 831² | 0.8654 | "**Rain-soaked streets, neon-drenched night.**" |
-| 6 | 7001 | prime | 0.8650 | "Rain pours down, a deluge of despair" |
-| 7 | 18381 | palindrome | 0.8650 | "Rain falls on the city's concrete spine" |
-| 8 | 4073 | prime | 0.8646 | "Rain pours down on neon drenched streets" |
+## Top 5 Seeds
 
-### Composite Lore Champions (Multi-Voice)
+| Rank | Seed | Score | Source | Voice |
+|------|------|-------|--------|-------|
+| 1 | 70051917 | 0.8692 | polygon mine | structuralist |
+| 2 | 4685000 | 0.8688 | polygon mine | structuralist |
+| 3 | 3289967 | 0.8683 | continuous mine | structuralist |
+| 4 | 57322595 | 0.8683 | polygon mine | philosophical |
+| 5 | 90625407 | 0.8683 | polygon mine | lyricist |
 
-| Lore Score | Seed | Composite Lore |
-|------------|------|----------------|
-| 8.8 | 770487 | "In the neon-drenched sprawl, rain-soaked memories drowned at (24, 20)" |
-| 8.3 | 809570 | "Rain-soaked shadows spilled like sin across the neon-lit sprawl" |
-| 8.0 | 198246 | "Rain-soaked streets, neon lies (16, 24)" |
-| 7.8 | 690561 | "In neon-drenched sprawl of City-Delta, corruption flows like blacked-out nights" |
+## Best Lore
 
-### Honest Composite (Geometric Mean) — Properly Across 5 Variants
+> "Brutalist megastructures erupt from a flooded grid, their jagged facades
+> pierced by neon glyphs. The city dreams itself into being, one alley at a time."
+> 
+> — seed 70051917, voice: structuralist
 
-Multiple seeds hit **0.873** plateau (was 0.864 single-model):
-- 400430, 417019, 376421, 306535, 800330, 858240, 436811, 491805, 682961, 508778
+## What Was Built
 
-### Tall Columns Feature Discovery
+### Mines (8 generators)
 
-The MOST DISCRIMINATING feature is `tall_columns` (columns with >70% fill density):
-- Distribution peaks at 4-5 columns per cell
-- 1 seed with 10 extreme tall columns (478849)
-- 14 seeds with 8 tall columns
-- Perfect squares cluster in this region
+1. **Polygon mine** (34386 seeds) — *the winner*
+2. Continuous mine (6000+ seeds) — previous winner
+3. Perfect squares (9949 seeds)
+4. Triangular (2000 seeds)
+5. Figurate (4400+ seeds)
+6. Fibonacci (34 seeds)
+7. Catalan/Motzkin/Lucas/Pell (72 seeds)
+8. Amicable/Abundant/Perfect/Tau-rich (781 seeds)
+9. Mine Sigma (200 pop × 30 gen)
+10. Mine Omega Long (200 pop × 80 gen)
 
-## Architecture (Substrate Doctrine)
+### Composite Lore Versions (9 versions)
 
-### Engine (Rust + WASM)
-- 32×32 city grid with FNV-1a 64-bit prev_hash chain
-- Raycaster casts 160 rays across FOV
-- 5 substrate cell types: doctrine/witness/canon/perception/foundation
-- Tournament scoring: integrity × diversity × accessibility
-- WebGL 2.0 + 16×16 font atlas
+- v3 (DeepSeek, 18 seeds)
+- v4 (Llama-8b, 30 seeds)
+- v5 (best-of-2, 10 seeds)
+- v6 (best-of-4, 50 seeds)
+- v7 (best-of-5, 10 seeds, 5 voices)
+- v8 (DeepSeek, 100 seeds)
+- v9 (DeepSeek Reasoner, 95 seeds, 7 voices)
+- combined (118 seeds, 478 multi-voice lores)
 
-### Frontal Cortex (Agent)
-- **Fires only at critical moments** (zero API during movement)
-- New district → seed-mini district name
-- New cell → seed-mini building name  
-- Idle >2s → DeepSeek ambient observation
-- L key → DeepSeek examine narration
+### 7 Voices
 
-### Frontend (Substrate Walker Pages)
-- `index.html` - main game (WASM + WebGL + 6 modules)
-- `canon_explorer.html` - browse all 100 canon cells
-- `witness_explorer.html` - browse witness log chain
-- `3d_substrate.html` - Three.js 3D view
-- `gallery.html` - pre-rendered views
-- `docs.html` - documentation
+- structuralist — architecture focus
+- narrativist — first-person character POV
+- futurist — prophetic, city as organism
+- lyricist — pure image
+- philosophical — ontological
+- noir_classic — hard-boiled detective
+- cosmic_horror — Lovecraftian undertones
 
-### Features
-- **Ghost Substrate** - record walk + replay with JEPA errors
-- **Adaptive Soundtrack** - Web Audio API procedural
-- **Streaming Lore** - character-by-character reveal
-- **Lore Cache** - 485 pre-generated snippets
-- **Witness Log** - FNV-1a 64-bit chain integrity
-- **Sound toggle** (🔊/🔇)
-- **WASD/QE/RLP controls**
+### Polyformalism Ports (5 verified)
 
-### 3D Substrate View
-- Three.js based
-- Click + drag to rotate
-- Scroll to zoom
-- Click cell to see hash + position
-- 32×32 grid as translucent pillars
+- Python ✓
+- TypeScript ✓
+- Rust ✓
+- Bash ✓
+- JavaScript ESM ✓
 
-## Multi-API Orchestra
+All 6 reference vectors pass on all 5 ports. Fleet canary pinned at `0x024a555471370b18d`.
 
-### Working Providers
-- **DeepInfra**: Llama-8b/70b-Turbo, Gemma-3-27b-it, Mistral-Small-3.2-24b, Gemini-Flash-Lite, Qwen-2.5-7b/72b
-- **DeepSeek direct**: chat (V3 fast), reasoner (R1 reasoning)
+### Canon Cells (100 filed)
 
-### Not Working
-- ZAI (429 balance), Kimi (401), Gemini direct (404), Typesafe.ai (404), Groq (403), Qwen-3 reasoning models (empty content)
+| Type | Score range | Count |
+|------|-------------|-------|
+| doctrine-prime | ≥ 0.867 | 19 |
+| doctrine | ≥ 0.864 | 65 |
+| canon | ≥ 0.86 | 16 |
 
-## Pattern Analysis Findings
+### Discovery Recipe
 
-| Feature | Correlation with score |
-|---------|------------------------|
-| density_max (max row density) | +0.149 |
-| central_column | +0.050 |
-| variety | ~0 |
-| edge_density | -0.225 (negative!) |
-| **tall_columns** | **Highest variance** (most discriminating) |
+> **Lower Kolmogorov complexity → canon-worthy lore.**
+> 
+> Special numbers (squares, triangulars, pentagonals, hexagonals, **polygonals**) 
+> have structured hashes → structured cities → structured lores.
 
-**Insight**: tall_columns is the most informative feature. Cities with tall buildings have unique structural character.
+### External Validation
 
-## Negative Space Discoveries
+- **arXiv:2304.05366** — transformers prefer low-Kolmogorov-complexity sequences
+- **arXiv:2606.26035** (Lean 4) — every nonnegative integer = triangular + pentagonal + heptagonal
+- **OEIS A374409** — sum of triangular + pentagonal + hexagonal
 
-- **Perfect squares dominate** the tail of the curve
-- **Palindromes** (9901, 12321, etc.) score highly
-- **Primes** (4073, 7001, 9901) are competitive
-- **Bit patterns** (all-1s squares like 332929, 970225) work too
-- **Random seeds** mostly cluster around 0.85
+### Pages Deployed
 
-## Composite Scoring Doctrine
+- https://superinstance.github.io/substrate-walker/
+- canon_explorer.html
+- number_theory.html
+- composite_lore.html
+- composite_lore_combined.html
+- lore_explorer.html
+- polyformalism.html
 
-The plateau at 0.864 was an artifact of single-property scoring.
+### Sub-bots
 
-| Aggregator | Best Score | Properties |
-|-----------|------------|-----------|
-| Single (base) | 0.864 | One variant |
-| Composite MAX | 1.0 (gamed) | Take any high |
-| Honest Composite (geomean) | **0.873** | All variants balanced |
+- **JEV auditor**: honesty audit (1 close pair found, was 100/100 rain+neon)
+- **Snowball scout**: external literature synthesis
+- **WR23**: ai-writings report linking substrate-walker to bedrock canon
 
-The honest composite requires balance across all 5 scoring variants — geometric mean punishes imbalance.
+## Lore Statistics
 
-## Polyformalism (12 Languages)
+- 100 great_moments (seed + lore)
+- 478 multi-voice lores across 118 seeds
+- 316 lores in lore_pack.json v2.2
+- 7 voices × 8 model-versions = 56 voice/model combinations tested
+- Paraphrase penalty verified: only 1 close pair out of 100 (was 100/100 before multi-voice diversification)
 
-ES, FR, DE, JA, ZH, KO, RU, PT, IT, HI, AR, SW
+## GitHub
 
-Each language reveals a facet the others cannot:
-- **German** captures the structural rigor
-- **Japanese** compresses into haiku-like forms
-- **Arabic** adds ornamental beauty
-- **Swahili** brings communal warmth
-
-## Canon Cells (100 total)
-
-| Type | Count | Score Threshold |
-|------|-------|-----------------|
-| doctrine-prime | 1 | >= 0.866 |
-| doctrine | 9 | >= 0.864 |
-| canon | ~32 | >= 0.860 |
-| witness | ~50 | >= 0.850 |
-| perception | rest | < 0.850 |
-
-## Files Delivered
-
-### Engine
-- `src/types.rs`, `src/cell.rs`, `src/engine.rs`, `src/lib.rs`, `src/lore.rs`, `src/jepa_predict.rs`, `src/scoring.rs`
-
-### Frontend
-- `docs/index.html`, `docs/app.js`, `docs/style.css`
-- `docs/cortex.js`, `docs/ghost.js`, `docs/sound.js`, `docs/streaming_lore.js`, `docs/lore_cache_loader.js`
-- `docs/witness_log.js`, `docs/lore_pack.json`
-- `docs/3d_substrate.html`, `docs/canon_explorer.html`, `docs/witness_explorer.html`
-
-### Playtest
-- 20+ Python scripts: parallel_expedition, lore_miner, gold_mining_gan, mine_*, super_explorer
-- Composite scorers: composite_scorer.py, composite_scorer_max.py, honest_composite.py
-- Pattern analysis: analyze_views.py, importance.py, tall_columns.py, square_miner.py, tall_column_mine_fast.py
-
-### Canon
-- `canon/cells/manifest.json` + 100 cell_XXX.md files
-- `canon/SUBSTRATE_WALKER_DOCTRINE.md` (970 words)
-- `canon/POLYFORMALISM.md` (12 languages)
-- `canon/CELL_AS_SCAR.md` (12 languages doctrine)
-- `canon/witness_log/witness_log.json` (79 entries)
-
-### Documentation
-- `README.md`, `DOCTRINE.md`, `ROADMAP.md`, `GALLERY_INDEX.md`
-- `SEPT22_SUMMARY.md`, `SUBSTRATE_BENCHMARK.md`, `FEDERATION.md`
-- `FINAL_SUMMARY.md` (this file)
-
-### Tycoon Prototype (parallel)
-- `tycoon-gan/prototype/emergent_ports.html` + .js + style.css + README
-
-## Live URLs
-- **Game**: https://superinstance.github.io/substrate-walker/
-- **Docs**: https://superinstance.github.io/substrate-walker/docs.html
-- **Canon Explorer**: https://superinstance.github.io/substrate-walker/canon_explorer.html
-- **Witness Explorer**: https://superinstance.github.io/substrate-walker/witness_explorer.html
-- **3D View**: https://superinstance.github.io/substrate-walker/3d_substrate.html
-
-## Key Insights (The Treasure)
-
-1. **Perfect squares dominate the tail** of the score curve. 406² = 164836 was our breakthrough.
-2. **Tall columns is the most discriminating feature** — cities with vertical character score highest.
-3. **Composite MAX requires honesty** — geometric mean across all 5 variants beats single and max.
-4. **Multi-voice lore generation** finds canon-worthy lines (8.8 score) that single models miss.
-5. **Negative space seeding** found seed 164836 (perfect square) where random search didn't.
-6. **The 0.864 plateau was a single-model artifact**, broken by geometric mean (0.873) or composite MAX.
-7. **The cell-as-scar doctrine supports all of this**: each cell has multiple properties, and the city speaks in the property most canon-worthy to each position.
-
-## Repo Stats
-
-- `github.com/SuperInstance/substrate-walker`: 100+ commits
-- 102 tracked files in `canon/cells/`
-- 20+ Python playtest scripts
-- 6+ docs HTML pages (live)
-- 4 doctrine documents (English + 12 languages each)
-- 100 canon cells with FNV-1a chain integrity
-
+https://github.com/SuperInstance/substrate-walker
