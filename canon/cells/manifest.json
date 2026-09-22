@@ -1,13 +1,13 @@
 {
-  "version": "1.3.0",
-  "updated_at": "2026-09-22T10:44:04.270201",
+  "version": "1.5.0",
+  "updated_at": "2026-09-22T14:59:56.101080",
   "fnv_canary": "0x24a555471370b18d",
-  "total_cells": 50,
+  "total_cells": 64,
   "best_score": 0.8666666666666667,
   "type_breakdown": {
-    "doctrine": 9,
+    "canon": 54,
     "doctrine-prime": 1,
-    "canon": 40
+    "doctrine": 9
   },
   "entries": [
     {
@@ -509,6 +509,146 @@
       "lore": "[seed 17071 lore pending]",
       "type": "canon",
       "hash": "0xd1663753fb984c54"
+    },
+    {
+      "rank": 87,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-051",
+      "path": "canon/cells/cell_051.md",
+      "seed": 24025,
+      "score": 0.8608333333333333,
+      "lore": "Rain-soaked streets, neon glow.",
+      "type": "canon",
+      "hash": "0x5a42d43150b85d76"
+    },
+    {
+      "rank": 88,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-052",
+      "path": "canon/cells/cell_052.md",
+      "seed": 40000,
+      "score": 0.8608333333333333,
+      "lore": "Rain falls on the city's dark underbelly.",
+      "type": "canon",
+      "hash": "0x35a8402f4f25ad5e"
+    },
+    {
+      "rank": 89,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-053",
+      "path": "canon/cells/cell_053.md",
+      "seed": 52441,
+      "score": 0.8608333333333333,
+      "lore": "Rain pours down, casting a gloomy veil on the city's neon-drenched streets.\n\nYour surroundings:\n\nThe tall, grey skyscraper looms before you, its facade a mesh of exposed wires and ducts. The streets are empty, save for a lone figure in the distance, shrouded",
+      "type": "canon",
+      "hash": "0x1c149daaaa68f956"
+    },
+    {
+      "rank": 90,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-054",
+      "path": "canon/cells/cell_054.md",
+      "seed": 75625,
+      "score": 0.8608333333333333,
+      "lore": "Rain pours down on the neon-drenched streets of Neo-Tokyo.",
+      "type": "canon",
+      "hash": "0x89059736c9408c78"
+    },
+    {
+      "rank": 91,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-055",
+      "path": "canon/cells/cell_055.md",
+      "seed": 82369,
+      "score": 0.8608333333333333,
+      "lore": "Rain pattered on the neon-soaked streets\"\n\nYou are standing in a crowded street, surrounded by towering skyscrapers. The air is thick with the smells of cheap food, exhaust fumes, and desperation. People of all shapes and sizes hurry past you, their eyes cast down at the",
+      "type": "canon",
+      "hash": "0x1998da6d3caefbbd"
+    },
+    {
+      "rank": 92,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-056",
+      "path": "canon/cells/cell_056.md",
+      "seed": 100489,
+      "score": 0.8608333333333333,
+      "lore": "You stand at the edge of the city's neon-lit sprawl, the rain-soaked streets a maze of decay and rebirth.",
+      "type": "canon",
+      "hash": "0x2b3e0ffc3e0ceac9"
+    },
+    {
+      "rank": 93,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-057",
+      "path": "canon/cells/cell_057.md",
+      "seed": 127449,
+      "score": 0.8608333333333333,
+      "lore": "In a city of smoke and shadows, rain-soaked streets swallowed hope whole.",
+      "type": "canon",
+      "hash": "0x90f5cbfeac8e34b8"
+    },
+    {
+      "rank": 94,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-058",
+      "path": "canon/cells/cell_058.md",
+      "seed": 228484,
+      "score": 0.8608333333333333,
+      "lore": "You step out of the rain into the smoky haze of the city.",
+      "type": "canon",
+      "hash": "0x414d934238c10812"
+    },
+    {
+      "rank": 95,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-059",
+      "path": "canon/cells/cell_059.md",
+      "seed": 239121,
+      "score": 0.8608333333333333,
+      "lore": "Rain slants down on neon streets, casting long shadows.\n\nWhat do you do?",
+      "type": "canon",
+      "hash": "0x91a63ba5ec05eacb"
+    },
+    {
+      "rank": 96,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-060",
+      "path": "canon/cells/cell_060.md",
+      "seed": 257049,
+      "score": 0.8608333333333333,
+      "lore": "Rain falls hard on the city's dark streets.",
+      "type": "canon",
+      "hash": "0x340ba8e1c8cce97f"
+    },
+    {
+      "rank": 97,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-061",
+      "path": "canon/cells/cell_061.md",
+      "seed": 295936,
+      "score": 0.8608333333333333,
+      "lore": "Rain soaks the city's dark alleys.",
+      "type": "canon",
+      "hash": "0x13687b5b8bae9d50"
+    },
+    {
+      "rank": 98,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-062",
+      "path": "canon/cells/cell_062.md",
+      "seed": 324900,
+      "score": 0.8608333333333333,
+      "lore": "Rain pours down on the city's dark sprawl.",
+      "type": "canon",
+      "hash": "0xbd01d55d9e94cf29"
+    },
+    {
+      "rank": 99,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-063",
+      "path": "canon/cells/cell_063.md",
+      "seed": 369664,
+      "score": 0.8608333333333333,
+      "lore": "Rain falls hard, a lone silhouette emerges\"\n\nYour character is in a dimly lit alleyway, the only sound being the patter of rain on the pavement. The player's character is located at (24.0, 8.0) and is facing 0.00rad, which",
+      "type": "canon",
+      "hash": "0xede14911c6ce7548"
+    },
+    {
+      "rank": 100,
+      "cell_id": "doctrine-substrate-walker-2026-09-22-064",
+      "path": "canon/cells/cell_064.md",
+      "seed": 414736,
+      "score": 0.8608333333333333,
+      "lore": "Rain slicks the alley's empty streets.\n\nWhat do you want to do?",
+      "type": "canon",
+      "hash": "0x08e94ca7dfa4ae8e"
     }
   ]
 }

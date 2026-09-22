@@ -1,0 +1,7044 @@
+[
+  {
+    "seed": 366025,
+    "tall_columns": 8,
+    "base_score": 0.8345833333333333,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 230889,
+    "tall_columns": 8,
+    "base_score": 0.82875,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 350464,
+    "tall_columns": 7,
+    "base_score": 0.8495833333333334,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 231361,
+    "tall_columns": 7,
+    "base_score": 0.8491666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 77841,
+    "tall_columns": 7,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 58081,
+    "tall_columns": 7,
+    "base_score": 0.84375,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 908209,
+    "tall_columns": 7,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 978121,
+    "tall_columns": 7,
+    "base_score": 0.8425,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 638401,
+    "tall_columns": 7,
+    "base_score": 0.8420833333333333,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 364816,
+    "tall_columns": 7,
+    "base_score": 0.8412499999999999,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 408321,
+    "tall_columns": 7,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 169744,
+    "tall_columns": 7,
+    "base_score": 0.8404166666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 170569,
+    "tall_columns": 7,
+    "base_score": 0.8404166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 198916,
+    "tall_columns": 7,
+    "base_score": 0.84,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 289444,
+    "tall_columns": 7,
+    "base_score": 0.8395833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 30625,
+    "tall_columns": 7,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 33124,
+    "tall_columns": 7,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 714025,
+    "tall_columns": 7,
+    "base_score": 0.8383333333333334,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 91204,
+    "tall_columns": 7,
+    "base_score": 0.8366666666666667,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 521284,
+    "tall_columns": 7,
+    "base_score": 0.8366666666666667,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 38025,
+    "tall_columns": 7,
+    "base_score": 0.835,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 316969,
+    "tall_columns": 7,
+    "base_score": 0.8341666666666666,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 876096,
+    "tall_columns": 7,
+    "base_score": 0.8325,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 94249,
+    "tall_columns": 7,
+    "base_score": 0.8291666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 762129,
+    "tall_columns": 6,
+    "base_score": 0.8520833333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 30976,
+    "tall_columns": 6,
+    "base_score": 0.8504166666666667,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 583696,
+    "tall_columns": 6,
+    "base_score": 0.8504166666666667,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 21025,
+    "tall_columns": 6,
+    "base_score": 0.8495833333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 197251,
+    "tall_columns": 6,
+    "base_score": 0.8495833333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 245025,
+    "tall_columns": 6,
+    "base_score": 0.84875,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 866761,
+    "tall_columns": 6,
+    "base_score": 0.84875,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 438244,
+    "tall_columns": 6,
+    "base_score": 0.8483333333333333,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 253009,
+    "tall_columns": 6,
+    "base_score": 0.8478202479338843,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 386884,
+    "tall_columns": 6,
+    "base_score": 0.8475,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 151321,
+    "tall_columns": 6,
+    "base_score": 0.8470833333333333,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 165649,
+    "tall_columns": 6,
+    "base_score": 0.8470833333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 174724,
+    "tall_columns": 6,
+    "base_score": 0.8470833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 140625,
+    "tall_columns": 6,
+    "base_score": 0.8466666666666667,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 488601,
+    "tall_columns": 6,
+    "base_score": 0.8466666666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 495616,
+    "tall_columns": 6,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 835911,
+    "tall_columns": 6,
+    "base_score": 0.8466666666666667,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 429025,
+    "tall_columns": 6,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 952576,
+    "tall_columns": 6,
+    "base_score": 0.84625,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 938961,
+    "tall_columns": 6,
+    "base_score": 0.8458333333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 54756,
+    "tall_columns": 6,
+    "base_score": 0.8454166666666667,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 62500,
+    "tall_columns": 6,
+    "base_score": 0.8454166666666667,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 327184,
+    "tall_columns": 6,
+    "base_score": 0.8454166666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 425104,
+    "tall_columns": 6,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 183667,
+    "tall_columns": 6,
+    "base_score": 0.845,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 18225,
+    "tall_columns": 6,
+    "base_score": 0.8445833333333334,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 537289,
+    "tall_columns": 6,
+    "base_score": 0.8445833333333334,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 685584,
+    "tall_columns": 6,
+    "base_score": 0.8445833333333334,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 129600,
+    "tall_columns": 6,
+    "base_score": 0.8441666666666666,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 172225,
+    "tall_columns": 6,
+    "base_score": 0.8441666666666666,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 221841,
+    "tall_columns": 6,
+    "base_score": 0.8441666666666666,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 654481,
+    "tall_columns": 6,
+    "base_score": 0.8441666666666666,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 792100,
+    "tall_columns": 6,
+    "base_score": 0.8441666666666666,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 45369,
+    "tall_columns": 6,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 76729,
+    "tall_columns": 6,
+    "base_score": 0.84375,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 264196,
+    "tall_columns": 6,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 605284,
+    "tall_columns": 6,
+    "base_score": 0.84375,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 10816,
+    "tall_columns": 6,
+    "base_score": 0.8433333333333334,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 64516,
+    "tall_columns": 6,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 361201,
+    "tall_columns": 6,
+    "base_score": 0.8433333333333334,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 374544,
+    "tall_columns": 6,
+    "base_score": 0.8433333333333334,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 657721,
+    "tall_columns": 6,
+    "base_score": 0.8433333333333334,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 717889,
+    "tall_columns": 6,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 65025,
+    "tall_columns": 6,
+    "base_score": 0.8429166666666666,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 87616,
+    "tall_columns": 6,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 736164,
+    "tall_columns": 6,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 28900,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 41209,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 46656,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 320356,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 461041,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 532900,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 356787,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 759176,
+    "tall_columns": 6,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 123201,
+    "tall_columns": 6,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 263169,
+    "tall_columns": 6,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 434281,
+    "tall_columns": 6,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 506944,
+    "tall_columns": 6,
+    "base_score": 0.8420833333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 571029,
+    "tall_columns": 6,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 23716,
+    "tall_columns": 6,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 80656,
+    "tall_columns": 6,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 98596,
+    "tall_columns": 6,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 214369,
+    "tall_columns": 6,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 597529,
+    "tall_columns": 6,
+    "base_score": 0.8408333333333333,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 731025,
+    "tall_columns": 6,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 811801,
+    "tall_columns": 6,
+    "base_score": 0.8408333333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 80089,
+    "tall_columns": 6,
+    "base_score": 0.8404166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 126736,
+    "tall_columns": 6,
+    "base_score": 0.8404166666666667,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 156025,
+    "tall_columns": 6,
+    "base_score": 0.8404166666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 291600,
+    "tall_columns": 6,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 69696,
+    "tall_columns": 6,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 71824,
+    "tall_columns": 6,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 254016,
+    "tall_columns": 6,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 319684,
+    "tall_columns": 6,
+    "base_score": 0.84,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 285156,
+    "tall_columns": 6,
+    "base_score": 0.8395833333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 394384,
+    "tall_columns": 6,
+    "base_score": 0.8395833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 744769,
+    "tall_columns": 6,
+    "base_score": 0.8395833333333333,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 27225,
+    "tall_columns": 6,
+    "base_score": 0.8391666666666666,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 72361,
+    "tall_columns": 6,
+    "base_score": 0.8391666666666666,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 85849,
+    "tall_columns": 6,
+    "base_score": 0.8391666666666666,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 338724,
+    "tall_columns": 6,
+    "base_score": 0.8391666666666666,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 492804,
+    "tall_columns": 6,
+    "base_score": 0.8391666666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 781456,
+    "tall_columns": 6,
+    "base_score": 0.8391666666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 174870,
+    "tall_columns": 6,
+    "base_score": 0.8391666666666666,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 142884,
+    "tall_columns": 6,
+    "base_score": 0.83875,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 636804,
+    "tall_columns": 6,
+    "base_score": 0.83875,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 876646,
+    "tall_columns": 6,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 184041,
+    "tall_columns": 6,
+    "base_score": 0.8384893758300133,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 108900,
+    "tall_columns": 6,
+    "base_score": 0.8383333333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 272484,
+    "tall_columns": 6,
+    "base_score": 0.8383333333333334,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 389376,
+    "tall_columns": 6,
+    "base_score": 0.8383333333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 828100,
+    "tall_columns": 6,
+    "base_score": 0.8383333333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 145561,
+    "tall_columns": 6,
+    "base_score": 0.8383333333333334,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 974628,
+    "tall_columns": 6,
+    "base_score": 0.8379666666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 259081,
+    "tall_columns": 6,
+    "base_score": 0.8379166666666666,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 910116,
+    "tall_columns": 6,
+    "base_score": 0.8379166666666666,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 731262,
+    "tall_columns": 6,
+    "base_score": 0.8379166666666666,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 800330,
+    "tall_columns": 6,
+    "base_score": 0.8375,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 629903,
+    "tall_columns": 6,
+    "base_score": 0.8375,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 793384,
+    "tall_columns": 6,
+    "base_score": 0.8375,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 30276,
+    "tall_columns": 6,
+    "base_score": 0.8370833333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 748564,
+    "tall_columns": 6,
+    "base_score": 0.8370833333333333,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 33856,
+    "tall_columns": 6,
+    "base_score": 0.8366666666666667,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 749956,
+    "tall_columns": 6,
+    "base_score": 0.8366666666666667,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 156816,
+    "tall_columns": 6,
+    "base_score": 0.83625,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 692224,
+    "tall_columns": 6,
+    "base_score": 0.83625,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 49284,
+    "tall_columns": 6,
+    "base_score": 0.8354166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 257049,
+    "tall_columns": 6,
+    "base_score": 0.8345833333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 466489,
+    "tall_columns": 6,
+    "base_score": 0.83375,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 614656,
+    "tall_columns": 6,
+    "base_score": 0.83375,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 599076,
+    "tall_columns": 6,
+    "base_score": 0.8320833333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 187489,
+    "tall_columns": 6,
+    "base_score": 0.8316666666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 112896,
+    "tall_columns": 6,
+    "base_score": 0.8304166666666667,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 917764,
+    "tall_columns": 6,
+    "base_score": 0.8295833333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 900601,
+    "tall_columns": 5,
+    "base_score": 0.8579166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 410881,
+    "tall_columns": 5,
+    "base_score": 0.8570833333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 851929,
+    "tall_columns": 5,
+    "base_score": 0.855,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 13225,
+    "tall_columns": 5,
+    "base_score": 0.8545833333333334,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 12321,
+    "tall_columns": 5,
+    "base_score": 0.8529166666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 29241,
+    "tall_columns": 5,
+    "base_score": 0.8529166666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 774400,
+    "tall_columns": 5,
+    "base_score": 0.8525,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 239121,
+    "tall_columns": 5,
+    "base_score": 0.8520833333333333,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 635209,
+    "tall_columns": 5,
+    "base_score": 0.8520833333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 312481,
+    "tall_columns": 5,
+    "base_score": 0.8516666666666667,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 110224,
+    "tall_columns": 5,
+    "base_score": 0.85125,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 644809,
+    "tall_columns": 5,
+    "base_score": 0.85125,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 739600,
+    "tall_columns": 5,
+    "base_score": 0.85125,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 902500,
+    "tall_columns": 5,
+    "base_score": 0.85125,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 942841,
+    "tall_columns": 5,
+    "base_score": 0.85125,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 817216,
+    "tall_columns": 5,
+    "base_score": 0.8508333333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 61009,
+    "tall_columns": 5,
+    "base_score": 0.8504166666666667,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 29584,
+    "tall_columns": 5,
+    "base_score": 0.85,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 838797,
+    "tall_columns": 5,
+    "base_score": 0.85,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 276676,
+    "tall_columns": 5,
+    "base_score": 0.8495833333333334,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 407044,
+    "tall_columns": 5,
+    "base_score": 0.8491718533886584,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 52900,
+    "tall_columns": 5,
+    "base_score": 0.8491666666666666,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 146689,
+    "tall_columns": 5,
+    "base_score": 0.8491666666666666,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 561001,
+    "tall_columns": 5,
+    "base_score": 0.8491666666666666,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 579121,
+    "tall_columns": 5,
+    "base_score": 0.8491666666666666,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 619369,
+    "tall_columns": 5,
+    "base_score": 0.8491666666666666,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 318096,
+    "tall_columns": 5,
+    "base_score": 0.84875,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 352836,
+    "tall_columns": 5,
+    "base_score": 0.84875,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 550564,
+    "tall_columns": 5,
+    "base_score": 0.84875,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 646416,
+    "tall_columns": 5,
+    "base_score": 0.84875,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 325772,
+    "tall_columns": 5,
+    "base_score": 0.84875,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 18496,
+    "tall_columns": 5,
+    "base_score": 0.8483333333333333,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 87025,
+    "tall_columns": 5,
+    "base_score": 0.8483333333333333,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 286225,
+    "tall_columns": 5,
+    "base_score": 0.8483333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 568516,
+    "tall_columns": 5,
+    "base_score": 0.8483333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 781453,
+    "tall_columns": 5,
+    "base_score": 0.8483333333333333,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 678856,
+    "tall_columns": 5,
+    "base_score": 0.8483333333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 88804,
+    "tall_columns": 5,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 94864,
+    "tall_columns": 5,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 121801,
+    "tall_columns": 5,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 128881,
+    "tall_columns": 5,
+    "base_score": 0.8479166666666667,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 256036,
+    "tall_columns": 5,
+    "base_score": 0.8479166666666667,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 306916,
+    "tall_columns": 5,
+    "base_score": 0.8479166666666667,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 670761,
+    "tall_columns": 5,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 69169,
+    "tall_columns": 5,
+    "base_score": 0.8475,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 219024,
+    "tall_columns": 5,
+    "base_score": 0.8475,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 81225,
+    "tall_columns": 5,
+    "base_score": 0.8470833333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 149769,
+    "tall_columns": 5,
+    "base_score": 0.8470833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 269361,
+    "tall_columns": 5,
+    "base_score": 0.8470833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 820836,
+    "tall_columns": 5,
+    "base_score": 0.8470833333333333,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 172933,
+    "tall_columns": 5,
+    "base_score": 0.8470833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 164836,
+    "tall_columns": 5,
+    "base_score": 0.8466666666666667,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 13924,
+    "tall_columns": 5,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 164836,
+    "tall_columns": 5,
+    "base_score": 0.8466666666666667,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 727609,
+    "tall_columns": 5,
+    "base_score": 0.8466666666666667,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 729316,
+    "tall_columns": 5,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 338968,
+    "tall_columns": 5,
+    "base_score": 0.8466666666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 766563,
+    "tall_columns": 5,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 19600,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 48841,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 52441,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 126025,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 163216,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 229441,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 481636,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 524176,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 719104,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 216739,
+    "tall_columns": 5,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 12996,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 19881,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 36481,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 42436,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 92416,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 159201,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 243049,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 273529,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 355216,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 531441,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 649636,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 960400,
+    "tall_columns": 5,
+    "base_score": 0.8458333333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 104329,
+    "tall_columns": 5,
+    "base_score": 0.8454166666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 141376,
+    "tall_columns": 5,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 528529,
+    "tall_columns": 5,
+    "base_score": 0.8454166666666667,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 556516,
+    "tall_columns": 5,
+    "base_score": 0.8454166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 573049,
+    "tall_columns": 5,
+    "base_score": 0.8454166666666667,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 267414,
+    "tall_columns": 5,
+    "base_score": 0.8454166666666667,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 29929,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 46225,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 75625,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 131769,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 173056,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 175561,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 176400,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 403225,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 458329,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 582169,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 808201,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 883600,
+    "tall_columns": 5,
+    "base_score": 0.845,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 139129,
+    "tall_columns": 5,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 192721,
+    "tall_columns": 5,
+    "base_score": 0.8445833333333334,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 432964,
+    "tall_columns": 5,
+    "base_score": 0.8445833333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 465124,
+    "tall_columns": 5,
+    "base_score": 0.8445833333333334,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 460663,
+    "tall_columns": 5,
+    "base_score": 0.8445833333333334,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 270555,
+    "tall_columns": 5,
+    "base_score": 0.8445833333333334,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 39601,
+    "tall_columns": 5,
+    "base_score": 0.8441666666666666,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 107584,
+    "tall_columns": 5,
+    "base_score": 0.8441666666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 195364,
+    "tall_columns": 5,
+    "base_score": 0.8441666666666666,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 329476,
+    "tall_columns": 5,
+    "base_score": 0.8441666666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 577600,
+    "tall_columns": 5,
+    "base_score": 0.8441666666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 586756,
+    "tall_columns": 5,
+    "base_score": 0.8441666666666666,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 24649,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 36100,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 93636,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 104976,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 348100,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 473344,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 534361,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 603729,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 671858,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 733052,
+    "tall_columns": 5,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 26244,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 26896,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 99225,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 101124,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 139876,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 145924,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 336400,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 518400,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 625681,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 687241,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 923521,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 966289,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 969693,
+    "tall_columns": 5,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 14884,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 48400,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 122500,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 196249,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 224676,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 246016,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 301401,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 319225,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 357604,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 384400,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 515524,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 662596,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 906304,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 990025,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 191161,
+    "tall_columns": 5,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 61504,
+    "tall_columns": 5,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 236196,
+    "tall_columns": 5,
+    "base_score": 0.8425,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 271441,
+    "tall_columns": 5,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 405769,
+    "tall_columns": 5,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 576081,
+    "tall_columns": 5,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 779689,
+    "tall_columns": 5,
+    "base_score": 0.8425,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 15625,
+    "tall_columns": 5,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 95481,
+    "tall_columns": 5,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 393129,
+    "tall_columns": 5,
+    "base_score": 0.8420833333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 826281,
+    "tall_columns": 5,
+    "base_score": 0.8420833333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 844561,
+    "tall_columns": 5,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 575435,
+    "tall_columns": 5,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 334053,
+    "tall_columns": 5,
+    "base_score": 0.8419281376518218,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 28224,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 36864,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 50625,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 96100,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 212521,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 216225,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 349281,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 399424,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 414736,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 491401,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 546121,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 682276,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 693889,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 948676,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 956484,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 972196,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 988662,
+    "tall_columns": 5,
+    "base_score": 0.8416666666666667,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 24964,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 44944,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 51529,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 55225,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 59049,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 84100,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 106276,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 241081,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 298116,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 323761,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 381924,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 390625,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 505521,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 790321,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 840889,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 456778,
+    "tall_columns": 5,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 115600,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 260100,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 343396,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 440896,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 480249,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 602176,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 799236,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 872356,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 904401,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 391369,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 482554,
+    "tall_columns": 5,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 220900,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 281961,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 330625,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 395641,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 451584,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 463761,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 508369,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 630436,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 690561,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 715716,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 868624,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 974169,
+    "tall_columns": 5,
+    "base_score": 0.8404166666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 15129,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 22201,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 23104,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 40000,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 79524,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 100489,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 130321,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 247009,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 261121,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 279841,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 412164,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 452929,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 664225,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 707281,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 831744,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 388389,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 205907,
+    "tall_columns": 5,
+    "base_score": 0.84,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 38416,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 237169,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 275625,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 303601,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 422500,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 632025,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 829921,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 910620,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 391476,
+    "tall_columns": 5,
+    "base_score": 0.8395833333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 21316,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 21609,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 70756,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 82369,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 210681,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 363609,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 423801,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 887364,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 915849,
+    "tall_columns": 5,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 15376,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 120409,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 158404,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 287296,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 398161,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 555025,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 986049,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 992016,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 329258,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 377370,
+    "tall_columns": 5,
+    "base_score": 0.83875,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 10609,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 22500,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 35721,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 47961,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 50176,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 51076,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 77284,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 128164,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 134689,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 168921,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 324900,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 369664,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 502681,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 509796,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 564001,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 717409,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 765625,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 879844,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 962361,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 308496,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 816751,
+    "tall_columns": 5,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 12544,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 164025,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 356409,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 383161,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 455625,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 462400,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 850084,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 861184,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 263032,
+    "tall_columns": 5,
+    "base_score": 0.8379166666666666,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 86436,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 114921,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 145161,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 201601,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 292681,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 547600,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 591361,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 784996,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 850800,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 301629,
+    "tall_columns": 5,
+    "base_score": 0.8375,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 20736,
+    "tall_columns": 5,
+    "base_score": 0.8370833333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 290521,
+    "tall_columns": 5,
+    "base_score": 0.8370833333333333,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 758641,
+    "tall_columns": 5,
+    "base_score": 0.8370833333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 105625,
+    "tall_columns": 5,
+    "base_score": 0.8366666666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 162409,
+    "tall_columns": 5,
+    "base_score": 0.8366666666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 178084,
+    "tall_columns": 5,
+    "base_score": 0.8366666666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 485809,
+    "tall_columns": 5,
+    "base_score": 0.8366666666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 678976,
+    "tall_columns": 5,
+    "base_score": 0.8366666666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 982081,
+    "tall_columns": 5,
+    "base_score": 0.8366666666666667,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 42025,
+    "tall_columns": 5,
+    "base_score": 0.83625,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 147456,
+    "tall_columns": 5,
+    "base_score": 0.83625,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 454276,
+    "tall_columns": 5,
+    "base_score": 0.83625,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 201414,
+    "tall_columns": 5,
+    "base_score": 0.83625,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 403445,
+    "tall_columns": 5,
+    "base_score": 0.83625,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 124609,
+    "tall_columns": 5,
+    "base_score": 0.8358333333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 137641,
+    "tall_columns": 5,
+    "base_score": 0.8358333333333333,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 497025,
+    "tall_columns": 5,
+    "base_score": 0.8358333333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 84681,
+    "tall_columns": 5,
+    "base_score": 0.8354166666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 925444,
+    "tall_columns": 5,
+    "base_score": 0.8354166666666667,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 183184,
+    "tall_columns": 5,
+    "base_score": 0.835,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 370881,
+    "tall_columns": 5,
+    "base_score": 0.835,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 426409,
+    "tall_columns": 5,
+    "base_score": 0.835,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 574564,
+    "tall_columns": 5,
+    "base_score": 0.835,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 498382,
+    "tall_columns": 5,
+    "base_score": 0.8345833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 12100,
+    "tall_columns": 5,
+    "base_score": 0.83375,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 484416,
+    "tall_columns": 5,
+    "base_score": 0.83375,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 656100,
+    "tall_columns": 5,
+    "base_score": 0.83375,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 121104,
+    "tall_columns": 5,
+    "base_score": 0.8333333333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 946335,
+    "tall_columns": 5,
+    "base_score": 0.8304166666666667,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 613089,
+    "tall_columns": 5,
+    "base_score": 0.83,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 148225,
+    "tall_columns": 4,
+    "base_score": 0.8579166666666667,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 417316,
+    "tall_columns": 4,
+    "base_score": 0.8575,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 20164,
+    "tall_columns": 4,
+    "base_score": 0.8554166666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 786769,
+    "tall_columns": 4,
+    "base_score": 0.855,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 14161,
+    "tall_columns": 4,
+    "base_score": 0.85375,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 97969,
+    "tall_columns": 4,
+    "base_score": 0.85375,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 123904,
+    "tall_columns": 4,
+    "base_score": 0.85375,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 182329,
+    "tall_columns": 4,
+    "base_score": 0.85375,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 135424,
+    "tall_columns": 4,
+    "base_score": 0.8533333333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 133326,
+    "tall_columns": 4,
+    "base_score": 0.8533333333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 144400,
+    "tall_columns": 4,
+    "base_score": 0.8529166666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 157609,
+    "tall_columns": 4,
+    "base_score": 0.8529166666666667,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 321489,
+    "tall_columns": 4,
+    "base_score": 0.8529166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 67600,
+    "tall_columns": 4,
+    "base_score": 0.8525,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 90601,
+    "tall_columns": 4,
+    "base_score": 0.8525,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 541696,
+    "tall_columns": 4,
+    "base_score": 0.8525,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 66564,
+    "tall_columns": 4,
+    "base_score": 0.8520833333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 864900,
+    "tall_columns": 4,
+    "base_score": 0.8520833333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 391704,
+    "tall_columns": 4,
+    "base_score": 0.8520833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 68644,
+    "tall_columns": 4,
+    "base_score": 0.8516666666666667,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 208849,
+    "tall_columns": 4,
+    "base_score": 0.8516666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 469225,
+    "tall_columns": 4,
+    "base_score": 0.8516666666666667,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 672400,
+    "tall_columns": 4,
+    "base_score": 0.8516666666666667,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 43264,
+    "tall_columns": 4,
+    "base_score": 0.85125,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 378225,
+    "tall_columns": 4,
+    "base_score": 0.85125,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 783225,
+    "tall_columns": 4,
+    "base_score": 0.85125,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 815409,
+    "tall_columns": 4,
+    "base_score": 0.85125,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 19044,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 55696,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 168100,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 186624,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 297025,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 477481,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 810000,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 855625,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 896809,
+    "tall_columns": 4,
+    "base_score": 0.8508333333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 82944,
+    "tall_columns": 4,
+    "base_score": 0.8504166666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 284089,
+    "tall_columns": 4,
+    "base_score": 0.8504166666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 839056,
+    "tall_columns": 4,
+    "base_score": 0.8504166666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 78961,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 119025,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 351649,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 519841,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 540225,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 552049,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 877969,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 894916,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 246316,
+    "tall_columns": 4,
+    "base_score": 0.85,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 9901,
+    "tall_columns": 4,
+    "base_score": 0.8495833333333334,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 40804,
+    "tall_columns": 4,
+    "base_score": 0.8495833333333334,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 294849,
+    "tall_columns": 4,
+    "base_score": 0.8495833333333334,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 372100,
+    "tall_columns": 4,
+    "base_score": 0.8495833333333334,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 494209,
+    "tall_columns": 4,
+    "base_score": 0.8495833333333334,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 543169,
+    "tall_columns": 4,
+    "base_score": 0.8495833333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 767376,
+    "tall_columns": 4,
+    "base_score": 0.8495833333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 11664,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 17161,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 33489,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 56644,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 314721,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 498436,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 857476,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 207175,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 779514,
+    "tall_columns": 4,
+    "base_score": 0.8491666666666666,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 184900,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 228484,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 427716,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 471969,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 674041,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 806404,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 940900,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 662275,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 479201,
+    "tall_columns": 4,
+    "base_score": 0.84875,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 75076,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 90000,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 160000,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 203401,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 527076,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 937024,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 198246,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 900581,
+    "tall_columns": 4,
+    "base_score": 0.8483333333333333,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 24336,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 25921,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 72900,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 73984,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 225625,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 435600,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 559504,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 881721,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 865179,
+    "tall_columns": 4,
+    "base_score": 0.8479166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 60025,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 85264,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 88209,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 143641,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 194481,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 266256,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 360000,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 400689,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 514089,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 889249,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 913936,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 998001,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 126225,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 996865,
+    "tall_columns": 4,
+    "base_score": 0.8475,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 37249,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 73441,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 113569,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 293764,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 300304,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 341056,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 368449,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 418609,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 567009,
+    "tall_columns": 4,
+    "base_score": 0.8470833333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 31329,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 38809,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 53361,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 53824,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 62001,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 74529,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 132496,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 252004,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 562500,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 751689,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 824464,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 964324,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 980100,
+    "tall_columns": 4,
+    "base_score": 0.8466666666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 848241,
+    "tall_columns": 4,
+    "base_score": 0.846358024691358,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 16384,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 20449,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 71289,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 97344,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 99856,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 160801,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 198025,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 230400,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 304704,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 446224,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 592900,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 651249,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 683929,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 760384,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 797449,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 863041,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 929296,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 496922,
+    "tall_columns": 4,
+    "base_score": 0.84625,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 10000,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 28561,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 178929,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 209764,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 250000,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 311364,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 483025,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 558009,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 724201,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 804609,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 919681,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 872246,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 207473,
+    "tall_columns": 4,
+    "base_score": 0.8458333333333333,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 215296,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 240100,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 265225,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 308025,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 660969,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 680625,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 712336,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 542417,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 106814,
+    "tall_columns": 4,
+    "base_score": 0.8454166666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 833569,
+    "tall_columns": 4,
+    "base_score": 0.8451092896174864,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 34225,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 47089,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 66049,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 70225,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 76176,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 116281,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 197136,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 222784,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 258064,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 267289,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 274576,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 309136,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 328329,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 358801,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 416025,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 487204,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 499849,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 589824,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 640000,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 648025,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 813604,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 148050,
+    "tall_columns": 4,
+    "base_score": 0.845,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 15876,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 26569,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 37636,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 44100,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 54289,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 102400,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 171396,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 202500,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 223729,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 248004,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 659344,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 776161,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 912025,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 131244,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 705397,
+    "tall_columns": 4,
+    "base_score": 0.8445833333333334,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 13689,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 16129,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 44521,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 51984,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 112225,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 125316,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 180625,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 226576,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 232324,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 233289,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 310249,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 375769,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 401956,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 431649,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 456976,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 667489,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 700569,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 746496,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 802816,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 809570,
+    "tall_columns": 4,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 16641,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 63001,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 83521,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 103684,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 106929,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 154449,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 235225,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 278784,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 280900,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 362404,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 367236,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 419904,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 459684,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 501264,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 697225,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 732736,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 748225,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 970225,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 996004,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 895667,
+    "tall_columns": 4,
+    "base_score": 0.84375,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 4073,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 18769,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 27889,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 41616,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 60516,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 89401,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 108241,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 110889,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 322624,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 332929,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 354025,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 439569,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 529984,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 538756,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 544644,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 571536,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 622521,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 772641,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 898704,
+    "tall_columns": 4,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 16900,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 118336,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 133956,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 136900,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 152100,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 166464,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 167281,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 204304,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 234256,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 242064,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 268324,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 283024,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 295936,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 344569,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 385641,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 476100,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 570025,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 627264,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 722500,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 777924,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 842724,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 859329,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 946729,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 968256,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 984064,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 671412,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 832052,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 182627,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 488162,
+    "tall_columns": 4,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 81796,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 93025,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 136161,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 185761,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 191844,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 346921,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 448900,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 467856,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 594441,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 611524,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 835396,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 891136,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 994009,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 543143,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 472528,
+    "tall_columns": 4,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 27556,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 59536,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 207025,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 238144,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 302500,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 379456,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 391876,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 436921,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 516961,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 595984,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 652864,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 944962,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 581741,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 407419,
+    "tall_columns": 4,
+    "base_score": 0.8420833333333333,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 11236,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 13456,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 47524,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 49729,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 177241,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 189225,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 205209,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 244036,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 326041,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 388129,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 413449,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 474721,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 522729,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 753424,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 874225,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 921600,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 770487,
+    "tall_columns": 4,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 35344,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 68121,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 101761,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 150544,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 443556,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 490000,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 535824,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 606841,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 675684,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 695556,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 708964,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 885481,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 802729,
+    "tall_columns": 4,
+    "base_score": 0.8412499999999999,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 22801,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 103041,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 119716,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 200704,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 207936,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 641601,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 688900,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 763876,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 801025,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 379946,
+    "tall_columns": 4,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 19321,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 32041,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 39204,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 109561,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 152881,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 213444,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 262144,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 339889,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 380689,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 737881,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 819025,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 853776,
+    "tall_columns": 4,
+    "base_score": 0.8404166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 21904,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 24025,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 45796,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 65536,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 131044,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 206116,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 335241,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 617796,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 703921,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 705600,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 20,
+    "y": 24
+  },
+  {
+    "seed": 793881,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 719176,
+    "tall_columns": 4,
+    "base_score": 0.84,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 342225,
+    "tall_columns": 4,
+    "base_score": 0.8396736947791165,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 7001,
+    "tall_columns": 4,
+    "base_score": 0.8395833333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 32761,
+    "tall_columns": 4,
+    "base_score": 0.8395833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 34596,
+    "tall_columns": 4,
+    "base_score": 0.8395833333333333,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 227529,
+    "tall_columns": 4,
+    "base_score": 0.8395833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 331776,
+    "tall_columns": 4,
+    "base_score": 0.8395833333333333,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 421201,
+    "tall_columns": 4,
+    "base_score": 0.8395833333333333,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 331148,
+    "tall_columns": 4,
+    "base_score": 0.8395833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 11881,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 17689,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 40401,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 218089,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 313600,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 373321,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 585225,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 720801,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 756900,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 893025,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 927369,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 954529,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 988036,
+    "tall_columns": 4,
+    "base_score": 0.8391666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 654321,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 57600,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 142129,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 173889,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 299209,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 334084,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 565504,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 609961,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 755161,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 788544,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 835392,
+    "tall_columns": 4,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 96721,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 127449,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 138384,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 255025,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 20,
+    "y": 20
+  },
+  {
+    "seed": 616225,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 624100,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 734449,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 846400,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 950625,
+    "tall_columns": 4,
+    "base_score": 0.8383333333333334,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 14400,
+    "tall_columns": 4,
+    "base_score": 0.8379166666666666,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 64009,
+    "tall_columns": 4,
+    "base_score": 0.8379166666666666,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 430336,
+    "tall_columns": 4,
+    "base_score": 0.8379166666666666,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 450241,
+    "tall_columns": 4,
+    "base_score": 0.8379166666666666,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 643204,
+    "tall_columns": 4,
+    "base_score": 0.8379166666666666,
+    "x": 24,
+    "y": 16
+  },
+  {
+    "seed": 702244,
+    "tall_columns": 4,
+    "base_score": 0.8379166666666666,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 795664,
+    "tall_columns": 4,
+    "base_score": 0.8379166666666666,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 25600,
+    "tall_columns": 4,
+    "base_score": 0.8375,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 56169,
+    "tall_columns": 4,
+    "base_score": 0.8375,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 249001,
+    "tall_columns": 4,
+    "base_score": 0.8375,
+    "x": 12,
+    "y": 20
+  },
+  {
+    "seed": 181476,
+    "tall_columns": 4,
+    "base_score": 0.8370833333333333,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 190969,
+    "tall_columns": 4,
+    "base_score": 0.8370833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 251001,
+    "tall_columns": 4,
+    "base_score": 0.8370833333333333,
+    "x": 16,
+    "y": 20
+  },
+  {
+    "seed": 337561,
+    "tall_columns": 4,
+    "base_score": 0.8370833333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 743044,
+    "tall_columns": 4,
+    "base_score": 0.8370833333333333,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 931225,
+    "tall_columns": 4,
+    "base_score": 0.8370833333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 43681,
+    "tall_columns": 4,
+    "base_score": 0.8366666666666667,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 116964,
+    "tall_columns": 4,
+    "base_score": 0.8366666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 148996,
+    "tall_columns": 4,
+    "base_score": 0.8366666666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 447561,
+    "tall_columns": 4,
+    "base_score": 0.8366666666666667,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 944784,
+    "tall_columns": 4,
+    "base_score": 0.8366666666666667,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 628849,
+    "tall_columns": 4,
+    "base_score": 0.8366035856573705,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 11449,
+    "tall_columns": 4,
+    "base_score": 0.83625,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 211600,
+    "tall_columns": 4,
+    "base_score": 0.83625,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 219961,
+    "tall_columns": 4,
+    "base_score": 0.83625,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 409600,
+    "tall_columns": 4,
+    "base_score": 0.83625,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 512656,
+    "tall_columns": 4,
+    "base_score": 0.8358333333333333,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 770884,
+    "tall_columns": 4,
+    "base_score": 0.8358333333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 539898,
+    "tall_columns": 4,
+    "base_score": 0.8358333333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 14641,
+    "tall_columns": 4,
+    "base_score": 0.8354166666666667,
+    "x": 12,
+    "y": 16
+  },
+  {
+    "seed": 34969,
+    "tall_columns": 4,
+    "base_score": 0.8354166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 11025,
+    "tall_columns": 4,
+    "base_score": 0.835,
+    "x": 24,
+    "y": 20
+  },
+  {
+    "seed": 345744,
+    "tall_columns": 4,
+    "base_score": 0.835,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 376996,
+    "tall_columns": 4,
+    "base_score": 0.835,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 10404,
+    "tall_columns": 4,
+    "base_score": 0.8345833333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 17956,
+    "tall_columns": 4,
+    "base_score": 0.8345833333333333,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 343962,
+    "tall_columns": 4,
+    "base_score": 0.8345833333333333,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 111556,
+    "tall_columns": 4,
+    "base_score": 0.8341666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 179776,
+    "tall_columns": 4,
+    "base_score": 0.8341666666666666,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 498591,
+    "tall_columns": 4,
+    "base_score": 0.8341666666666666,
+    "x": 24,
+    "y": 24
+  },
+  {
+    "seed": 525625,
+    "tall_columns": 4,
+    "base_score": 0.83375,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 933156,
+    "tall_columns": 4,
+    "base_score": 0.8333333333333334,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 117649,
+    "tall_columns": 4,
+    "base_score": 0.8329166666666666,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 588289,
+    "tall_columns": 4,
+    "base_score": 0.8329166666666666,
+    "x": 24,
+    "y": 8
+  },
+  {
+    "seed": 63504,
+    "tall_columns": 4,
+    "base_score": 0.83125,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 23409,
+    "tall_columns": 4,
+    "base_score": 0.8279166666666666,
+    "x": 20,
+    "y": 8
+  },
+  {
+    "seed": 478864,
+    "tall_columns": 3,
+    "base_score": 0.85625,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 17424,
+    "tall_columns": 3,
+    "base_score": 0.8541666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 741321,
+    "tall_columns": 3,
+    "base_score": 0.8541666666666666,
+    "x": 16,
+    "y": 8
+  },
+  {
+    "seed": 217156,
+    "tall_columns": 3,
+    "base_score": 0.8529166666666667,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 870489,
+    "tall_columns": 3,
+    "base_score": 0.8520833333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 199809,
+    "tall_columns": 3,
+    "base_score": 0.8516666666666667,
+    "x": 20,
+    "y": 16
+  },
+  {
+    "seed": 476417,
+    "tall_columns": 3,
+    "base_score": 0.85,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 444889,
+    "tall_columns": 3,
+    "base_score": 0.8495833333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 42849,
+    "tall_columns": 3,
+    "base_score": 0.8491666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 193600,
+    "tall_columns": 3,
+    "base_score": 0.8491666666666666,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 344098,
+    "tall_columns": 3,
+    "base_score": 0.8491666666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 78400,
+    "tall_columns": 3,
+    "base_score": 0.84875,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 153664,
+    "tall_columns": 3,
+    "base_score": 0.8479166666666667,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 315844,
+    "tall_columns": 3,
+    "base_score": 0.8479166666666667,
+    "x": 20,
+    "y": 12
+  },
+  {
+    "seed": 553536,
+    "tall_columns": 3,
+    "base_score": 0.8479166666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 935089,
+    "tall_columns": 3,
+    "base_score": 0.8479166666666667,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 25281,
+    "tall_columns": 3,
+    "base_score": 0.8475,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 633616,
+    "tall_columns": 3,
+    "base_score": 0.8470833333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 12769,
+    "tall_columns": 3,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 91809,
+    "tall_columns": 3,
+    "base_score": 0.84625,
+    "x": 24,
+    "y": 12
+  },
+  {
+    "seed": 305809,
+    "tall_columns": 3,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 710649,
+    "tall_columns": 3,
+    "base_score": 0.84625,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 288369,
+    "tall_columns": 3,
+    "base_score": 0.8458333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 155236,
+    "tall_columns": 3,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 404496,
+    "tall_columns": 3,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 665856,
+    "tall_columns": 3,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 725904,
+    "tall_columns": 3,
+    "base_score": 0.8454166666666667,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 452944,
+    "tall_columns": 3,
+    "base_score": 0.8454166666666667,
+    "x": 16,
+    "y": 12
+  },
+  {
+    "seed": 67081,
+    "tall_columns": 3,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 470596,
+    "tall_columns": 3,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 688508,
+    "tall_columns": 3,
+    "base_score": 0.845,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 10201,
+    "tall_columns": 3,
+    "base_score": 0.8445833333333334,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 396900,
+    "tall_columns": 3,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 600625,
+    "tall_columns": 3,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 698896,
+    "tall_columns": 3,
+    "base_score": 0.8445833333333334,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 277729,
+    "tall_columns": 3,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 620944,
+    "tall_columns": 3,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 958441,
+    "tall_columns": 3,
+    "base_score": 0.8441666666666666,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 31684,
+    "tall_columns": 3,
+    "base_score": 0.8438414634146342,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 669124,
+    "tall_columns": 3,
+    "base_score": 0.84375,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 769129,
+    "tall_columns": 3,
+    "base_score": 0.84375,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 58564,
+    "tall_columns": 3,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 188356,
+    "tall_columns": 3,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 677329,
+    "tall_columns": 3,
+    "base_score": 0.8433333333333334,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 608400,
+    "tall_columns": 3,
+    "base_score": 0.8429166666666666,
+    "x": 16,
+    "y": 24
+  },
+  {
+    "seed": 822649,
+    "tall_columns": 3,
+    "base_score": 0.8429166666666666,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 133225,
+    "tall_columns": 3,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 12
+  },
+  {
+    "seed": 161604,
+    "tall_columns": 3,
+    "base_score": 0.8425,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 442225,
+    "tall_columns": 3,
+    "base_score": 0.8425,
+    "x": 12,
+    "y": 24
+  },
+  {
+    "seed": 504100,
+    "tall_columns": 3,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 580644,
+    "tall_columns": 3,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 127824,
+    "tall_columns": 3,
+    "base_score": 0.8420833333333333,
+    "x": 8,
+    "y": 24
+  },
+  {
+    "seed": 57121,
+    "tall_columns": 3,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 837225,
+    "tall_columns": 3,
+    "base_score": 0.8416666666666667,
+    "x": 8,
+    "y": 20
+  },
+  {
+    "seed": 114244,
+    "tall_columns": 3,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 16
+  },
+  {
+    "seed": 190096,
+    "tall_columns": 3,
+    "base_score": 0.8412499999999999,
+    "x": 8,
+    "y": 8
+  },
+  {
+    "seed": 511225,
+    "tall_columns": 3,
+    "base_score": 0.8412499999999999,
+    "x": 12,
+    "y": 8
+  },
+  {
+    "seed": 32400,
+    "tall_columns": 3,
+    "base_score": 0.8408333333333333,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 270400,
+    "tall_columns": 3,
+    "base_score": 0.8408333333333333,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 948749,
+    "tall_columns": 3,
+    "base_score": 0.84,
+    "x": 16,
+    "y": 16
+  },
+  {
+    "seed": 549081,
+    "tall_columns": 3,
+    "base_score": 0.83875,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 877572,
+    "tall_columns": 3,
+    "base_score": 0.8383333333333334,
+    "x": 8,
+    "y": 12
+  },
+  {
+    "seed": 976144,
+    "tall_columns": 3,
+    "base_score": 0.8379166666666666,
+    "x": 8,
+    "y": 8
+  }
+]
