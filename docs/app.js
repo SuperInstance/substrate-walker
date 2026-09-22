@@ -513,10 +513,12 @@ async function boot() {
     const walker = new SubstrateWalker(canvas);
     window.walker = walker;
 
-    // Lore display
+    // Lore display (with streaming)
     const loreEl = document.getElementById('lore-display');
+    walker.streamingLore = new StreamingLore(loreEl);
+
     walker.onLore = (event) => {
-        if (!loreEl) return;
+        if (!loreEl || !walker.streamingLore) return;
         const kindColors = {
             district: '#FFFF80',
             building: '#FF80FF',
@@ -524,12 +526,10 @@ async function boot() {
             examine: '#80FF80',
         };
         const color = kindColors[event.kind] || '#FFFFFF';
-        loreEl.innerHTML = `<span style="color:${color};text-transform:uppercase">[${event.kind}]</span> ${event.text}`;
-        loreEl.style.opacity = '1';
-        setTimeout(() => {
-            loreEl.style.transition = 'opacity 0.5s';
-            loreEl.style.opacity = '0.6';
-        }, 100);
+        const prefix = `<span style="color:${color};text-transform:uppercase">[${event.kind}]</span> `;
+        // Use innerHTML for the prefix but textContent for the streaming part
+        const fullText = prefix + event.text;
+        walker.streamingLore.stream(fullText);
     };
 
     // Try to read API key from localStorage
