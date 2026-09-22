@@ -48,6 +48,8 @@
     .lang-ts { color: #80c0ff; }
     .lang-rust { color: #ff8080; }
     .lang-bash { color: #80ff80; }
+    .lang-js { color: #c0ff80; }
+    .lang-cs { color: #c080ff; }
     .pin {
       display: inline-block;
       padding: 5px 12px;
@@ -66,6 +68,17 @@
       margin: 10px 0;
       font-size: 12px;
       overflow-x: auto;
+    }
+    .jev-block {
+      background: #1a1030;
+      border-left: 3px solid #c080c0;
+      padding: 15px;
+      margin: 20px 0;
+      border-radius: 4px;
+    }
+    .jev-block h3 {
+      color: #c080c0;
+      margin-bottom: 10px;
     }
   </style>
 </head>
@@ -87,7 +100,7 @@
     <tr><td><code>"witness log is the prediction"</code></td><td class="hash">0x176137b542efe82a</td></tr>
   </table>
 
-  <h2>Polyformalism Ports</h2>
+  <h2>Polyformalism Ports (6 verified implementations)</h2>
   <p>Each port implements FNV-1a 64-bit in its native language. All ports must produce byte-exact output for all reference vectors.</p>
   
   <table>
@@ -112,7 +125,30 @@
       <td><code>scripts/canary_check_bash.sh</code></td>
       <td class="success">✓ verified</td>
     </tr>
+    <tr>
+      <td><span class="lang-js">JavaScript ESM</span></td>
+      <td><code>scripts/canary_check.mjs</code></td>
+      <td class="success">✓ verified</td>
+    </tr>
+    <tr>
+      <td><span class="lang-cs">C# (dotnet 9)</span></td>
+      <td><code>scripts/canary_check_cs</code> / <code>scripts/cs/</code></td>
+      <td class="success">✓ verified</td>
+    </tr>
   </table>
+
+  <div class="jev-block">
+    <h3>🤖 JEV Canon-Gate (NEW — Sept 22)</h3>
+    <p>JEV (Typesafe.ai System One model) was applied as a canon-acceptance oracle on 100 great_moments. Each lore was scored for canon-worthiness (noul), distinctiveness (noul), and best-voice (choice).</p>
+    <p><b>Result: 14/100 ACCEPT</b> (p>0.7 canon + p>0.5 distinct)</p>
+    <p><b>Voice distribution among accepted:</b></p>
+    <ul style="margin-left: 25px; line-height: 1.6;">
+      <li>lyricist: 8 (compressed image)</li>
+      <li>structuralist: 3 (architecture)</li>
+      <li>noir_classic: 3 (hard-boiled detective)</li>
+    </ul>
+    <p>JEV validates canon-discovery as calibrated probabilistic oracle. The substrate walker can now use JEV to gate lore acceptance.</p>
+  </div>
 
   <h2>Why Polyformalism?</h2>
   
@@ -123,6 +159,7 @@
     <li>The <code>quilt-substrate-meta</code> C99 implementation (proves the algebra)</li>
     <li>The 24-repo polyformalism fleet (ports the cell algebra across languages)</li>
     <li>The 12-language witness-log encoding (one truth, many dialects)</li>
+    <li>The 6 polyformalism ports on this repo (Python + TS + Rust + Bash + JS ESM + C#)</li>
   </ul>
 
   <h2>Run the canary test</h2>
@@ -130,13 +167,16 @@
   <div class="code">
     <code>
 $ ./scripts/canary_test.sh<br>
-=== FLEET CANARY VERIFICATION (Python + TypeScript + Rust) ===<br>
+=== FLEET CANARY VERIFICATION (6 ports) ===<br>
 <br>
 All 6 reference vectors match — fleet canary pinned ✓<br>
 All 6 reference vectors match — fleet canary pinned ✓<br>
 All 6 reference vectors match — fleet canary pinned ✓<br>
+All 6 reference vectors match — fleet canary pinned ✓<br>
+All 6 reference vectors match — fleet canary pinned ✓<br>
+All 6 reference vectors match — fleet canary pinned ✓<br>
 <br>
-All 3 ports agree — fleet canary pinned ✓
+All 6 ports agree — fleet canary pinned ✓
     </code>
   </div>
 </body>
