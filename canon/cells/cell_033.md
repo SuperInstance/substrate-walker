@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 2540836
 **path**: straight_east
-**voice**: 
-**lore**: "Rain falls on dirty streets."
+**voice**: structuralist
+**lore**: "Modular ziggurat cells stack into brutalist towers, their circuit-etched facades forming a decentralized, self-replicating urban lattice."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2540836.
-Rank #33 across many tested seeds. Voice: single-voice pipeline.
+Rank #33 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x3bcddef71cecc93f` (FNV-1a 64-bit)
+`0xad6c138ebb4e9870` (FNV-1a 64-bit)
 
 ## Witness
 

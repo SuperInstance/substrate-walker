@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 38155762
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on darkened streets."
+**voice**: cosmic_horror
+**lore**: "The city sprawls beyond geometry, its angles whispering in tongues that erode reason, and I fear it dreams us into its endless, nameless alleys."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 38155762.
-Rank #35 across many tested seeds. Voice: single-voice pipeline.
+Rank #35 across many tested seeds. Voice: cosmic_horror.
 
 ## Cell Hash
 
-`0xbc7b7b09fb3a4bbb` (FNV-1a 64-bit)
+`0x11d0f49fcbe1e8b3` (FNV-1a 64-bit)
 
 ## Witness
 

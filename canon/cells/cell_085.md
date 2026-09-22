@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 642
 **path**: straight_east
-**voice**: 
-**lore**: "Rain falls on the city's dirty streets."
+**voice**: narrativist
+**lore**: "I jack a wet breath through my rebreather while neon glyphs bleed across the alley's chrome like a dying man's prayer."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 642.
-Rank #85 across many tested seeds. Voice: single-voice pipeline.
+Rank #85 across many tested seeds. Voice: narrativist.
 
 ## Cell Hash
 
-`0x610d8085273f7664` (FNV-1a 64-bit)
+`0xf8a0c87320333dc6` (FNV-1a 64-bit)
 
 ## Witness
 

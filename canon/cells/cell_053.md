@@ -7,17 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 5216405
 **path**: straight_east
-**voice**: 
-**lore**: "Rainy night streets, hardboiled eyes scanning"
+**voice**: structuralist
+**lore**: "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 5216405.
-Rank #53 across many tested seeds. Voice: single-voice pipeline.
+Rank #53 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf1d070b3922ff199` (FNV-1a 64-bit)
+`0x75d59a3c6ea3732b` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,17 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 35375967
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets, neon shadows, corruption reigns."
+**voice**: noir_classic
+**lore**: "The rain in this chrome-plated hell washes nothing clean; it just makes the neon bleed faster, and in this town, trouble always finds you first."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 35375967.
-Rank #52 across many tested seeds. Voice: single-voice pipeline.
+Rank #52 across many tested seeds. Voice: noir_classic.
 
 ## Cell Hash
 
-`0xe640a7e8379410c6` (FNV-1a 64-bit)
+`0x06d4b06745f51abb` (FNV-1a 64-bit)
 
 ## Witness
 

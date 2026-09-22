@@ -7,19 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 39621
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets shrouded in neon darkness.
-
-What do you do?"
+**voice**: futurist
+**lore**: "As the last remnants of daylight surrendered to the city's eternal night, its veins pulsed with the prophecy: 'I will devour, I will speak, I will dream, and in my darkness, you will be reborn.'"
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 39621.
-Rank #42 across many tested seeds. Voice: single-voice pipeline.
+Rank #42 across many tested seeds. Voice: futurist.
 
 ## Cell Hash
 
-`0xd1462256de3090eb` (FNV-1a 64-bit)
+`0x9c5cc58415266b39` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 21037341
 **path**: straight_east
-**voice**: 
-**lore**: "Rain falls hard on neon streets."
+**voice**: structuralist
+**lore**: "A monolithic cyberpunk cell rises in jagged vertical strata, its neon-veined façade and cramped alleyways framing a rain-slicked noir metropolis."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 21037341.
-Rank #38 across many tested seeds. Voice: single-voice pipeline.
+Rank #38 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x4db70dca549bb4bc` (FNV-1a 64-bit)
+`0xcb6989847f9422c4` (FNV-1a 64-bit)
 
 ## Witness
 

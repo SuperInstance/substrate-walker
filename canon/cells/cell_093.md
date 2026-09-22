@@ -7,17 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 4080
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slams against the alleyway's neon-drenched walls."
+**voice**: lyricist
+**lore**: "Rain writes dead lovers’ names in neon across my chrome skull while memory flickers like a broken hologram under midnight’s electric bruise."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 4080.
-Rank #93 across many tested seeds. Voice: single-voice pipeline.
+Rank #93 across many tested seeds. Voice: lyricist.
 
 ## Cell Hash
 
-`0x1b8a14aa38b5c16a` (FNV-1a 64-bit)
+`0x556cd945eed862e4` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 24
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on the streets of Neo-Tokyo, a city that never sleeps."
+**voice**: structuralist
+**lore**: "Vertical arcologies rise through toxic rain, their fractured facades stitching corporate spires, transit veins, and shadowed alley cells into a relentless noir grid."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 24.
-Rank #77 across many tested seeds. Voice: single-voice pipeline.
+Rank #77 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf005fc12624754ca` (FNV-1a 64-bit)
+`0xe2c41a3eee91c2c0` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 25303
 **path**: straight_east
-**voice**: 
-**lore**: "Rain lashes down, neon lights flicker."
+**voice**: cosmic_horror
+**lore**: "I glimpsed the city’s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 25303.
-Rank #79 across many tested seeds. Voice: single-voice pipeline.
+Rank #79 across many tested seeds. Voice: cosmic_horror.
 
 ## Cell Hash
 
-`0x0a4c1840e990283a` (FNV-1a 64-bit)
+`0xa9637cc4cf821ae5` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 20
 **path**: straight_east
-**voice**: 
-**lore**: "Rain drips like tears on the city's dark skin."
+**voice**: structuralist
+**lore**: "Dense modular towers rise through a fractured grid of streets, their pixelated facades forming a brutalist, glitched metropolis."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 20.
-Rank #84 across many tested seeds. Voice: single-voice pipeline.
+Rank #84 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xe5239e32c3f7d1ec` (FNV-1a 64-bit)
+`0xb7e0c4aebf36c48b` (FNV-1a 64-bit)
 
 ## Witness
 

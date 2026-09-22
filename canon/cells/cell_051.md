@@ -7,17 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 181517931
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slicks the pavement."
+**voice**: noir_classic
+**lore**: "She walked into my office with neon rain dripping off her chrome, and I knew the city had a bad attitude and the job paid seven credits."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 181517931.
-Rank #51 across many tested seeds. Voice: single-voice pipeline.
+Rank #51 across many tested seeds. Voice: noir_classic.
 
 ## Cell Hash
 
-`0x62a6480808d32186` (FNV-1a 64-bit)
+`0x940887e508dbc761` (FNV-1a 64-bit)
 
 ## Witness
 

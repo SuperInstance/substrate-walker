@@ -7,19 +7,17 @@
 **score**: 0.86375
 **seed**: 339849
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down, casting shadows on the city's bleak streets.
-
-What do you do?"
+**voice**: structuralist
+**lore**: "Brutalist megastructures rise from ASCII ruins, their jagged towers and fractured facades encoding a decaying cyberpunk city's oppressive vertical geometry."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 339849.
-Rank #81 across many tested seeds. Voice: single-voice pipeline.
+Rank #81 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x3e5ef0744533ee4c` (FNV-1a 64-bit)
+`0x20cea26858f2d3ae` (FNV-1a 64-bit)
 
 ## Witness
 

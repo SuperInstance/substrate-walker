@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 2548
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down like sin's dark tears."
+**voice**: structuralist
+**lore**: "A vertical megastructure of jagged, crystalline towers rises from a fragmented grid, fusing brutalist mass with chaotic digital noise."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2548.
-Rank #87 across many tested seeds. Voice: single-voice pipeline.
+Rank #87 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x0cd661370645be3f` (FNV-1a 64-bit)
+`0x69c6979bf52ab896` (FNV-1a 64-bit)
 
 ## Witness
 

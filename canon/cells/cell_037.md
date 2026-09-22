@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 4073
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on neon drenched streets."
+**voice**: futurist
+**lore**: "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams."  (Or, if you prefer something more visceral: "The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.")"
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 4073.
-Rank #37 across many tested seeds. Voice: single-voice pipeline.
+Rank #37 across many tested seeds. Voice: futurist.
 
 ## Cell Hash
 
-`0x45723784efd0cfc1` (FNV-1a 64-bit)
+`0xcb8c5d4b74014422` (FNV-1a 64-bit)
 
 ## Witness
 

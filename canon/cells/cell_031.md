@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 60575860
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours on the city's dark alleys."
+**voice**: structuralist
+**lore**: "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 60575860.
-Rank #31 across many tested seeds. Voice: single-voice pipeline.
+Rank #31 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x8874892a63c8901d` (FNV-1a 64-bit)
+`0xf10435a0189544cf` (FNV-1a 64-bit)
 
 ## Witness
 

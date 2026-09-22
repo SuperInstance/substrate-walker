@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 19652
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slanted down the neon-drenched streets."
+**voice**: structuralist
+**lore**: "Modular megastructures interweave through a recursive grid, forming a dense, stratified matrix of monolithic cellular repetition."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 19652.
-Rank #88 across many tested seeds. Voice: single-voice pipeline.
+Rank #88 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xd098ccd40a6dd26b` (FNV-1a 64-bit)
+`0x4d5a48f9443620af` (FNV-1a 64-bit)
 
 ## Witness
 

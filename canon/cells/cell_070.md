@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 3097600
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets, neon haze, shadows hide the truth."
+**voice**: structuralist
+**lore**: "Brutalist megastructures rise from ASCII ruins, their jagged geometric towers piercing a corrupted digital skyline of fractured code."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 3097600.
-Rank #70 across many tested seeds. Voice: single-voice pipeline.
+Rank #70 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xb119310e14f36df7` (FNV-1a 64-bit)
+`0x87029ec8134f06af` (FNV-1a 64-bit)
 
 ## Witness
 

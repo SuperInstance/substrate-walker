@@ -7,17 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 78503634
 **path**: straight_east
-**voice**: 
-**lore**: "Rain soaks streets, neon drowns the night."
+**voice**: structuralist
+**lore**: "Brutalist data-spires and glitched tenements fuse into a fractured grid of neon ruins and coded shadows."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 78503634.
-Rank #54 across many tested seeds. Voice: single-voice pipeline.
+Rank #54 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x705c40ca215e8a4a` (FNV-1a 64-bit)
+`0xf5bbcab83886ce45` (FNV-1a 64-bit)
 
 ## Witness
 

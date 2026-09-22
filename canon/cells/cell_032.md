@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 128056006
 **path**: straight_east
-**voice**: 
-**lore**: "Rain patters on wet streets, a lone figure walks."
+**voice**: structuralist
+**lore**: "Symmetrical monolithic towers rise from dense ASCII grid, their crystalline facades punctuated by scattered windows and shadowed voids."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 128056006.
-Rank #32 across many tested seeds. Voice: single-voice pipeline.
+Rank #32 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x2042b6760fb09bd6` (FNV-1a 64-bit)
+`0x78558894c8d4c370` (FNV-1a 64-bit)
 
 ## Witness
 

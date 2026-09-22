@@ -7,17 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 6612066
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on the city like a dirty mistress"
+**voice**: structuralist
+**lore**: "Brutalist arcologies rise as jagged ziggurats, their fractured concrete facades pierced by neon glyphs and labyrinthine skybridges spanning void."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 6612066.
-Rank #99 across many tested seeds. Voice: single-voice pipeline.
+Rank #99 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x6cbbb2021fa7e77a` (FNV-1a 64-bit)
+`0x6f463945ddd1f09e` (FNV-1a 64-bit)
 
 ## Witness
 

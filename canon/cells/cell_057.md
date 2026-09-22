@@ -7,21 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 612171
 **path**: straight_east
-**voice**: 
-**lore**: "Rain lashes streets, neon blinds, the city's dark heart beats."
-
-What do you do?
-
-(Note: you can type commands like 'move north' or 'investigate alleyway')"
+**voice**: futurist
+**lore**: "Here's a prophetic sentence, aiming for the requested tone and length, inspired by the ASCII art:  **The neon arteries pulsed with regret, and New Shanghai whispered forgotten futures in the acid rain.**    I tried to evoke the "living organism" feel, focusing on a sense of sentience and decay within the city itself. The rain and neon felt fitting for the cyberpunk noir aesthetic."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 612171.
-Rank #57 across many tested seeds. Voice: single-voice pipeline.
+Rank #57 across many tested seeds. Voice: futurist.
 
 ## Cell Hash
 
-`0xb02679c8bc262ce4` (FNV-1a 64-bit)
+`0x575485a52b189059` (FNV-1a 64-bit)
 
 ## Witness
 

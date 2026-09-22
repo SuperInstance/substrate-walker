@@ -7,17 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 4509130
 **path**: straight_east
-**voice**: 
-**lore**: "Rain patters on wet streets. Neon signs flicker."
+**voice**: structuralist
+**lore**: "Vast monolithic data-spires rise from a flooded, neon-scarred grid, their fractured geometric facades channeling noir shadows between brutalist corporate ziggurats."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 4509130.
-Rank #100 across many tested seeds. Voice: single-voice pipeline.
+Rank #100 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf3e016f61aa5a988` (FNV-1a 64-bit)
+`0x43833b6ef9fb0e26` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 817102
 **path**: straight_east
-**voice**: 
-**lore**: "I stepped out of the rain-soaked alley, eyes scanning the cityscape."
+**voice**: narrativist
+**lore**: "I stepped out of the rain-soaked alley and onto the neon-drenched streets of New Eden, the city's perpetual hum of machinery and despair thrumming through my veins."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 817102.
-Rank #44 across many tested seeds. Voice: single-voice pipeline.
+Rank #44 across many tested seeds. Voice: narrativist.
 
 ## Cell Hash
 
-`0xc5004529f3744fbf` (FNV-1a 64-bit)
+`0x2e1bc97058c7c1c2` (FNV-1a 64-bit)
 
 ## Witness
 

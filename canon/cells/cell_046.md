@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 3801903
 **path**: straight_east
-**voice**: 
-**lore**: "Rain falls on the city's dark streets, a lone figure in the shadows."
+**voice**: structuralist
+**lore**: "Fractured city cells of steel and neon intertwine, forming a geometrically chaotic, yet rigidly structured, dystopian landscape of interconnected towers and shadowed alleys."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 3801903.
-Rank #46 across many tested seeds. Voice: single-voice pipeline.
+Rank #46 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x96c7efc8933cda93` (FNV-1a 64-bit)
+`0xe99473b9c9767820` (FNV-1a 64-bit)
 
 ## Witness
 

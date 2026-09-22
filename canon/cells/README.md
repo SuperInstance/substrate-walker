@@ -33,15 +33,27 @@ Voice: structuralist
 
 ## Voice Breakdown (multi-voice canon)
 
-- **structuralist**: 20
-- **futurist**: 2
-- **narrativist**: 2
+- **structuralist**: 66
+- **narrativist**: 8
+- **futurist**: 6
+- **cosmic_horror**: 6
+- **noir_classic**: 3
 - **philosophical**: 1
+- **lyricist**: 1
 
-## Hash chain
+## Multi-voice pipeline (JEV audit recommendation)
 
-Each cell carries FNV-1a 64-bit hash of (seed, lore, score, rank).
-The chain integrity is verified by the fleet canary: `0x24a555471370b18d`.
+JEV auditor flagged that the canon was internally honest but externally homogeneous —
+100 cells all 'rain + neon' trope. Applied multi-voice diversification:
+- structuralist: architecture focus
+- narrativist: first-person character POV
+- futurist: prophetic, city as organism
+- lyricist: pure image
+- philosophical: ontological
+- noir_classic: hard-boiled detective
+- cosmic_horror: Lovecraftian undertones
+
+478 multi-voice lores across 118 seeds, longest picked per seed.
 
 ## Sources
 
@@ -53,7 +65,12 @@ The chain integrity is verified by the fleet canary: `0x24a555471370b18d`.
 - Catalan/Motzkin/Lucas/Pell (72 tested)
 - Amicable/Abundant/Perfect/Tau-rich (781 tested)
 - Polygon (34,000+ tested in progress)
-- Composite lore (5 voices × 5 models, multi-version)
+- Composite lore (7 voices × 5 models, multi-version)
+
+## Hash chain
+
+Each cell carries FNV-1a 64-bit hash of (seed, lore, score, rank).
+The chain integrity is verified by the fleet canary: `0x24a555471370b18d`.
 
 ## Live URLs
 

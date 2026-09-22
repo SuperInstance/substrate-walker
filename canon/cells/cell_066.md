@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 1809721
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on streets of Neo-Tokyo, neon lights reflecting off wet pavement."
+**voice**: structuralist
+**lore**: "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1809721.
-Rank #66 across many tested seeds. Voice: single-voice pipeline.
+Rank #66 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x3f1ea8a7572bc373` (FNV-1a 64-bit)
+`0x75cfad58ff45f233` (FNV-1a 64-bit)
 
 ## Witness
 

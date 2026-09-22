@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 17781081
 **path**: straight_east
-**voice**: 
-**lore**: "Rain poured down on the city like a dirty shroud."
+**voice**: noir_classic
+**lore**: "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 17781081.
-Rank #73 across many tested seeds. Voice: single-voice pipeline.
+Rank #73 across many tested seeds. Voice: noir_classic.
 
 ## Cell Hash
 
-`0x62edfc40714931a8` (FNV-1a 64-bit)
+`0x2bbe449c27e7a656` (FNV-1a 64-bit)
 
 ## Witness
 

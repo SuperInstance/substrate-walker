@@ -7,17 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 3868371
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets. Neon-lit alleys. One last gig."
+**voice**: structuralist
+**lore**: "Symmetrical modular megastructure rises from cascading ASCII grid, its crystalline towers and dense urban blocks forming a fractured, glitched brutalist skyline."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 3868371.
-Rank #62 across many tested seeds. Voice: single-voice pipeline.
+Rank #62 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xab3ce834e80872d5` (FNV-1a 64-bit)
+`0x8bad2e793fdb72bd` (FNV-1a 64-bit)
 
 ## Witness
 

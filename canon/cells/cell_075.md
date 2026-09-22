@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 15167010
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on the city's dirty streets."
+**voice**: narrativist
+**lore**: "I walk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum beneath the chrome sky."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 15167010.
-Rank #75 across many tested seeds. Voice: single-voice pipeline.
+Rank #75 across many tested seeds. Voice: narrativist.
 
 ## Cell Hash
 
-`0x37d1fe4e52894f53` (FNV-1a 64-bit)
+`0x17ec065686253b08` (FNV-1a 64-bit)
 
 ## Witness
 

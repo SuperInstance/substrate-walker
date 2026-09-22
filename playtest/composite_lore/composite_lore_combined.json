@@ -6,7 +6,8 @@
       "narrativist": "As I step out into the neon-drenched rain, the hiss of the city's air recyclers and the thrum of holographic advertisements assault my senses, a cacophony of sound and light.",
       "futurist": "Neon-lit spires pierced the sky like skeletal fingers, as the city's pulsing heartbeat whispered secrets to the rain-soaked streets, and its very soul screamed in despair.",
       "lyricist": "In the rain-slicked streets, neon signs bleed like lovers' whispers, as the city's dark heart beats with a lonely, forgotten melody.",
-      "philosophical": "In the metropolis of Ereboia, the ontological fabric of reality is a tapestry of commodified memories, woven from the threads of forgotten histories and desires."
+      "philosophical": "In the metropolis of Ereboia, the ontological fabric of reality is a tapestry of commodified memories, woven from the threads of forgotten histories and desires.",
+      "cosmic_horror": "The city is not built but dreaming, its angles gnawing at reason as streets coil through nameless dimensions no human mind can bear."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -40,6 +41,10 @@
         "structuralist": "Modular obsidian ziggurats rise from flooded data-grids, their fractured neon glyphs encoding a brutalist cityscape of recursive surveillance.",
         "narrativist": "Rain slicks the alley chrome as I jack a dead courier's spine, neon bleeding through my cracked iris.",
         "futurist": "The city dreams in neon and devours the dawn, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon tenements and data-spires rise from flooded alleys, their tangled wires and encrypted facades carving a rain-slick cyberpunk noir grid.",
+        "cosmic_horror": "The city is not built but dreaming, its angles gnawing at reason as streets coil through nameless dimensions no human mind can bear."
       }
     }
   },
@@ -89,7 +94,9 @@
       "narrativist": "The neon drizzle blurs the city\u2019s veins, my boots slapping puddles of synthetic rain, each step echoing like a gunshot in this drowned cathedral of chrome.",
       "futurist": "The metropolis slumbered, its steel veins pulsating with a symphony of whispers, a vast, urban organism that dreamed, devoured, and whispered secrets to the wind.",
       "lyricist": "Rain-soaked streets gleamed with neon whispers, a siren's call to the lost souls of the city, where memories drowned in a sea of synthetic dreams.",
-      "philosophical": "In a labyrinthine metropolis of fractured realities, the abyssal voids of data and desire converge, obscuring the line between truth and code."
+      "philosophical": "In a labyrinthine metropolis of fractured realities, the abyssal voids of data and desire converge, obscuring the line between truth and code.",
+      "noir_classic": "The rain fell like cheap static through neon veins, and I was just another ghost renting a heartbeat in this chrome-plated sewer.",
+      "cosmic_horror": "The city breathes behind angles that should not exist, and its streets whisper names no sane mind can endure."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -123,6 +130,13 @@
         "structuralist": "A lattice of glyphs and void, where code becomes brutalist structure under perpetual neon noir.",
         "narrativist": "I jack a severed optic into the wet socket, and the dead man's last memory crawls across my iris.",
         "futurist": "The city dreams in neon and eats the memories of those who sleep beneath its electric skin."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Rain-slicked megastructures coil into neon canyons, their fractured glass and black",
+        "narrativist": "I stalk the rain-slick alley as neon buzzes against my skin and distant sirens hum through chrome shadows.",
+        "lyricist": "Neon rain stitches the alley with broken memories, each puddle reflecting a ghost I sold for spare parts.",
+        "noir_classic": "The rain fell like cheap static through neon veins, and I was just another ghost renting a heartbeat in this chrome-plated sewer.",
+        "cosmic_horror": "The city breathes behind angles that should not exist, and its streets whisper names no sane mind can endure."
       }
     }
   },
@@ -133,7 +147,8 @@
       "narrativist": "The rain-soaked streets of Neo-Tokyo blurred together as I stepped into the dimly lit alley, the smell of smoke and desperation clinging to my skin like a shroud.",
       "futurist": "In the belly of the metropolis, a whispered promise stirs: 'The city's hunger shall be sated, and its voice shall be heard, in the echoes of its own decay.'",
       "lyricist": "Rain-soaked streets reflected the neon lights of the city, a kaleidoscope of color bleeding into the darkness like a wounded heart.",
-      "philosophical": "This city is a labyrinthine tapestry of ontological contradictions, where simulacra and reality are indistinguishable, and truth is a fleeting, fractal whisper."
+      "philosophical": "This city is a labyrinthine tapestry of ontological contradictions, where simulacra and reality are indistinguishable, and truth is a fleeting, fractal whisper.",
+      "cosmic_horror": "The city is not a place but a vast dreaming polyp, whose streets are thoughts no human mind can endure."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -167,6 +182,11 @@
         "structuralist": "A cellular grid of monolithic towers punctuated by scattered neon nodes, forming a fractured urban labyrinth of light and shadow.",
         "narrativist": "Rain-slick chrome reflections fracture the alley's neon veins as I jack my heartbeat into the static.",
         "futurist": "The city inhales your sins through subway grates and exhales them as neon scripture on rain-slick streets."
+      },
+      "composite_lore_v9": {
+        "structuralist": "A dense vertical labyrinth of neon-scarred tenements, skybridges, and encrypted facades binds every street-level cell into one oppressive urban machine.",
+        "narrativist": "I stalk through rain-slick neon alleys, my boots hissing on",
+        "cosmic_horror": "The city is not a place but a vast dreaming polyp, whose streets are thoughts no human mind can endure."
       }
     }
   },
@@ -177,7 +197,9 @@
       "narrativist": "I stepped out of the rain-soaked alley and onto the neon-drenched streets of New Eden, the smell of ozone and smoke clinging to my leather jacket.",
       "futurist": "Steel and neon veins pulsed with the city\u2019s discontent, its concrete lungs exhaling secrets and consuming lost souls with every flickering breath.",
       "lyricist": "The neon rain dissolves into the asphalt, carrying whispers of a ghost who still smokes where the rain won\u2019t wash the city\u2019s scars.",
-      "philosophical": "In the labyrinthine metropolis of New Erebus, the synthetic and the organic coalesce, yet the artificial abyss of the 'Net' devours all truth, and the city itself is a sentient, labyrinthine entity, devouring its own inhabitants."
+      "philosophical": "In the labyrinthine metropolis of New Erebus, the synthetic and the organic coalesce, yet the artificial abyss of the 'Net' devours all truth, and the city itself is a sentient, labyrinthine entity, devouring its own inhabitants.",
+      "noir_classic": "Rain hit the neon like a junkie's promise, and I was the only fool in this chrome graveyard still asking who killed her.",
+      "cosmic_horror": "The city is not built but dreaming, its angles gnawing at reason, and we are mere thoughts it has forgotten."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -211,6 +233,10 @@
         "structuralist": "Brutalist megastructures rise from a gridded labyrinth, their jagged silhouettes and neon-veined facades carving a fractured, dystopian skyline.",
         "narrativist": "Rain slicks the alley as I jack in, neon bleeding through cracked lenses while the city hums its dead frequency.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "noir_classic": "Rain hit the neon like a junkie's promise, and I was the only fool in this chrome graveyard still asking who killed her.",
+        "cosmic_horror": "The city is not built but dreaming, its angles gnawing at reason, and we are mere thoughts it has forgotten."
       }
     }
   },
@@ -221,7 +247,9 @@
       "narrativist": "The rain-soaked streets glistened like a diseased mirror, reflecting the neon glow of the city's desperation, a constant reminder of the darkness I'd left behind.",
       "futurist": "The city exhales neon through cracked lungs, its dreams a cocktail of rust and static, whispering secrets in the language of flickering signs.",
       "lyricist": "In the city's eternal rain, neon whispers secrets to the shadows, where memories like cigarette smoke linger, and the past is a slow-burning ember.",
-      "philosophical": "This metropolis is a labyrinthine manifestation of the human condition, a sprawling, sentient entity fueled by desire, decay, and the eternal quest for meaning."
+      "philosophical": "This metropolis is a labyrinthine manifestation of the human condition, a sprawling, sentient entity fueled by desire, decay, and the eternal quest for meaning.",
+      "noir_classic": "The rain in this chrome city falls like a junkie's promise, washing the sin off neon but",
+      "cosmic_horror": "Its streets twist through angles no mind was meant to hold, and the city dreams us as fleeting thoughts within its endless"
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -255,6 +283,10 @@
         "structuralist": "Dense fractal megastructures weave through acid rain, their jagged crystalline spires piercing neon-soaked skies above labyrinthine streets.",
         "narrativist": "Neon bleeds across rain-slick asphalt as I trace the static hum beneath flickering holograms.",
         "futurist": "The city dreams in neon and eats the static between heartbeats, whispering your name to the rain."
+      },
+      "composite_lore_v9": {
+        "noir_classic": "The rain in this chrome city falls like a junkie's promise, washing the sin off neon but",
+        "cosmic_horror": "Its streets twist through angles no mind was meant to hold, and the city dreams us as fleeting thoughts within its endless"
       }
     }
   },
@@ -265,7 +297,8 @@
       "narrativist": "The rain-soaked streets of Neo-Tokyo glistened like a diseased mirror, reflecting the neon-lit faces of pedestrians who seemed to be fleeing from their own shadows.",
       "futurist": "The city's veins pulsed with the rhythm of rain, its streets whispering secrets to the wind, as the neon sprawl awakened with a collective, hungry sigh.",
       "lyricist": "Rain-soaked streets gleam like a femme fatale's kiss, neon lights casting shadows on the wet pavement, memories whispering secrets to the night.",
-      "philosophical": "In this city of simulated realities, the ontological fabric is a tapestry of contradictions, where truth is a currency traded by the powerful and the powerless."
+      "philosophical": "In this city of simulated realities, the ontological fabric is a tapestry of contradictions, where truth is a currency traded by the powerful and the powerless.",
+      "cosmic_horror": "The city breathes behind angles no mind can hold, and its streets whisper the names of forgotten gods awake beneath us."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -299,6 +332,9 @@
         "structuralist": "The city's architecture emerges as a fractured grid of monolithic towers, where gaps and voids compose the true urban form.",
         "narrativist": "Rain slicks the alley's chrome ribs as I jack my pulse into the neon grid's hum.",
         "futurist": "The city dreams in neon and eats the memories of those who sleep beneath its glowing skin."
+      },
+      "composite_lore_v9": {
+        "cosmic_horror": "The city breathes behind angles no mind can hold, and its streets whisper the names of forgotten gods awake beneath us."
       }
     }
   },
@@ -309,7 +345,8 @@
       "narrativist": "As I walked through the neon-drenched streets, the cacophony of holographic advertisements and distant sirens assaulted my ears, a constant reminder of the city's frenetic, deadly pulse.",
       "futurist": "In slumber, New Erebo stirs, its skyscrapers whispering secrets to the wind, its streets a tapestry of dreams and darkness, its voice a perpetual whisper: 'Arise, my child, the city's hunger is a hunger for you.'",
       "lyricist": "Rain-soaked streets gleam like a city's final confession, neon lights reflected in the eyes of a forgotten soul, lost in the labyrinth of memories.",
-      "philosophical": "This city is a labyrinthine, cybernetic organism, where simulated reality and existential dread converge, its very fabric a tapestry of circuitry and decay."
+      "philosophical": "This city is a labyrinthine, cybernetic organism, where simulated reality and existential dread converge, its very fabric a tapestry of circuitry and decay.",
+      "cosmic_horror": "The city breathes through angles no mind can hold, its streets whispering truths that shatter reason into endless, nameless night."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -343,6 +380,11 @@
         "structuralist": "Monolithic data-temples rise from a flooded grid, their jagged ziggurat silhouettes pierced by neon veins and dead satellite dishes.",
         "narrativist": "I jack a neuro-spike into the wet socket, and the alley's neon shivers like a dying man's last breath.",
         "futurist": "The city dreams in sodium light and eats its children's memories, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical tenements and",
+        "narrativist": "I walk through neon rain, my boots splashing oily puddles while holograms buzz and distant sirens slice the smoky dark.",
+        "cosmic_horror": "The city breathes through angles no mind can hold, its streets whispering truths that shatter reason into endless, nameless night."
       }
     }
   },
@@ -476,7 +518,8 @@
     "voices": {
       "structuralist": "In the cyberpunk city, a labyrinthine metropolis sprawls with angular skyscrapers, cantilevered walkways, and subterranean tunnels, a testament to the fusion of technology and organic form.",
       "narrativist": "The rain-soaked streets of New Eden gleamed like a diseased mirror, reflecting the neon-lit despair that seemed to seep from every crumbling building.",
-      "futurist": "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams.\"  (Or, if you prefer something more visceral: \"The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.\")"
+      "futurist": "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams.\"  (Or, if you prefer something more visceral: \"The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.\")",
+      "lyricist": "Rain stitches neon ghosts to cracked glass as memory flickers like a dead motel sign in my blood."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -498,6 +541,11 @@
         "structuralist": "A cellular grid of monolithic towers punctuated by scattered neon glyphs, forming a fragmented, brutalist urban matrix.",
         "narrativist": "I walk through the static rain of neon ghosts, their broken faces humming like dead arcade machines.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I walk through acid rain and",
+        "futurist": "The city breathes through neon veins, dreams in static, eats your name, and speaks tomorrow\u2019s crimes before dawn confesses.",
+        "lyricist": "Rain stitches neon ghosts to cracked glass as memory flickers like a dead motel sign in my blood."
       }
     }
   },
@@ -560,7 +608,9 @@
     "voices": {
       "structuralist": "In the city's gridlocked sprawl, the towering skyscrapers of New Eden pierced the smog-choked sky, their angular silhouettes a testament to the architect's brutalist aesthetic.",
       "narrativist": "The rain-soaked streets of Neo-Tokyo's sprawl seemed to swallow me whole as I walked, the neon lights reflecting off the wet pavement like a diseased rainbow.",
-      "futurist": "Neon lattices conjoin, ancient skyscrapers stir, streets devour, and the city's belly growls with the prophecy: 'Echoes of smoke shall rise, and the shadows shall reclaim the streets'."
+      "futurist": "Neon lattices conjoin, ancient skyscrapers stir, streets devour, and the city's belly growls with the prophecy: 'Echoes of smoke shall rise, and the shadows shall reclaim the streets'.",
+      "lyricist": "Rain writes dead names in neon across my chrome heart",
+      "cosmic_horror": "The city breathes beneath impossible angles, its streets writhing like nameless limbs, devouring thought before mortal minds can fathom its hungering geometry."
     },
     "all_voices_versions": {
       "composite_lore_v3": {
@@ -587,6 +637,11 @@
         "structuralist": "A decaying grid of monolithic data-towers fractures into recursive, glitching alleyways beneath a perpetual neon-static sky.",
         "narrativist": "I walk the rain-slick alley, neon bleeding into puddles, every shadow hiding a blade or a secret.",
         "futurist": "The city dreams in neon and eats the static of dying stars, whispering your name through teeth of glass and rain."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain as holograms flicker, my",
+        "lyricist": "Rain writes dead names in neon across my chrome heart",
+        "cosmic_horror": "The city breathes beneath impossible angles, its streets writhing like nameless limbs, devouring thought before mortal minds can fathom its hungering geometry."
       }
     }
   },
@@ -622,6 +677,9 @@
         "structuralist": "Monolithic ziggurat blocks puncture a gridded datum, their modular facades etched with glyphic density and fractured light.",
         "narrativist": "Rain slicks the neon gutters as I track the dead man's ghost through this chrome-and-blood labyrinth.",
         "futurist": "The city dreams in flickering neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "futurist": "The city breathes through us, dreams in neon, eats our ghosts, and speaks through broken code."
       }
     }
   },
@@ -656,6 +714,10 @@
         "structuralist": "Brutalist megastructures fuse with glitching data-rain, their fractured geometric facades forming a labyrinthine circuit-board grid of decaying urban cells.",
         "narrativist": "Rain-slick neon bleeds across broken asphalt as I trace the dead signal through static and chrome.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Rain hisses on my chrome shoulder as neon bleeds across wet asphalt, and each step echoes louder than my heartbeat.",
+        "lyricist": "Rain scribbles neon glyphs across black glass, while a dead lover\u2019s laughter flickers in every puddle like corrupted data."
       }
     }
   },
@@ -664,7 +726,8 @@
     "voices": {
       "structuralist": "In the cyberpunk city's labyrinthine undercroft, crystalline spires pierced the smog-choked sky, their faceted geometry a testament to the architect's obsession with fractal perfection.",
       "narrativist": "The rain-soaked streets glistened like a million tiny mirrors, reflecting the neon glow of the city's perpetual darkness with a sickly, artificial sheen.",
-      "futurist": "*\"The city exhales neon, dreams in broken glass, and gnaws on the bones of the drowned.\"* --- *(18 words. Your cyberpunk organism is alive\u2014rotten and radiant.)*"
+      "futurist": "*\"The city exhales neon, dreams in broken glass, and gnaws on the bones of the drowned.\"* --- *(18 words. Your cyberpunk organism is alive\u2014rotten and radiant.)*",
+      "cosmic_horror": "The city is an unknowable god of angles, and our maps are prayers it never deigns to answer."
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -681,6 +744,11 @@
         "structuralist": "Monolithic data-temples rise from a fractured grid, their glitched facades pierced by neon arteries and shadowed algorithmic canyons.",
         "narrativist": "Neon bleeds through acid rain as I trace the dead man's chrome hand down this alley of broken glass.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon tenements and monolithic data towers interlock above rain-slick",
+        "narrativist": "I walk through neon rain,",
+        "cosmic_horror": "The city is an unknowable god of angles, and our maps are prayers it never deigns to answer."
       }
     }
   },
@@ -689,7 +757,8 @@
     "voices": {
       "structuralist": "In this cyberpunk cityscape, crystalline spires pierce the smog-choked skies, their angular geometry a testament to the city's underlying lattice of intersecting circuitry and steel.",
       "narrativist": "I stepped out of the rain-soaked alley and into the neon-drenched streets, the hum of the city's perpetual haze a familiar, if suffocating, presence.",
-      "futurist": "A new dawn breaks in the flesh of Metropolis, as the city's pulse beats in tandem with my own, and the streets whisper secrets to the wind."
+      "futurist": "A new dawn breaks in the flesh of Metropolis, as the city's pulse beats in tandem with my own, and the streets whisper secrets to the wind.",
+      "noir_classic": "The rain fell like neon bleed, and the chrome rats sang hallelujah to angels with short circuits."
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -706,6 +775,10 @@
         "structuralist": "Towering arcologies of jagged black steel and neon circuitry rise from a fractured grid of decaying urban cells.",
         "narrativist": "Rain hisses on neon, and I count each puddle reflection like a confession I'll never give.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical megastructures channel acid rain",
+        "noir_classic": "The rain fell like neon bleed, and the chrome rats sang hallelujah to angels with short circuits."
       }
     }
   },
@@ -714,7 +787,8 @@
     "voices": {
       "structuralist": "In this dystopian metropolis, a labyrinthine skyscraper, \"The Nexus,\" sprawls like a fractured crystal, its geometric facets reflecting the city's fractured soul.",
       "narrativist": "As I walked through the rain-soaked streets of Neo-Tokyo, the neon lights of the city's underbelly reflected off the wet pavement, casting an eerie glow on my trenchcoat.",
-      "futurist": "The city's dark soul whispered secrets to the rain, its misty voice a litany of forgotten dreams and the perpetual hunger for a brighter dawn."
+      "futurist": "The city's dark soul whispered secrets to the rain, its misty voice a litany of forgotten dreams and the perpetual hunger for a brighter dawn.",
+      "cosmic_horror": "The city breathes through angles no mind can hold, its streets a dreaming gullet swallowing names, light, and sanity alike."
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -731,6 +805,9 @@
         "structuralist": "A cellular megastructure of ASCII glyphs forms a fragmented, glitch-ridden urban grid dissolving into static.",
         "narrativist": "I jacked into the neon grid, my chrome eyes twitching as static ghosts whispered through the rain-slicked alley.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "cosmic_horror": "The city breathes through angles no mind can hold, its streets a dreaming gullet swallowing names, light, and sanity alike."
       }
     }
   },
@@ -739,7 +816,8 @@
     "voices": {
       "structuralist": "The city's cell pattern emerged as a labyrinthine tapestry of hexagonal structures, each with a unique, intricate geometry that defied conventional architectural norms.",
       "narrativist": "The neon-drenched streets of New Erebo seemed to writhe and twist around me, a living, breathing entity that pulsed with a malevolent energy.",
-      "futurist": "The city's veins pulsed with a dark, electric heartbeat, whispering ancient secrets to the wind, as Kaelin's footsteps echoed through the streets, a siren's call to the shadows that shrouded its soul."
+      "futurist": "The city's veins pulsed with a dark, electric heartbeat, whispering ancient secrets to the wind, as Kaelin's footsteps echoed through the streets, a siren's call to the shadows that shrouded its soul.",
+      "cosmic_horror": "It wears the name city, yet beneath those crawling streets an ancient, nameless"
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -756,6 +834,10 @@
         "structuralist": "A brutalist megastructure of fractured data-spires and glitching monoliths rises from a corrupted, circuit-like urban grid.",
         "narrativist": "Rain-slick chrome reflects a million dead neon signs as I walk these corpse-strewn streets alone.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical megastructures and",
+        "cosmic_horror": "It wears the name city, yet beneath those crawling streets an ancient, nameless"
       }
     }
   },
@@ -764,7 +846,8 @@
     "voices": {
       "structuralist": "The city's labyrinthine sprawl unfolded like a diseased organism, its crumbling spires and rusting skyscrapers a testament to the ravages of time and neglect.",
       "narrativist": "The rain-soaked streets of Neo-Tokyo's undercity gleam like a diseased mirror, reflecting the neon hellscapes that cling to its crumbling skyscrapers like a bad dream.",
-      "futurist": "The city's veins pulse with the rhythm of forgotten dreams, as the streets whisper secrets to the wind, and the skyscrapers devour the night's sweet silence."
+      "futurist": "The city's veins pulse with the rhythm of forgotten dreams, as the streets whisper secrets to the wind, and the skyscrapers devour the night's sweet silence.",
+      "cosmic_horror": "The city breathes beneath ancient stars, its streets writhing like tendrils through dimensions no human mind can survive."
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -781,6 +864,10 @@
         "structuralist": "Brutalist megastructures rise as glyph-like towers, their fractured facades forming a dense, encrypted urban labyrinth of shadow and signal.",
         "narrativist": "Rain-slicked neon bleeds down alleys where chrome-eyed ghosts whisper my name through static and steam.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Rain hisses on neon puddles as my boots splash through alleys, each step echoing beneath flickering signs and distant sirens.",
+        "cosmic_horror": "The city breathes beneath ancient stars, its streets writhing like tendrils through dimensions no human mind can survive."
       }
     }
   },
@@ -789,7 +876,8 @@
     "voices": {
       "structuralist": "In the city's sprawling labyrinth, angular skyscrapers pierced the smog-choked sky, their lattice frameworks a testament to the engineers' meticulous geometry.",
       "narrativist": "I stepped out of the rain-soaked alley, the neon lights of the city's underbelly reflecting off the wet pavement like a diseased rainbow.",
-      "futurist": "As the last remnants of daylight surrendered to the city's eternal night, its veins pulsed with the prophecy: 'I will devour, I will speak, I will dream, and in my darkness, you will be reborn.'"
+      "futurist": "As the last remnants of daylight surrendered to the city's eternal night, its veins pulsed with the prophecy: 'I will devour, I will speak, I will dream, and in my darkness, you will be reborn.'",
+      "lyricist": "Rain glitches down neon alleys, and every flickering sign replays her face like a memory soldered into wet chrome."
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -806,6 +894,9 @@
         "structuralist": "Brutalist megastructures rise from flooded grid-cells, their fractured facades reflecting neon data streams across a decaying cyberpunk metropolis.",
         "narrativist": "Rain slicks the neon gutters as I trace whispers through this labyrinth of chrome and static.",
         "futurist": "The city dreams in neon and eats the lonely, whispering secrets through vents to those who listen."
+      },
+      "composite_lore_v9": {
+        "lyricist": "Rain glitches down neon alleys, and every flickering sign replays her face like a memory soldered into wet chrome."
       }
     }
   },
@@ -814,7 +905,8 @@
     "voices": {
       "structuralist": "The city's lattice-like structure was a labyrinth of intersecting tetrahedrons, each one a self-contained, intricately carved module of angular geometry and precision engineering.",
       "narrativist": "As I step through the rain-soaked streets, the neon lights of the city's underbelly reflect off the wet pavement, a kaleidoscope of color in the dark.",
-      "futurist": "Metropolis, a behemoth, stirs in slumber, her dreams a tapestry of neon lights, her voice a whispered promise of dystopian delights, her hunger a ravenous beast."
+      "futurist": "Metropolis, a behemoth, stirs in slumber, her dreams a tapestry of neon lights, her voice a whispered promise of dystopian delights, her hunger a ravenous beast.",
+      "cosmic_horror": "The city breathes through angles no human eye can parse, its streets a dreaming god whose name we dare not speak"
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -831,6 +923,11 @@
         "structuralist": "A dense grid of glyphs forms towering ziggurat blocks, channeling rain-slicked neon canyons through a brutalist, data-drenched cityscape.",
         "narrativist": "Neon bleeds through acid rain as I ghost past dead arcologies, my wetware humming like a dying prayer.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-drenched monolithic towers, tangled skybridges, and encrypted alleyways frame a rain-slick vertical labyrinth of oppressive corporate geometry.",
+        "narrativist": "I walk through acid rain and neon",
+        "cosmic_horror": "The city breathes through angles no human eye can parse, its streets a dreaming god whose name we dare not speak"
       }
     }
   },
@@ -839,7 +936,9 @@
     "voices": {
       "structuralist": "In the city's labyrinthine sprawl, crumbling skyscrapers pierced the smog-choked sky like jagged teeth, their steel latticeworks a testament to neglect and decay.",
       "narrativist": "I stepped out of the rain-soaked alley and onto the neon-drenched streets of New Eden, the city's perpetual hum of machinery and despair thrumming through my veins.",
-      "futurist": "In the belly of the city, a voice stirs, whispering: 'I am the hunger, the craving, the craving to be reborn, to devour, to dream.'"
+      "futurist": "In the belly of the city, a voice stirs, whispering: 'I am the hunger, the craving, the craving to be reborn, to devour, to dream.'",
+      "lyricist": "Rain stitches neon scars across",
+      "cosmic_horror": "Beyond those cyclopean streets, the city dreams in angles no mind was meant to hold, and it knows you."
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -856,6 +955,11 @@
         "structuralist": "A vertical megalopolis of stacked, glitching data-towers and neon-drenched ziggurats rising from a flooded, circuit-board grid.",
         "narrativist": "Rain slicks the alley\u2019s chrome ribs while a dead man\u2019s neon grin flickers above my boots.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon rain slicks monolithic tenements, while scaffolded megastructures weave shadows through",
+        "lyricist": "Rain stitches neon scars across",
+        "cosmic_horror": "Beyond those cyclopean streets, the city dreams in angles no mind was meant to hold, and it knows you."
       }
     }
   },
@@ -881,6 +985,10 @@
         "structuralist": "A cellular grid of monolithic towers punctuated by encrypted courtyards, where shadowed arcades and neon veins carve brutalist geometry into Noir's rain-slicked, circuit-like urban fabric.",
         "narrativist": "I jack a synapse into the dead motel's static and watch a ghost flicker across the wet neon.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Rain-slick arcologies stack neon tenements over shadow",
+        "narrativist": "I walk through rain-slick alleys, neon"
       }
     }
   },
@@ -914,7 +1022,8 @@
     "voices": {
       "structuralist": "Fractured city cells of steel and neon intertwine, forming a geometrically chaotic, yet rigidly structured, dystopian landscape of interconnected towers and shadowed alleys.",
       "narrativist": "I stepped through the rain-soaked streets, the neon lights of the sprawl's towering skyscrapers reflecting off the wet pavement like a diseased rainbow.",
-      "futurist": "The city's veins pulsed with a melancholy sigh, as its skyscrapers whispered secrets to the wind, and its streets devoured the darkness like a ravenous, eternal beast."
+      "futurist": "The city's veins pulsed with a melancholy sigh, as its skyscrapers whispered secrets to the wind, and its streets devoured the darkness like a ravenous, eternal beast.",
+      "cosmic_horror": "The city is no city but a dreaming abyss whose impossible angles devour reason, and we are merely thoughts it forgets."
     },
     "all_voices_versions": {
       "composite_lore_v4": {
@@ -931,6 +1040,10 @@
         "structuralist": "A cellular grid of monolithic towers and arterial skyways forms a brutalist cyberpunk labyrinth of interlocking geometric volumes.",
         "narrativist": "I jack a synapse into the alley's static hum, neon bleeding pink across wet chrome as the drones pass.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain",
+        "cosmic_horror": "The city is no city but a dreaming abyss whose impossible angles devour reason, and we are merely thoughts it forgets."
       }
     }
   },
@@ -971,6 +1084,10 @@
         "structuralist": "Monolithic data-towers rise from a corrupted grid, their fractured facades encoding the city's decayed structural logic.",
         "narrativist": "Neon bleeds through rain on chrome as I walk past shuttered stalls, counting each breath.",
         "futurist": "The city dreams in neon and eats the memories of those who wander its static veins."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical megastructures stack neon",
+        "narrativist": "I stalk through neon rain as holograms buzz and my wet coat drags cold against the alley's grimy concrete."
       }
     }
   },
@@ -999,7 +1116,8 @@
     "voices": {
       "structuralist": "A labyrinthine cityscape of intersecting parabolas and helical skyscrapers pierced the smog-shrouded horizon, a testament to the architect's twisted genius.",
       "narrativist": "Rain slicked the neon-drenched alley, the scent of synthetic ramen and desperation clinging to the chipped plascrete walls as I tasted static on my tongue.",
-      "futurist": "Here's a prophetic sentence, aiming for the requested tone and length, inspired by the ASCII art:  **The neon arteries pulsed with regret, and New Shanghai whispered forgotten futures in the acid rain.**    I tried to evoke the \"living organism\" feel, focusing on a sense of sentience and decay within the city itself. The rain and neon felt fitting for the cyberpunk noir aesthetic."
+      "futurist": "Here's a prophetic sentence, aiming for the requested tone and length, inspired by the ASCII art:  **The neon arteries pulsed with regret, and New Shanghai whispered forgotten futures in the acid rain.**    I tried to evoke the \"living organism\" feel, focusing on a sense of sentience and decay within the city itself. The rain and neon felt fitting for the cyberpunk noir aesthetic.",
+      "lyricist": "Neon rain stutters down chrome alleys, rewriting her vanished face in every puddle, while memory hums like a broken sign."
     },
     "all_voices_versions": {
       "composite_lore_v6": {
@@ -1011,6 +1129,9 @@
         "structuralist": "Brutalist monoliths and jagged steel canyons frame a fractured grid where light and shadow carve the city's decaying geometry.",
         "narrativist": "I walk the neon rain, where every shadow sells a secret and every secret has teeth.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "lyricist": "Neon rain stutters down chrome alleys, rewriting her vanished face in every puddle, while memory hums like a broken sign."
       }
     }
   },
@@ -1019,7 +1140,9 @@
     "voices": {
       "structuralist": "The skyscraper's lattice-like fa\u00e7ade, a mesh of intersecting hyperbolas and parabolas, seemed to defy gravity, a three-dimensional manifestation of the city's chaotic logic.",
       "narrativist": "Rain slicked the neon-drenched alley, reflecting the fractured glow in oily puddles as the synthetic scent of ramen and regret hung heavy in the air.",
-      "futurist": "Kaelin's Gorge whispered secrets to the rain, its stone teeth gnashing with a hunger that only the city's forgotten souls could satiate."
+      "futurist": "Kaelin's Gorge whispered secrets to the rain, its stone teeth gnashing with a hunger that only the city's forgotten souls could satiate.",
+      "lyricist": "Neon rain bleeds down chrome alleys, each drop a fractured memory of your voice, ghosting through the static of my wire-dreams.",
+      "cosmic_horror": "The city is a vast, dreaming leviathan whose angles gnaw reason and whose streets whisper names no sane mind should ever know."
     },
     "all_voices_versions": {
       "composite_lore_v6": {
@@ -1031,6 +1154,11 @@
         "structuralist": "Modular megastructures tessellate into brutalist urban cells, their crystalline facades fracturing light across labyrinthine arcologies.",
         "narrativist": "Rain-slick chrome reflections fracture the neon signs above as I walk these corpse-strewn alleys alone.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "futurist": "The city breathes through neon veins, dreams in data, eats our memories, and speaks with sirens from its electric throat.",
+        "lyricist": "Neon rain bleeds down chrome alleys, each drop a fractured memory of your voice, ghosting through the static of my wire-dreams.",
+        "cosmic_horror": "The city is a vast, dreaming leviathan whose angles gnaw reason and whose streets whisper names no sane mind should ever know."
       }
     }
   },
@@ -1039,7 +1167,8 @@
     "voices": {
       "structuralist": "In the city's sprawling metropolis, a maze of interconnected skyscrapers formed a labyrinthine architecture, with angular lines and geometric patterns dominating the urban landscape.",
       "narrativist": "As I walk through the rain-soaked streets of New Eden, the neon signs reflecting off the wet pavement cast an eerie glow on my battered leather jacket.",
-      "futurist": "The city's ancient heart beats with a whispered prophecy: 'In darkness, we find the light that nourishes our eternal hunger'."
+      "futurist": "The city's ancient heart beats with a whispered prophecy: 'In darkness, we find the light that nourishes our eternal hunger'.",
+      "noir_classic": "The neon rain came down like broken promises, and I was the only fool in this chrome city"
     },
     "all_voices_versions": {
       "composite_lore_v6": {
@@ -1051,6 +1180,10 @@
         "structuralist": "Modular black monoliths with perforated facades rise from a flooded grid, their jagged silhouettes fracturing neon reflections across submerged arterial streets.",
         "narrativist": "Rain-slicked neon bleeds across my visor as I trace the dead courier's final ping through dripping alley static.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I taste copper rain on my lips as neon bleeds across wet chrome, and my boots click through alleys that never sleep.",
+        "noir_classic": "The neon rain came down like broken promises, and I was the only fool in this chrome city"
       }
     }
   },
@@ -1071,6 +1204,9 @@
         "structuralist": "A cellular grid of monolithic towers and skybridges forms a dense, decaying cyberpunk megastructure bathed in neon and shadow.",
         "narrativist": "Neon bleeds across wet asphalt where I walk, each footstep a whispered secret in this chrome graveyard.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Stacked arcologies pierce neon rain, their black"
       }
     }
   },
@@ -1078,7 +1214,7 @@
     "seed": 309645,
     "voices": {
       "structuralist": "A sprawling metropolis of interconnected, organically-grown skyscrapers and labyrinthine streets, its architecture a symphony of angles and curves in perpetual, dystopian decay.",
-      "narrativist": "The rain-soaked streets of Neo-Eden glisten like a diseased mirror, reflecting the desperation that seeps from every crumbling concrete pillar.",
+      "narrativist": "I stalk rain-slick alleys, neon bleeding across chrome skin, each footstep splashing electric puddles beneath the city\u2019s humming, watchful gaze.",
       "futurist": "The city exhales neon vapors as its veins pulse with stolen dreams, whispering through rusted alleys: *feed me your sins, and I\u2019ll spit back tomorrow\u2019s ghosts.*"
     },
     "all_voices_versions": {
@@ -1091,6 +1227,11 @@
         "structuralist": "A cellular grid of monolithic towers rises from the datascape, their jagged crowns dissolving into signal noise and static.",
         "narrativist": "Neon bleeds through the rain as I walk past the dead-eyed mannequins of this broken city.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe like lungs."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical megastructures puncture neon smog, their labyrinthine skybridges stitching brutalist tenements",
+        "narrativist": "I stalk rain-slick alleys, neon bleeding across chrome skin, each footstep splashing electric puddles beneath the city\u2019s humming, watchful gaze.",
+        "futurist": "The city breathes through your lungs, dreams through your screens, eats your memories, and speaks in neon tongues you will soon forget."
       }
     }
   },
@@ -1099,7 +1240,10 @@
     "voices": {
       "structuralist": "In the city's labyrinthine sprawl, towering skyscrapers pierced the smog-filled sky, their angular silhouettes a testament to the architect's obsessive pursuit of geometric perfection.",
       "narrativist": "The neon-drenched streets of New Erebo sprawl out before me like a diseased flesh, the stench of desperation and smoke hanging heavy in the air.",
-      "futurist": "The city's dark lungs wheezed, exhaling a sigh of despair as its streets whispered secrets to the wind, a perpetual requiem for a forgotten soul."
+      "futurist": "The city's dark lungs wheezed, exhaling a sigh of despair as its streets whispered secrets to the wind, a perpetual requiem for a forgotten soul.",
+      "lyricist": "Rain writes dead names in neon across chrome puddles while memory",
+      "noir_classic": "The acid rain washed the chrome off this city\u2019s smile, leaving a dirty neon fix for a junkie we both knew was dead.",
+      "cosmic_horror": "The city breathes beneath streets, an archaic god whose angles devour thought, and we are merely fleeting dreams within its unknowable flesh."
     },
     "all_voices_versions": {
       "composite_lore_v6": {
@@ -1111,6 +1255,13 @@
         "structuralist": "A dense, nocturnal grid of monolithic towers and jagged street canyons forms a fractured, neon-lit urban labyrinth.",
         "narrativist": "Rain-slick chrome reflects the noodle bar's neon hum as I jack my deck into the alley's cold, waiting vein.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Blackened modular towers, rain-slick arcologies, and layered transit decks entangle cramped alleys beneath corporate spires, framing a vertical",
+        "narrativist": "I stalk through neon rain, chrome boots splashing oily puddles while holograms flicker and distant sirens hum against my gritty teeth.",
+        "lyricist": "Rain writes dead names in neon across chrome puddles while memory",
+        "noir_classic": "The acid rain washed the chrome off this city\u2019s smile, leaving a dirty neon fix for a junkie we both knew was dead.",
+        "cosmic_horror": "The city breathes beneath streets, an archaic god whose angles devour thought, and we are merely fleeting dreams within its unknowable flesh."
       }
     }
   },
@@ -1119,7 +1270,8 @@
     "voices": {
       "structuralist": "In the sprawling metropolis, skyscrapers of intersecting crystalline structures pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of geometric perfection.",
       "narrativist": "Rain slicked the neon-drenched alley, each drop reflecting the fractured glow as the scent of synthetic ramen and regret clung to my trench coat.",
-      "futurist": "The city's veins pulsed with the rhythm of forgotten melodies, its streets whispering ancient secrets to the wind that rustled its ancient leaves."
+      "futurist": "The city's veins pulsed with the rhythm of forgotten melodies, its streets whispering ancient secrets to the wind that rustled its ancient leaves.",
+      "cosmic_horror": "The city breathes through angles no mind can map, its streets whispering truths that shatter sanity like brittle bone."
     },
     "all_voices_versions": {
       "composite_lore_v6": {
@@ -1131,6 +1283,10 @@
         "structuralist": "Brutalist megastructures fracture into recursive ASCII grids where cathedral spires dissolve into glitching datastreams and neon-drenched alleyways.",
         "narrativist": "I jack a fresh spike into my cortex, chrome ghosts flickering past rain-slicked data-veins as the city hums its static.",
         "futurist": "The city dreams in neon and devours the lonely, whispering secrets to those who listen."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Dense monoliths of wet concrete and tangled neon wiring cage the street in vertical canyons, where every window flickers like a failing memory.",
+        "cosmic_horror": "The city breathes through angles no mind can map, its streets whispering truths that shatter sanity like brittle bone."
       }
     }
   },
@@ -1199,7 +1355,8 @@
     "voices": {
       "structuralist": "The city\u2019s jagged neon grids weave a labyrinth of fractured geometry, where towering monoliths and cascading X-patterns collapse into a chaotic dance of light and steel.",
       "narrativist": "I breathe in the acrid scent of rain-soaked streets, neon signs, and desperation, my eyes scanning the crowded, dystopian metropolis for a glimpse of the truth.",
-      "futurist": "The city\u2019s veins pulse with neon, its breath a choking cloud of exhaust and whispers, its dreams devoured by the endless hunger of progress."
+      "futurist": "The city\u2019s veins pulse with neon, its breath a choking cloud of exhaust and whispers, its dreams devoured by the endless hunger of progress.",
+      "noir_classic": "Rain slicked the neon gutters of this chrome-plated hell, and I was the only fool still chasing ghosts for rent money."
     },
     "all_voices_versions": {
       "composite_lore_v6": {
@@ -1211,6 +1368,9 @@
         "structuralist": "Modular megastructures erupt from a glyph-scarred grid, their jagged crowns and mirrored facades encoding a fractured, data-dense urban topology.",
         "narrativist": "Rain slicks the alley's neon scars as I jack a dead man's chrome under acid sky.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "noir_classic": "Rain slicked the neon gutters of this chrome-plated hell, and I was the only fool still chasing ghosts for rent money."
       }
     }
   },
@@ -1293,14 +1453,23 @@
     "seed": 3289967,
     "voices": {
       "structuralist": "Monolithic brutalist towers rise from a flooded grid, their jagged facades pierced by neon glyphs and decaying data streams.",
-      "narrativist": "I push through the static-hissed crowd, neon bleeding across wet chrome faces that never once look up.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates like whispered prayers."
+      "narrativist": "I walk through neon rain, my boots splashing oily puddles while holograms flicker across wet chrome and distant sirens hum.",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates like whispered prayers.",
+      "lyricist": "Neon rain stitches",
+      "noir_classic": "The rain in Sector 9 falls acid-hot, and every neon promise hides a knife.",
+      "cosmic_horror": "The city dreams in angles no mind should endure, its streets devouring thought and memory beneath a black, indifferent sky."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Monolithic brutalist towers rise from a flooded grid, their jagged facades pierced by neon glyphs and decaying data streams.",
         "narrativist": "I push through the static-hissed crowd, neon bleeding across wet chrome faces that never once look up.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates like whispered prayers."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I walk through neon rain, my boots splashing oily puddles while holograms flicker across wet chrome and distant sirens hum.",
+        "lyricist": "Neon rain stitches",
+        "noir_classic": "The rain in Sector 9 falls acid-hot, and every neon promise hides a knife.",
+        "cosmic_horror": "The city dreams in angles no mind should endure, its streets devouring thought and memory beneath a black, indifferent sky."
       }
     }
   },
@@ -1309,13 +1478,17 @@
     "voices": {
       "structuralist": "A vertical lattice of encrypted towers rises from a flooded grid, where circuitry and rain dissolve into neon-lit Brutalist monoliths.",
       "narrativist": "Rain slicks the alley chrome as I jack a dead courier's spine, praying the syndicate drones don't scan my face.",
-      "futurist": "The city dreams in neon and eats the static of broken souls, whispering prophecies through cracked screens."
+      "futurist": "The city dreams in neon and eats the static of broken souls, whispering prophecies through cracked screens.",
+      "noir_classic": "The rain fell like cheap acid, the neon bled pink, and the city had already sold me out twice before breakfast."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A vertical lattice of encrypted towers rises from a flooded grid, where circuitry and rain dissolve into neon-lit Brutalist monoliths.",
         "narrativist": "Rain slicks the alley chrome as I jack a dead courier's spine, praying the syndicate drones don't scan my face.",
         "futurist": "The city dreams in neon and eats the static of broken souls, whispering prophecies through cracked screens."
+      },
+      "composite_lore_v9": {
+        "noir_classic": "The rain fell like cheap acid, the neon bled pink, and the city had already sold me out twice before breakfast."
       }
     }
   },
@@ -1323,44 +1496,62 @@
     "seed": 152417070,
     "voices": {
       "structuralist": "Brutalist megastructures erupt in ASCII grids, their jagged data-towers and fractured facades encoding a decaying cyberpunk metropolis.",
-      "narrativist": "Rain slicks the alley chrome as I ghost past dead neon and the static hum of watchers.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering secrets through rusted vents to no one."
+      "narrativist": "I stalk through rain-slick neon alleys, my bootsteps echoing off chrome, while ozone and stale synth-ram",
+      "futurist": "The city dreams in neon and eats the lonely, whispering secrets through rusted vents to no one.",
+      "cosmic_horror": "The city breathes in angles no mind can map, its streets devouring reason before thought can flee."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist megastructures erupt in ASCII grids, their jagged data-towers and fractured facades encoding a decaying cyberpunk metropolis.",
         "narrativist": "Rain slicks the alley chrome as I ghost past dead neon and the static hum of watchers.",
         "futurist": "The city dreams in neon and eats the lonely, whispering secrets through rusted vents to no one."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-lit megastructures rise from rain-slick alleys, their blackened steel, glass, and data conduits carving a",
+        "narrativist": "I stalk through rain-slick neon alleys, my bootsteps echoing off chrome, while ozone and stale synth-ram",
+        "cosmic_horror": "The city breathes in angles no mind can map, its streets devouring reason before thought can flee."
       }
     }
   },
   {
     "seed": 11414805,
     "voices": {
-      "structuralist": "A fractured grid of monolithic data-towers rises through static, their jagged silhouettes encoding a decaying cyberpunk cityscape.",
+      "structuralist": "Vertical megastructures twist through neon rain, their armored balconies and data conduits fencing citizens inside brutalist canyons.",
       "narrativist": "I jack a stolen spike into my skull while neon bleeds through acid rain and dead chrome.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "Beneath those cyclopean avenues, the city dreams in angles no mind was meant to hold, and its streets devour reason like"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A fractured grid of monolithic data-towers rises through static, their jagged silhouettes encoding a decaying cyberpunk cityscape.",
         "narrativist": "I jack a stolen spike into my skull while neon bleeds through acid rain and dead chrome.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical megastructures twist through neon rain, their armored balconies and data conduits fencing citizens inside brutalist canyons.",
+        "cosmic_horror": "Beneath those cyclopean avenues, the city dreams in angles no mind was meant to hold, and its streets devour reason like"
       }
     }
   },
   {
     "seed": 16777171,
     "voices": {
-      "structuralist": "Monolithic data-temples rise in staggered brutalist clusters, their fractured facades pierced by neon circuitry and shadowed by perpetual rain.",
+      "structuralist": "Vertical tenements and monolithic data spires rise from rain-slick alleys, their fractured facades wired with neon veins and shadowed, oppressive geometry",
       "narrativist": "Neon bleeds across wet asphalt as I trace the alley's spine, rain kissing chrome and decay.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city is not built but dreaming, its angles gnawing at reason as we crawl through streets never meant for human"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Monolithic data-temples rise in staggered brutalist clusters, their fractured facades pierced by neon circuitry and shadowed by perpetual rain.",
         "narrativist": "Neon bleeds across wet asphalt as I trace the alley's spine, rain kissing chrome and decay.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical tenements and monolithic data spires rise from rain-slick alleys, their fractured facades wired with neon veins and shadowed, oppressive geometry",
+        "narrativist": "I stalk through neon rain, my boots hissing on wet chrome as sirens bleed through the smog.",
+        "futurist": "The city breathes through neon veins, dreams in",
+        "cosmic_horror": "The city is not built but dreaming, its angles gnawing at reason as we crawl through streets never meant for human"
       }
     }
   },
@@ -1369,13 +1560,19 @@
     "voices": {
       "structuralist": "Brutalist modular megastructures rise from a flooded grid, their jagged towers pierced by neon data-streams and shadowed by decay.",
       "narrativist": "I walk through the neon-lit rain, my chrome hand twitching as the city's static hums beneath my skin.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through static and rain."
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through static and rain.",
+      "lyricist": "Rain writes dead names in neon across the glass, and every drop remembers a face I failed to save.",
+      "cosmic_horror": "The city is a dreaming leviathan whose streets coil through dimensions no human mind can endure, whispering forbidden names beneath black stars."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist modular megastructures rise from a flooded grid, their jagged towers pierced by neon data-streams and shadowed by decay.",
         "narrativist": "I walk through the neon-lit rain, my chrome hand twitching as the city's static hums beneath my skin.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through static and rain."
+      },
+      "composite_lore_v9": {
+        "lyricist": "Rain writes dead names in neon across the glass, and every drop remembers a face I failed to save.",
+        "cosmic_horror": "The city is a dreaming leviathan whose streets coil through dimensions no human mind can endure, whispering forbidden names beneath black stars."
       }
     }
   },
@@ -1384,13 +1581,21 @@
     "voices": {
       "structuralist": "A vertical grid of monolithic towers rises from a flooded, circuit-like ground plane, their fragmented facades forming a brutalist, dystopian cityscape.",
       "narrativist": "Rain-slick chrome reflects the noodle bar's neon as I trace the target through this labyrinth of hungry, humming shadows.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe like lungs."
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe like lungs.",
+      "lyricist": "Neon rain dissolves your name into alley puddles where memory hums like",
+      "noir_classic": "The rain was acid, the dame was chrome, and the city had already sold my soul for spare parts."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A vertical grid of monolithic towers rises from a flooded, circuit-like ground plane, their fragmented facades forming a brutalist, dystopian cityscape.",
         "narrativist": "Rain-slick chrome reflects the noodle bar's neon as I trace the target through this labyrinth of hungry, humming shadows.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe like lungs."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Monolithic data-spires and cramped alley canyons form a rain-slick noir grid where neon signage, concrete, and hidden",
+        "futurist": "The neon veins remember your name, and the rain will taste of copper when the city swall",
+        "lyricist": "Neon rain dissolves your name into alley puddles where memory hums like",
+        "noir_classic": "The rain was acid, the dame was chrome, and the city had already sold my soul for spare parts."
       }
     }
   },
@@ -1398,14 +1603,20 @@
     "seed": 99310068,
     "voices": {
       "structuralist": "The city's fractured grid dissolves into a recursive lattice of glitching data-towers, where corrupted code and neon ruins intertwine.",
-      "narrativist": "Rain-slick neon bleeds across the alley as I jack my deck into the dead man's spine.",
-      "futurist": "The city dreams in neon and eats the static between heartbeats, whispering your name to the rain."
+      "narrativist": "I stalk through rain-slick alleys as neon bleeds across chrome, each footstep echoing against the city\u2019s rusted, humming dark.",
+      "futurist": "The city breathes through neon veins, dreams in encrypted rain, eats your memories, and speaks your name in dead frequencies.",
+      "cosmic_horror": "The city is a dreaming abyss whose angles devour reason, and its streets whisper names no human mind was ever meant to know."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "The city's fractured grid dissolves into a recursive lattice of glitching data-towers, where corrupted code and neon ruins intertwine.",
         "narrativist": "Rain-slick neon bleeds across the alley as I jack my deck into the dead man's spine.",
         "futurist": "The city dreams in neon and eats the static between heartbeats, whispering your name to the rain."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through rain-slick alleys as neon bleeds across chrome, each footstep echoing against the city\u2019s rusted, humming dark.",
+        "futurist": "The city breathes through neon veins, dreams in encrypted rain, eats your memories, and speaks your name in dead frequencies.",
+        "cosmic_horror": "The city is a dreaming abyss whose angles devour reason, and its streets whisper names no human mind was ever meant to know."
       }
     }
   },
@@ -1414,13 +1625,17 @@
     "voices": {
       "structuralist": "A monolithic ziggurat of stacked, crystalline masses rises from the digital grid, its brutalist geometry pierced by cascading data-streams and flickering neon glyphs.",
       "narrativist": "Neon bleeds through acid rain as I trace the dead man's spine of this corrupted alley.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city breathes neon through cracked arteries, and we are its dreaming antibodies, eating static, speaking prophecy into rain."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A monolithic ziggurat of stacked, crystalline masses rises from the digital grid, its brutalist geometry pierced by cascading data-streams and flickering neon glyphs.",
         "narrativist": "Neon bleeds through acid rain as I trace the dead man's spine of this corrupted alley.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical arcologies stitch rain-slick skyways into brutalist canyons, their encrypted facades feeding power to a sleepless, neon-drowned metropolis.",
+        "futurist": "The city breathes neon through cracked arteries, and we are its dreaming antibodies, eating static, speaking prophecy into rain."
       }
     }
   },
@@ -1429,13 +1644,16 @@
     "voices": {
       "structuralist": "A dense grid of monolithic towers rises from liquid data, their fragmented facades reflecting neon and decay.",
       "narrativist": "I jack my deck into the wet neon spine of the city, chasing a ghost through the static.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city breathes through neon veins, dreams in encrypted rain, eats our shadows, and speaks through broken sire"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A dense grid of monolithic towers rises from liquid data, their fragmented facades reflecting neon and decay.",
         "narrativist": "I jack my deck into the wet neon spine of the city, chasing a ghost through the static.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "futurist": "The city breathes through neon veins, dreams in encrypted rain, eats our shadows, and speaks through broken sire"
       }
     }
   },
@@ -1444,13 +1662,17 @@
     "voices": {
       "structuralist": "A sprawling modular grid of monolithic towers and crystalline voids forms a fractured, neon-drenched urban labyrinth of recursive density.",
       "narrativist": "Rain-slick chrome reflections shiver under my boots as neon kanji bleed through the alley's static haze.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling shadows that whisper your name."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling shadows that whisper your name.",
+      "cosmic_horror": "The city is a vast, nameless god whose streets shift like fevered dreams, devouring all who dare to comprehend its impossible angles."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A sprawling modular grid of monolithic towers and crystalline voids forms a fractured, neon-drenched urban labyrinth of recursive density.",
         "narrativist": "Rain-slick chrome reflections shiver under my boots as neon kanji bleed through the alley's static haze.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling shadows that whisper your name."
+      },
+      "composite_lore_v9": {
+        "cosmic_horror": "The city is a vast, nameless god whose streets shift like fevered dreams, devouring all who dare to comprehend its impossible angles."
       }
     }
   },
@@ -1458,14 +1680,21 @@
     "seed": 5659,
     "voices": {
       "structuralist": "A vertical megastructure grid of blackened spires and luminous data veins, its brutalist skeleton carved by rain and neon.",
-      "narrativist": "I jack a stolen credstick into the dead terminal while acid rain eats the neon sign above me.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "narrativist": "Rain hisses on neon puddles as I walk, my synth-leather coat dragging through steam and holographic ads.",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "noir_classic": "The rain in this chrome-plated hell is just the city crying for its lost soul, and I'm the only one left to listen.",
+      "cosmic_horror": "It has no name I dare speak, this city of writhing spires, whose streets lead only inward, toward something vast and awake."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A vertical megastructure grid of blackened spires and luminous data veins, its brutalist skeleton carved by rain and neon.",
         "narrativist": "I jack a stolen credstick into the dead terminal while acid rain eats the neon sign above me.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Rain hisses on neon puddles as I walk, my synth-leather coat dragging through steam and holographic ads.",
+        "noir_classic": "The rain in this chrome-plated hell is just the city crying for its lost soul, and I'm the only one left to listen.",
+        "cosmic_horror": "It has no name I dare speak, this city of writhing spires, whose streets lead only inward, toward something vast and awake."
       }
     }
   },
@@ -1474,13 +1703,19 @@
     "voices": {
       "structuralist": "Brutalist modular megastructures rise in fragmented crystalline clusters, their jagged silhouettes pierced by neon-lit interstitial voids and rain-slicked reflective surfaces.",
       "narrativist": "Rain hisses on neon, and I count the alley's teeth while something watches from the static between signs.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys.",
+      "noir_classic": "Neon rain slicked the chrome alleys, and her case smelled like money, malware, and a bullet with my name on it."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist modular megastructures rise in fragmented crystalline clusters, their jagged silhouettes pierced by neon-lit interstitial voids and rain-slicked reflective surfaces.",
         "narrativist": "Rain hisses on neon, and I count the alley's teeth while something watches from the static between signs.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical neon canyons, stacked tenements, and rain-slick megastructures frame a suffocating grid where shadowy alleys and corporate spires collide.",
+        "narrativist": "I stride through neon drizzle, chrome reflections shivering under my boots as distant sirens hum beneath",
+        "noir_classic": "Neon rain slicked the chrome alleys, and her case smelled like money, malware, and a bullet with my name on it."
       }
     }
   },
@@ -1489,13 +1724,17 @@
     "voices": {
       "structuralist": "Brutalist data-towers rise from a flooded grid, their fractured facades reflecting neon static across a submerged cyberpunk cityscape.",
       "narrativist": "I walk the wet alley where neon bleeds across broken asphalt and dead eyes watch.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "Beneath cyclopean towers"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist data-towers rise from a flooded grid, their fractured facades reflecting neon static across a submerged cyberpunk cityscape.",
         "narrativist": "I walk the wet alley where neon bleeds across broken asphalt and dead eyes watch.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "cosmic_horror": "Beneath cyclopean towers"
       }
     }
   },
@@ -1503,14 +1742,19 @@
     "seed": 60575860,
     "voices": {
       "structuralist": "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid.",
-      "narrativist": "I walk the wet street, neon glyphs bleeding into puddles, my shadow just another ghost in this chrome graveyard.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "narrativist": "I taste neon rain on my lips while my boots click through alleys where holograms bleed and chrome shadows follow.",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city breathes behind angles no mind can hold, its streets dreaming us into nameless aeons"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid.",
         "narrativist": "I walk the wet street, neon glyphs bleeding into puddles, my shadow just another ghost in this chrome graveyard.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I taste neon rain on my lips while my boots click through alleys where holograms bleed and chrome shadows follow.",
+        "cosmic_horror": "The city breathes behind angles no mind can hold, its streets dreaming us into nameless aeons"
       }
     }
   },
@@ -1533,7 +1777,7 @@
     "seed": 2540836,
     "voices": {
       "structuralist": "Modular ziggurat cells stack into brutalist towers, their circuit-etched facades forming a decentralized, self-replicating urban lattice.",
-      "narrativist": "Rain hisses on neon, and I count three tails in the chrome before my hand moves.",
+      "narrativist": "Rain hisses on my chrome shoulders as neon bleeds across wet asphalt, and my boots crunch shattered glass while I walk.",
       "futurist": "The city dreams in neon and devours the lonely, whispering secrets through steam vents to no one."
     },
     "all_voices_versions": {
@@ -1541,6 +1785,9 @@
         "structuralist": "Modular ziggurat cells stack into brutalist towers, their circuit-etched facades forming a decentralized, self-replicating urban lattice.",
         "narrativist": "Rain hisses on neon, and I count three tails in the chrome before my hand moves.",
         "futurist": "The city dreams in neon and devours the lonely, whispering secrets through steam vents to no one."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Rain hisses on my chrome shoulders as neon bleeds across wet asphalt, and my boots crunch shattered glass while I walk."
       }
     }
   },
@@ -1549,73 +1796,108 @@
     "voices": {
       "structuralist": "A cellular grid of monolithic towers rises through layered fog, their faceted forms etched with luminous data-streams and shadowed arterial streets.",
       "narrativist": "Rain slicks the alley chrome as I jack a dead courier's spine, praying the Black Ice hasn't noticed me yet.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "lyricist": "Rain stitches neon ghosts to wet chrome, and every flickering sign remembers a face I sold to the night."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A cellular grid of monolithic towers rises through layered fog, their faceted forms etched with luminous data-streams and shadowed arterial streets.",
         "narrativist": "Rain slicks the alley chrome as I jack a dead courier's spine, praying the Black Ice hasn't noticed me yet.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Monolithic arcologies rise through acid rain, their neon-veined facades and labyrinthine skybridges carving a stratified,",
+        "narrativist": "I stalk through neon rain as holographic ghosts flicker across wet asphalt, my boots",
+        "lyricist": "Rain stitches neon ghosts to wet chrome, and every flickering sign remembers a face I sold to the night."
       }
     }
   },
   {
     "seed": 38155762,
     "voices": {
-      "structuralist": "A cellular grid of monolithic towers punctuated by a central void, forming a brutalist, fragmented urban matrix.",
+      "structuralist": "Monolithic data-temples rise above flooded alleys, their black glass spines threading neon cables through decaying megast",
       "narrativist": "Rain hisses on neon, and I count the watchers hidden in every gutter before I move.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "lyricist": "Neon rain dissolves your name across chrome skulls, while memory flickers like a dying hologram in flooded gutters.",
+      "cosmic_horror": "The city sprawls beyond geometry, its angles whispering in tongues that erode reason, and I fear it dreams us into its endless, nameless alleys."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A cellular grid of monolithic towers punctuated by a central void, forming a brutalist, fragmented urban matrix.",
         "narrativist": "Rain hisses on neon, and I count the watchers hidden in every gutter before I move.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Monolithic data-temples rise above flooded alleys, their black glass spines threading neon cables through decaying megast",
+        "lyricist": "Neon rain dissolves your name across chrome skulls, while memory flickers like a dying hologram in flooded gutters.",
+        "cosmic_horror": "The city sprawls beyond geometry, its angles whispering in tongues that erode reason, and I fear it dreams us into its endless, nameless alleys."
       }
     }
   },
   {
     "seed": 5351356,
     "voices": {
-      "structuralist": "A vertical lattice of pixelated towers rises from a submerged grid, framing shadowed voids between monolithic data blocks.",
+      "structuralist": "Vertical monoliths, jagged neon lattice, and armored arcologies compress the city cell into a noir canyon of surveillance, decay, and electric rain.",
       "narrativist": "I jack my deck into the public port, neon rain hissing against my chrome as ICE crawls beneath the static.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "lyricist": "Chrome rain streaks down a neon-soaked alley where your ghost flickers in the static of a dying memory.",
+      "cosmic_horror": "The city is no place but a dreaming leviathan whose angles wound reason and whose streets whisper names no mind was meant to hold."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A vertical lattice of pixelated towers rises from a submerged grid, framing shadowed voids between monolithic data blocks.",
         "narrativist": "I jack my deck into the public port, neon rain hissing against my chrome as ICE crawls beneath the static.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical monoliths, jagged neon lattice, and armored arcologies compress the city cell into a noir canyon of surveillance, decay, and electric rain.",
+        "narrativist": "I walk through neon",
+        "lyricist": "Chrome rain streaks down a neon-soaked alley where your ghost flickers in the static of a dying memory.",
+        "cosmic_horror": "The city is no place but a dreaming leviathan whose angles wound reason and whose streets whisper names no mind was meant to hold."
       }
     }
   },
   {
     "seed": 21037341,
     "voices": {
-      "structuralist": "A vertical fortress of stacked, glitching data-spires rises from a flooded, neon-scarred urban grid.",
-      "narrativist": "Rain-slicked neon bleeds across the alley as I trace your ghost through static and cheap synthetic whiskey.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe like lungs."
+      "structuralist": "A monolithic cyberpunk cell rises in jagged vertical strata, its neon-veined fa\u00e7ade and cramped alleyways framing a rain-slicked noir metropolis.",
+      "narrativist": "In my cracked chrome reflection, neon rain bleeds across wet asphalt while my boots grind through yesterday's static.",
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe like lungs.",
+      "noir_classic": "Rain fell like dead neon on a city that sold its soul for spare parts, and I was just another ghost with a badge."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A vertical fortress of stacked, glitching data-spires rises from a flooded, neon-scarred urban grid.",
         "narrativist": "Rain-slicked neon bleeds across the alley as I trace your ghost through static and cheap synthetic whiskey.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe like lungs."
+      },
+      "composite_lore_v9": {
+        "structuralist": "A monolithic cyberpunk cell rises in jagged vertical strata, its neon-veined fa\u00e7ade and cramped alleyways framing a rain-slicked noir metropolis.",
+        "narrativist": "In my cracked chrome reflection, neon rain bleeds across wet asphalt while my boots grind through yesterday's static.",
+        "noir_classic": "Rain fell like dead neon on a city that sold its soul for spare parts, and I was just another ghost with a badge."
       }
     }
   },
   {
     "seed": 509,
     "voices": {
-      "structuralist": "Brutalist megastructures erupt through fractured grid streets, their jagged spires and shadowed canyons encoding density, decay, and vertical power.",
-      "narrativist": "I jack a stim from my wrist port while neon bleeds through the acid rain onto chrome.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling static prayers through vents that never sleep."
+      "structuralist": "Neon-lit megastructures rise in dense layered blocks, their shattered facades and labyrinthine alleys framing a rain-soaked, surveillance-choked cyberpunk metropolis.",
+      "narrativist": "I stalk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum against chrome.",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling static prayers through vents that never sleep.",
+      "noir_classic": "The rain fell like cheap neon, and I was the only sap in this chrome city who still gave a damn.",
+      "cosmic_horror": "The city is an unknowable god dreaming in"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist megastructures erupt through fractured grid streets, their jagged spires and shadowed canyons encoding density, decay, and vertical power.",
         "narrativist": "I jack a stim from my wrist port while neon bleeds through the acid rain onto chrome.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling static prayers through vents that never sleep."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-lit megastructures rise in dense layered blocks, their shattered facades and labyrinthine alleys framing a rain-soaked, surveillance-choked cyberpunk metropolis.",
+        "narrativist": "I stalk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum against chrome.",
+        "noir_classic": "The rain fell like cheap neon, and I was the only sap in this chrome city who still gave a damn.",
+        "cosmic_horror": "The city is an unknowable god dreaming in"
       }
     }
   },
@@ -1623,29 +1905,43 @@
     "seed": 44279,
     "voices": {
       "structuralist": "A sprawling necropolis of shattered geometric monoliths, tangled in a dense lattice of data conduits and decaying infrastructure.",
-      "narrativist": "I trace wet neon glyphs through the alley's static hum, my optic feed glitching on her ghost.",
-      "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      "narrativist": "I stalk through neon rain, my boots splashing oily puddles while holographic ads buzz static against my soaked coat.",
+      "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city breathes through angles no human eye can parse, a vast nameless god dreaming our streets into squamous, half-remembered existence."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A sprawling necropolis of shattered geometric monoliths, tangled in a dense lattice of data conduits and decaying infrastructure.",
         "narrativist": "I trace wet neon glyphs through the alley's static hum, my optic feed glitching on her ghost.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain, my boots splashing oily puddles while holographic ads buzz static against my soaked coat.",
+        "cosmic_horror": "The city breathes through angles no human eye can parse, a vast nameless god dreaming our streets into squamous, half-remembered existence."
       }
     }
   },
   {
     "seed": 49789,
     "voices": {
-      "structuralist": "Brutalist arcologies rise as jagged glyph-towers, their fractured facades encoding a sprawling, asymmetric megastructure of interlocking urban cells.",
+      "structuralist": "Towering brutalist monoliths, tangled skybridges, and neon-lit tenements form a stratified cyberpunk city cell where power flows upward and shadows pool below.",
       "narrativist": "Rain-slick neon bleeds across my visor as I weave through the static-choked crowd of chrome and flesh.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "Listen: the city breathes through neon veins, dreams in data, eats your memories, and speaks through rain\u2014repent before its heartbeat becomes your own.",
+      "noir_classic": "The neon rain fell like cheap chrome, and she walked in with trouble in her eyes.",
+      "cosmic_horror": "The city is no place but a breathing abyss, its geometry gnawing at reason until I am its mouth."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist arcologies rise as jagged glyph-towers, their fractured facades encoding a sprawling, asymmetric megastructure of interlocking urban cells.",
         "narrativist": "Rain-slick neon bleeds across my visor as I weave through the static-choked crowd of chrome and flesh.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Towering brutalist monoliths, tangled skybridges, and neon-lit tenements form a stratified cyberpunk city cell where power flows upward and shadows pool below.",
+        "narrativist": "I stalk through neon drizzle as slick chrome shadows flicker across my soaked coat and buzzing signs.",
+        "futurist": "Listen: the city breathes through neon veins, dreams in data, eats your memories, and speaks through rain\u2014repent before its heartbeat becomes your own.",
+        "noir_classic": "The neon rain fell like cheap chrome, and she walked in with trouble in her eyes.",
+        "cosmic_horror": "The city is no place but a breathing abyss, its geometry gnawing at reason until I am its mouth."
       }
     }
   },
@@ -1654,13 +1950,17 @@
     "voices": {
       "structuralist": "A vertical megastructure grid of monolithic towers connected by skybridges, forming a dense, layered cyberpunk cityscape.",
       "narrativist": "Rain slicks the alley's chrome ribs as I ghost past dead neon and the city's electric hum.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city is a slumbering god whose angles unmake reason, and its streets whisper names no human mind can hold."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A vertical megastructure grid of monolithic towers connected by skybridges, forming a dense, layered cyberpunk cityscape.",
         "narrativist": "Rain slicks the alley's chrome ribs as I ghost past dead neon and the city's electric hum.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "cosmic_horror": "The city is a slumbering god whose angles unmake reason, and its streets whisper names no human mind can hold."
       }
     }
   },
@@ -1669,28 +1969,39 @@
     "voices": {
       "structuralist": "Brutalist arcologies rise as monolithic ziggurats, their jagged facades pierced by neon grids and shadowed courtyards.",
       "narrativist": "Rain hisses on neon signs while I trace wet alley seams past dead chrome eyes.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering secrets through subway vents to no one."
+      "futurist": "The city dreams in neon and eats the lonely, whispering secrets through subway vents to no one.",
+      "cosmic_horror": "Beneath squamous spires, the city breathes through angles no mind should know, devouring thought as we crawl through its dreaming streets."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist arcologies rise as monolithic ziggurats, their jagged facades pierced by neon grids and shadowed courtyards.",
         "narrativist": "Rain hisses on neon signs while I trace wet alley seams past dead chrome eyes.",
         "futurist": "The city dreams in neon and eats the lonely, whispering secrets through subway vents to no one."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Beneath acid rain and neon haze, brutalist megatowers and labyrinthine sky",
+        "cosmic_horror": "Beneath squamous spires, the city breathes through angles no mind should know, devouring thought as we crawl through its dreaming streets."
       }
     }
   },
   {
     "seed": 1015,
     "voices": {
-      "structuralist": "A dense, glitching grid of monolithic towers and stitched alleyways forms a fractured, neon-drenched labyrinth of vertical surveillance.",
+      "structuralist": "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament.",
       "narrativist": "I walk the wet alley where neon bleeds through broken signs and the rain tastes like copper.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through steam vents like prayers."
+      "futurist": "Beneath neon veins, the city dreams, eats your memories, speaks through static, and breathes your name into",
+      "lyricist": "Rain needles neon through chrome alleys while your"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A dense, glitching grid of monolithic towers and stitched alleyways forms a fractured, neon-drenched labyrinth of vertical surveillance.",
         "narrativist": "I walk the wet alley where neon bleeds through broken signs and the rain tastes like copper.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through steam vents like prayers."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament.",
+        "futurist": "Beneath neon veins, the city dreams, eats your memories, speaks through static, and breathes your name into",
+        "lyricist": "Rain needles neon through chrome alleys while your"
       }
     }
   },
@@ -1698,7 +2009,7 @@
     "seed": 357489,
     "voices": {
       "structuralist": "A fractured grid of monolithic towers and neon data-streams forms a vertical labyrinth of surveillance and decay.",
-      "narrativist": "I walk these neon-drenched streets where every shadow hides a blade and a lie.",
+      "narrativist": "I stalk rain-slick alleys, neon bleeding across chrome skin, while distant sirens hum through the smog and my boots splash through oily pudd",
       "futurist": "The city inhales your sins through subway grates and exhales them as neon scripture on rain-slick streets."
     },
     "all_voices_versions": {
@@ -1706,6 +2017,9 @@
         "structuralist": "A fractured grid of monolithic towers and neon data-streams forms a vertical labyrinth of surveillance and decay.",
         "narrativist": "I walk these neon-drenched streets where every shadow hides a blade and a lie.",
         "futurist": "The city inhales your sins through subway grates and exhales them as neon scripture on rain-slick streets."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk rain-slick alleys, neon bleeding across chrome skin, while distant sirens hum through the smog and my boots splash through oily pudd"
       }
     }
   },
@@ -1714,13 +2028,17 @@
     "voices": {
       "structuralist": "Monolithic data-temples rise from a flooded grid, their fractured obsidian facades pierced by neon arterial light.",
       "narrativist": "I push through the static-bled crowd, neon rain dripping off my coat, hunting the ghost in the machine.",
-      "futurist": "The city inhales your neon prayers and exhales them as black rain, dreaming of electric gods."
+      "futurist": "The city inhales your neon prayers and exhales them as black rain, dreaming of electric gods.",
+      "noir_classic": "She walked into my office with neon rain dripping off her chrome, and I knew the city had a bad attitude and the job paid seven credits."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Monolithic data-temples rise from a flooded grid, their fractured obsidian facades pierced by neon arterial light.",
         "narrativist": "I push through the static-bled crowd, neon rain dripping off my coat, hunting the ghost in the machine.",
         "futurist": "The city inhales your neon prayers and exhales them as black rain, dreaming of electric gods."
+      },
+      "composite_lore_v9": {
+        "noir_classic": "She walked into my office with neon rain dripping off her chrome, and I knew the city had a bad attitude and the job paid seven credits."
       }
     }
   },
@@ -1729,13 +2047,19 @@
     "voices": {
       "structuralist": "A fortress of fractured spires and shadowed arches rises from a labyrinthine grid of decay.",
       "narrativist": "Rain-slick asphalt mirrors a thousand neon ghosts, and I walk among them, hunting the one face that isn't there.",
-      "futurist": "The city inhales your forgotten names and exhales them as neon ghosts upon the rain."
+      "futurist": "The city inhales your forgotten names and exhales them as neon ghosts upon the rain.",
+      "noir_classic": "The rain in this chrome-plated hell washes nothing clean; it just makes the neon bleed faster, and in this town, trouble always finds you first."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A fortress of fractured spires and shadowed arches rises from a labyrinthine grid of decay.",
         "narrativist": "Rain-slick asphalt mirrors a thousand neon ghosts, and I walk among them, hunting the one face that isn't there.",
         "futurist": "The city inhales your forgotten names and exhales them as neon ghosts upon the rain."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-scarred megastructures encase labyrinthine alleys, their rain-slick fa\u00e7ades and",
+        "narrativist": "I walk through neon rain, the wet asphalt reflecting fractured signs as my boots splash through oily puddles.",
+        "noir_classic": "The rain in this chrome-plated hell washes nothing clean; it just makes the neon bleed faster, and in this town, trouble always finds you first."
       }
     }
   },
@@ -1743,7 +2067,7 @@
     "seed": 5216405,
     "voices": {
       "structuralist": "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis.",
-      "narrativist": "Neon bleeds across wet asphalt as I trace the static hum of a city that never sleeps.",
+      "narrativist": "I stalk through neon rain, my wet coat hissing, while chrome shadows flicker across puddles and distant sirens",
       "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
     },
     "all_voices_versions": {
@@ -1751,6 +2075,9 @@
         "structuralist": "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis.",
         "narrativist": "Neon bleeds across wet asphalt as I trace the static hum of a city that never sleeps.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain, my wet coat hissing, while chrome shadows flicker across puddles and distant sirens"
       }
     }
   },
@@ -1766,6 +2093,9 @@
         "structuralist": "Brutalist data-spires and glitched tenements fuse into a fractured grid of neon ruins and coded shadows.",
         "narrativist": "Rain slicks the alley chrome as I trace your ghost through static and neon's dying hum.",
         "futurist": "The city dreams in neon and eats the lonely, whispering secrets to those who listen."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Rain needles my chrome skin as neon ghosts flicker across the wet alley's static hum."
       }
     }
   },
@@ -1773,7 +2103,7 @@
     "seed": 3049215,
     "voices": {
       "structuralist": "A fractured grid of monolithic data-towers rises from a flooded, neon-scarred matrix, its brutalist forms dissolving into recursive urban decay.",
-      "narrativist": "Rain-slick neon bleeds across my visor as I track the target through this chrome-and-decay alley.",
+      "narrativist": "I stride through neon drizzle, my boots splashing oily puddles while holograms buzz like dying wasps above.",
       "futurist": "The city exhales neon breath through subway lungs, swallowing your shadow before it learns to scream."
     },
     "all_voices_versions": {
@@ -1781,6 +2111,9 @@
         "structuralist": "A fractured grid of monolithic data-towers rises from a flooded, neon-scarred matrix, its brutalist forms dissolving into recursive urban decay.",
         "narrativist": "Rain-slick neon bleeds across my visor as I track the target through this chrome-and-decay alley.",
         "futurist": "The city exhales neon breath through subway lungs, swallowing your shadow before it learns to scream."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stride through neon drizzle, my boots splashing oily puddles while holograms buzz like dying wasps above."
       }
     }
   },
@@ -1788,7 +2121,7 @@
     "seed": 3868371,
     "voices": {
       "structuralist": "Symmetrical modular megastructure rises from cascading ASCII grid, its crystalline towers and dense urban blocks forming a fractured, glitched brutalist skyline.",
-      "narrativist": "Neon bleeds through the drizzle as I trace the dead man's blood toward the humming vending machine.",
+      "narrativist": "I stalk through rain-slick alleys, neon bleeding across chrome skin, as distant sirens hum beneath the city\u2019s electric breath.",
       "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
     },
     "all_voices_versions": {
@@ -1796,6 +2129,9 @@
         "structuralist": "Symmetrical modular megastructure rises from cascading ASCII grid, its crystalline towers and dense urban blocks forming a fractured, glitched brutalist skyline.",
         "narrativist": "Neon bleeds through the drizzle as I trace the dead man's blood toward the humming vending machine.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through rain-slick alleys, neon bleeding across chrome skin, as distant sirens hum beneath the city\u2019s electric breath."
       }
     }
   },
@@ -1804,13 +2140,18 @@
     "voices": {
       "structuralist": "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix.",
       "narrativist": "I walk through neon rain, my chrome hand twitching as data streams whisper secrets from the static.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city breathes through neon veins, eats our memories, dreams in static, and speaks through rain:",
+      "cosmic_horror": "The city is a vast, squamous dream beneath alien stars, its angles whispering truths no human mind"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix.",
         "narrativist": "I walk through neon rain, my chrome hand twitching as data streams whisper secrets from the static.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "futurist": "The city breathes through neon veins, eats our memories, dreams in static, and speaks through rain:",
+        "cosmic_horror": "The city is a vast, squamous dream beneath alien stars, its angles whispering truths no human mind"
       }
     }
   },
@@ -1818,14 +2159,19 @@
     "seed": 3163870,
     "voices": {
       "structuralist": "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis.",
-      "narrativist": "Rain-slick neon bleeds through the crowd as I chase a ghost through chrome and static.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      "narrativist": "I stalk through neon rain, my boots splashing oil-slick puddles while holograms buzz and distant sirens ache.",
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys.",
+      "cosmic_horror": "The city is not a place but a dreaming leviathan whose impossible angles devour thought before any mind can name it."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis.",
         "narrativist": "Rain-slick neon bleeds through the crowd as I chase a ghost through chrome and static.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain, my boots splashing oil-slick puddles while holograms buzz and distant sirens ache.",
+        "cosmic_horror": "The city is not a place but a dreaming leviathan whose impossible angles devour thought before any mind can name it."
       }
     }
   },
@@ -1834,20 +2180,26 @@
     "voices": {
       "structuralist": "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power.",
       "narrativist": "Rain-slicked neon bleeds across my visor as I trace the static hum of a ghost through dripping alley shadows.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "noir_classic": "The rain fell neon and the dame was trouble, but in this city, trouble paid the rent.",
+      "cosmic_horror": "The city is a sleeping god whose streets dream us into nameless angles, and we are merely its fleeting thoughts."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power.",
         "narrativist": "Rain-slicked neon bleeds across my visor as I trace the static hum of a ghost through dripping alley shadows.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "noir_classic": "The rain fell neon and the dame was trouble, but in this city, trouble paid the rent.",
+        "cosmic_horror": "The city is a sleeping god whose streets dream us into nameless angles, and we are merely its fleeting thoughts."
       }
     }
   },
   {
     "seed": 226609321,
     "voices": {
-      "structuralist": "Towering ziggurats of corrupted data rise between glitching monoliths, their fractured facades reflecting neon-soaked decay.",
+      "structuralist": "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance",
       "narrativist": "Rain bleeds neon through cracked visor glass as I trace shadows past dead-eyed vendors hawking bootleg memories.",
       "futurist": "The city dreams in neon and eats the static between heartbeats, whispering your name through wet concrete veins."
     },
@@ -1856,6 +2208,10 @@
         "structuralist": "Towering ziggurats of corrupted data rise between glitching monoliths, their fractured facades reflecting neon-soaked decay.",
         "narrativist": "Rain bleeds neon through cracked visor glass as I trace shadows past dead-eyed vendors hawking bootleg memories.",
         "futurist": "The city dreams in neon and eats the static between heartbeats, whispering your name through wet concrete veins."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance",
+        "narrativist": "I stalk through neon rain, my"
       }
     }
   },
@@ -1864,13 +2220,19 @@
     "voices": {
       "structuralist": "Symmetrical modular megastructures rise in glitchy ASCII clusters, weaving brutalist repetition with fractured digital voids and cryptic urban density.",
       "narrativist": "Rain hisses on neon, and I count three shadows trailing me through the arcology's dripping steel veins.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city breathes through neon veins, dreams in data, eats the lonely, and speaks your name in rain-slick alleys.",
+      "cosmic_horror": "Beneath blind stars, the city sprawls as a nam"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Symmetrical modular megastructures rise in glitchy ASCII clusters, weaving brutalist repetition with fractured digital voids and cryptic urban density.",
         "narrativist": "Rain hisses on neon, and I count three shadows trailing me through the arcology's dripping steel veins.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical slums and neon-lit data spires interlace above drowned alleys, locking citizens inside a brutalist labyrinth of shadow and rain.",
+        "futurist": "The city breathes through neon veins, dreams in data, eats the lonely, and speaks your name in rain-slick alleys.",
+        "cosmic_horror": "Beneath blind stars, the city sprawls as a nam"
       }
     }
   },
@@ -1879,13 +2241,20 @@
     "voices": {
       "structuralist": "Brutalist megastructures rise from ASCII ruins, their jagged geometric towers piercing a corrupted digital skyline of fractured code.",
       "narrativist": "Neon bleeds across rain-slick asphalt as I trace the dead man's cipher through alleys that swallow light.",
-      "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates.",
+      "lyricist": "Rain scribbles neon regrets across chrome alleys while my memory flickers like a dead hologram begging for one last signal.",
+      "cosmic_horror": "The city is not a place but a dreaming leviathan whose angles devour reason, and its streets whisper names no sane mind can bear."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist megastructures rise from ASCII ruins, their jagged geometric towers piercing a corrupted digital skyline of fractured code.",
         "narrativist": "Neon bleeds across rain-slick asphalt as I trace the dead man's cipher through alleys that swallow light.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through acid rain as neon bleeds across chrome alleys and my boots splash oily puddles.",
+        "lyricist": "Rain scribbles neon regrets across chrome alleys while my memory flickers like a dead hologram begging for one last signal.",
+        "cosmic_horror": "The city is not a place but a dreaming leviathan whose angles devour reason, and its streets whisper names no sane mind can bear."
       }
     }
   },
@@ -1894,28 +2263,40 @@
     "voices": {
       "structuralist": "Brutalist megastructures rise from a glyph-scattered grid, their fractured facades and crystalline towers encoding a sprawling, asymmetric cyberpunk metropolis.",
       "narrativist": "Neon bleeds through acid rain as I trace the dead man's spine of this alley.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys.",
+      "noir_classic": "The neon rain washed the chrome alleys clean while I chased a ghost through this rusted, buzzing hell of a city.",
+      "cosmic_horror": "The city is a squamous dream of angles no mind can hold, and its streets whisper names that unmake the waking world."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist megastructures rise from a glyph-scattered grid, their fractured facades and crystalline towers encoding a sprawling, asymmetric cyberpunk metropolis.",
         "narrativist": "Neon bleeds through acid rain as I trace the dead man's spine of this alley.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-scarred megastructures rise in layered, rain-s",
+        "noir_classic": "The neon rain washed the chrome alleys clean while I chased a ghost through this rusted, buzzing hell of a city.",
+        "cosmic_horror": "The city is a squamous dream of angles no mind can hold, and its streets whisper names that unmake the waking world."
       }
     }
   },
   {
     "seed": 77072320,
     "voices": {
-      "structuralist": "A fractured grid of monolithic towers rises through static and shadow, their brutalist forms etched by neon glyphs and surveilled decay.",
+      "structuralist": "Vertical stacks of encrypted tenements, neon alleys, and rain-slick arcologies knot into a brutalist grid where shadow and circuitry blur.",
       "narrativist": "I push through the static-laced rain, my chrome eyes scanning the neon-drenched alley for a ghost in the machine.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A fractured grid of monolithic towers rises through static and shadow, their brutalist forms etched by neon glyphs and surveilled decay.",
         "narrativist": "I push through the static-laced rain, my chrome eyes scanning the neon-drenched alley for a ghost in the machine.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical stacks of encrypted tenements, neon alleys, and rain-slick arcologies knot into a brutalist grid where shadow and circuitry blur.",
+        "cosmic_horror": "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers."
       }
     }
   },
@@ -1924,13 +2305,20 @@
     "voices": {
       "structuralist": "A fractured grid of monolithic towers rises from liquid data streams, their surfaces etched with glowing circuitry and shadowed voids.",
       "narrativist": "Rain-slicked neon bleeds through shattered billboards as I stalk the static-laced alley, hunting ghosts in the circuitry.",
-      "futurist": "The city exhales neon breath through subway lungs, devouring dreamers who mistake its hunger for electricity."
+      "futurist": "The city exhales neon breath through subway lungs, devouring dreamers who mistake its hunger for electricity.",
+      "noir_classic": "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me.",
+      "cosmic_horror": "The city is an ancient, dreaming leviathan whose streets coil through dimensions no sane mind can ever map or endure."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A fractured grid of monolithic towers rises from liquid data streams, their surfaces etched with glowing circuitry and shadowed voids.",
         "narrativist": "Rain-slicked neon bleeds through shattered billboards as I stalk the static-laced alley, hunting ghosts in the circuitry.",
         "futurist": "The city exhales neon breath through subway lungs, devouring dreamers who mistake its hunger for electricity."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain, tasting ozone and stale synth-noodles while my boots splash through puddles",
+        "noir_classic": "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me.",
+        "cosmic_horror": "The city is an ancient, dreaming leviathan whose streets coil through dimensions no sane mind can ever map or endure."
       }
     }
   },
@@ -1953,14 +2341,21 @@
     "seed": 15167010,
     "voices": {
       "structuralist": "Monolithic data-temples rise from flooded circuits, their fragmented facades reflecting a decaying neon grid.",
-      "narrativist": "Rain-slicked asphalt mirrors a thousand neon ghosts, and I walk among them, invisible.",
-      "futurist": "The city dreams in neon and eats the static of our prayers."
+      "narrativist": "I walk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum beneath the chrome sky.",
+      "futurist": "The city dreams in neon and eats the static of our prayers.",
+      "lyricist": "Rain stutters pink and cyan across chrome alleys, while your ghost flickers in every wet reflection like a corrupted memory.",
+      "cosmic_horror": "Your mind fractures upon avenues that breathe, for the city is an ancient god dreaming streets no human was meant"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Monolithic data-temples rise from flooded circuits, their fragmented facades reflecting a decaying neon grid.",
         "narrativist": "Rain-slicked asphalt mirrors a thousand neon ghosts, and I walk among them, invisible.",
         "futurist": "The city dreams in neon and eats the static of our prayers."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I walk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum beneath the chrome sky.",
+        "lyricist": "Rain stutters pink and cyan across chrome alleys, while your ghost flickers in every wet reflection like a corrupted memory.",
+        "cosmic_horror": "Your mind fractures upon avenues that breathe, for the city is an ancient god dreaming streets no human was meant"
       }
     }
   },
@@ -1976,21 +2371,32 @@
         "structuralist": "A cellular grid of monolithic towers and suspended bridges forms a fractured, rain-slicked cyberpunk skyline.",
         "narrativist": "Rain boils on chrome as I ghost past dead arcade husks and shattered neon bleeding in the gutter.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I walk through acid rain and buzzing neon, my wet"
       }
     }
   },
   {
     "seed": 24,
     "voices": {
-      "structuralist": "A monolithic vertical city where jagged asymmetrical towers of black glass and neon circuitry erupt from a flooded grid.",
+      "structuralist": "Vertical arcologies rise through toxic rain, their fractured facades stitching corporate spires, transit veins, and shadowed alley cells into a relentless noir grid.",
       "narrativist": "I jack a neuro-spike into the wet socket, and the alley's neon screams through my skull like a dying man's last confession.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe."
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe.",
+      "noir_classic": "The city dripped neon and static, and she walked into my office with murder in her firmware.",
+      "cosmic_horror": "Beneath gibbering towers, the city dreams in angles no mind can hold, devouring names and streets into its endless, alien hunger."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A monolithic vertical city where jagged asymmetrical towers of black glass and neon circuitry erupt from a flooded grid.",
         "narrativist": "I jack a neuro-spike into the wet socket, and the alley's neon screams through my skull like a dying man's last confession.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through vents that breathe."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical arcologies rise through toxic rain, their fractured facades stitching corporate spires, transit veins, and shadowed alley cells into a relentless noir grid.",
+        "narrativist": "I stalk through neon rain, my boots splashing oily puddles while flickering signs buzz against my soaked skin.",
+        "noir_classic": "The city dripped neon and static, and she walked into my office with murder in her firmware.",
+        "cosmic_horror": "Beneath gibbering towers, the city dreams in angles no mind can hold, devouring names and streets into its endless, alien hunger."
       }
     }
   },
@@ -1999,13 +2405,19 @@
     "voices": {
       "structuralist": "A cellular grid of monolithic towers rises through fog, their fragmented facades forming a dense, brutalist labyrinth.",
       "narrativist": "I walk through the static-lit alley, my neural jack humming while dead corporate logos flicker like ghosts above me.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      "futurist": "Cities breathe neon lungs, dream in data, eat the poor, speak through static, and one day swallow their own prophets.",
+      "cosmic_horror": "The city breathes through geometries no mind was meant to parse, and we are merely fleeting thoughts it dreams in the dark."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A cellular grid of monolithic towers rises through fog, their fragmented facades forming a dense, brutalist labyrinth.",
         "narrativist": "I walk through the static-lit alley, my neural jack humming while dead corporate logos flicker like ghosts above me.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Rain hisses against neon, my boots splash through puddles as I walk deeper into the chrome-dark alley.",
+        "futurist": "Cities breathe neon lungs, dream in data, eat the poor, speak through static, and one day swallow their own prophets.",
+        "cosmic_horror": "The city breathes through geometries no mind was meant to parse, and we are merely fleeting thoughts it dreams in the dark."
       }
     }
   },
@@ -2014,13 +2426,17 @@
     "voices": {
       "structuralist": "Dense monolithic towers rise in staggered asymmetric clusters, their fractured facades pierced by luminous data-conduits and shadowed arterial streets.",
       "narrativist": "Rain slicks the alley chrome as I trace your ghost through static and neon.",
-      "futurist": "The city inhales your sins through neon veins and exhales them as rain on someone else's parade."
+      "futurist": "The city inhales your sins through neon veins and exhales them as rain on someone else's parade.",
+      "cosmic_horror": "I glimpsed the city\u2019s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Dense monolithic towers rise in staggered asymmetric clusters, their fractured facades pierced by luminous data-conduits and shadowed arterial streets.",
         "narrativist": "Rain slicks the alley chrome as I trace your ghost through static and neon.",
         "futurist": "The city inhales your sins through neon veins and exhales them as rain on someone else's parade."
+      },
+      "composite_lore_v9": {
+        "cosmic_horror": "I glimpsed the city\u2019s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear."
       }
     }
   },
@@ -2028,14 +2444,21 @@
     "seed": 339849,
     "voices": {
       "structuralist": "Brutalist megastructures rise from ASCII ruins, their jagged towers and fractured facades encoding a decaying cyberpunk city's oppressive vertical geometry.",
-      "narrativist": "I jack a fresh spike into my cortex while neon rain bleeds through the static of dead channels.",
-      "futurist": "The city dreams in neon and eats the memories of everyone who loves her."
+      "narrativist": "I taste metallic rain as neon puddles shatter under my boots, and the city hums through my chrome spine.",
+      "futurist": "The city dreams in neon and eats the memories of everyone who loves her.",
+      "lyricist": "Rain stitches neon veins across chrome alleys while your deleted face flickers in every puddle like a borrowed memory.",
+      "cosmic_horror": "The city breathes through angles that should not exist, its streets whispering names no sane mind can hold."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist megastructures rise from ASCII ruins, their jagged towers and fractured facades encoding a decaying cyberpunk city's oppressive vertical geometry.",
         "narrativist": "I jack a fresh spike into my cortex while neon rain bleeds through the static of dead channels.",
         "futurist": "The city dreams in neon and eats the memories of everyone who loves her."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I taste metallic rain as neon puddles shatter under my boots, and the city hums through my chrome spine.",
+        "lyricist": "Rain stitches neon veins across chrome alleys while your deleted face flickers in every puddle like a borrowed memory.",
+        "cosmic_horror": "The city breathes through angles that should not exist, its streets whispering names no sane mind can hold."
       }
     }
   },
@@ -2043,14 +2466,20 @@
     "seed": 1225372,
     "voices": {
       "structuralist": "Modular arcologies erupt as jagged crystalline clusters, their dense pixelated facades weaving chaotic interlocking volumes above rain-slicked, reflective street canyons.",
-      "narrativist": "Neon bleeds through the rain as I walk past dead-eyed strangers who never see me.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "narrativist": "I walk through neon rain, my boots splashing oily puddles while holograms buzz and distant sirens",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city breathes in geometries no sane mind was meant to hold, its streets a dreaming abyss devouring every name."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Modular arcologies erupt as jagged crystalline clusters, their dense pixelated facades weaving chaotic interlocking volumes above rain-slicked, reflective street canyons.",
         "narrativist": "Neon bleeds through the rain as I walk past dead-eyed strangers who never see me.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Vertical brutalist megastructures thread neon arteries through rain-slick canyons, while holographic facades cage shadows above labyrinthine market decks.",
+        "narrativist": "I walk through neon rain, my boots splashing oily puddles while holograms buzz and distant sirens",
+        "cosmic_horror": "The city breathes in geometries no sane mind was meant to hold, its streets a dreaming abyss devouring every name."
       }
     }
   },
@@ -2058,14 +2487,23 @@
     "seed": 3997378,
     "voices": {
       "structuralist": "Brutalist megastructures rise from fractured grid, their jagged spires piercing neon-soaked skies above labyrinthine street canyons.",
-      "narrativist": "Rain-slick neon bleeds across my visor as I wade through this graveyard of dead satellites and broken chrome.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "narrativist": "I walked through neon rain, my boots splashing oily puddles while holograms buzzed and distant sirens bled through the smog.",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "lyricist": "Rain writes dead names in neon across wet chrome, while memory flickers like a broken hologram under midnight\u2019s electric bruise.",
+      "noir_classic": "Rain fell like static through neon canyons, and I was just another broken clock in a city that sold time by the byte.",
+      "cosmic_horror": "The city breathes behind angles that should not exist, and its streets whisper names no sane mind can hold."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist megastructures rise from fractured grid, their jagged spires piercing neon-soaked skies above labyrinthine street canyons.",
         "narrativist": "Rain-slick neon bleeds across my visor as I wade through this graveyard of dead satellites and broken chrome.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I walked through neon rain, my boots splashing oily puddles while holograms buzzed and distant sirens bled through the smog.",
+        "lyricist": "Rain writes dead names in neon across wet chrome, while memory flickers like a broken hologram under midnight\u2019s electric bruise.",
+        "noir_classic": "Rain fell like static through neon canyons, and I was just another broken clock in a city that sold time by the byte.",
+        "cosmic_horror": "The city breathes behind angles that should not exist, and its streets whisper names no sane mind can hold."
       }
     }
   },
@@ -2073,7 +2511,7 @@
     "seed": 20,
     "voices": {
       "structuralist": "Dense modular towers rise through a fractured grid of streets, their pixelated facades forming a brutalist, glitched metropolis.",
-      "narrativist": "Neon bleeds through acid rain as I trace the alley's spine, every shadow whispering your name.",
+      "narrativist": "I walk through neon rain as my boots splash black puddles and distant sirens hum beneath chrome towers.",
       "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
     },
     "all_voices_versions": {
@@ -2081,6 +2519,9 @@
         "structuralist": "Dense modular towers rise through a fractured grid of streets, their pixelated facades forming a brutalist, glitched metropolis.",
         "narrativist": "Neon bleeds through acid rain as I trace the alley's spine, every shadow whispering your name.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I walk through neon rain as my boots splash black puddles and distant sirens hum beneath chrome towers."
       }
     }
   },
@@ -2089,13 +2530,20 @@
     "voices": {
       "structuralist": "Monolithic data-towers rise from a glitching grid, their fractured facades encoding a decaying city's memory.",
       "narrativist": "I jack a wet breath through my rebreather while neon glyphs bleed across the alley's chrome like a dying man's prayer.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "noir_classic": "The rain fell like static on a neon graveyard, and I was just another ghost with a gun in this city that eats its own.",
+      "cosmic_horror": "The city is no place but a dreaming abyss whose impossible angles devour reason,"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Monolithic data-towers rise from a glitching grid, their fractured facades encoding a decaying city's memory.",
         "narrativist": "I jack a wet breath through my rebreather while neon glyphs bleed across the alley's chrome like a dying man's prayer.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain, my wet coat hissing as chrome shadows flicker across p",
+        "noir_classic": "The rain fell like static on a neon graveyard, and I was just another ghost with a gun in this city that eats its own.",
+        "cosmic_horror": "The city is no place but a dreaming abyss whose impossible angles devour reason,"
       }
     }
   },
@@ -2104,13 +2552,17 @@
     "voices": {
       "structuralist": "A cellular megastructure of fractured data-spires and encrypted monoliths rises through perpetual neon rain.",
       "narrativist": "I jack my deck into the frozen fountain's data-pulse, neon ichor dripping from its shattered chrome veins.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city is no place but a sleeping god\u2019s ulcer, breathing streets that whisper names no sane mind can hold."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A cellular megastructure of fractured data-spires and encrypted monoliths rises through perpetual neon rain.",
         "narrativist": "I jack my deck into the frozen fountain's data-pulse, neon ichor dripping from its shattered chrome veins.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "cosmic_horror": "The city is no place but a sleeping god\u2019s ulcer, breathing streets that whisper names no sane mind can hold."
       }
     }
   },
@@ -2133,7 +2585,7 @@
     "seed": 19652,
     "voices": {
       "structuralist": "Modular megastructures interweave through a recursive grid, forming a dense, stratified matrix of monolithic cellular repetition.",
-      "narrativist": "Neon bleeds through acid rain as I trace the dead man's spine of this alley.",
+      "narrativist": "I stalk through rain-slick neon alleys, my boots splashing oily puddles while holograms buzz and sirens smear red across chrome.",
       "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
     },
     "all_voices_versions": {
@@ -2141,6 +2593,9 @@
         "structuralist": "Modular megastructures interweave through a recursive grid, forming a dense, stratified matrix of monolithic cellular repetition.",
         "narrativist": "Neon bleeds through acid rain as I trace the dead man's spine of this alley.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through rain-slick neon alleys, my boots splashing oily puddles while holograms buzz and sirens smear red across chrome."
       }
     }
   },
@@ -2148,14 +2603,19 @@
     "seed": 4787965,
     "voices": {
       "structuralist": "A vertical lattice of black spires and glass shards rises through fog, pierced by neon veins and fractured light.",
-      "narrativist": "Rain slicks the alley's chrome bones as I jack a dead man's neural port, praying the static hides my heartbeat.",
-      "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      "narrativist": "I stalk through neon rain, my boots splashing oil-slick puddles while holographic ads whisper promises and distant sirens wail.",
+      "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city is no city but a dreaming leviathan whose angles gnaw reason and whose streets whisper names no sane mind may hold."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A vertical lattice of black spires and glass shards rises through fog, pierced by neon veins and fractured light.",
         "narrativist": "Rain slicks the alley's chrome bones as I jack a dead man's neural port, praying the static hides my heartbeat.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through neon rain, my boots splashing oil-slick puddles while holographic ads whisper promises and distant sirens wail.",
+        "cosmic_horror": "The city is no city but a dreaming leviathan whose angles gnaw reason and whose streets whisper names no sane mind may hold."
       }
     }
   },
@@ -2163,14 +2623,19 @@
     "seed": 536870870,
     "voices": {
       "structuralist": "A cellular grid of monolithic towers punctuated by neon glyphs forms a brutalist, labyrinthine cityscape of repetitive modular blocks.",
-      "narrativist": "Neon bleeds across wet asphalt as I trace the static hum beneath my skin.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "narrativist": "Rain stutters neon across my chrome jaw as I walk, tasting ozone and wet asphalt under the city's",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "lyricist": "Neon rain remembers your ghost in every flickering puddle while chrome tears stitch midnight into a language no heart can decrypt."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A cellular grid of monolithic towers punctuated by neon glyphs forms a brutalist, labyrinthine cityscape of repetitive modular blocks.",
         "narrativist": "Neon bleeds across wet asphalt as I trace the static hum beneath my skin.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Rain stutters neon across my chrome jaw as I walk, tasting ozone and wet asphalt under the city's",
+        "lyricist": "Neon rain remembers your ghost in every flickering puddle while chrome tears stitch midnight into a language no heart can decrypt."
       }
     }
   },
@@ -2179,13 +2644,21 @@
     "voices": {
       "structuralist": "Modular arcologies rise as jagged crystalline clusters, their pixelated facades pierced by neon grids and shadowed algorithmic courtyards.",
       "narrativist": "Rain-slicked neon bleeds across the alley as I trace the dead man's last signal through static.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys that breathe."
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys that breathe.",
+      "lyricist": "Neon rain remembers your ghost in every broken puddle, and the city",
+      "noir_classic": "The neon rain fell like cheap forgiveness, and the city's circuits hummed a hymn for the damned."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Modular arcologies rise as jagged crystalline clusters, their pixelated facades pierced by neon grids and shadowed algorithmic courtyards.",
         "narrativist": "Rain-slicked neon bleeds across the alley as I trace the dead man's last signal through static.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleys that breathe."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-drenched arcologies rise in jagged cascades, their blackened concrete ribs threading data",
+        "futurist": "I dream in neon arteries, eat your data, breathe smog, and",
+        "lyricist": "Neon rain remembers your ghost in every broken puddle, and the city",
+        "noir_classic": "The neon rain fell like cheap forgiveness, and the city's circuits hummed a hymn for the damned."
       }
     }
   },
@@ -2194,13 +2667,16 @@
     "voices": {
       "structuralist": "Towering monolithic hab-blocks punctuated by neon data-spires form a brutalist grid of surveillance and decay.",
       "narrativist": "Rain-slicked neon bleeds across cracked asphalt as I weave through the crowd, collar up, eyes down.",
-      "futurist": "The city inhales your chrome prayers and exhales them as rain on the neon-drowned dead."
+      "futurist": "The city breathes through neon veins, dreams in server rain, eats the lonely, and speaks your name through static."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Towering monolithic hab-blocks punctuated by neon data-spires form a brutalist grid of surveillance and decay.",
         "narrativist": "Rain-slicked neon bleeds across cracked asphalt as I weave through the crowd, collar up, eyes down.",
         "futurist": "The city inhales your chrome prayers and exhales them as rain on the neon-drowned dead."
+      },
+      "composite_lore_v9": {
+        "futurist": "The city breathes through neon veins, dreams in server rain, eats the lonely, and speaks your name through static."
       }
     }
   },
@@ -2209,13 +2685,21 @@
     "voices": {
       "structuralist": "A cellular grid of jagged, fragmented monoliths interspersed with scattered pools of reflected neon light.",
       "narrativist": "I walk through neon rain and broken screens, my coat soaked in chrome light and static.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "lyricist": "Rain writes dead lovers\u2019 names in neon across my chrome skull while memory flickers like a broken hologram under midnight\u2019s electric bruise.",
+      "noir_classic": "I followed her neon tears through the chrome rain, every alley a dead end, every lead a ghost in the machine.",
+      "cosmic_horror": "Its streets twist beyond human geometry, and the city watches with a million windows, an unknowable god dreaming us into ruin."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A cellular grid of jagged, fragmented monoliths interspersed with scattered pools of reflected neon light.",
         "narrativist": "I walk through neon rain and broken screens, my coat soaked in chrome light and static.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "lyricist": "Rain writes dead lovers\u2019 names in neon across my chrome skull while memory flickers like a broken hologram under midnight\u2019s electric bruise.",
+        "noir_classic": "I followed her neon tears through the chrome rain, every alley a dead end, every lead a ghost in the machine.",
+        "cosmic_horror": "Its streets twist beyond human geometry, and the city watches with a million windows, an unknowable god dreaming us into ruin."
       }
     }
   },
@@ -2223,14 +2707,19 @@
     "seed": 16546963,
     "voices": {
       "structuralist": "Brutalist megastructures rise as monolithic ziggurats, their fractured facades pierced by neon glyphs and labyrinthine arterial streets below.",
-      "narrativist": "Rain-slicked neon bleeds across my visor as I track the target through this labyrinth of chrome and decay.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "narrativist": "Neon rain stings my chrome cheek as I stalk slick alleys, my coat dripping synthetic shadows under humming billboards.",
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "cosmic_horror": "The city breathes in geometries no mind can hold, and its streets devour thought like an ancient god dreaming beneath stone."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist megastructures rise as monolithic ziggurats, their fractured facades pierced by neon glyphs and labyrinthine arterial streets below.",
         "narrativist": "Rain-slicked neon bleeds across my visor as I track the target through this labyrinth of chrome and decay.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "narrativist": "Neon rain stings my chrome cheek as I stalk slick alleys, my coat dripping synthetic shadows under humming billboards.",
+        "cosmic_horror": "The city breathes in geometries no mind can hold, and its streets devour thought like an ancient god dreaming beneath stone."
       }
     }
   },
@@ -2246,6 +2735,9 @@
         "structuralist": "Vertical monoliths rise from a fractured grid, their jagged crowns piercing a haze of coded static and neon decay.",
         "narrativist": "Rain slicks the alley chrome as I jack a dead man's neural port, his last memory still warm.",
         "futurist": "The city dreams in neon and eats the static between heartbeats, whispering your name to the rain."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Neon-scarred monoliths erupt through rain-slick tenement grids, their fractured"
       }
     }
   },
@@ -2253,14 +2745,19 @@
     "seed": 41373156,
     "voices": {
       "structuralist": "A fractured grid of monolithic towers rises through static, their facades dissolving into glitched, corrupted data streams.",
-      "narrativist": "Rain slicks the alley's chrome teeth as I jack a dead man's neural port, praying the static hides my heartbeat.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleyways."
+      "narrativist": "I walk through rain-slick neon alleys, my chrome boots splashing, while synthetic smoke burns my throat and distant sirens hum.",
+      "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleyways.",
+      "noir_classic": "Rain hit the neon like a cheap confession, and I was the only sucker in this chrome graveyard still chasing a ghost."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "A fractured grid of monolithic towers rises through static, their facades dissolving into glitched, corrupted data streams.",
         "narrativist": "Rain slicks the alley's chrome teeth as I jack a dead man's neural port, praying the static hides my heartbeat.",
         "futurist": "The city dreams in neon and eats the lonely, whispering your name through rain-slicked alleyways."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I walk through rain-slick neon alleys, my chrome boots splashing, while synthetic smoke burns my throat and distant sirens hum.",
+        "noir_classic": "Rain hit the neon like a cheap confession, and I was the only sucker in this chrome graveyard still chasing a ghost."
       }
     }
   },
@@ -2269,13 +2766,17 @@
     "voices": {
       "structuralist": "The city\u2019s modular grid fractures into crystalline towers, embedding encrypted data-spires within a labyrinthine matrix of light and shadow.",
       "narrativist": "Rain hisses on neon, and I count the wet, watching windows where someone always knows my name.",
-      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates.",
+      "noir_classic": "The rain fell like cheap neon, washing the blood and chrome off a case I should've left in the gutter."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "The city\u2019s modular grid fractures into crystalline towers, embedding encrypted data-spires within a labyrinthine matrix of light and shadow.",
         "narrativist": "Rain hisses on neon, and I count the wet, watching windows where someone always knows my name.",
         "futurist": "The city dreams in neon and eats the lonely, exhaling ghosts through subway grates."
+      },
+      "composite_lore_v9": {
+        "noir_classic": "The rain fell like cheap neon, washing the blood and chrome off a case I should've left in the gutter."
       }
     }
   },
@@ -2284,13 +2785,17 @@
     "voices": {
       "structuralist": "Brutalist arcologies rise as jagged ziggurats, their fractured concrete facades pierced by neon glyphs and labyrinthine skybridges spanning void.",
       "narrativist": "Rain-slick chrome glistens under neon as I trace the dead man's blood through Sector 7's static hum.",
-      "futurist": "The city dreams in neon and eats the lonely, whispering their names to the rain."
+      "futurist": "The neon gutters remember every crime, and the city breathes us in, exhales prophecy through cracked screens and rain."
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Brutalist arcologies rise as jagged ziggurats, their fractured concrete facades pierced by neon glyphs and labyrinthine skybridges spanning void.",
         "narrativist": "Rain-slick chrome glistens under neon as I trace the dead man's blood through Sector 7's static hum.",
         "futurist": "The city dreams in neon and eats the lonely, whispering their names to the rain."
+      },
+      "composite_lore_v9": {
+        "structuralist": "Towering modular megastructures interlace with neon skybridges, rain-slick alleys, and",
+        "futurist": "The neon gutters remember every crime, and the city breathes us in, exhales prophecy through cracked screens and rain."
       }
     }
   },
@@ -2298,14 +2803,19 @@
     "seed": 4509130,
     "voices": {
       "structuralist": "Vast monolithic data-spires rise from a flooded, neon-scarred grid, their fractured geometric facades channeling noir shadows between brutalist corporate ziggurats.",
-      "narrativist": "I jack a dead man's neural deck while acid rain etches the alley's only working neon.",
-      "futurist": "The city dreams in neon and devours the lonely, exhaling static prayers through teeth of broken glass."
+      "narrativist": "I stalk through acid rain as neon bleeds across wet chrome, my coat snapping against the humming alley\u2019s static.",
+      "futurist": "The city dreams in neon and devours the lonely, exhaling static prayers through teeth of broken glass.",
+      "noir_classic": "The neon rain washed the blood off my chrome kn"
     },
     "all_voices_versions": {
       "composite_lore_v8": {
         "structuralist": "Vast monolithic data-spires rise from a flooded, neon-scarred grid, their fractured geometric facades channeling noir shadows between brutalist corporate ziggurats.",
         "narrativist": "I jack a dead man's neural deck while acid rain etches the alley's only working neon.",
         "futurist": "The city dreams in neon and devours the lonely, exhaling static prayers through teeth of broken glass."
+      },
+      "composite_lore_v9": {
+        "narrativist": "I stalk through acid rain as neon bleeds across wet chrome, my coat snapping against the humming alley\u2019s static.",
+        "noir_classic": "The neon rain washed the blood off my chrome kn"
       }
     }
   }

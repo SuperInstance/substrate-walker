@@ -7,19 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 1206
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets swallowed the last of the neon.
-
-What would you like to do?"
+**voice**: structuralist
+**lore**: "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1206.
-Rank #63 across many tested seeds. Voice: single-voice pipeline.
+Rank #63 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x778a5f3e6138401b` (FNV-1a 64-bit)
+`0x228d75bd8aea4cc8` (FNV-1a 64-bit)
 
 ## Witness
 

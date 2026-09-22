@@ -7,17 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 1015
 **path**: straight_east
-**voice**: 
-**lore**: "Rainy streets, neon glare. Crisp air, sharp lies."
+**voice**: structuralist
+**lore**: "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1015.
-Rank #49 across many tested seeds. Voice: single-voice pipeline.
+Rank #49 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x82813c95eb5a66ea` (FNV-1a 64-bit)
+`0x94f9bef3f9ca4294` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 32849565
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slicks the pavement, city's dark underbelly."
+**voice**: structuralist
+**lore**: "A cellular grid of monolithic towers rises through layered fog, their faceted forms etched with luminous data-streams and shadowed arterial streets."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 32849565.
-Rank #34 across many tested seeds. Voice: single-voice pipeline.
+Rank #34 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x84a71cf47ae58a16` (FNV-1a 64-bit)
+`0xd75c949916e0efa0` (FNV-1a 64-bit)
 
 ## Witness
 

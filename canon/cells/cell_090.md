@@ -7,17 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 536870870
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pattered on the alley's dark slick."
+**voice**: structuralist
+**lore**: "A cellular grid of monolithic towers punctuated by neon glyphs forms a brutalist, labyrinthine cityscape of repetitive modular blocks."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 536870870.
-Rank #90 across many tested seeds. Voice: single-voice pipeline.
+Rank #90 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xfdd2a599e21066a8` (FNV-1a 64-bit)
+`0x0d9a5f25d45141af` (FNV-1a 64-bit)
 
 ## Witness
 

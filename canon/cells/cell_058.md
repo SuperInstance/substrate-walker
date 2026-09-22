@@ -7,17 +7,17 @@
 **score**: 0.8641666666666666
 **seed**: 799480
 **path**: straight_east
-**voice**: 
-**lore**: "A dimly lit alleyway, rain-soaked streets, and the distant hum of holographic advertisements. What's your move?"
+**voice**: structuralist
+**lore**: "The skyscraper's lattice-like façade, a mesh of intersecting hyperbolas and parabolas, seemed to defy gravity, a three-dimensional manifestation of the city's chaotic logic."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 799480.
-Rank #58 across many tested seeds. Voice: single-voice pipeline.
+Rank #58 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xa13aef64dd4f9352` (FNV-1a 64-bit)
+`0x65594cd54dc0aabb` (FNV-1a 64-bit)
 
 ## Witness
 

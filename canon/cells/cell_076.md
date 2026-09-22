@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 19754564
 **path**: straight_east
-**voice**: 
-**lore**: "Rain lashes down on the deserted streets of New Haven."
+**voice**: structuralist
+**lore**: "A cellular grid of monolithic towers and suspended bridges forms a fractured, rain-slicked cyberpunk skyline."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 19754564.
-Rank #76 across many tested seeds. Voice: single-voice pipeline.
+Rank #76 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xedecef7ce5fe9945` (FNV-1a 64-bit)
+`0x5ccd10ab73841922` (FNV-1a 64-bit)
 
 ## Witness
 

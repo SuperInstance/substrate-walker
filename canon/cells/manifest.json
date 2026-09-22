@@ -1,19 +1,22 @@
 {
-  "version": "2.2.0",
-  "updated_at": "2026-09-22T17:06:07.358134",
+  "version": "2.3.0",
+  "updated_at": "2026-09-22T17:29:58.402011",
   "fnv_canary": "0x24a555471370b18d",
   "total_cells": 100,
   "best_score": 0.8683333333333333,
   "type_breakdown": {
-    "doctrine-prime": 3,
     "doctrine": 61,
+    "doctrine-prime": 3,
     "canon": 36
   },
   "voice_breakdown": {
     "philosophical": 1,
-    "futurist": 2,
-    "narrativist": 2,
-    "structuralist": 20
+    "noir_classic": 3,
+    "lyricist": 1,
+    "narrativist": 8,
+    "futurist": 6,
+    "cosmic_horror": 6,
+    "structuralist": 66
   },
   "entries": [
     {
@@ -352,10 +355,10 @@
       "path": "canon/cells/cell_031.md",
       "seed": 60575860,
       "score": 0.8645833333333334,
-      "lore": "Rain pours on the city's dark alleys.",
+      "lore": "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x8874892a63c8901d"
+      "voice": "structuralist",
+      "hash": "0xf10435a0189544cf"
     },
     {
       "rank": 32,
@@ -363,10 +366,10 @@
       "path": "canon/cells/cell_032.md",
       "seed": 128056006,
       "score": 0.8645833333333334,
-      "lore": "Rain patters on wet streets, a lone figure walks.",
+      "lore": "Symmetrical monolithic towers rise from dense ASCII grid, their crystalline facades punctuated by scattered windows and shadowed voids.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x2042b6760fb09bd6"
+      "voice": "structuralist",
+      "hash": "0x78558894c8d4c370"
     },
     {
       "rank": 33,
@@ -374,10 +377,10 @@
       "path": "canon/cells/cell_033.md",
       "seed": 2540836,
       "score": 0.8645833333333334,
-      "lore": "Rain falls on dirty streets.",
+      "lore": "Modular ziggurat cells stack into brutalist towers, their circuit-etched facades forming a decentralized, self-replicating urban lattice.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x3bcddef71cecc93f"
+      "voice": "structuralist",
+      "hash": "0xad6c138ebb4e9870"
     },
     {
       "rank": 34,
@@ -385,10 +388,10 @@
       "path": "canon/cells/cell_034.md",
       "seed": 32849565,
       "score": 0.8645833333333334,
-      "lore": "Rain slicks the pavement, city's dark underbelly.",
+      "lore": "A cellular grid of monolithic towers rises through layered fog, their faceted forms etched with luminous data-streams and shadowed arterial streets.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x84a71cf47ae58a16"
+      "voice": "structuralist",
+      "hash": "0xd75c949916e0efa0"
     },
     {
       "rank": 35,
@@ -396,10 +399,10 @@
       "path": "canon/cells/cell_035.md",
       "seed": 38155762,
       "score": 0.8645833333333334,
-      "lore": "Rain pours down on darkened streets.",
+      "lore": "The city sprawls beyond geometry, its angles whispering in tongues that erode reason, and I fear it dreams us into its endless, nameless alleys.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xbc7b7b09fb3a4bbb"
+      "voice": "cosmic_horror",
+      "hash": "0x11d0f49fcbe1e8b3"
     },
     {
       "rank": 36,
@@ -407,10 +410,10 @@
       "path": "canon/cells/cell_036.md",
       "seed": 5351356,
       "score": 0.8645833333333334,
-      "lore": "Rain pours down on streets of New Eden.",
+      "lore": "Vertical monoliths, jagged neon lattice, and armored arcologies compress the city cell into a noir canyon of surveillance, decay, and electric rain.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xddd09220db3258ea"
+      "voice": "structuralist",
+      "hash": "0x48fa0edd18df16de"
     },
     {
       "rank": 37,
@@ -418,10 +421,10 @@
       "path": "canon/cells/cell_037.md",
       "seed": 4073,
       "score": 0.8645833333333334,
-      "lore": "Rain pours down on neon drenched streets.",
+      "lore": "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams.\"  (Or, if you prefer something more visceral: \"The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.\")",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x45723784efd0cfc1"
+      "voice": "futurist",
+      "hash": "0xcb8c5d4b74014422"
     },
     {
       "rank": 38,
@@ -429,10 +432,10 @@
       "path": "canon/cells/cell_038.md",
       "seed": 21037341,
       "score": 0.8645833333333334,
-      "lore": "Rain falls hard on neon streets.",
+      "lore": "A monolithic cyberpunk cell rises in jagged vertical strata, its neon-veined fa\u00e7ade and cramped alleyways framing a rain-slicked noir metropolis.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x4db70dca549bb4bc"
+      "voice": "structuralist",
+      "hash": "0xcb6989847f9422c4"
     },
     {
       "rank": 39,
@@ -440,10 +443,10 @@
       "path": "canon/cells/cell_039.md",
       "seed": 509,
       "score": 0.8645833333333334,
-      "lore": "Rain pours down on a city in perpetual night.",
+      "lore": "Neon-lit megastructures rise in dense layered blocks, their shattered facades and labyrinthine alleys framing a rain-soaked, surveillance-choked cyberpunk metropolis.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x55b0b95f11d6221d"
+      "voice": "structuralist",
+      "hash": "0x35077dbb0cabf984"
     },
     {
       "rank": 40,
@@ -451,10 +454,10 @@
       "path": "canon/cells/cell_040.md",
       "seed": 44279,
       "score": 0.8645833333333334,
-      "lore": "Rain pours down on neon-soaked streets.",
+      "lore": "The city breathes through angles no human eye can parse, a vast nameless god dreaming our streets into squamous, half-remembered existence.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x7f06583998e6e2ac"
+      "voice": "cosmic_horror",
+      "hash": "0x5bfa06f481495ef5"
     },
     {
       "rank": 41,
@@ -462,10 +465,10 @@
       "path": "canon/cells/cell_041.md",
       "seed": 49789,
       "score": 0.8645833333333334,
-      "lore": "Rain-soaked streets. Neon signs blur. Victim found dead.",
+      "lore": "Towering brutalist monoliths, tangled skybridges, and neon-lit tenements form a stratified cyberpunk city cell where power flows upward and shadows pool below.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xf2b45157a66da935"
+      "voice": "structuralist",
+      "hash": "0xc1674c0a912b3ac3"
     },
     {
       "rank": 42,
@@ -473,10 +476,10 @@
       "path": "canon/cells/cell_042.md",
       "seed": 39621,
       "score": 0.8645833333333334,
-      "lore": "Rain-soaked streets shrouded in neon darkness.\n\nWhat do you do?",
+      "lore": "As the last remnants of daylight surrendered to the city's eternal night, its veins pulsed with the prophecy: 'I will devour, I will speak, I will dream, and in my darkness, you will be reborn.'",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xd1462256de3090eb"
+      "voice": "futurist",
+      "hash": "0x9c5cc58415266b39"
     },
     {
       "rank": 43,
@@ -495,10 +498,10 @@
       "path": "canon/cells/cell_044.md",
       "seed": 817102,
       "score": 0.8645833333333334,
-      "lore": "I stepped out of the rain-soaked alley, eyes scanning the cityscape.",
+      "lore": "I stepped out of the rain-soaked alley and onto the neon-drenched streets of New Eden, the city's perpetual hum of machinery and despair thrumming through my veins.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xc5004529f3744fbf"
+      "voice": "narrativist",
+      "hash": "0x2e1bc97058c7c1c2"
     },
     {
       "rank": 45,
@@ -506,10 +509,10 @@
       "path": "canon/cells/cell_045.md",
       "seed": 2027091,
       "score": 0.8645833333333334,
-      "lore": "Rain slicks the pavement, a lone streetlamp casts a ghoulish glow.",
+      "lore": "A cellular grid of monolithic towers punctuated by encrypted courtyards, where shadowed arcades and neon veins carve brutalist geometry into Noir's rain-slicked, circuit-like urban fabric.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x85409e14f5c3640d"
+      "voice": "structuralist",
+      "hash": "0xa3536de95bac4734"
     },
     {
       "rank": 46,
@@ -517,10 +520,10 @@
       "path": "canon/cells/cell_046.md",
       "seed": 3801903,
       "score": 0.8645833333333334,
-      "lore": "Rain falls on the city's dark streets, a lone figure in the shadows.",
+      "lore": "Fractured city cells of steel and neon intertwine, forming a geometrically chaotic, yet rigidly structured, dystopian landscape of interconnected towers and shadowed alleys.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x96c7efc8933cda93"
+      "voice": "structuralist",
+      "hash": "0xe99473b9c9767820"
     },
     {
       "rank": 47,
@@ -528,10 +531,10 @@
       "path": "canon/cells/cell_047.md",
       "seed": 2658,
       "score": 0.8645833333333334,
-      "lore": "Rain drips off the gumshoe's trenchcoat.",
+      "lore": "A vertical megastructure grid of monolithic towers connected by skybridges, forming a dense, layered cyberpunk cityscape.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x798eebd563af2e41"
+      "voice": "structuralist",
+      "hash": "0x52c3f3bcd22ce0be"
     },
     {
       "rank": 48,
@@ -539,10 +542,10 @@
       "path": "canon/cells/cell_048.md",
       "seed": 2041,
       "score": 0.8642849344978166,
-      "lore": "Rain slicks the streets of New Eden, a lone shadow lingers.",
+      "lore": "Beneath squamous spires, the city breathes through angles no mind should know, devouring thought as we crawl through its dreaming streets.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x21f692cbe18e46c7"
+      "voice": "cosmic_horror",
+      "hash": "0x260c5b3c24615481"
     },
     {
       "rank": 49,
@@ -550,10 +553,10 @@
       "path": "canon/cells/cell_049.md",
       "seed": 1015,
       "score": 0.8641666666666666,
-      "lore": "Rainy streets, neon glare. Crisp air, sharp lies.",
+      "lore": "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x82813c95eb5a66ea"
+      "voice": "structuralist",
+      "hash": "0x94f9bef3f9ca4294"
     },
     {
       "rank": 50,
@@ -561,10 +564,10 @@
       "path": "canon/cells/cell_050.md",
       "seed": 357489,
       "score": 0.8641666666666666,
-      "lore": "Rain pours on the neon-soaked streets.",
+      "lore": "I stalk rain-slick alleys, neon bleeding across chrome skin, while distant sirens hum through the smog and my boots splash through oily pudd",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xc9b0a383aa0dffbe"
+      "voice": "narrativist",
+      "hash": "0x1ece67d4eb1684f4"
     },
     {
       "rank": 51,
@@ -572,10 +575,10 @@
       "path": "canon/cells/cell_051.md",
       "seed": 181517931,
       "score": 0.8641666666666666,
-      "lore": "Rain slicks the pavement.",
+      "lore": "She walked into my office with neon rain dripping off her chrome, and I knew the city had a bad attitude and the job paid seven credits.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x62a6480808d32186"
+      "voice": "noir_classic",
+      "hash": "0x940887e508dbc761"
     },
     {
       "rank": 52,
@@ -583,10 +586,10 @@
       "path": "canon/cells/cell_052.md",
       "seed": 35375967,
       "score": 0.8641666666666666,
-      "lore": "Rain-soaked streets, neon shadows, corruption reigns.",
+      "lore": "The rain in this chrome-plated hell washes nothing clean; it just makes the neon bleed faster, and in this town, trouble always finds you first.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xe640a7e8379410c6"
+      "voice": "noir_classic",
+      "hash": "0x06d4b06745f51abb"
     },
     {
       "rank": 53,
@@ -594,10 +597,10 @@
       "path": "canon/cells/cell_053.md",
       "seed": 5216405,
       "score": 0.8641666666666666,
-      "lore": "Rainy night streets, hardboiled eyes scanning",
+      "lore": "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xf1d070b3922ff199"
+      "voice": "structuralist",
+      "hash": "0x75d59a3c6ea3732b"
     },
     {
       "rank": 54,
@@ -605,10 +608,10 @@
       "path": "canon/cells/cell_054.md",
       "seed": 78503634,
       "score": 0.8641666666666666,
-      "lore": "Rain soaks streets, neon drowns the night.",
+      "lore": "Brutalist data-spires and glitched tenements fuse into a fractured grid of neon ruins and coded shadows.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x705c40ca215e8a4a"
+      "voice": "structuralist",
+      "hash": "0xf5bbcab83886ce45"
     },
     {
       "rank": 55,
@@ -616,10 +619,10 @@
       "path": "canon/cells/cell_055.md",
       "seed": 559153,
       "score": 0.8641666666666666,
-      "lore": "Rain-soaked streets swallowed the last embers of daybreak.",
+      "lore": "In the city's gridlocked core, angular skyscrapers pierced the smog-choked sky, their lattice facades a testament to the architect's obsession with geometric precision.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xa89dfd8b7fdb89e1"
+      "voice": "structuralist",
+      "hash": "0x61cda639c1539ed5"
     },
     {
       "rank": 56,
@@ -638,10 +641,10 @@
       "path": "canon/cells/cell_057.md",
       "seed": 612171,
       "score": 0.8641666666666666,
-      "lore": "Rain lashes streets, neon blinds, the city's dark heart beats.\"\n\nWhat do you do?\n\n(Note: you can type commands like 'move north' or 'investigate alleyway')",
+      "lore": "Here's a prophetic sentence, aiming for the requested tone and length, inspired by the ASCII art:  **The neon arteries pulsed with regret, and New Shanghai whispered forgotten futures in the acid rain.**    I tried to evoke the \"living organism\" feel, focusing on a sense of sentience and decay within the city itself. The rain and neon felt fitting for the cyberpunk noir aesthetic.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xb02679c8bc262ce4"
+      "voice": "futurist",
+      "hash": "0x575485a52b189059"
     },
     {
       "rank": 58,
@@ -649,10 +652,10 @@
       "path": "canon/cells/cell_058.md",
       "seed": 799480,
       "score": 0.8641666666666666,
-      "lore": "A dimly lit alleyway, rain-soaked streets, and the distant hum of holographic advertisements. What's your move?",
+      "lore": "The skyscraper's lattice-like fa\u00e7ade, a mesh of intersecting hyperbolas and parabolas, seemed to defy gravity, a three-dimensional manifestation of the city's chaotic logic.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xa13aef64dd4f9352"
+      "voice": "structuralist",
+      "hash": "0x65594cd54dc0aabb"
     },
     {
       "rank": 59,
@@ -660,10 +663,10 @@
       "path": "canon/cells/cell_059.md",
       "seed": 1308153,
       "score": 0.8641666666666666,
-      "lore": "Rains pour down on wet neon streets...",
+      "lore": "In the city's sprawling metropolis, a maze of interconnected skyscrapers formed a labyrinthine architecture, with angular lines and geometric patterns dominating the urban landscape.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x8f657b9164e81207"
+      "voice": "structuralist",
+      "hash": "0x21cd41afb2d5c20f"
     },
     {
       "rank": 60,
@@ -682,10 +685,10 @@
       "path": "canon/cells/cell_061.md",
       "seed": 3049215,
       "score": 0.8641666666666666,
-      "lore": "Rain pours down on neon streets. A lone figure emerges.",
+      "lore": "A fractured grid of monolithic data-towers rises from a flooded, neon-scarred matrix, its brutalist forms dissolving into recursive urban decay.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xfd999694969a6ca0"
+      "voice": "structuralist",
+      "hash": "0x63fc193e9d078577"
     },
     {
       "rank": 62,
@@ -693,10 +696,10 @@
       "path": "canon/cells/cell_062.md",
       "seed": 3868371,
       "score": 0.8641666666666666,
-      "lore": "Rain-soaked streets. Neon-lit alleys. One last gig.",
+      "lore": "Symmetrical modular megastructure rises from cascading ASCII grid, its crystalline towers and dense urban blocks forming a fractured, glitched brutalist skyline.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0xab3ce834e80872d5"
+      "voice": "structuralist",
+      "hash": "0x8bad2e793fdb72bd"
     },
     {
       "rank": 63,
@@ -704,10 +707,10 @@
       "path": "canon/cells/cell_063.md",
       "seed": 1206,
       "score": 0.8641666666666666,
-      "lore": "Rain-soaked streets swallowed the last of the neon.\n\nWhat would you like to do?",
+      "lore": "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x778a5f3e6138401b"
+      "voice": "structuralist",
+      "hash": "0x228d75bd8aea4cc8"
     },
     {
       "rank": 64,
@@ -715,10 +718,10 @@
       "path": "canon/cells/cell_064.md",
       "seed": 309645,
       "score": 0.8641666666666666,
-      "lore": "The rain-soaked streets of Neo-Tokyo stretched out before you like a diseased serpent.",
+      "lore": "A sprawling metropolis of interconnected, organically-grown skyscrapers and labyrinthine streets, its architecture a symphony of angles and curves in perpetual, dystopian decay.",
       "type": "doctrine",
-      "voice": "",
-      "hash": "0x1612e00905439973"
+      "voice": "structuralist",
+      "hash": "0x8552cf747b5d59f7"
     },
     {
       "rank": 65,
@@ -726,10 +729,10 @@
       "path": "canon/cells/cell_065.md",
       "seed": 3163870,
       "score": 0.8638391557496361,
-      "lore": "Rain pounds streets of New Erebo, a neon-lit abyss",
+      "lore": "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xec6a691ac3f0a5e2"
+      "voice": "structuralist",
+      "hash": "0xc41432d09ff4f5a8"
     },
     {
       "rank": 66,
@@ -737,10 +740,10 @@
       "path": "canon/cells/cell_066.md",
       "seed": 1809721,
       "score": 0.86375,
-      "lore": "Rain pours down on streets of Neo-Tokyo, neon lights reflecting off wet pavement.",
+      "lore": "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x3f1ea8a7572bc373"
+      "voice": "structuralist",
+      "hash": "0x75cfad58ff45f233"
     },
     {
       "rank": 67,
@@ -748,10 +751,10 @@
       "path": "canon/cells/cell_067.md",
       "seed": 1777555,
       "score": 0.86375,
-      "lore": "Rain drips from a lone streetlamp",
+      "lore": "In the sprawling metropolis, skyscrapers of intersecting crystalline structures pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of geometric perfection.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xd0ef54e5333663ec"
+      "voice": "structuralist",
+      "hash": "0xabda152ec302868c"
     },
     {
       "rank": 68,
@@ -759,10 +762,10 @@
       "path": "canon/cells/cell_068.md",
       "seed": 226609321,
       "score": 0.86375,
-      "lore": "Rain pours on wet streets, a lone figure emerges from the neon haze",
+      "lore": "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance",
       "type": "canon",
-      "voice": "",
-      "hash": "0x1a83f9e14ec5aaa3"
+      "voice": "structuralist",
+      "hash": "0x9e6443abd0e55ecd"
     },
     {
       "rank": 69,
@@ -781,10 +784,10 @@
       "path": "canon/cells/cell_070.md",
       "seed": 3097600,
       "score": 0.86375,
-      "lore": "Rain-soaked streets, neon haze, shadows hide the truth.",
+      "lore": "Brutalist megastructures rise from ASCII ruins, their jagged geometric towers piercing a corrupted digital skyline of fractured code.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xb119310e14f36df7"
+      "voice": "structuralist",
+      "hash": "0x87029ec8134f06af"
     },
     {
       "rank": 71,
@@ -792,10 +795,10 @@
       "path": "canon/cells/cell_071.md",
       "seed": 1538456,
       "score": 0.86375,
-      "lore": "Rain pours down on a deserted alleyway.",
+      "lore": "Brutalist megastructures rise from a glyph-scattered grid, their fractured facades and crystalline towers encoding a sprawling, asymmetric cyberpunk metropolis.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x33920716ad288157"
+      "voice": "structuralist",
+      "hash": "0x2b664e129dc67b6e"
     },
     {
       "rank": 72,
@@ -803,10 +806,10 @@
       "path": "canon/cells/cell_072.md",
       "seed": 77072320,
       "score": 0.86375,
-      "lore": "Rain slicks the pavement.",
+      "lore": "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x61fdb0d60780bfaf"
+      "voice": "cosmic_horror",
+      "hash": "0x58c85638f231a99e"
     },
     {
       "rank": 73,
@@ -814,10 +817,10 @@
       "path": "canon/cells/cell_073.md",
       "seed": 17781081,
       "score": 0.86375,
-      "lore": "Rain poured down on the city like a dirty shroud.",
+      "lore": "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x62edfc40714931a8"
+      "voice": "noir_classic",
+      "hash": "0x2bbe449c27e7a656"
     },
     {
       "rank": 74,
@@ -825,10 +828,10 @@
       "path": "canon/cells/cell_074.md",
       "seed": 4293784,
       "score": 0.86375,
-      "lore": "Rainy streets, neon lights flicker, a lone figure stands at the edge of the city",
+      "lore": "Brutalist megastructures rise from ASCII ruins, their fragmented geometric facades encoding a decaying cyberpunk metropolis in monochrome.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x539e7101056cf630"
+      "voice": "structuralist",
+      "hash": "0xf7076ee1c1ecfdf5"
     },
     {
       "rank": 75,
@@ -836,10 +839,10 @@
       "path": "canon/cells/cell_075.md",
       "seed": 15167010,
       "score": 0.86375,
-      "lore": "Rain pours down on the city's dirty streets.",
+      "lore": "I walk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum beneath the chrome sky.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x37d1fe4e52894f53"
+      "voice": "narrativist",
+      "hash": "0x17ec065686253b08"
     },
     {
       "rank": 76,
@@ -847,10 +850,10 @@
       "path": "canon/cells/cell_076.md",
       "seed": 19754564,
       "score": 0.86375,
-      "lore": "Rain lashes down on the deserted streets of New Haven.",
+      "lore": "A cellular grid of monolithic towers and suspended bridges forms a fractured, rain-slicked cyberpunk skyline.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xedecef7ce5fe9945"
+      "voice": "structuralist",
+      "hash": "0x5ccd10ab73841922"
     },
     {
       "rank": 77,
@@ -858,10 +861,10 @@
       "path": "canon/cells/cell_077.md",
       "seed": 24,
       "score": 0.86375,
-      "lore": "Rain pours down on the streets of Neo-Tokyo, a city that never sleeps.",
+      "lore": "Vertical arcologies rise through toxic rain, their fractured facades stitching corporate spires, transit veins, and shadowed alley cells into a relentless noir grid.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xf005fc12624754ca"
+      "voice": "structuralist",
+      "hash": "0xe2c41a3eee91c2c0"
     },
     {
       "rank": 78,
@@ -869,10 +872,10 @@
       "path": "canon/cells/cell_078.md",
       "seed": 17923,
       "score": 0.86375,
-      "lore": "Rainy streets, dimly lit alleys. Lost souls prowl.",
+      "lore": "The city breathes through geometries no mind was meant to parse, and we are merely fleeting thoughts it dreams in the dark.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x2365d43e1b3ad78a"
+      "voice": "cosmic_horror",
+      "hash": "0x6e948f05b4872e97"
     },
     {
       "rank": 79,
@@ -880,10 +883,10 @@
       "path": "canon/cells/cell_079.md",
       "seed": 25303,
       "score": 0.86375,
-      "lore": "Rain lashes down, neon lights flicker.",
+      "lore": "I glimpsed the city\u2019s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x0a4c1840e990283a"
+      "voice": "cosmic_horror",
+      "hash": "0xa9637cc4cf821ae5"
     },
     {
       "rank": 80,
@@ -891,10 +894,10 @@
       "path": "canon/cells/cell_080.md",
       "seed": 153181,
       "score": 0.86375,
-      "lore": "Rain patters on the wet pavement. Neon lights reflect off a puddle, casting a distorted glow.",
+      "lore": "In the city's labyrinthine sprawl, towering skyscrapers pierced the smog-filled sky, their angular silhouettes a testament to the architect's obsessive pursuit of geometric perfection.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xb35913f4aeb8cae3"
+      "voice": "structuralist",
+      "hash": "0xe09f20aeef7754ea"
     },
     {
       "rank": 81,
@@ -902,10 +905,10 @@
       "path": "canon/cells/cell_081.md",
       "seed": 339849,
       "score": 0.86375,
-      "lore": "Rain pours down, casting shadows on the city's bleak streets.\n\nWhat do you do?",
+      "lore": "Brutalist megastructures rise from ASCII ruins, their jagged towers and fractured facades encoding a decaying cyberpunk city's oppressive vertical geometry.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x3e5ef0744533ee4c"
+      "voice": "structuralist",
+      "hash": "0x20cea26858f2d3ae"
     },
     {
       "rank": 82,
@@ -913,10 +916,10 @@
       "path": "canon/cells/cell_082.md",
       "seed": 1225372,
       "score": 0.86375,
-      "lore": "Rain slicks the alley's dark floor.",
+      "lore": "Modular arcologies erupt as jagged crystalline clusters, their dense pixelated facades weaving chaotic interlocking volumes above rain-slicked, reflective street canyons.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x64b9d7320b1519f7"
+      "voice": "structuralist",
+      "hash": "0x400c060512427f15"
     },
     {
       "rank": 83,
@@ -924,10 +927,10 @@
       "path": "canon/cells/cell_083.md",
       "seed": 3997378,
       "score": 0.86375,
-      "lore": "Rain-soaked streets. Neon haze. A lone silhouette.",
+      "lore": "Brutalist megastructures rise from fractured grid, their jagged spires piercing neon-soaked skies above labyrinthine street canyons.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xa8487119fd112c7c"
+      "voice": "structuralist",
+      "hash": "0x0baaedb6ebb830ac"
     },
     {
       "rank": 84,
@@ -935,10 +938,10 @@
       "path": "canon/cells/cell_084.md",
       "seed": 20,
       "score": 0.86375,
-      "lore": "Rain drips like tears on the city's dark skin.",
+      "lore": "Dense modular towers rise through a fractured grid of streets, their pixelated facades forming a brutalist, glitched metropolis.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xe5239e32c3f7d1ec"
+      "voice": "structuralist",
+      "hash": "0xb7e0c4aebf36c48b"
     },
     {
       "rank": 85,
@@ -946,10 +949,10 @@
       "path": "canon/cells/cell_085.md",
       "seed": 642,
       "score": 0.86375,
-      "lore": "Rain falls on the city's dirty streets.",
+      "lore": "I jack a wet breath through my rebreather while neon glyphs bleed across the alley's chrome like a dying man's prayer.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x610d8085273f7664"
+      "voice": "narrativist",
+      "hash": "0xf8a0c87320333dc6"
     },
     {
       "rank": 86,
@@ -957,10 +960,10 @@
       "path": "canon/cells/cell_086.md",
       "seed": 1284,
       "score": 0.86375,
-      "lore": "Rainy streets, empty eyes.",
+      "lore": "A cellular megastructure of fractured data-spires and encrypted monoliths rises through perpetual neon rain.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x59c4e52bb7b18add"
+      "voice": "structuralist",
+      "hash": "0xf04bc90cc3d6f7f6"
     },
     {
       "rank": 87,
@@ -968,10 +971,10 @@
       "path": "canon/cells/cell_087.md",
       "seed": 2548,
       "score": 0.86375,
-      "lore": "Rain pours down like sin's dark tears.",
+      "lore": "A vertical megastructure of jagged, crystalline towers rises from a fragmented grid, fusing brutalist mass with chaotic digital noise.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x0cd661370645be3f"
+      "voice": "structuralist",
+      "hash": "0x69c6979bf52ab896"
     },
     {
       "rank": 88,
@@ -979,10 +982,10 @@
       "path": "canon/cells/cell_088.md",
       "seed": 19652,
       "score": 0.86375,
-      "lore": "Rain slanted down the neon-drenched streets.",
+      "lore": "Modular megastructures interweave through a recursive grid, forming a dense, stratified matrix of monolithic cellular repetition.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xd098ccd40a6dd26b"
+      "voice": "structuralist",
+      "hash": "0x4d5a48f9443620af"
     },
     {
       "rank": 89,
@@ -990,10 +993,10 @@
       "path": "canon/cells/cell_089.md",
       "seed": 4787965,
       "score": 0.8633333333333333,
-      "lore": "Rain-soaked streets.",
+      "lore": "I stalk through neon rain, my boots splashing oil-slick puddles while holographic ads whisper promises and distant sirens wail.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xb6b059dbdb0688a2"
+      "voice": "narrativist",
+      "hash": "0x16d6e9f166698935"
     },
     {
       "rank": 90,
@@ -1001,10 +1004,10 @@
       "path": "canon/cells/cell_090.md",
       "seed": 536870870,
       "score": 0.8633333333333333,
-      "lore": "Rain pattered on the alley's dark slick.",
+      "lore": "A cellular grid of monolithic towers punctuated by neon glyphs forms a brutalist, labyrinthine cityscape of repetitive modular blocks.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xfdd2a599e21066a8"
+      "voice": "structuralist",
+      "hash": "0x0d9a5f25d45141af"
     },
     {
       "rank": 91,
@@ -1012,10 +1015,10 @@
       "path": "canon/cells/cell_091.md",
       "seed": 8388601,
       "score": 0.8633333333333333,
-      "lore": "Rain slicks streets of Neo-Tokyo, shadows hide secrets.\n\nWhat do you do?",
+      "lore": "Modular arcologies rise as jagged crystalline clusters, their pixelated facades pierced by neon grids and shadowed algorithmic courtyards.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xc2b8143327268614"
+      "voice": "structuralist",
+      "hash": "0x7325c695430bf8bd"
     },
     {
       "rank": 92,
@@ -1023,10 +1026,10 @@
       "path": "canon/cells/cell_092.md",
       "seed": 28121809,
       "score": 0.8633333333333333,
-      "lore": "Rainy streets a haze of neon. \n\nWhat do you do?",
+      "lore": "The city breathes through neon veins, dreams in server rain, eats the lonely, and speaks your name through static.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x620126da68ced0ae"
+      "voice": "futurist",
+      "hash": "0x77f302b9d822ca43"
     },
     {
       "rank": 93,
@@ -1034,10 +1037,10 @@
       "path": "canon/cells/cell_093.md",
       "seed": 4080,
       "score": 0.8633333333333333,
-      "lore": "Rain slams against the alleyway's neon-drenched walls.",
+      "lore": "Rain writes dead lovers\u2019 names in neon across my chrome skull while memory flickers like a broken hologram under midnight\u2019s electric bruise.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x1b8a14aa38b5c16a"
+      "voice": "lyricist",
+      "hash": "0x556cd945eed862e4"
     },
     {
       "rank": 94,
@@ -1045,10 +1048,10 @@
       "path": "canon/cells/cell_094.md",
       "seed": 16546963,
       "score": 0.8633333333333333,
-      "lore": "Rain-soaked streets, a lone figure emerges.\n\nWhat do you want to do?",
+      "lore": "Brutalist megastructures rise as monolithic ziggurats, their fractured facades pierced by neon glyphs and labyrinthine arterial streets below.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x5a60429f8abed334"
+      "voice": "structuralist",
+      "hash": "0xd483bca9bded7bc3"
     },
     {
       "rank": 95,
@@ -1056,10 +1059,10 @@
       "path": "canon/cells/cell_095.md",
       "seed": 947640,
       "score": 0.8633333333333333,
-      "lore": "Rain slicks the pavement. Shadows swallow streets.",
+      "lore": "Vertical monoliths rise from a fractured grid, their jagged crowns piercing a haze of coded static and neon decay.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x3d20d2cbf558143b"
+      "voice": "structuralist",
+      "hash": "0x8b5d19acadcf091f"
     },
     {
       "rank": 96,
@@ -1067,10 +1070,10 @@
       "path": "canon/cells/cell_096.md",
       "seed": 41373156,
       "score": 0.8633333333333333,
-      "lore": "Rain pours on the city's dark streets.",
+      "lore": "I walk through rain-slick neon alleys, my chrome boots splashing, while synthetic smoke burns my throat and distant sirens hum.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x4a5764472bfb98e0"
+      "voice": "narrativist",
+      "hash": "0x7a7bec0387faf5cb"
     },
     {
       "rank": 97,
@@ -1078,10 +1081,10 @@
       "path": "canon/cells/cell_097.md",
       "seed": 15389929,
       "score": 0.8633333333333333,
-      "lore": "Rain falls on empty streets.",
+      "lore": "The city\u2019s modular grid fractures into crystalline towers, embedding encrypted data-spires within a labyrinthine matrix of light and shadow.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xf7e293f4b8eb36fd"
+      "voice": "structuralist",
+      "hash": "0x519ff151952d31e4"
     },
     {
       "rank": 98,
@@ -1089,10 +1092,10 @@
       "path": "canon/cells/cell_098.md",
       "seed": 1085601,
       "score": 0.8633333333333333,
-      "lore": "Rain-soaked streets. Neon screams.",
+      "lore": "The city\u2019s jagged neon grids weave a labyrinth of fractured geometry, where towering monoliths and cascading X-patterns collapse into a chaotic dance of light and steel.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x15cd57107cd946d7"
+      "voice": "structuralist",
+      "hash": "0xb46dd709dab26c9f"
     },
     {
       "rank": 99,
@@ -1100,10 +1103,10 @@
       "path": "canon/cells/cell_099.md",
       "seed": 6612066,
       "score": 0.8633333333333333,
-      "lore": "Rain pours down on the city like a dirty mistress",
+      "lore": "Brutalist arcologies rise as jagged ziggurats, their fractured concrete facades pierced by neon glyphs and labyrinthine skybridges spanning void.",
       "type": "canon",
-      "voice": "",
-      "hash": "0x6cbbb2021fa7e77a"
+      "voice": "structuralist",
+      "hash": "0x6f463945ddd1f09e"
     },
     {
       "rank": 100,
@@ -1111,10 +1114,10 @@
       "path": "canon/cells/cell_100.md",
       "seed": 4509130,
       "score": 0.8633333333333333,
-      "lore": "Rain patters on wet streets. Neon signs flicker.",
+      "lore": "Vast monolithic data-spires rise from a flooded, neon-scarred grid, their fractured geometric facades channeling noir shadows between brutalist corporate ziggurats.",
       "type": "canon",
-      "voice": "",
-      "hash": "0xf3e016f61aa5a988"
+      "voice": "structuralist",
+      "hash": "0x43833b6ef9fb0e26"
     }
   ]
 }

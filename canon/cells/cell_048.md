@@ -7,17 +7,17 @@
 **score**: 0.8642849344978166
 **seed**: 2041
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slicks the streets of New Eden, a lone shadow lingers."
+**voice**: cosmic_horror
+**lore**: "Beneath squamous spires, the city breathes through angles no mind should know, devouring thought as we crawl through its dreaming streets."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2041.
-Rank #48 across many tested seeds. Voice: single-voice pipeline.
+Rank #48 across many tested seeds. Voice: cosmic_horror.
 
 ## Cell Hash
 
-`0x21f692cbe18e46c7` (FNV-1a 64-bit)
+`0x260c5b3c24615481` (FNV-1a 64-bit)
 
 ## Witness
 

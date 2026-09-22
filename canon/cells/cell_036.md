@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 5351356
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on streets of New Eden."
+**voice**: structuralist
+**lore**: "Vertical monoliths, jagged neon lattice, and armored arcologies compress the city cell into a noir canyon of surveillance, decay, and electric rain."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 5351356.
-Rank #36 across many tested seeds. Voice: single-voice pipeline.
+Rank #36 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xddd09220db3258ea` (FNV-1a 64-bit)
+`0x48fa0edd18df16de` (FNV-1a 64-bit)
 
 ## Witness
 

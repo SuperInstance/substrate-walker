@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 226609321
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours on wet streets, a lone figure emerges from the neon haze"
+**voice**: structuralist
+**lore**: "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance"
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 226609321.
-Rank #68 across many tested seeds. Voice: single-voice pipeline.
+Rank #68 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x1a83f9e14ec5aaa3` (FNV-1a 64-bit)
+`0x9e6443abd0e55ecd` (FNV-1a 64-bit)
 
 ## Witness
 

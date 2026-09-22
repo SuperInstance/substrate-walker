@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 77072320
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slicks the pavement."
+**voice**: cosmic_horror
+**lore**: "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 77072320.
-Rank #72 across many tested seeds. Voice: single-voice pipeline.
+Rank #72 across many tested seeds. Voice: cosmic_horror.
 
 ## Cell Hash
 
-`0x61fdb0d60780bfaf` (FNV-1a 64-bit)
+`0x58c85638f231a99e` (FNV-1a 64-bit)
 
 ## Witness
 

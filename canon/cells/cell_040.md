@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 44279
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on neon-soaked streets."
+**voice**: cosmic_horror
+**lore**: "The city breathes through angles no human eye can parse, a vast nameless god dreaming our streets into squamous, half-remembered existence."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 44279.
-Rank #40 across many tested seeds. Voice: single-voice pipeline.
+Rank #40 across many tested seeds. Voice: cosmic_horror.
 
 ## Cell Hash
 
-`0x7f06583998e6e2ac` (FNV-1a 64-bit)
+`0x5bfa06f481495ef5` (FNV-1a 64-bit)
 
 ## Witness
 

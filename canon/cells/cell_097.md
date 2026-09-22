@@ -7,17 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 15389929
 **path**: straight_east
-**voice**: 
-**lore**: "Rain falls on empty streets."
+**voice**: structuralist
+**lore**: "The city’s modular grid fractures into crystalline towers, embedding encrypted data-spires within a labyrinthine matrix of light and shadow."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 15389929.
-Rank #97 across many tested seeds. Voice: single-voice pipeline.
+Rank #97 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf7e293f4b8eb36fd` (FNV-1a 64-bit)
+`0x519ff151952d31e4` (FNV-1a 64-bit)
 
 ## Witness
 

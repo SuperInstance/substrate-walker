@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 3997378
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets. Neon haze. A lone silhouette."
+**voice**: structuralist
+**lore**: "Brutalist megastructures rise from fractured grid, their jagged spires piercing neon-soaked skies above labyrinthine street canyons."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 3997378.
-Rank #83 across many tested seeds. Voice: single-voice pipeline.
+Rank #83 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xa8487119fd112c7c` (FNV-1a 64-bit)
+`0x0baaedb6ebb830ac` (FNV-1a 64-bit)
 
 ## Witness
 

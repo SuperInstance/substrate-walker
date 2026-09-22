@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 2658
 **path**: straight_east
-**voice**: 
-**lore**: "Rain drips off the gumshoe's trenchcoat."
+**voice**: structuralist
+**lore**: "A vertical megastructure grid of monolithic towers connected by skybridges, forming a dense, layered cyberpunk cityscape."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2658.
-Rank #47 across many tested seeds. Voice: single-voice pipeline.
+Rank #47 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x798eebd563af2e41` (FNV-1a 64-bit)
+`0x52c3f3bcd22ce0be` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,19 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 16546963
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets, a lone figure emerges.
-
-What do you want to do?"
+**voice**: structuralist
+**lore**: "Brutalist megastructures rise as monolithic ziggurats, their fractured facades pierced by neon glyphs and labyrinthine arterial streets below."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 16546963.
-Rank #94 across many tested seeds. Voice: single-voice pipeline.
+Rank #94 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x5a60429f8abed334` (FNV-1a 64-bit)
+`0xd483bca9bded7bc3` (FNV-1a 64-bit)
 
 ## Witness
 

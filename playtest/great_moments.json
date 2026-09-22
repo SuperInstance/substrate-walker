@@ -207,74 +207,86 @@
   {
     "seed": 60575860,
     "score": 0.8645833333333334,
-    "lore": "Rain pours on the city's dark alleys.",
-    "rank": 31
+    "lore": "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid.",
+    "rank": 31,
+    "voice": "structuralist"
   },
   {
     "seed": 128056006,
     "score": 0.8645833333333334,
-    "lore": "Rain patters on wet streets, a lone figure walks.",
-    "rank": 32
+    "lore": "Symmetrical monolithic towers rise from dense ASCII grid, their crystalline facades punctuated by scattered windows and shadowed voids.",
+    "rank": 32,
+    "voice": "structuralist"
   },
   {
     "seed": 2540836,
     "score": 0.8645833333333334,
-    "lore": "Rain falls on dirty streets.",
-    "rank": 33
+    "lore": "Modular ziggurat cells stack into brutalist towers, their circuit-etched facades forming a decentralized, self-replicating urban lattice.",
+    "rank": 33,
+    "voice": "structuralist"
   },
   {
     "seed": 32849565,
     "score": 0.8645833333333334,
-    "lore": "Rain slicks the pavement, city's dark underbelly.",
-    "rank": 34
+    "lore": "A cellular grid of monolithic towers rises through layered fog, their faceted forms etched with luminous data-streams and shadowed arterial streets.",
+    "rank": 34,
+    "voice": "structuralist"
   },
   {
     "seed": 38155762,
     "score": 0.8645833333333334,
-    "lore": "Rain pours down on darkened streets.",
-    "rank": 35
+    "lore": "The city sprawls beyond geometry, its angles whispering in tongues that erode reason, and I fear it dreams us into its endless, nameless alleys.",
+    "rank": 35,
+    "voice": "cosmic_horror"
   },
   {
     "seed": 5351356,
     "score": 0.8645833333333334,
-    "lore": "Rain pours down on streets of New Eden.",
-    "rank": 36
+    "lore": "Vertical monoliths, jagged neon lattice, and armored arcologies compress the city cell into a noir canyon of surveillance, decay, and electric rain.",
+    "rank": 36,
+    "voice": "structuralist"
   },
   {
     "seed": 4073,
     "score": 0.8645833333333334,
-    "lore": "Rain pours down on neon drenched streets.",
-    "rank": 37
+    "lore": "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams.\"  (Or, if you prefer something more visceral: \"The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.\")",
+    "rank": 37,
+    "voice": "futurist"
   },
   {
     "seed": 21037341,
     "score": 0.8645833333333334,
-    "lore": "Rain falls hard on neon streets.",
-    "rank": 38
+    "lore": "A monolithic cyberpunk cell rises in jagged vertical strata, its neon-veined fa\u00e7ade and cramped alleyways framing a rain-slicked noir metropolis.",
+    "rank": 38,
+    "voice": "structuralist"
   },
   {
     "seed": 509,
     "score": 0.8645833333333334,
-    "lore": "Rain pours down on a city in perpetual night.",
-    "rank": 39
+    "lore": "Neon-lit megastructures rise in dense layered blocks, their shattered facades and labyrinthine alleys framing a rain-soaked, surveillance-choked cyberpunk metropolis.",
+    "rank": 39,
+    "voice": "structuralist"
   },
   {
     "seed": 44279,
     "score": 0.8645833333333334,
-    "lore": "Rain pours down on neon-soaked streets.",
-    "rank": 40
+    "lore": "The city breathes through angles no human eye can parse, a vast nameless god dreaming our streets into squamous, half-remembered existence.",
+    "rank": 40,
+    "voice": "cosmic_horror"
   },
   {
     "seed": 49789,
     "score": 0.8645833333333334,
-    "lore": "Rain-soaked streets. Neon signs blur. Victim found dead.",
-    "rank": 41
+    "lore": "Towering brutalist monoliths, tangled skybridges, and neon-lit tenements form a stratified cyberpunk city cell where power flows upward and shadows pool below.",
+    "rank": 41,
+    "voice": "structuralist"
   },
   {
     "seed": 39621,
     "score": 0.8645833333333334,
-    "lore": "Rain-soaked streets shrouded in neon darkness.\n\nWhat do you do?",
-    "rank": 42
+    "lore": "As the last remnants of daylight surrendered to the city's eternal night, its veins pulsed with the prophecy: 'I will devour, I will speak, I will dream, and in my darkness, you will be reborn.'",
+    "rank": 42,
+    "voice": "futurist"
   },
   {
     "seed": 59340,
@@ -285,74 +297,86 @@
   {
     "seed": 817102,
     "score": 0.8645833333333334,
-    "lore": "I stepped out of the rain-soaked alley, eyes scanning the cityscape.",
-    "rank": 44
+    "lore": "I stepped out of the rain-soaked alley and onto the neon-drenched streets of New Eden, the city's perpetual hum of machinery and despair thrumming through my veins.",
+    "rank": 44,
+    "voice": "narrativist"
   },
   {
     "seed": 2027091,
     "score": 0.8645833333333334,
-    "lore": "Rain slicks the pavement, a lone streetlamp casts a ghoulish glow.",
-    "rank": 45
+    "lore": "A cellular grid of monolithic towers punctuated by encrypted courtyards, where shadowed arcades and neon veins carve brutalist geometry into Noir's rain-slicked, circuit-like urban fabric.",
+    "rank": 45,
+    "voice": "structuralist"
   },
   {
     "seed": 3801903,
     "score": 0.8645833333333334,
-    "lore": "Rain falls on the city's dark streets, a lone figure in the shadows.",
-    "rank": 46
+    "lore": "Fractured city cells of steel and neon intertwine, forming a geometrically chaotic, yet rigidly structured, dystopian landscape of interconnected towers and shadowed alleys.",
+    "rank": 46,
+    "voice": "structuralist"
   },
   {
     "seed": 2658,
     "score": 0.8645833333333334,
-    "lore": "Rain drips off the gumshoe's trenchcoat.",
-    "rank": 47
+    "lore": "A vertical megastructure grid of monolithic towers connected by skybridges, forming a dense, layered cyberpunk cityscape.",
+    "rank": 47,
+    "voice": "structuralist"
   },
   {
     "seed": 2041,
     "score": 0.8642849344978166,
-    "lore": "Rain slicks the streets of New Eden, a lone shadow lingers.",
-    "rank": 48
+    "lore": "Beneath squamous spires, the city breathes through angles no mind should know, devouring thought as we crawl through its dreaming streets.",
+    "rank": 48,
+    "voice": "cosmic_horror"
   },
   {
     "seed": 1015,
     "score": 0.8641666666666666,
-    "lore": "Rainy streets, neon glare. Crisp air, sharp lies.",
-    "rank": 49
+    "lore": "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament.",
+    "rank": 49,
+    "voice": "structuralist"
   },
   {
     "seed": 357489,
     "score": 0.8641666666666666,
-    "lore": "Rain pours on the neon-soaked streets.",
-    "rank": 50
+    "lore": "I stalk rain-slick alleys, neon bleeding across chrome skin, while distant sirens hum through the smog and my boots splash through oily pudd",
+    "rank": 50,
+    "voice": "narrativist"
   },
   {
     "seed": 181517931,
     "score": 0.8641666666666666,
-    "lore": "Rain slicks the pavement.",
-    "rank": 51
+    "lore": "She walked into my office with neon rain dripping off her chrome, and I knew the city had a bad attitude and the job paid seven credits.",
+    "rank": 51,
+    "voice": "noir_classic"
   },
   {
     "seed": 35375967,
     "score": 0.8641666666666666,
-    "lore": "Rain-soaked streets, neon shadows, corruption reigns.",
-    "rank": 52
+    "lore": "The rain in this chrome-plated hell washes nothing clean; it just makes the neon bleed faster, and in this town, trouble always finds you first.",
+    "rank": 52,
+    "voice": "noir_classic"
   },
   {
     "seed": 5216405,
     "score": 0.8641666666666666,
-    "lore": "Rainy night streets, hardboiled eyes scanning",
-    "rank": 53
+    "lore": "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis.",
+    "rank": 53,
+    "voice": "structuralist"
   },
   {
     "seed": 78503634,
     "score": 0.8641666666666666,
-    "lore": "Rain soaks streets, neon drowns the night.",
-    "rank": 54
+    "lore": "Brutalist data-spires and glitched tenements fuse into a fractured grid of neon ruins and coded shadows.",
+    "rank": 54,
+    "voice": "structuralist"
   },
   {
     "seed": 559153,
     "score": 0.8641666666666666,
-    "lore": "Rain-soaked streets swallowed the last embers of daybreak.",
-    "rank": 55
+    "lore": "In the city's gridlocked core, angular skyscrapers pierced the smog-choked sky, their lattice facades a testament to the architect's obsession with geometric precision.",
+    "rank": 55,
+    "voice": "structuralist"
   },
   {
     "seed": 49455,
@@ -363,20 +387,23 @@
   {
     "seed": 612171,
     "score": 0.8641666666666666,
-    "lore": "Rain lashes streets, neon blinds, the city's dark heart beats.\"\n\nWhat do you do?\n\n(Note: you can type commands like 'move north' or 'investigate alleyway')",
-    "rank": 57
+    "lore": "Here's a prophetic sentence, aiming for the requested tone and length, inspired by the ASCII art:  **The neon arteries pulsed with regret, and New Shanghai whispered forgotten futures in the acid rain.**    I tried to evoke the \"living organism\" feel, focusing on a sense of sentience and decay within the city itself. The rain and neon felt fitting for the cyberpunk noir aesthetic.",
+    "rank": 57,
+    "voice": "futurist"
   },
   {
     "seed": 799480,
     "score": 0.8641666666666666,
-    "lore": "A dimly lit alleyway, rain-soaked streets, and the distant hum of holographic advertisements. What's your move?",
-    "rank": 58
+    "lore": "The skyscraper's lattice-like fa\u00e7ade, a mesh of intersecting hyperbolas and parabolas, seemed to defy gravity, a three-dimensional manifestation of the city's chaotic logic.",
+    "rank": 58,
+    "voice": "structuralist"
   },
   {
     "seed": 1308153,
     "score": 0.8641666666666666,
-    "lore": "Rains pour down on wet neon streets...",
-    "rank": 59
+    "lore": "In the city's sprawling metropolis, a maze of interconnected skyscrapers formed a labyrinthine architecture, with angular lines and geometric patterns dominating the urban landscape.",
+    "rank": 59,
+    "voice": "structuralist"
   },
   {
     "seed": 636805,
@@ -387,50 +414,58 @@
   {
     "seed": 3049215,
     "score": 0.8641666666666666,
-    "lore": "Rain pours down on neon streets. A lone figure emerges.",
-    "rank": 61
+    "lore": "A fractured grid of monolithic data-towers rises from a flooded, neon-scarred matrix, its brutalist forms dissolving into recursive urban decay.",
+    "rank": 61,
+    "voice": "structuralist"
   },
   {
     "seed": 3868371,
     "score": 0.8641666666666666,
-    "lore": "Rain-soaked streets. Neon-lit alleys. One last gig.",
-    "rank": 62
+    "lore": "Symmetrical modular megastructure rises from cascading ASCII grid, its crystalline towers and dense urban blocks forming a fractured, glitched brutalist skyline.",
+    "rank": 62,
+    "voice": "structuralist"
   },
   {
     "seed": 1206,
     "score": 0.8641666666666666,
-    "lore": "Rain-soaked streets swallowed the last of the neon.\n\nWhat would you like to do?",
-    "rank": 63
+    "lore": "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix.",
+    "rank": 63,
+    "voice": "structuralist"
   },
   {
     "seed": 309645,
     "score": 0.8641666666666666,
-    "lore": "The rain-soaked streets of Neo-Tokyo stretched out before you like a diseased serpent.",
-    "rank": 64
+    "lore": "A sprawling metropolis of interconnected, organically-grown skyscrapers and labyrinthine streets, its architecture a symphony of angles and curves in perpetual, dystopian decay.",
+    "rank": 64,
+    "voice": "structuralist"
   },
   {
     "seed": 3163870,
     "score": 0.8638391557496361,
-    "lore": "Rain pounds streets of New Erebo, a neon-lit abyss",
-    "rank": 65
+    "lore": "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis.",
+    "rank": 65,
+    "voice": "structuralist"
   },
   {
     "seed": 1809721,
     "score": 0.86375,
-    "lore": "Rain pours down on streets of Neo-Tokyo, neon lights reflecting off wet pavement.",
-    "rank": 66
+    "lore": "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power.",
+    "rank": 66,
+    "voice": "structuralist"
   },
   {
     "seed": 1777555,
     "score": 0.86375,
-    "lore": "Rain drips from a lone streetlamp",
-    "rank": 67
+    "lore": "In the sprawling metropolis, skyscrapers of intersecting crystalline structures pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of geometric perfection.",
+    "rank": 67,
+    "voice": "structuralist"
   },
   {
     "seed": 226609321,
     "score": 0.86375,
-    "lore": "Rain pours on wet streets, a lone figure emerges from the neon haze",
-    "rank": 68
+    "lore": "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance",
+    "rank": 68,
+    "voice": "structuralist"
   },
   {
     "seed": 55006666,
@@ -441,187 +476,218 @@
   {
     "seed": 3097600,
     "score": 0.86375,
-    "lore": "Rain-soaked streets, neon haze, shadows hide the truth.",
-    "rank": 70
+    "lore": "Brutalist megastructures rise from ASCII ruins, their jagged geometric towers piercing a corrupted digital skyline of fractured code.",
+    "rank": 70,
+    "voice": "structuralist"
   },
   {
     "seed": 1538456,
     "score": 0.86375,
-    "lore": "Rain pours down on a deserted alleyway.",
-    "rank": 71
+    "lore": "Brutalist megastructures rise from a glyph-scattered grid, their fractured facades and crystalline towers encoding a sprawling, asymmetric cyberpunk metropolis.",
+    "rank": 71,
+    "voice": "structuralist"
   },
   {
     "seed": 77072320,
     "score": 0.86375,
-    "lore": "Rain slicks the pavement.",
-    "rank": 72
+    "lore": "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers.",
+    "rank": 72,
+    "voice": "cosmic_horror"
   },
   {
     "seed": 17781081,
     "score": 0.86375,
-    "lore": "Rain poured down on the city like a dirty shroud.",
-    "rank": 73
+    "lore": "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me.",
+    "rank": 73,
+    "voice": "noir_classic"
   },
   {
     "seed": 4293784,
     "score": 0.86375,
-    "lore": "Rainy streets, neon lights flicker, a lone figure stands at the edge of the city",
-    "rank": 74
+    "lore": "Brutalist megastructures rise from ASCII ruins, their fragmented geometric facades encoding a decaying cyberpunk metropolis in monochrome.",
+    "rank": 74,
+    "voice": "structuralist"
   },
   {
     "seed": 15167010,
     "score": 0.86375,
-    "lore": "Rain pours down on the city's dirty streets.",
-    "rank": 75
+    "lore": "I walk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum beneath the chrome sky.",
+    "rank": 75,
+    "voice": "narrativist"
   },
   {
     "seed": 19754564,
     "score": 0.86375,
-    "lore": "Rain lashes down on the deserted streets of New Haven.",
-    "rank": 76
+    "lore": "A cellular grid of monolithic towers and suspended bridges forms a fractured, rain-slicked cyberpunk skyline.",
+    "rank": 76,
+    "voice": "structuralist"
   },
   {
     "seed": 24,
     "score": 0.86375,
-    "lore": "Rain pours down on the streets of Neo-Tokyo, a city that never sleeps.",
-    "rank": 77
+    "lore": "Vertical arcologies rise through toxic rain, their fractured facades stitching corporate spires, transit veins, and shadowed alley cells into a relentless noir grid.",
+    "rank": 77,
+    "voice": "structuralist"
   },
   {
     "seed": 17923,
     "score": 0.86375,
-    "lore": "Rainy streets, dimly lit alleys. Lost souls prowl.",
-    "rank": 78
+    "lore": "The city breathes through geometries no mind was meant to parse, and we are merely fleeting thoughts it dreams in the dark.",
+    "rank": 78,
+    "voice": "cosmic_horror"
   },
   {
     "seed": 25303,
     "score": 0.86375,
-    "lore": "Rain lashes down, neon lights flicker.",
-    "rank": 79
+    "lore": "I glimpsed the city\u2019s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear.",
+    "rank": 79,
+    "voice": "cosmic_horror"
   },
   {
     "seed": 153181,
     "score": 0.86375,
-    "lore": "Rain patters on the wet pavement. Neon lights reflect off a puddle, casting a distorted glow.",
-    "rank": 80
+    "lore": "In the city's labyrinthine sprawl, towering skyscrapers pierced the smog-filled sky, their angular silhouettes a testament to the architect's obsessive pursuit of geometric perfection.",
+    "rank": 80,
+    "voice": "structuralist"
   },
   {
     "seed": 339849,
     "score": 0.86375,
-    "lore": "Rain pours down, casting shadows on the city's bleak streets.\n\nWhat do you do?",
-    "rank": 81
+    "lore": "Brutalist megastructures rise from ASCII ruins, their jagged towers and fractured facades encoding a decaying cyberpunk city's oppressive vertical geometry.",
+    "rank": 81,
+    "voice": "structuralist"
   },
   {
     "seed": 1225372,
     "score": 0.86375,
-    "lore": "Rain slicks the alley's dark floor.",
-    "rank": 82
+    "lore": "Modular arcologies erupt as jagged crystalline clusters, their dense pixelated facades weaving chaotic interlocking volumes above rain-slicked, reflective street canyons.",
+    "rank": 82,
+    "voice": "structuralist"
   },
   {
     "seed": 3997378,
     "score": 0.86375,
-    "lore": "Rain-soaked streets. Neon haze. A lone silhouette.",
-    "rank": 83
+    "lore": "Brutalist megastructures rise from fractured grid, their jagged spires piercing neon-soaked skies above labyrinthine street canyons.",
+    "rank": 83,
+    "voice": "structuralist"
   },
   {
     "seed": 20,
     "score": 0.86375,
-    "lore": "Rain drips like tears on the city's dark skin.",
-    "rank": 84
+    "lore": "Dense modular towers rise through a fractured grid of streets, their pixelated facades forming a brutalist, glitched metropolis.",
+    "rank": 84,
+    "voice": "structuralist"
   },
   {
     "seed": 642,
     "score": 0.86375,
-    "lore": "Rain falls on the city's dirty streets.",
-    "rank": 85
+    "lore": "I jack a wet breath through my rebreather while neon glyphs bleed across the alley's chrome like a dying man's prayer.",
+    "rank": 85,
+    "voice": "narrativist"
   },
   {
     "seed": 1284,
     "score": 0.86375,
-    "lore": "Rainy streets, empty eyes.",
-    "rank": 86
+    "lore": "A cellular megastructure of fractured data-spires and encrypted monoliths rises through perpetual neon rain.",
+    "rank": 86,
+    "voice": "structuralist"
   },
   {
     "seed": 2548,
     "score": 0.86375,
-    "lore": "Rain pours down like sin's dark tears.",
-    "rank": 87
+    "lore": "A vertical megastructure of jagged, crystalline towers rises from a fragmented grid, fusing brutalist mass with chaotic digital noise.",
+    "rank": 87,
+    "voice": "structuralist"
   },
   {
     "seed": 19652,
     "score": 0.86375,
-    "lore": "Rain slanted down the neon-drenched streets.",
-    "rank": 88
+    "lore": "Modular megastructures interweave through a recursive grid, forming a dense, stratified matrix of monolithic cellular repetition.",
+    "rank": 88,
+    "voice": "structuralist"
   },
   {
     "seed": 4787965,
     "score": 0.8633333333333333,
-    "lore": "Rain-soaked streets.",
-    "rank": 89
+    "lore": "I stalk through neon rain, my boots splashing oil-slick puddles while holographic ads whisper promises and distant sirens wail.",
+    "rank": 89,
+    "voice": "narrativist"
   },
   {
     "seed": 536870870,
     "score": 0.8633333333333333,
-    "lore": "Rain pattered on the alley's dark slick.",
-    "rank": 90
+    "lore": "A cellular grid of monolithic towers punctuated by neon glyphs forms a brutalist, labyrinthine cityscape of repetitive modular blocks.",
+    "rank": 90,
+    "voice": "structuralist"
   },
   {
     "seed": 8388601,
     "score": 0.8633333333333333,
-    "lore": "Rain slicks streets of Neo-Tokyo, shadows hide secrets.\n\nWhat do you do?",
-    "rank": 91
+    "lore": "Modular arcologies rise as jagged crystalline clusters, their pixelated facades pierced by neon grids and shadowed algorithmic courtyards.",
+    "rank": 91,
+    "voice": "structuralist"
   },
   {
     "seed": 28121809,
     "score": 0.8633333333333333,
-    "lore": "Rainy streets a haze of neon. \n\nWhat do you do?",
-    "rank": 92
+    "lore": "The city breathes through neon veins, dreams in server rain, eats the lonely, and speaks your name through static.",
+    "rank": 92,
+    "voice": "futurist"
   },
   {
     "seed": 4080,
     "score": 0.8633333333333333,
-    "lore": "Rain slams against the alleyway's neon-drenched walls.",
-    "rank": 93
+    "lore": "Rain writes dead lovers\u2019 names in neon across my chrome skull while memory flickers like a broken hologram under midnight\u2019s electric bruise.",
+    "rank": 93,
+    "voice": "lyricist"
   },
   {
     "seed": 16546963,
     "score": 0.8633333333333333,
-    "lore": "Rain-soaked streets, a lone figure emerges.\n\nWhat do you want to do?",
-    "rank": 94
+    "lore": "Brutalist megastructures rise as monolithic ziggurats, their fractured facades pierced by neon glyphs and labyrinthine arterial streets below.",
+    "rank": 94,
+    "voice": "structuralist"
   },
   {
     "seed": 947640,
     "score": 0.8633333333333333,
-    "lore": "Rain slicks the pavement. Shadows swallow streets.",
-    "rank": 95
+    "lore": "Vertical monoliths rise from a fractured grid, their jagged crowns piercing a haze of coded static and neon decay.",
+    "rank": 95,
+    "voice": "structuralist"
   },
   {
     "seed": 41373156,
     "score": 0.8633333333333333,
-    "lore": "Rain pours on the city's dark streets.",
-    "rank": 96
+    "lore": "I walk through rain-slick neon alleys, my chrome boots splashing, while synthetic smoke burns my throat and distant sirens hum.",
+    "rank": 96,
+    "voice": "narrativist"
   },
   {
     "seed": 15389929,
     "score": 0.8633333333333333,
-    "lore": "Rain falls on empty streets.",
-    "rank": 97
+    "lore": "The city\u2019s modular grid fractures into crystalline towers, embedding encrypted data-spires within a labyrinthine matrix of light and shadow.",
+    "rank": 97,
+    "voice": "structuralist"
   },
   {
     "seed": 1085601,
     "score": 0.8633333333333333,
-    "lore": "Rain-soaked streets. Neon screams.",
-    "rank": 98
+    "lore": "The city\u2019s jagged neon grids weave a labyrinth of fractured geometry, where towering monoliths and cascading X-patterns collapse into a chaotic dance of light and steel.",
+    "rank": 98,
+    "voice": "structuralist"
   },
   {
     "seed": 6612066,
     "score": 0.8633333333333333,
-    "lore": "Rain pours down on the city like a dirty mistress",
-    "rank": 99
+    "lore": "Brutalist arcologies rise as jagged ziggurats, their fractured concrete facades pierced by neon glyphs and labyrinthine skybridges spanning void.",
+    "rank": 99,
+    "voice": "structuralist"
   },
   {
     "seed": 4509130,
     "score": 0.8633333333333333,
-    "lore": "Rain patters on wet streets. Neon signs flicker.",
-    "rank": 100
+    "lore": "Vast monolithic data-spires rise from a flooded, neon-scarred grid, their fractured geometric facades channeling noir shadows between brutalist corporate ziggurats.",
+    "rank": 100,
+    "voice": "structuralist"
   }
 ]

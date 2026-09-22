@@ -7,17 +7,17 @@
 **score**: 0.86375
 **seed**: 4293784
 **path**: straight_east
-**voice**: 
-**lore**: "Rainy streets, neon lights flicker, a lone figure stands at the edge of the city"
+**voice**: structuralist
+**lore**: "Brutalist megastructures rise from ASCII ruins, their fragmented geometric facades encoding a decaying cyberpunk metropolis in monochrome."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 4293784.
-Rank #74 across many tested seeds. Voice: single-voice pipeline.
+Rank #74 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x539e7101056cf630` (FNV-1a 64-bit)
+`0xf7076ee1c1ecfdf5` (FNV-1a 64-bit)
 
 ## Witness
 

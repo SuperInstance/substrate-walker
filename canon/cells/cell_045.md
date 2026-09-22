@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 2027091
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slicks the pavement, a lone streetlamp casts a ghoulish glow."
+**voice**: structuralist
+**lore**: "A cellular grid of monolithic towers punctuated by encrypted courtyards, where shadowed arcades and neon veins carve brutalist geometry into Noir's rain-slicked, circuit-like urban fabric."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2027091.
-Rank #45 across many tested seeds. Voice: single-voice pipeline.
+Rank #45 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x85409e14f5c3640d` (FNV-1a 64-bit)
+`0xa3536de95bac4734` (FNV-1a 64-bit)
 
 ## Witness
 

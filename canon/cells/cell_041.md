@@ -7,17 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 49789
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets. Neon signs blur. Victim found dead."
+**voice**: structuralist
+**lore**: "Towering brutalist monoliths, tangled skybridges, and neon-lit tenements form a stratified cyberpunk city cell where power flows upward and shadows pool below."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 49789.
-Rank #41 across many tested seeds. Voice: single-voice pipeline.
+Rank #41 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf2b45157a66da935` (FNV-1a 64-bit)
+`0xc1674c0a912b3ac3` (FNV-1a 64-bit)
 
 ## Witness
 

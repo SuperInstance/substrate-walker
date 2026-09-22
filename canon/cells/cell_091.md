@@ -7,19 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 8388601
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slicks streets of Neo-Tokyo, shadows hide secrets.
-
-What do you do?"
+**voice**: structuralist
+**lore**: "Modular arcologies rise as jagged crystalline clusters, their pixelated facades pierced by neon grids and shadowed algorithmic courtyards."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 8388601.
-Rank #91 across many tested seeds. Voice: single-voice pipeline.
+Rank #91 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xc2b8143327268614` (FNV-1a 64-bit)
+`0x7325c695430bf8bd` (FNV-1a 64-bit)
 
 ## Witness
 

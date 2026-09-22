@@ -7,17 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 1085601
 **path**: straight_east
-**voice**: 
-**lore**: "Rain-soaked streets. Neon screams."
+**voice**: structuralist
+**lore**: "The city’s jagged neon grids weave a labyrinth of fractured geometry, where towering monoliths and cascading X-patterns collapse into a chaotic dance of light and steel."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1085601.
-Rank #98 across many tested seeds. Voice: single-voice pipeline.
+Rank #98 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x15cd57107cd946d7` (FNV-1a 64-bit)
+`0xb46dd709dab26c9f` (FNV-1a 64-bit)
 
 ## Witness
 

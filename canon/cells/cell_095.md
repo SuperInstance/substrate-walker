@@ -7,17 +7,17 @@
 **score**: 0.8633333333333333
 **seed**: 947640
 **path**: straight_east
-**voice**: 
-**lore**: "Rain slicks the pavement. Shadows swallow streets."
+**voice**: structuralist
+**lore**: "Vertical monoliths rise from a fractured grid, their jagged crowns piercing a haze of coded static and neon decay."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 947640.
-Rank #95 across many tested seeds. Voice: single-voice pipeline.
+Rank #95 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x3d20d2cbf558143b` (FNV-1a 64-bit)
+`0x8b5d19acadcf091f` (FNV-1a 64-bit)
 
 ## Witness
 
