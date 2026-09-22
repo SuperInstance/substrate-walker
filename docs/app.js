@@ -298,6 +298,20 @@ class SubstrateWalker {
             apiEl.textContent = `API: ${stats.apiCalls} calls, ${stats.cacheHits} cached, ${stats.districtCache} districts`;
         }
 
+        // Tournament score
+        const scoreEl = document.getElementById('tournament-score');
+        if (scoreEl && this.exports.avg_tournament_score) {
+            const score = this.exports.avg_tournament_score();
+            scoreEl.textContent = `Tournament: ${(score * 100).toFixed(1)}%`;
+            if (score > 0.8) {
+                scoreEl.style.color = '#80FF80';
+            } else if (score > 0.6) {
+                scoreEl.style.color = '#FFFF80';
+            } else {
+                scoreEl.style.color = '#FF8080';
+            }
+        }
+
         // JEPA prediction indicator
         const jepaEl = document.getElementById('jepa-prediction');
         if (jepaEl && this.lastPrediction !== undefined) {

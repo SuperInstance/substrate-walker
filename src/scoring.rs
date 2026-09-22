@@ -5,6 +5,8 @@
 //! - Composite metric: prev_hash_integrity × cell_type_balance / cost
 //! - Cells with higher scores are "better districts"
 
+use alloc::vec::Vec;
+
 use crate::cell::CityGrid;
 
 #[derive(Debug, Clone, Copy)]
