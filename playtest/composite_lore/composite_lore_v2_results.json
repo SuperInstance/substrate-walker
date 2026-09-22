@@ -1,0 +1,1430 @@
+[
+  {
+    "seed": 770487,
+    "best_x": 24,
+    "best_y": 20,
+    "view_score": 0.8570833333333333,
+    "top_lore": "In the neon-drenched sprawl, rain-soaked memories drowned at (24, 20), where the city's underbelly whispered secrets to the shadows.",
+    "top_lore_score": 8.8,
+    "top_lore_voice": "fast",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "In the neon-drenched sprawl, rain-soaked memories drowned at (24, 20), where the city's underbelly whispered secrets to the shadows.",
+        "fast",
+        8.8
+      ],
+      [
+        "Rain-soaked neon reflects despair.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain slicks the grid's cold heart.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon lights flicker in the ASCII rain.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon bleeds. Truth rusts.",
+        "atmospheric",
+        6.8
+      ],
+      [
+        "Neon tears melt in the rain\u2014code never lies.\"\n\n*(ASCII city deliberately kept minimal to fit the constraint. For more detail, I could generate text art\u2014but the noir one-liner stands strong alone.)*",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 809570,
+    "best_x": 16,
+    "best_y": 12,
+    "view_score": 0.8554166666666667,
+    "top_lore": "Rain-soaked shadows spilled like sin across the neon-lit sprawl.",
+    "top_lore_score": 8.3,
+    "top_lore_voice": "fast",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked shadows spilled like sin across the neon-lit sprawl.",
+        "fast",
+        8.3
+      ],
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain falls on byte-stained streets.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon lights flicker in the ASCII city.",
+        "deep",
+        6.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (16, 12), seed 809570, leaning into the gritty, atmospheric feel:\n\n*   **Rain tasted like regret.** (27 chars)",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "Rain slices neon like a dagger through the steel veins of midnight. (809570)\" (50 chars)\n\nOr shorter:\n\"Midnight drips chrome tears in a city that never sleeps.\" (50 chars)\n\nBoth fit Cyberpunk Noir ASCII art vibes",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 198246,
+    "best_x": 16,
+    "best_y": 24,
+    "view_score": 0.855,
+    "top_lore": "Rain-soaked streets, neon lies. (16,24)",
+    "top_lore_score": 8.0,
+    "top_lore_voice": "fast",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked streets, neon lies. (16,24)",
+        "fast",
+        8.0
+      ],
+      [
+        "Neon shadows dance on rain-soaked asphalt.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain at 16th & 24th.",
+        "deep",
+        7.3
+      ],
+      [
+        "City of shadows, where ASCII dreams.",
+        "deep",
+        6.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting the prompt, leaning into the ASCII city vibe & seed feel:\n\n*   **Pixels bleed truth.**\n*   **Code hides every sin.**\n*   **Rain tastes like regret.**\n*   **Neon",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "Neon veins pulse\u2014data bleeds in the rain.\"\n\n*(Seed: 198245*, slightly adjusted for flow. If 198246 behaves differently, here's an alternative:)\n\n\"Neon veins spill secrets in blackened rain.\"\n\n(Cyber",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 690561,
+    "best_x": 8,
+    "best_y": 12,
+    "view_score": 0.8654166666666666,
+    "top_lore": "In neon-drenched sprawl of City-Delta, corruption flows like blacked-out nights at 8/12.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "fast",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "In neon-drenched sprawl of City-Delta, corruption flows like blacked-out nights at 8/12.",
+        "fast",
+        7.8
+      ],
+      [
+        "Rain-slicked neon hides the truth.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon alleys hide secrets at 8, 12.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain pours down on grid 8,12",
+        "deep",
+        6.5
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) for an ASCII city at (8, 12), seed 690561, leaning into the vibe:\n\n*   **Neon bleeds. Truth rusts.** (24 chars)\n*",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "**\"Neon ghosts in code. Seattle never sleeps.\"**\n\n*(48 chars, fits ASCII city constraints.)*\n\n*Note: \"Neon ghosts\" ties to ASCII glow, \"code\" hints at digital noir, and \"Seattle\" nods to cyberpunk's rainy tech hubs while keeping",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 877572,
+    "best_x": 8,
+    "best_y": 24,
+    "view_score": 0.8541666666666666,
+    "top_lore": "Rain-soaked streets hid secrets.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked streets hid secrets.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain hides the kill code.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon dreams at 8, 24.",
+        "deep",
+        6.8
+      ],
+      [
+        "Rain-soaked streets of New Erebo, where corruption flows like the polluted rivers.",
+        "fast",
+        6.8
+      ],
+      [
+        "Rain slicked neon. Another broken circuit.",
+        "atmospheric",
+        6.8
+      ],
+      [
+        "Neon drips, chrome drips\u2014just another sweat in the rain.\"\n\n(50 characters)\n\n*Generated for your ASCII city at (8, 24), seed 877572.*",
+        "atmospheric",
+        6.5
+      ]
+    ]
+  },
+  {
+    "seed": 390172,
+    "best_x": 20,
+    "best_y": 8,
+    "view_score": 0.8545833333333334,
+    "top_lore": "Rain-soaked bytes haunted alley 20x8.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked bytes haunted alley 20x8.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 20, 8, seed 390172.",
+        "deep",
+        7.3
+      ],
+      [
+        "Glitches flicker like neon lies in the rain-soaked grid.",
+        "atmospheric",
+        7.3
+      ],
+      [
+        "Rain slicks the streets of Neo-Metropolis, where hope is a luxury.",
+        "fast",
+        6.3
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting that description, leaning into the ASCII city vibe:\n\n*   **Neon bleeds. Data screams.**\n*   **Static whispers secrets.**\n*   **Chrome & rain. No escape.**\n*   **",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 388389,
+    "best_x": 24,
+    "best_y": 16,
+    "view_score": 0.8591666666666666,
+    "top_lore": "Neon rain slicks the chrome veins of Sector 24.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain slicks the chrome veins of Sector 24.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain sizzles on chrome\u2014every shadow hides a blade.",
+        "atmospheric",
+        7.3
+      ],
+      [
+        "Rain pours down on block 24x16.",
+        "deep",
+        6.8
+      ],
+      [
+        "ASCII city, seed 388389: Neon whispers, data shadows.",
+        "deep",
+        6.8
+      ],
+      [
+        "Raze the sprawl, lose the soul. I'm looking for the Ghost in the Streets of Azura, 24,16.",
+        "fast",
+        6.3
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (24, 16), seed 388389.  I'm imagining a grimy, rain-slicked aesthetic based on that seed:\n\n* **",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 329258,
+    "best_x": 20,
+    "best_y": 8,
+    "view_score": 0.8579166666666667,
+    "top_lore": "Rain-soaked alleys hide secrets.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked alleys hide secrets.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 20, 8, seed 329258.",
+        "deep",
+        7.3
+      ],
+      [
+        "In a city of pixels, only the corrupted are free.",
+        "fast",
+        5.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting that description, leaning into the ASCII city vibe:\n\n*   **Glitch in the code. Heartbreak in the rain.** (37 chars)\n*   **Neon shadows hide broken promises.** (34",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "**\"Neon rain slicked his coat as the city coughed chrome.\"**\n\n*(50 chars, fits the dark, gritty vibe of a cyberpunk noir aesthetic. The seed and coordinates are hinted at with \"chrome\" and atmospheric rain.)*",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 246316,
+    "best_x": 12,
+    "best_y": 20,
+    "view_score": 0.8583333333333333,
+    "top_lore": "Rain-soaked streets hid truth.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked streets hid truth.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain falls hard in the sprawl, where neon's just a trap.",
+        "fast",
+        7.8
+      ],
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "ASCII city (12, 20), seed 246316: Neon & rust.",
+        "deep",
+        6.3
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (12, 20), seed 246316, leaning into the noir vibe:\n\n*   **Rain tasted like regret.**\n*   **Neon bleeds",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "Neon drips on rusted neon, a blade glints\u2014no witnesses left.\"\n\n*(Exactly 50 chars, fitting your ASCII city vibe with Cyberpunk noir grit.)*\n\n*(If you need exact coordinates [12,20] or seed 2463",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 131244,
+    "best_x": 12,
+    "best_y": 12,
+    "view_score": 0.85625,
+    "top_lore": "Neon rain on chrome bones.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain on chrome bones.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon darkness consumed block 12x12.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon rain over ASCII's grid at 12,12.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain pours on the neon streets of Sector 9, where the only truth is a dead screen.",
+        "fast",
+        6.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting an ASCII city at (12,12), seed 131244, evoking that vibe:\n\n*   **Rain slicked code. Truth's a glitch.**\n*   **Neon",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "**\"Neon drips, neon dies. City\u2019s a liar.\"**\n\n(40 chars)\n\n*Merge the artificial glow of the city with the existential grit of noir\u2014short, punchy, and thematically on-point.*",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 872246,
+    "best_x": 8,
+    "best_y": 8,
+    "view_score": 0.8579166666666667,
+    "top_lore": "Neon rain hides the chrome rot.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the chrome rot.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain-soaked bytes drowned in whiskey.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 8, 8, seed 872246.",
+        "deep",
+        7.3
+      ],
+      [
+        "In a city that never sleeps, neon dreams are just a glitch away.",
+        "fast",
+        5.8
+      ],
+      [
+        "Neon ghosts whisper in the rusted ASCII dreams of 872246.\"\n\n*(Takes advantage of the seed's digits and the genre's themes in 31 characters.)*",
+        "atmospheric",
+        5.5
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (under 50 characters) fitting that description, considering the visual aesthetic likely generated by that seed/coordinates:\n\n*   **Neon bleeds into the rain.** (26 chars)\n*   **Data ghosts & static tears.** (2",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 800330,
+    "best_x": 12,
+    "best_y": 12,
+    "view_score": 0.8529166666666667,
+    "top_lore": "Neon rain weeps on chrome bones.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain weeps on chrome bones.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon sprawl, grid (12, 12), seed 800330.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon fades to code.",
+        "deep",
+        6.8
+      ],
+      [
+        "At coordinates 12, 12, a holographic rain drummed against the virtual streets, where the only truth was the System's cold kiss.",
+        "fast",
+        6.3
+      ],
+      [
+        "Neon glitches whisper secrets. The city knows, but it's lying.",
+        "atmospheric",
+        5.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting that description, leaning into the ASCII/digital aesthetic:\n\n* **Glitched truth. Neon lies.** (23 chars)\n* **Code bleeds. Rain falls.** (23 chars)\n*",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 18381,
+    "best_x": 8,
+    "best_y": 8,
+    "view_score": 0.865,
+    "top_lore": "Neon rain on chrome bones.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain on chrome bones.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain falls on sector 8x8.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows dance on the 8x8 grid.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon drips, shadows grimace. Find the code before the copters do.\"\n\n(49 chars, fits your constraints.)",
+        "atmospheric",
+        6.5
+      ],
+      [
+        "In streets of Nuevo Edo, corruption rains like acid on the rain-scorched streets.",
+        "fast",
+        6.3
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting an ASCII city at (8,8), seed 18381, leaning into the vibe:\n\n*   **Rain-slicked streets. Broken code.**\n*   **Neon's glow hides",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 133326,
+    "best_x": 8,
+    "best_y": 24,
+    "view_score": 0.8583333333333333,
+    "top_lore": "Neon rain hides the chrome bones.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the chrome bones.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain-soaked shadows shroud the sprawl. In a city of wires, truth is a virus.",
+        "fast",
+        7.8
+      ],
+      [
+        "Neon shadows dance",
+        "deep",
+        7.0
+      ],
+      [
+        "Neon flickers, data whispers in the shadows.",
+        "deep",
+        6.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting an ASCII city at (8,24), seed 133326:\n\n* **Rain tasted like regret.**\n* **Neon bled into the grime.**\n* **Data's ghost,",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "Neon ghosts whisper secrets through cracked plasma screens.\"\n\n(8 words, 50 chars exactly\u2014code for a dying city with too many ghosts.)\n\nFor visual seeds like yours, ASCII cities often feel like \"wet circuits on a rainy Monday.\" Use lowercase/fragments for extra noir grit.\n\n*(",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 542417,
+    "best_x": 20,
+    "best_y": 20,
+    "view_score": 0.8566666666666667,
+    "top_lore": "Rain-soaked streets hide secrets.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked streets hide secrets.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon sprawl, 20x20 grid, seed 542417.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain-slicked neon hides the truth.",
+        "deep",
+        7.3
+      ],
+      [
+        "In streets where code is law, the neon screams justice at 20, 20.",
+        "fast",
+        6.3
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (20, 20), seed 542417, leaning into the noir vibe:\n\n*   **Rain whispers secrets in neon.**\n*   **Every pixel",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "neon drips, shadows bleed\u2014I*ll hack your past tonight.\" (49 chars)\n\n*(Generated for a Cyberpunk Noir vibe with 542417_seed ASCII city art at 20x20, featuring flickering ads, chronically wet streets,",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 164836,
+    "best_x": 12,
+    "best_y": 8,
+    "view_score": 0.85875,
+    "top_lore": "Rain-soaked streets hide truth.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked streets hide truth.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain hides the code at (12,8).",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows converge at ASCII's heart.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain falls on the neon sprawl, but justice is just a faulty circuit away.",
+        "fast",
+        7.3
+      ],
+      [
+        "Neon pulses fade\u2014where\u2019s the neon when you need it?\"\n\n*(ASCII city at (12, 8), seed 164836, fits 39 chars.)* \ud83c\udf03",
+        "atmospheric",
+        5.5
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting that description, leaning into the ASCII city vibe:\n\n*   **Neon bleeds. Data whispers lies.** (31 chars)\n*   **Rain static. Truth's corrupted.** (28 chars)",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 334053,
+    "best_x": 8,
+    "best_y": 20,
+    "view_score": 0.8579166666666667,
+    "top_lore": "Rain-soaked neon dies here.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked neon dies here.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain hides the kill at (8,20).",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain dripped like neon tears on the streets of 8,20, where shadows hid more than just the truth.",
+        "fast",
+        7.3
+      ],
+      [
+        "Neon drips, chrome whispers\u2014plasma rain hides the truth.",
+        "atmospheric",
+        7.3
+      ],
+      [
+        "Neon lights flicker over the ASCII city.",
+        "deep",
+        6.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (8, 20), seed 334053, leaning into the 'noir' vibe:\n\n*   **Rain tastes like regret.** (27 chars)",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 876646,
+    "best_x": 12,
+    "best_y": 20,
+    "view_score": 0.8545833333333334,
+    "top_lore": "Rain-soaked streets hid secrets.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked streets hid secrets.",
+        "deep",
+        7.8
+      ],
+      [
+        "Neon rain washes blood off chrome deaths.\"\n\n*(Set to your ASCII city's grid, seed, and constraints. A gritty, dated prompt\u2014perfect for noir.)*",
+        "atmospheric",
+        7.5
+      ],
+      [
+        "Rain-slicked neon hides the city's lies.",
+        "deep",
+        7.3
+      ],
+      [
+        "Shadows stalked the soylent streets, where rain-soaked souls like mine paid the price for innovation.",
+        "fast",
+        7.3
+      ],
+      [
+        "Neon labyrinth at (12, 20), seed 876646.",
+        "deep",
+        6.8
+      ],
+      [
+        "Rain code whispers secrets.",
+        "atmospheric",
+        6.8
+      ]
+    ]
+  },
+  {
+    "seed": 310249,
+    "best_x": 20,
+    "best_y": 16,
+    "view_score": 0.8629166666666667,
+    "top_lore": "Neon rain hides the chrome lies.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the chrome lies.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain-soaked bytes drowned in whiskey.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon lights flicker at (20, 16), seed 310249.",
+        "deep",
+        6.3
+      ],
+      [
+        "In a city that never slept, the rain fell harder on the streets of Ascii.",
+        "fast",
+        6.3
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting an ASCII city at (20,16), seed 310249, evoking that vibe:\n\n*   **Rain tasted like regret.**\n*   **Neon bleeds into the dark.**",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "**\"Neon echoes in the static, blood in the mainframe.\"**\n\n(44 chars)\n\n*(ASCII city at (20,16) seed 310249 would generate a gritty, flooded sprawl\u2014I imagine flickering holograms over Backwater\u2019s",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 970225,
+    "best_x": 12,
+    "best_y": 8,
+    "view_score": 0.8645833333333334,
+    "top_lore": "In the rain-soaked alleys of Neo-Tokyo, a lone hacker's whisper can awaken a war.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "fast",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "In the rain-soaked alleys of Neo-Tokyo, a lone hacker's whisper can awaken a war.",
+        "fast",
+        7.8
+      ],
+      [
+        "Rain-soaked bytes drowned in whiskey.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 12, 8, seed 970225.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon rain hides the code at (12,8)",
+        "deep",
+        7.0
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting that description:\n\n*   **Rain static. Truth corrodes.** (27 chars)\n*   **Neon bleeds. No one's clean.** (28 chars)\n*   **Data ghosts",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "**\"Neon rain whispers secrets to the hungry streets.\"**\n\n*(ASCII city at (12,8), seed 970225 \u2013 a neon-drenched, rain-slicked dystopia where every shadow hides a deal or a bullet.)*",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 207473,
+    "best_x": 8,
+    "best_y": 16,
+    "view_score": 0.8554166666666667,
+    "top_lore": "Neon rain on chrome bones.",
+    "top_lore_score": 7.8,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain on chrome bones.",
+        "deep",
+        7.8
+      ],
+      [
+        "Rain-soaked bytes.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 8, 16, seed 207473.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon veins, shadowed code, a ghost in the data storm. (ASCII whisper)\n\n*(Fits 50 chars, drips with cyber baroque and the seed's angular geometry.)*",
+        "atmospheric",
+        6.5
+      ],
+      [
+        "In the neon shadows of Cygnus, truth is a luxury few can afford.\"\n\n(Note: I used a random seed of 207473 to generate the city and then came up with a one-liner that fits the theme. The city's coordinates are (8, 16) as requested)",
+        "fast",
+        0.0
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) inspired by an ASCII city at (8,16), seed 207473, keeping in mind the likely gritty, digital decay aesthetic:\n\n*   Rain slicked neon. Truth's a glitch",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 191161,
+    "best_x": 12,
+    "best_y": 8,
+    "view_score": 0.855,
+    "top_lore": "Rain soaks neon streets",
+    "top_lore_score": 7.5,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain soaks neon streets",
+        "deep",
+        7.5
+      ],
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows dance at (12, 8), seed 191161.",
+        "deep",
+        6.8
+      ],
+      [
+        "Here\u2019s a 50-character one-liner for your ASCII city:\n\n*\"Neon spills lies where the rain never cleans. Cubes hum secrets in the dark.\"*",
+        "atmospheric",
+        6.5
+      ],
+      [
+        "Ryder's glowstick flickered, the only beacon in the endless digital night, 12 blocks due east of 191161.",
+        "fast",
+        5.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (12,8), seed 191161, evoking that aesthetic:\n\n*   **Neon bleeds. Truth rusts.**\n*   **Rain's a",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 4073,
+    "best_x": 12,
+    "best_y": 8,
+    "view_score": 0.8645833333333334,
+    "top_lore": "Rain soaks neon streets",
+    "top_lore_score": 7.5,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain soaks neon streets",
+        "deep",
+        7.5
+      ],
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "In the rain-soaked sprawl, data was the new streets, and my name was the only currency that mattered.",
+        "fast",
+        7.3
+      ],
+      [
+        "Neon drips in the rain. Her smile kills faster than her code.\"\n\n(Perfectly on theme: cyberpunk noir, under 50 chars.)",
+        "atmospheric",
+        7.0
+      ],
+      [
+        "Neon shadows dance at (12, 8), seed 4073.",
+        "deep",
+        6.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting for an ASCII city at (12,8), seed 4073, leaning into the gritty/desolate vibe a seed like that might produce:\n\n*   \"Neon bleeds. Truth rusts",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 126225,
+    "best_x": 24,
+    "best_y": 16,
+    "view_score": 0.86,
+    "top_lore": "Neon rain hides the kill code.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the kill code.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain-soaked bytes drowned in whiskey.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 24, 16, seed 126225.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain-slicked neon. Truth costs data. \ud83c\udf03",
+        "atmospheric",
+        7.0
+      ],
+      [
+        "In a city that never slept, the rain washed away the truth, but the neon still screamed at (24,16).",
+        "fast",
+        6.3
+      ],
+      [
+        "Neon drips like data through the rain\u2014city exhales exchanged bytes.",
+        "atmospheric",
+        6.3
+      ]
+    ]
+  },
+  {
+    "seed": 272801,
+    "best_x": 12,
+    "best_y": 8,
+    "view_score": 0.8558333333333333,
+    "top_lore": "Neon rain hides the city's sins.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 12, 8, seed 272801.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain slashed 12th & 8th.",
+        "deep",
+        6.8
+      ],
+      [
+        "Rat-haunted alleys of Alt-11 stretch out before me like a corpse.",
+        "fast",
+        5.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting an ASCII city at (12, 8), seed 272801, leaning into that vibe:\n\n*   **Neon bleeds. Truth rusts.** (25 chars)\n*",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "Neon ghosts whisper in the static's embrace, you're just code now.\"\n\n(49 chars, fits your constraints. Adjust font/spacing to fit (12,8) ASCII bounds.)",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 216739,
+    "best_x": 20,
+    "best_y": 16,
+    "view_score": 0.8545833333333334,
+    "top_lore": "Neon rain. 216739 reasons to die.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain. 216739 reasons to die.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain soaks Neon Dreams",
+        "deep",
+        7.0
+      ],
+      [
+        "Rain slicked neon. Truth costs data. \ud83c\udf03 \n\n(Fits within 50 chars, evokes cyberpunk noir, references a city/setting)",
+        "atmospheric",
+        7.0
+      ],
+      [
+        "Neon flickers, data whispers at 20, 16.",
+        "deep",
+        6.8
+      ],
+      [
+        "Rain pours on the metropolis, casting shadows on the screens at (20, 16).",
+        "fast",
+        6.3
+      ],
+      [
+        "**\"Neon drips like blood, shadows bleed code. Gotta go fast\u2014before the net eats you.\"**\n\n*(50 chars, fits your brief!)*\n\n*Bonus (if you want a shorter version):*\n**\"Neon rain, wire dreams\u2014log off or die.\"**",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 9901,
+    "best_x": 24,
+    "best_y": 16,
+    "view_score": 0.8654166666666666,
+    "top_lore": "Neon rain hides the glitch at (24,16).",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the glitch at (24,16).",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain-soaked bytes drowned hopes.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows dance at (24, 16), seed 9901.",
+        "deep",
+        6.8
+      ],
+      [
+        "Here's a cyberpunk noir one-liner:\n\n\"Rain slicks the streets of New Eden at 24, 16, where shadows are the only truth.",
+        "fast",
+        4.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting an ASCII city at (24,16), seed 9901, with varying tones:\n\n**Option 1 (Classic Noir):**\n\n> Rain tasted like regret & neon.\n\n**Option",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "Neon drips, chrome grips, shadows cheat death in pixel rain.\"\n\n(49 chars, fits your criteria: evokes Cyberpunk noir, ascii dystopia, and seed 9901's gritty charm.)\n\n*Bonus:* Try adding \"?.990",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 356787,
+    "best_x": 20,
+    "best_y": 12,
+    "view_score": 0.8533333333333333,
+    "top_lore": "Neon rain hides the city's sins.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain-soaked bytes dripped.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon rain over ASCII city's grid.",
+        "deep",
+        7.3
+      ],
+      [
+        "In a city that never slept, its secrets woke me.",
+        "fast",
+        5.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting that description, leaning into the ASCII aesthetic & seed vibe:\n\n* **Static & secrets. Just another night.**\n* **Neon bleeds. Truth's pixelated.**\n* **Code whispers. Someone always",
+        "atmospheric",
+        0.0
+      ],
+      [
+        "**\"Neon lies, shadows bleed, city opcode smokes.\"**\n\n(ASCII city *not required* as reference\u2014just cyberpunk noir vibes. \u26a1\ud83d\udd2a)\n\n*(48 chars, fits constraint!)*\n\n*(If you had a specific ASCII art city in mind",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 719176,
+    "best_x": 20,
+    "best_y": 24,
+    "view_score": 0.8529166666666667,
+    "top_lore": "Neon rain hides the city's sins.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain-soaked bytes fell like tears.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon-lit streets hide shadows at (20, 24).",
+        "deep",
+        7.3
+      ],
+      [
+        "Raining ash in Edifice at 24,20: Neon dreams die hard.",
+        "fast",
+        6.8
+      ],
+      [
+        "Neon glows, but the shadows carry the truth.",
+        "atmospheric",
+        6.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (20,24), seed 719176, leaning into the noir vibe:\n\n*   **Rain. Neon. Regret.** (18 chars)",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 7001,
+    "best_x": 8,
+    "best_y": 8,
+    "view_score": 0.8554166666666667,
+    "top_lore": "Neon rain hides the killer's code.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the killer's code.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain-soaked bytes dripped down alley 8x8.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon labyrinth at (8, 8), seed 7001.",
+        "deep",
+        6.8
+      ],
+      [
+        "Neon drips like a dying hacker\u2019s last code.",
+        "atmospheric",
+        6.3
+      ],
+      [
+        "In a city of wires, corruption is the current that runs deep.",
+        "fast",
+        5.3
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) for an ASCII city at (8,8), seed 7001:\n\n* **Neon bleeds. Truth rusts.** (24 chars)\n* **Data's a liar. City knows.**",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 164336,
+    "best_x": 16,
+    "best_y": 12,
+    "view_score": 0.8554166666666667,
+    "top_lore": "Neon rain hides a silicon sin.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides a silicon sin.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon rain over ASCII's hidden paths.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rain pours down on grid 16,12",
+        "deep",
+        6.5
+      ],
+      [
+        "Raining 'zen data' on the streets of ASCII, where the only truth is in the code.",
+        "fast",
+        6.3
+      ],
+      [
+        "**\"Neon drips. Shadows bleed. 4am never ends.\"**\n\n*(Exactly 50 chars, fitting the theme of your ASCII city map.)* \ud83c\udf03",
+        "atmospheric",
+        4.0
+      ],
+      [
+        "noir",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 654321,
+    "best_x": 8,
+    "best_y": 12,
+    "view_score": 0.8579166666666667,
+    "top_lore": "Neon rain hides the city's sins.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 8, 12: City of Code",
+        "deep",
+        7.0
+      ],
+      [
+        "Rain soaks the grid, corruption seeps.",
+        "deep",
+        6.8
+      ],
+      [
+        "Rain slicked neon. Truth costs data. \ud83c\udf03 \n\n**(Fits within 50 chars)**",
+        "atmospheric",
+        6.0
+      ],
+      [
+        "In a city of smoke and circuitry, corruption runs deeper than the motherboard.",
+        "fast",
+        5.3
+      ],
+      [
+        "**\"Neon drips through the fractures of a crumbling city.\"**\n\n*(Exactly 50 chars, flavored with cyberpunk grit and noir melancholy)*\n\nIf you'd like a different mood or focus, just say the word.",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 671858,
+    "best_x": 16,
+    "best_y": 20,
+    "view_score": 0.85625,
+    "top_lore": "Rain-soaked bytes fell like sins.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Rain-soaked bytes fell like sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows at 16, 20, seed 671858.",
+        "deep",
+        7.3
+      ],
+      [
+        "Rooftop rain, neon veins, city never sleeps.",
+        "deep",
+        6.8
+      ],
+      [
+        "**\"Neon drips, shadows hide\u2014blades glint in static rain.\"**\n*(Exactly 50 chars, fits the seed's ASCII city grit.)*",
+        "atmospheric",
+        4.5
+      ],
+      [
+        "Here's a cyberpunk noir one-liner for the given coordinates and seed:\n\n\"Rain falls hard on Pixelville, where the only truth is in the net's cold glow.",
+        "fast",
+        3.8
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) fitting that description:\n\n*   **Rain slicked neon. Truth's a ghost.**\n*   **Steel & shadows. Everyone lies.**\n*   **Code bleeds. Justice is sold.**\n*",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  },
+  {
+    "seed": 163836,
+    "best_x": 8,
+    "best_y": 12,
+    "view_score": 0.85875,
+    "top_lore": "Neon rain hides the city's sins.",
+    "top_lore_score": 7.3,
+    "top_lore_voice": "deep",
+    "n_lores": 6,
+    "all_lores": [
+      [
+        "Neon rain hides the city's sins.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon shadows hide secrets.",
+        "deep",
+        7.3
+      ],
+      [
+        "Neon labyrinth at (8, 12), seed 163836.",
+        "deep",
+        6.8
+      ],
+      [
+        "Shadows creep like pixelated rain on Sector 9's corporate spire.",
+        "fast",
+        6.8
+      ],
+      [
+        "Neon ghosts whisper in the static rain.\" \u2013 *(48 chars, fits 8x12 ASCII grid at seed 163836)*\n\n*(Adjust seed for glitch effects.)*",
+        "atmospheric",
+        6.0
+      ],
+      [
+        "Here are a few cyberpunk noir one-liners (\u226450 chars) suitable for an ASCII city at (8, 12), seed 163836, leaning into a noir vibe:\n\n*   **Rain tasted like regret.**\n*   **Neon bleeds into",
+        "atmospheric",
+        0.0
+      ]
+    ]
+  }
+]
