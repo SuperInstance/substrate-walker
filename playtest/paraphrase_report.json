@@ -1,0 +1,12 @@
+{
+  "total_lores": 100,
+  "unique_lores": 100,
+  "close_pairs_count": 1,
+  "close_pairs": [
+    {
+      "seed_a": 302238,
+      "seed_b": 1777555,
+      "similarity": 0.40540540540540543
+    }
+  ]
+}
