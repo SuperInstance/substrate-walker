@@ -49,3 +49,10 @@ FNV-1a canary: 0x024a555471370b18d
 Type: cyberpunk_noir
 Voice: witness
 
+## Updated Status — Promoted to canon
+
+Doctrinal anchor confirmed by JEV canonical probe (Sept 22 evening sprint):
+- Primary doctrine: cells_are_scars
+- Canon-worthy score: 0.72 (≥ 0.7 threshold)
+
+Cell 113 is now **CANON** (rank: canon)
