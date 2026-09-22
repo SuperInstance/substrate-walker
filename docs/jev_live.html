@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JEV Live — Substrate Walker Canon Gate</title>
+  <style>
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0a14;
+      color: #d8e8d8;
+      padding: 30px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 { color: #c080c0; margin-bottom: 20px; }
+    h2 { color: #88c8f0; margin-top: 20px; border-bottom: 1px solid #2a3040; padding-bottom: 5px; }
+    .jev-card {
+      background: #14181f;
+      border-left: 3px solid #c080c0;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 4px;
+    }
+    .jev-card.accept { border-left-color: #80f088; }
+    .jev-card.review { border-left-color: #f0d088; }
+    .stats {
+      display: flex;
+      gap: 20px;
+      margin: 20px 0;
+    }
+    .stat {
+      background: #1a2030;
+      padding: 10px 15px;
+      border-radius: 4px;
+      flex: 1;
+    }
+    .stat .label { color: #88a098; font-size: 11px; text-transform: uppercase; }
+    .stat .value { color: #c080c0; font-size: 22px; font-weight: bold; }
+    .noul { color: #88f0c0; font-family: monospace; }
+    .choice { color: #f0d088; }
+  </style>
+</head>
+<body>
+  <h1>🤖 JEV Live — Canon-Gate Oracle</h1>
+  <p>JEV (Typesafe.ai System One model, jev-1.13.0) is the calibrated probabilistic oracle for canon-acceptance. Below are the results of running JEV against the substrate walker's 100 great_moments.</p>
+  
+  <div class="stats" id="stats"></div>
+
+  <h2>14/100 ACCEPT</h2>
+  <p>Voice distribution: 8 lyricist, 3 structuralist, 3 noir_classic.</p>
+  <div id="accept-list"></div>
+  
+  <h2>86/100 REVIEW</h2>
+  <p>Lores with canon&lt;0.7 OR distinct&lt;0.5. These need re-generation or different seed.</p>
+  
+  <h2>JEV API Reference</h2>
+  <pre style="background: #14181f; padding: 15px; border-left: 3px solid #c080c0;">
+POST https://api.typesafe.ai/v1/systemone
+Authorization: Bearer $TYPESAFEAI_KEY
+Content-Type: application/json
+
+{
+  "model": "jev-latest",
+  "state": "<lore text>",
+  "questions": {
+    "canon_worthy": {"type": "noul", "instructions": "Canon-worthy cyberpunk-noir?"},
+    "distinct_voice": {"type": "noul", "instructions": "Distinct, non-formulaic voice?"},
+    "best_voice": {"type": "choice", "instructions": "Which voice?",
+                    "criteria": {"structuralist": "architecture",
+                                 "lyricist": "compressed image",
+                                 ...}}
+  }
+}
+  </pre>
+
+  <script>
+    fetch('../playtest/jev_canon.json').then(r => r.json()).then(data => {
+      const accept = data.filter(d => d.promote);
+      const review = data.filter(d => !d.promote);
+      
+      // Stats
+      const statsDiv = document.getElementById('stats');
+      statsDiv.innerHTML = `
+        <div class="stat">
+          <div class="label">Total scored</div>
+          <div class="value">${data.length}</div>
+        </div>
+        <div class="stat">
+          <div class="label">Accepted (p>0.7 canon + p>0.5 distinct)</div>
+          <div class="value">${accept.length}</div>
+        </div>
+        <div class="stat">
+          <div class="label">Review</div>
+          <div class="value">${review.length}</div>
+        </div>
+        <div class="stat">
+          <div class="label">Mean canon_worthy</div>
+          <div class="value">${(data.reduce((s, d) => s + d.noul_canon, 0) / data.length).toFixed(2)}</div>
+        </div>
+        <div class="stat">
+          <div class="label">Mean distinct_voice</div>
+          <div class="value">${(data.reduce((s, d) => s + d.noul_distinct, 0) / data.length).toFixed(2)}</div>
+        </div>
+      `;
+      
+      // Accept list
+      const listDiv = document.getElementById('accept-list');
+      accept.forEach(d => {
+        const card = document.createElement('div');
+        card.className = 'jev-card accept';
+        card.innerHTML = `
+          <div><b>seed ${d.seed}</b> <span class="noul">canon ${d.noul_canon.toFixed(2)}</span> <span class="noul">distinct ${d.noul_distinct.toFixed(2)}</span> <span class="choice">voice=${d.jev_voice}</span> <span>density=${d.density.toFixed(2)}</span></div>
+          <div style="margin-top: 8px; font-style: italic;">${(d.lore || '').substring(0, 250)}${d.lore && d.lore.length > 250 ? '…' : ''}</div>
+        `;
+        listDiv.appendChild(card);
+      });
+    });
+  </script>
+</body>
+</html>
