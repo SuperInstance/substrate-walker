@@ -1,8 +1,8 @@
 {
-  "version": "2.11.0",
+  "version": "2.12.0",
   "updated_at": "2026-09-22T22:18:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 117,
+  "total_cells": 119,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -19,7 +19,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 17
+    "witness": 19
   },
   "entries": [
     {
@@ -1333,6 +1333,38 @@
       "jev_doctrine_anchor": 0.68,
       "jev_promote_threshold": 0.7,
       "doctrine_anchor": "oracle_is_heard",
+      "generator": "future-GAN-DeepInfra",
+      "timestamp": "2026-09-22T22:18:00Z"
+    },
+    {
+      "rank": 118,
+      "cell_id": "doctrine-witness-future-gan-4685000-2026-09-22-118",
+      "path": "canon/cells/cell_118.md",
+      "seed": 4685000,
+      "score": 0.657,
+      "lore": "see FUTURE_GAN_RESULTS.json",
+      "voice": "witness",
+      "type": "canon-witness-voice-future-gan",
+      "jev_canon_worthy": 0.58,
+      "jev_distinct_voice": 0.73,
+      "jev_doctrine_anchor": 0.66,
+      "doctrine_anchor": "witness_log_is_prediction",
+      "generator": "future-GAN-DeepInfra",
+      "timestamp": "2026-09-22T22:18:00Z"
+    },
+    {
+      "rank": 119,
+      "cell_id": "doctrine-witness-future-gan-57322595-2026-09-22-119",
+      "path": "canon/cells/cell_119.md",
+      "seed": 57322595,
+      "score": 0.657,
+      "lore": "see FUTURE_GAN_RESULTS.json",
+      "voice": "witness",
+      "type": "canon-witness-voice-future-gan",
+      "jev_canon_worthy": 0.6,
+      "jev_distinct_voice": 0.68,
+      "jev_doctrine_anchor": 0.69,
+      "doctrine_anchor": "witness_log_is_prediction",
       "generator": "future-GAN-DeepInfra",
       "timestamp": "2026-09-22T22:18:00Z"
     }
