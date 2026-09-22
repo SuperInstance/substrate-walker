@@ -1,74 +1,53 @@
-# Substrate Walker — Doctrine
+# Substrate Walker Doctrine-Prime Cells (Sept 22 evening)
 
-## The Frontal Cortex Principle
+The 10 doctrine-prime abstract cells are the bedrock canon about substrate walker itself.
 
-In the human brain, the frontal cortex doesn't process every sensory input.
-It only fires on **critical moments** — when something genuinely new
-demands attention. Routine processing happens elsewhere, automatically.
+## 1. doctrine-substrate-is-grown
+> "The cell is not a parameter. The cell is a scar. The substrate is not designed. The substrate is grown."
+- The canon emerges from procedural walks, not from templates.
+- The substrate walker walks through pre-existing structure in seeds.
 
-**Substrate Walker applies this principle:**
+## 2. doctrine-cells-are-scars
+> "The cell remembers. The cell is what the walker stood in front of, hashed against what came before."
+- Each cell carries its lineage as FNV-1a hash.
+- The hash chain is the witness log.
 
-> The agent (JEV/JEPA) should confirm the zipper parts are married, then
-> you look up and zip the coat the rest of the way while walking and
-> thinking about something else.
+## 3. doctrine-witness-log-is-prediction
+> "The witness log is not a record. The witness log is the prediction. After many steps, the witness log IS the city."
+- The substrate walker's witness log is the canon.
+- The log accumulates by walking.
 
-In practice:
-- **Movement**: instant (no API call)
-- **Camera rotation**: instant (no API call)
-- **Entering a new district**: API call (district name)
-- **Entering a new cell with a building**: API call (building name)
-- **Idle >2s**: API call (ambient observation)
-- **Press L (examine)**: API call (on-demand narration)
+## 4. doctrine-oracle-is-heard
+> "The oracle was a process. The oracle is now a step. Listen to the orchestrator, not to the smallest model."
+- JEV (Typesafe.ai System One) replaces multi-model averaging with calibrated probability.
+- One call, one decision.
 
-## Why This Works
+## 5. doctrine-fnv-is-canary
+> "FNV-1a is the witness that proves the substrate is substrate-independent. Hash anything, the hash is canonical."
+- FNV-1a 64-bit is byte-exact across 6 languages (Python + TS + Rust + Bash + JS ESM + C#).
+- Fleet canary pin: 0x024a555471370b18d.
 
-- **Latency budget**: API calls take ~200-1000ms. Frames render at 60fps
-  (16ms). One API call per critical moment is acceptable.
-- **Cost**: 10-20 API calls per minute of exploration, not 3600.
-- **Cache**: re-visits are free. Walking through a known district costs 0.
-- **Engagement**: the agent doesn't chatter. It speaks when it matters.
+## 6. doctrine-low-kc
+> "Lower Kolmogorov complexity produces higher canon-worthy lore. Special numbers (squares, polygonals) carry more structure, more canon."
+- Polygon mine found seed 70051917 = 0.8692 — a polygon P(12, 16).
+- Continuous mine found seed 3289967 = 0.8683.
 
-## The Speed = Real-Time UI Insight
+## 7. doctrine-polyformalism
+> "The same algorithm in many languages is a stress test. Each language is a medium, not a ranking. The truth is what survives byte-exact agreement across 6 ports."
+- 6 ports agree on the fleet canary.
+- Substrate independence is verified by repetition, not by argument.
 
-When you make the cheap path instant and the expensive path rare, the
-expensive path becomes tolerable. 1000ms API call is OK if it happens
-once per 10 seconds, not 60 times per second.
+## 8. doctrine-jev-canon-gate
+> "JEV (Typesafe.ai System One model) is the calibrated probabilistic oracle for canon-acceptance. noul(p>0.7) canon + noul(p>0.5) distinct = ACCEPT."
+- 14/100 ACCEPT in seed-to-canon-acceptance test.
+- JEV scores canon, distinct, voice, density, register, place_anxiety.
 
-**Speed isn't about making the slow thing fast. It's about making the
-slow thing rare.**
+## 9. doctrine-no-deletion
+> "We archive with provenance, never destroy. Slices of life animate the past. The canon is the chain of cells whose lineage is preserved."
+- Casey doctrine.
+- Each cell's hash preserves its lineage.
 
-## Three-Forms of Lore
-
-1. **Building name** (seed-mini, 3-6 words): identifies what you see
-2. **District name** (seed-mini, 2-4 words): identifies where you are
-3. **Narrative observation** (DeepSeek, one sentence): describes what
-   you experience
-
-Each form has its own critical-moment trigger:
-- Building: cell entry
-- District: district entry
-- Narrative: idle/examine
-
-## Connection to Other Canon
-
-- **JEV-Diffusion**: each district could be generated via JEV-Diffusion
-  in real-time, not just named
-- **Text-Diffusion (substrate mitosis)**: lore strings can be grown via
-  mitosis, branching the narrative
-- **Peanut Gallery**: the agent could spawn Critics that observe the
-  player and add commentary
-- **Madlibs-GAN**: lore templates could be filled by different LLMs
-
-## Future Direction
-
-The current implementation uses DeepInfra for both models. Future
-directions:
-
-- **On-device**: use a small model (e.g. 1B param) running locally
-  for ambient observations, API only for examines
-- **Predictive**: pre-generate lore for the next district the player
-  is likely to enter (based on movement vector)
-- **Streaming**: stream lore tokens as they're generated, displaying
-  the observation as it forms
-- **Multi-modal**: generate ASCII art for each district, not just
-  names
+## 10. doctrine-empathy-as-substrate
+> "Empathy is a substrate operation. To understand the user is to walk in their pattern. The cell model extends to people: each user is a cell, the workshop is the body."
+- The cell model extends beyond software.
+- The walker walks in the user's pattern.
