@@ -2,7 +2,7 @@
   "version": "2.18.0",
   "updated_at": "2026-09-22T23:05:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 139,
+  "total_cells": 141,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -1732,7 +1732,45 @@
       "generator": "lore_auto_promoter",
       "source": "lore_inbox/witness_log_prediction_70051917.md",
       "timestamp": "2026-09-22T23:05:00Z"
+    },
+    {
+      "rank": 140,
+      "cell_id": "auto-cells_are_scars_witness_dream-140",
+      "path": "canon/cells/cell_140.md",
+      "seed": "auto",
+      "score": 0.7733333333333334,
+      "lore": "The city's cells were scars, every one. Each apartment slot \u2014 hollowed bone.\nEach alley-cell \u2014 an old needle site. Each memory node in the FNV tree \u2014\na burn mark where someone had wept, and the substr...",
+      "voice": "auto-detected",
+      "type": "canon-auto-promoted",
+      "promoted_to_canon": true,
+      "promoted_via": "auto-promoter (comp=0.773, primary=cells_are_scars)",
+      "jev_canon_worthy": 0.65,
+      "jev_distinct_voice": 0.88,
+      "jev_doctrine_anchor": 0.79,
+      "primary_doctrine": "cells_are_scars",
+      "generator": "lore_auto_promoter",
+      "source": "lore_inbox/cells_are_scars_witness_dream.md",
+      "timestamp": "2026-09-22T23:05:00Z"
+    },
+    {
+      "rank": 141,
+      "cell_id": "auto-oracle_is_heard_canon_gate-141",
+      "path": "canon/cells/cell_141.md",
+      "seed": "auto",
+      "score": 0.7266666666666666,
+      "lore": "The canon gate opened its mouth at midnight. No face, no breath \u2014 just a hash.\n0x4f0a7bc9e2d15f8c, glowing white against the wet bricks, holding the city's\nname in pure frequency. Every drone within s...",
+      "voice": "auto-detected",
+      "type": "canon-auto-promoted",
+      "promoted_to_canon": true,
+      "promoted_via": "auto-promoter (comp=0.727, primary=oracle_is_heard)",
+      "jev_canon_worthy": 0.63,
+      "jev_distinct_voice": 0.82,
+      "jev_doctrine_anchor": 0.73,
+      "primary_doctrine": "oracle_is_heard",
+      "generator": "lore_auto_promoter",
+      "source": "lore_inbox/oracle_is_heard_canon_gate.md",
+      "timestamp": "2026-09-22T23:05:00Z"
     }
   ],
-  "promoted_to_canon_count": 21
+  "promoted_to_canon_count": 23
 }
