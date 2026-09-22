@@ -1,602 +1,602 @@
 [
   {
-    "rank": 1,
     "seed": 3289967,
     "score": 0.8683333333333333,
-    "lore": "Rain-soaked streets, neon lights flicker, shadows hide secrets.\n\nWhat do you do?"
+    "lore": "Rain-soaked streets, neon lights flicker, shadows hide secrets.\n\nWhat do you do?",
+    "rank": 1
   },
   {
-    "rank": 2,
     "seed": 1504276,
     "score": 0.8675,
-    "lore": "Rains pour down on city streets like a dirty shroud"
+    "lore": "Rains pour down on city streets like a dirty shroud",
+    "rank": 2
   },
   {
-    "rank": 3,
     "seed": 6358192,
     "score": 0.8670833333333333,
-    "lore": "The rain-soaked streets of Neo-Tokyo.\n\nYou are standing in a dimly lit alleyway, surrounded by towering skyscrapers. The air is thick with the smell of smoke and desperation. A lone streetlight flickers above, casting eerie shadows on the ground.\n\nYour character is a"
+    "lore": "The rain-soaked streets of Neo-Tokyo.\n\nYou are standing in a dimly lit alleyway, surrounded by towering skyscrapers. The air is thick with the smell of smoke and desperation. A lone streetlight flickers above, casting eerie shadows on the ground.\n\nYour character is a",
+    "rank": 3
   },
   {
-    "rank": 4,
     "seed": 302238,
     "score": 0.8666666666666667,
-    "lore": "Rain falls on the city's dark streets."
+    "lore": "Rain falls on the city's dark streets.",
+    "rank": 4
   },
   {
-    "rank": 5,
     "seed": 550551,
     "score": 0.8666666666666667,
-    "lore": "Rain-soaked streets. Neon lights flicker. One last case."
+    "lore": "Rain-soaked streets. Neon lights flicker. One last case.",
+    "rank": 5
   },
   {
-    "rank": 6,
     "seed": 662290,
     "score": 0.8666666666666667,
-    "lore": "Rainy streets, dark alleys. She was supposed to meet me here."
+    "lore": "Rainy streets, dark alleys. She was supposed to meet me here.",
+    "rank": 6
   },
   {
-    "rank": 7,
     "seed": 2184160,
     "score": 0.8666666666666667,
-    "lore": "Rain falls on the city's cold, dark streets."
+    "lore": "Rain falls on the city's cold, dark streets.",
+    "rank": 7
   },
   {
-    "rank": 8,
-    "seed": 164836,
-    "score": 0.8666666666666667,
-    "lore": "Rain pours down on neon-drenched streets."
-  },
-  {
-    "rank": 9,
-    "seed": 69006,
-    "score": 0.86625,
-    "lore": "Rain pours down on the city's dirty streets."
-  },
-  {
-    "rank": 10,
     "seed": 152417070,
     "score": 0.86625,
-    "lore": "Rain-soaked streets, a lone figure strolls alone.\n\nWhat action?"
+    "lore": "Rain-soaked streets, a lone figure strolls alone.\n\nWhat action?",
+    "rank": 8
   },
   {
-    "rank": 11,
     "seed": 11414805,
     "score": 0.86625,
-    "lore": "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets."
+    "lore": "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets.",
+    "rank": 9
   },
   {
-    "rank": 12,
     "seed": 16777171,
     "score": 0.86625,
-    "lore": "Rain soaks the streets of Neo-Tokyo."
+    "lore": "Rain soaks the streets of Neo-Tokyo.",
+    "rank": 10
   },
   {
-    "rank": 13,
     "seed": 39509,
     "score": 0.86625,
-    "lore": ""
+    "lore": "Rain pours down on neon-lit streets. A lone figure stands at the edge of shadows.",
+    "rank": 11
   },
   {
-    "rank": 14,
-    "seed": 326028,
-    "score": 0.8658333333333333,
-    "lore": "Rain-soaked streets glisten in the neon haze."
+    "seed": 69006,
+    "score": 0.86625,
+    "lore": "Rain pours down on wet streets, neon signs reflecting in puddles.",
+    "rank": 12
   },
   {
-    "rank": 15,
-    "seed": 1668051,
-    "score": 0.8658333333333333,
-    "lore": "Rain dripped from the city's dark spine, a perpetual shroud on the streets of Neo-Eden."
-  },
-  {
-    "rank": 16,
-    "seed": 163836,
-    "score": 0.8658333333333333,
-    "lore": "Rain pours down on the city's neon streets."
-  },
-  {
-    "rank": 17,
     "seed": 11751601,
     "score": 0.8658333333333333,
-    "lore": "Rains pour down on neon-lit streets, umbrellas scarce."
+    "lore": "Rains pour down on neon-lit streets, umbrellas scarce.",
+    "rank": 13
   },
   {
-    "rank": 18,
     "seed": 99310068,
     "score": 0.8658333333333333,
-    "lore": "Rain-soaked streets, flickering neon, and the city's dark pulse beats on.\n\nWhat do you do?"
+    "lore": "Rain-soaked streets, flickering neon, and the city's dark pulse beats on.\n\nWhat do you do?",
+    "rank": 14
   },
   {
-    "rank": 19,
+    "seed": 1668051,
+    "score": 0.8658333333333333,
+    "lore": "Rain dripped from the city's dark spine, a perpetual shroud on the streets of Neo-Eden.",
+    "rank": 15
+  },
+  {
     "seed": 18994366,
     "score": 0.8658333333333333,
-    "lore": "Rainy streets, dark alleys, and a future lost.\n\nYou are in the sprawling metropolis of New Eden, where corporations reign and the streets are a battleground for those who refuse to be silenced. Your name is Jack, a former netrunner turned private investigator, seeking to uncover the truth in"
+    "lore": "Rainy streets, dark alleys, and a future lost.\n\nYou are in the sprawling metropolis of New Eden, where corporations reign and the streets are a battleground for those who refuse to be silenced. Your name is Jack, a former netrunner turned private investigator, seeking to uncover the truth in",
+    "rank": 16
   },
   {
-    "rank": 20,
-    "seed": 271216,
-    "score": 0.8654166666666666,
-    "lore": "Rain-soaked streets, flickering neon, and the city's dark underbelly."
+    "seed": 326028,
+    "score": 0.8658333333333333,
+    "lore": "Rain pours down on city streets. Shadows hide truths.",
+    "rank": 17
   },
   {
-    "rank": 21,
     "seed": 1955253,
     "score": 0.8654166666666666,
-    "lore": "Rain poured down on the city's steel spires, casting a gloomy shroud."
+    "lore": "The rain soaks the city's neon-drenched streets, a perpetual downpour that hides the truth.",
+    "rank": 18
   },
   {
-    "rank": 22,
-    "seed": 728365,
-    "score": 0.8654166666666666,
-    "lore": "Rainy night, shadows dance, streets of New Eden.\n\nWhat do you do?\n\nA) Investigate the source of the darkness\nB) Follow the faint glow of a holographic sign\nC) Approach the lone figure standing at the edge of the light\nD) Retreat into the alley,"
-  },
-  {
-    "rank": 23,
-    "seed": 995930,
-    "score": 0.8654166666666666,
-    "lore": "You step into the dimly lit alley, the rain-soaked streets of Neo-Tokyo stretching out before you like a dystopian canvas."
-  },
-  {
-    "rank": 24,
-    "seed": 310249,
-    "score": 0.8654166666666666,
-    "lore": "Rain falls on the neon drenched streets. A lone saxophone wails in the distance."
-  },
-  {
-    "rank": 25,
-    "seed": 9901,
-    "score": 0.8654166666666666,
-    "lore": "I see a blurred silhouette of a lone figure in the distance, a faint glow of a holographic sign reading \"ECHO-1\" above a dark alleyway."
-  },
-  {
-    "rank": 26,
-    "seed": 690561,
-    "score": 0.8654166666666666,
-    "lore": "**Rain-soaked streets, neon-drenched night.**\n\nIn this dimly lit corner of the city, you stand at 8.0, 12.0, gazing out into the downpour. The rain drums against the pavement, a relentless beat that mirrors the turmoil brewing in the"
-  },
-  {
-    "rank": 27,
     "seed": 67108827,
     "score": 0.8654166666666666,
-    "lore": ""
+    "lore": "Rain patters on wet streets, lone figure disappears into shadows.",
+    "rank": 19
   },
   {
-    "rank": 28,
-    "seed": 56953,
-    "score": 0.865,
-    "lore": "Rain-soaked streets. Neon glare. Shadow's lurking.\n\nWhat do you do?\n\nA) Investigate the source of the light\nB) Head towards the dark alley\nC) Approach the suspicious character\nD) Keep moving, can't stay in one spot"
+    "seed": 271216,
+    "score": 0.8654166666666666,
+    "lore": "Rain-soaked streets, flickering neon, and the city's dark underbelly.",
+    "rank": 20
   },
   {
-    "rank": 29,
+    "seed": 728365,
+    "score": 0.8654166666666666,
+    "lore": "Rainy night, shadows dance, streets of New Eden.\n\nWhat do you do?\n\nA) Investigate the source of the darkness\nB) Follow the faint glow of a holographic sign\nC) Approach the lone figure standing at the edge of the light\nD) Retreat into the alley,",
+    "rank": 21
+  },
+  {
+    "seed": 995930,
+    "score": 0.8654166666666666,
+    "lore": "You step into the dimly lit alley, the rain-soaked streets of Neo-Tokyo stretching out before you like a dystopian canvas.",
+    "rank": 22
+  },
+  {
     "seed": 327067,
     "score": 0.865,
-    "lore": "Rain pours down on the city's dark streets."
+    "lore": "Rain pours down on the city's dark streets.",
+    "rank": 23
   },
   {
-    "rank": 30,
-    "seed": 2388205,
-    "score": 0.865,
-    "lore": "Rain pours down on the city's neon sprawl."
-  },
-  {
-    "rank": 31,
-    "seed": 7001,
-    "score": 0.865,
-    "lore": "Rain pours down, a deluge of despair.\"\n\nYour character, a grizzled cyber-enhanced private investigator, stands in the midst of the neon-drenched sprawl, surrounded by towering skyscrapers and holographic advertisements. The air reeks of smoke and ozone."
-  },
-  {
-    "rank": 32,
-    "seed": 18381,
-    "score": 0.865,
-    "lore": "Rain falls on the city's concrete spine."
-  },
-  {
-    "rank": 33,
     "seed": 3371,
     "score": 0.865,
-    "lore": ""
+    "lore": "Rain falls on wet streets, neon lights a distant hum.",
+    "rank": 24
   },
   {
-    "rank": 34,
     "seed": 5659,
     "score": 0.865,
-    "lore": ""
+    "lore": "Rain-soaked streets, neon whispers, and the city's cold kiss.",
+    "rank": 25
   },
   {
-    "rank": 35,
-    "seed": 39621,
-    "score": 0.8645833333333334,
-    "lore": "Rain-soaked streets shrouded in neon darkness.\n\nWhat do you do?"
+    "seed": 56953,
+    "score": 0.865,
+    "lore": "Rain-soaked streets. Neon glare. Shadow's lurking.\n\nWhat do you do?\n\nA) Investigate the source of the light\nB) Head towards the dark alley\nC) Approach the suspicious character\nD) Keep moving, can't stay in one spot",
+    "rank": 26
   },
   {
-    "rank": 36,
-    "seed": 59340,
-    "score": 0.8645833333333334,
-    "lore": "Raining on the neon streets of New Eden\"\n\nWhat do you do?\n\n(Note: you can enter any valid command, such as movement directions, actions, or questions. I'll respond with the outcome.)"
+    "seed": 2388205,
+    "score": 0.865,
+    "lore": "Rain pours down on the city's neon sprawl.",
+    "rank": 27
   },
   {
-    "rank": 37,
-    "seed": 817102,
-    "score": 0.8645833333333334,
-    "lore": "I stepped out of the rain-soaked alley, eyes scanning the cityscape."
-  },
-  {
-    "rank": 38,
-    "seed": 2027091,
-    "score": 0.8645833333333334,
-    "lore": "Rain slicks the pavement, a lone streetlamp casts a ghoulish glow."
-  },
-  {
-    "rank": 39,
     "seed": 2464645,
     "score": 0.8645833333333334,
-    "lore": "Rain-soaked streets, neon haze, the city never sleeps..."
+    "lore": "Rainy streets, neon shadows, and a whispered promise: \"Meet me at Club Europa.",
+    "rank": 28
   },
   {
-    "rank": 40,
-    "seed": 3801903,
-    "score": 0.8645833333333334,
-    "lore": "Rain falls on the city's dark streets, a lone figure in the shadows."
-  },
-  {
-    "rank": 41,
-    "seed": 4073,
-    "score": 0.8645833333333334,
-    "lore": "Rain pours down on neon drenched streets."
-  },
-  {
-    "rank": 42,
-    "seed": 970225,
-    "score": 0.8645833333333334,
-    "lore": "Rain falls on the city's dark streets."
-  },
-  {
-    "rank": 43,
     "seed": 18926250,
     "score": 0.8645833333333334,
-    "lore": "Rain-soaked streets, neon lit.\n\nWhat action? (type 'n' to north, 's' to south, etc.)"
+    "lore": "Rain-soaked streets, neon lit.\n\nWhat action? (type 'n' to north, 's' to south, etc.)",
+    "rank": 29
   },
   {
-    "rank": 44,
     "seed": 95732187,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain drips from the neon sky, a lonely raincoat clings to me.",
+    "rank": 30
   },
   {
-    "rank": 45,
     "seed": 60575860,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain pours on the city's dark alleys.",
+    "rank": 31
   },
   {
-    "rank": 46,
     "seed": 128056006,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain patters on wet streets, a lone figure walks.",
+    "rank": 32
   },
   {
-    "rank": 47,
     "seed": 2540836,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain falls on dirty streets.",
+    "rank": 33
   },
   {
-    "rank": 48,
     "seed": 32849565,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain slicks the pavement, city's dark underbelly.",
+    "rank": 34
   },
   {
-    "rank": 49,
     "seed": 38155762,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain pours down on darkened streets.",
+    "rank": 35
   },
   {
-    "rank": 50,
     "seed": 5351356,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain pours down on streets of New Eden.",
+    "rank": 36
   },
   {
-    "rank": 51,
+    "seed": 4073,
+    "score": 0.8645833333333334,
+    "lore": "Rain pours down on neon drenched streets.",
+    "rank": 37
+  },
+  {
     "seed": 21037341,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain falls hard on neon streets.",
+    "rank": 38
   },
   {
-    "rank": 52,
     "seed": 509,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain pours down on a city in perpetual night.",
+    "rank": 39
   },
   {
-    "rank": 53,
     "seed": 44279,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain pours down on neon-soaked streets.",
+    "rank": 40
   },
   {
-    "rank": 54,
     "seed": 49789,
     "score": 0.8645833333333334,
-    "lore": ""
+    "lore": "Rain-soaked streets. Neon signs blur. Victim found dead.",
+    "rank": 41
   },
   {
-    "rank": 55,
+    "seed": 39621,
+    "score": 0.8645833333333334,
+    "lore": "Rain-soaked streets shrouded in neon darkness.\n\nWhat do you do?",
+    "rank": 42
+  },
+  {
+    "seed": 59340,
+    "score": 0.8645833333333334,
+    "lore": "Raining on the neon streets of New Eden\"\n\nWhat do you do?\n\n(Note: you can enter any valid command, such as movement directions, actions, or questions. I'll respond with the outcome.)",
+    "rank": 43
+  },
+  {
+    "seed": 817102,
+    "score": 0.8645833333333334,
+    "lore": "I stepped out of the rain-soaked alley, eyes scanning the cityscape.",
+    "rank": 44
+  },
+  {
+    "seed": 2027091,
+    "score": 0.8645833333333334,
+    "lore": "Rain slicks the pavement, a lone streetlamp casts a ghoulish glow.",
+    "rank": 45
+  },
+  {
+    "seed": 3801903,
+    "score": 0.8645833333333334,
+    "lore": "Rain falls on the city's dark streets, a lone figure in the shadows.",
+    "rank": 46
+  },
+  {
+    "seed": 2658,
+    "score": 0.8645833333333334,
+    "lore": "Rain drips off the gumshoe's trenchcoat.",
+    "rank": 47
+  },
+  {
     "seed": 2041,
     "score": 0.8642849344978166,
-    "lore": ""
+    "lore": "Rain slicks the streets of New Eden, a lone shadow lingers.",
+    "rank": 48
   },
   {
-    "rank": 56,
-    "seed": 49455,
-    "score": 0.8641666666666666,
-    "lore": "Rain pours down on the city's dirty streets.\"\n\nWhat do you want to do?\n\n(Note: I'll be using a simplified ASCII art representation of the environment, with characters representing the buildings, roads, and other features. The \".\"s represent the rain pouring down. Your actions will be displayed in"
-  },
-  {
-    "rank": 57,
-    "seed": 559153,
-    "score": 0.8641666666666666,
-    "lore": "Rain lashes down on neon-drenched streets."
-  },
-  {
-    "rank": 58,
-    "seed": 612171,
-    "score": 0.8641666666666666,
-    "lore": "Rain lashes streets, neon blinds, the city's dark heart beats.\"\n\nWhat do you do?\n\n(Note: you can type commands like 'move north' or 'investigate alleyway')"
-  },
-  {
-    "rank": 59,
-    "seed": 799480,
-    "score": 0.8641666666666666,
-    "lore": "A dimly lit alleyway, rain-soaked streets, and the distant hum of holographic advertisements. What's your move?"
-  },
-  {
-    "rank": 60,
-    "seed": 1308153,
-    "score": 0.8641666666666666,
-    "lore": "Rains pour down on wet neon streets..."
-  },
-  {
-    "rank": 61,
-    "seed": 636805,
-    "score": 0.8641666666666666,
-    "lore": "The rain-soaked streets of Neo-Tokyo stretch out before me, a labyrinth of shadows and neon lights. I stand outside the rain-drenched alley, a cigarette burning in the corner of my mouth.\n\nI look down at my cyberdeck, the streets' secrets and lies laid bare before me"
-  },
-  {
-    "rank": 62,
-    "seed": 309645,
-    "score": 0.8641666666666666,
-    "lore": "The rain-soaked streets of Neo-Tokyo stretched out before you like a diseased serpent."
-  },
-  {
-    "rank": 63,
-    "seed": 800330,
-    "score": 0.8641666666666666,
-    "lore": "Rain-soaked streets, neon haze, and a femme fatale's whisper in the darkness..."
-  },
-  {
-    "rank": 64,
     "seed": 1015,
     "score": 0.8641666666666666,
-    "lore": ""
+    "lore": "Rainy streets, neon glare. Crisp air, sharp lies.",
+    "rank": 49
   },
   {
-    "rank": 65,
     "seed": 357489,
     "score": 0.8641666666666666,
-    "lore": ""
+    "lore": "Rain pours on the neon-soaked streets.",
+    "rank": 50
   },
   {
-    "rank": 66,
     "seed": 181517931,
     "score": 0.8641666666666666,
-    "lore": ""
+    "lore": "Rain slicks the pavement.",
+    "rank": 51
   },
   {
-    "rank": 67,
     "seed": 35375967,
     "score": 0.8641666666666666,
-    "lore": ""
+    "lore": "Rain-soaked streets, neon shadows, corruption reigns.",
+    "rank": 52
   },
   {
-    "rank": 68,
     "seed": 5216405,
     "score": 0.8641666666666666,
-    "lore": ""
+    "lore": "Rainy night streets, hardboiled eyes scanning",
+    "rank": 53
   },
   {
-    "rank": 69,
     "seed": 78503634,
     "score": 0.8641666666666666,
-    "lore": ""
+    "lore": "Rain soaks streets, neon drowns the night.",
+    "rank": 54
   },
   {
-    "rank": 70,
-    "seed": 153181,
-    "score": 0.86375,
-    "lore": "Rain patters on the wet pavement. Neon lights reflect off a puddle, casting a distorted glow."
+    "seed": 559153,
+    "score": 0.8641666666666666,
+    "lore": "Rain-soaked streets swallowed the last embers of daybreak.",
+    "rank": 55
   },
   {
-    "rank": 71,
-    "seed": 1777555,
-    "score": 0.86375,
-    "lore": "Rain drips from a lone streetlamp"
+    "seed": 49455,
+    "score": 0.8641666666666666,
+    "lore": "Rain pours down on the city's dirty streets.\"\n\nWhat do you want to do?\n\n(Note: I'll be using a simplified ASCII art representation of the environment, with characters representing the buildings, roads, and other features. The \".\"s represent the rain pouring down. Your actions will be displayed in",
+    "rank": 56
   },
   {
-    "rank": 72,
-    "seed": 654321,
-    "score": 0.86375,
-    "lore": "Rain patters on the city's perpetual twilight. \n\nWhat do you do?\n\n(Note: You can use simple commands like 'move', 'look', 'take', 'use', etc. to interact with the environment. For example, 'move north' or 'look around')"
+    "seed": 612171,
+    "score": 0.8641666666666666,
+    "lore": "Rain lashes streets, neon blinds, the city's dark heart beats.\"\n\nWhat do you do?\n\n(Note: you can type commands like 'move north' or 'investigate alleyway')",
+    "rank": 57
   },
   {
-    "rank": 73,
+    "seed": 799480,
+    "score": 0.8641666666666666,
+    "lore": "A dimly lit alleyway, rain-soaked streets, and the distant hum of holographic advertisements. What's your move?",
+    "rank": 58
+  },
+  {
+    "seed": 1308153,
+    "score": 0.8641666666666666,
+    "lore": "Rains pour down on wet neon streets...",
+    "rank": 59
+  },
+  {
+    "seed": 636805,
+    "score": 0.8641666666666666,
+    "lore": "The rain-soaked streets of Neo-Tokyo stretch out before me, a labyrinth of shadows and neon lights. I stand outside the rain-drenched alley, a cigarette burning in the corner of my mouth.\n\nI look down at my cyberdeck, the streets' secrets and lies laid bare before me",
+    "rank": 60
+  },
+  {
+    "seed": 3049215,
+    "score": 0.8641666666666666,
+    "lore": "Rain pours down on neon streets. A lone figure emerges.",
+    "rank": 61
+  },
+  {
+    "seed": 3868371,
+    "score": 0.8641666666666666,
+    "lore": "Rain-soaked streets. Neon-lit alleys. One last gig.",
+    "rank": 62
+  },
+  {
+    "seed": 1206,
+    "score": 0.8641666666666666,
+    "lore": "Rain-soaked streets swallowed the last of the neon.\n\nWhat would you like to do?",
+    "rank": 63
+  },
+  {
+    "seed": 309645,
+    "score": 0.8641666666666666,
+    "lore": "The rain-soaked streets of Neo-Tokyo stretched out before you like a diseased serpent.",
+    "rank": 64
+  },
+  {
+    "seed": 3163870,
+    "score": 0.8638391557496361,
+    "lore": "Rain pounds streets of New Erebo, a neon-lit abyss",
+    "rank": 65
+  },
+  {
     "seed": 1809721,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain pours down on streets of Neo-Tokyo, neon lights reflecting off wet pavement.",
+    "rank": 66
   },
   {
-    "rank": 74,
+    "seed": 1777555,
+    "score": 0.86375,
+    "lore": "Rain drips from a lone streetlamp",
+    "rank": 67
+  },
+  {
     "seed": 226609321,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain pours on wet streets, a lone figure emerges from the neon haze",
+    "rank": 68
   },
   {
-    "rank": 75,
     "seed": 55006666,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain soaks streets, neon lights bleed\"\n\n(The player is in a dimly lit alleyway, the only sound the patter of rain on the pavement. The camera pans down to the player's character, a worn leather duster coat and fedora-clad figure, eyes fixed on a large",
+    "rank": 69
   },
   {
-    "rank": 76,
     "seed": 3097600,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain-soaked streets, neon haze, shadows hide the truth.",
+    "rank": 70
   },
   {
-    "rank": 77,
     "seed": 1538456,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain pours down on a deserted alleyway.",
+    "rank": 71
   },
   {
-    "rank": 78,
     "seed": 77072320,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain slicks the pavement.",
+    "rank": 72
   },
   {
-    "rank": 79,
     "seed": 17781081,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain poured down on the city like a dirty shroud.",
+    "rank": 73
   },
   {
-    "rank": 80,
     "seed": 4293784,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rainy streets, neon lights flicker, a lone figure stands at the edge of the city",
+    "rank": 74
   },
   {
-    "rank": 81,
     "seed": 15167010,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain pours down on the city's dirty streets.",
+    "rank": 75
   },
   {
-    "rank": 82,
     "seed": 19754564,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain lashes down on the deserted streets of New Haven.",
+    "rank": 76
   },
   {
-    "rank": 83,
     "seed": 24,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain pours down on the streets of Neo-Tokyo, a city that never sleeps.",
+    "rank": 77
   },
   {
-    "rank": 84,
     "seed": 17923,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rainy streets, dimly lit alleys. Lost souls prowl.",
+    "rank": 78
   },
   {
-    "rank": 85,
     "seed": 25303,
     "score": 0.86375,
-    "lore": ""
+    "lore": "Rain lashes down, neon lights flicker.",
+    "rank": 79
   },
   {
-    "rank": 86,
-    "seed": 219453,
-    "score": 0.8633333333333333,
-    "lore": "Rain pours down on streets of New Erebo."
+    "seed": 153181,
+    "score": 0.86375,
+    "lore": "Rain patters on the wet pavement. Neon lights reflect off a puddle, casting a distorted glow.",
+    "rank": 80
   },
   {
-    "rank": 87,
-    "seed": 508536,
-    "score": 0.8633333333333333,
-    "lore": "Rainy streets, dark alleys. The city never sleeps."
+    "seed": 339849,
+    "score": 0.86375,
+    "lore": "Rain pours down, casting shadows on the city's bleak streets.\n\nWhat do you do?",
+    "rank": 81
   },
   {
-    "rank": 88,
-    "seed": 894453,
-    "score": 0.8633333333333333,
-    "lore": "Rain-soaked streets, dimly lit alleys, and a city that never sleeps."
+    "seed": 1225372,
+    "score": 0.86375,
+    "lore": "Rain slicks the alley's dark floor.",
+    "rank": 82
   },
   {
-    "rank": 89,
-    "seed": 1085601,
-    "score": 0.8633333333333333,
-    "lore": "Rain-soaked streets. Neon screams."
+    "seed": 3997378,
+    "score": 0.86375,
+    "lore": "Rain-soaked streets. Neon haze. A lone silhouette.",
+    "rank": 83
   },
   {
-    "rank": 90,
-    "seed": 1205128,
-    "score": 0.8633333333333333,
-    "lore": "Rain pours down on neon-drenched streets."
+    "seed": 20,
+    "score": 0.86375,
+    "lore": "Rain drips like tears on the city's dark skin.",
+    "rank": 84
   },
   {
-    "rank": 91,
-    "seed": 970585,
-    "score": 0.8633333333333333,
-    "lore": "Rain-soaked streets, lone shadows dance."
+    "seed": 642,
+    "score": 0.86375,
+    "lore": "Rain falls on the city's dirty streets.",
+    "rank": 85
   },
   {
-    "rank": 92,
-    "seed": 390172,
-    "score": 0.8633333333333333,
-    "lore": "Rain-soaked streets reflected city's neon despair."
+    "seed": 1284,
+    "score": 0.86375,
+    "lore": "Rainy streets, empty eyes.",
+    "rank": 86
   },
   {
-    "rank": 93,
+    "seed": 2548,
+    "score": 0.86375,
+    "lore": "Rain pours down like sin's dark tears.",
+    "rank": 87
+  },
+  {
+    "seed": 19652,
+    "score": 0.86375,
+    "lore": "Rain slanted down the neon-drenched streets.",
+    "rank": 88
+  },
+  {
     "seed": 4787965,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rain-soaked streets.",
+    "rank": 89
   },
   {
-    "rank": 94,
     "seed": 536870870,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rain pattered on the alley's dark slick.",
+    "rank": 90
   },
   {
-    "rank": 95,
     "seed": 8388601,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rain slicks streets of Neo-Tokyo, shadows hide secrets.\n\nWhat do you do?",
+    "rank": 91
   },
   {
-    "rank": 96,
     "seed": 28121809,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rainy streets a haze of neon. \n\nWhat do you do?",
+    "rank": 92
   },
   {
-    "rank": 97,
     "seed": 4080,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rain slams against the alleyway's neon-drenched walls.",
+    "rank": 93
   },
   {
-    "rank": 98,
     "seed": 16546963,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rain-soaked streets, a lone figure emerges.\n\nWhat do you want to do?",
+    "rank": 94
   },
   {
-    "rank": 99,
     "seed": 947640,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rain slicks the pavement. Shadows swallow streets.",
+    "rank": 95
   },
   {
-    "rank": 100,
     "seed": 41373156,
     "score": 0.8633333333333333,
-    "lore": ""
+    "lore": "Rain pours on the city's dark streets.",
+    "rank": 96
+  },
+  {
+    "seed": 15389929,
+    "score": 0.8633333333333333,
+    "lore": "Rain falls on empty streets.",
+    "rank": 97
+  },
+  {
+    "seed": 1085601,
+    "score": 0.8633333333333333,
+    "lore": "Rain-soaked streets. Neon screams.",
+    "rank": 98
+  },
+  {
+    "seed": 6612066,
+    "score": 0.8633333333333333,
+    "lore": "Rain pours down on the city like a dirty mistress",
+    "rank": 99
+  },
+  {
+    "seed": 4509130,
+    "score": 0.8633333333333333,
+    "lore": "Rain patters on wet streets. Neon signs flicker.",
+    "rank": 100
   }
 ]

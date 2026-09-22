@@ -5,23 +5,25 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8633333333333333
-**seed**: 970585
+**seed**: 8388601
 **path**: straight_east
-**lore**: "Rain-soaked streets, lone shadows dance."
+**lore**: "Rain slicks streets of Neo-Tokyo, shadows hide secrets.
+
+What do you do?"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 970585. 
-This lore emerged from cell density patterns ranked #91 across 
+The substrate walker walked through ASCII cityscape at seed 8388601.
+This lore emerged from cell density patterns ranked #91 across
 many tested seeds.
 
-The walk is canon-reading: each cell visited is a "passing reader 
-in a darkened library." Every cell carries the hash of all that 
+The walk is canon-reading: each cell visited is a "passing reader
+in a darkened library." Every cell carries the hash of all that
 came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x25d8f608688d55f9` (FNV-1a 64-bit)
+`0xc2b8143327268614` (FNV-1a 64-bit)
 
 ## Witness
 

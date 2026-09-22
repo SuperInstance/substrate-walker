@@ -4,24 +4,24 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8633333333333333
-**seed**: 508536
+**score**: 0.86375
+**seed**: 2548
 **path**: straight_east
-**lore**: "Rainy streets, dark alleys. The city never sleeps."
+**lore**: "Rain pours down like sin's dark tears."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 508536. 
-This lore emerged from cell density patterns ranked #87 across 
+The substrate walker walked through ASCII cityscape at seed 2548.
+This lore emerged from cell density patterns ranked #87 across
 many tested seeds.
 
-The walk is canon-reading: each cell visited is a "passing reader 
-in a darkened library." Every cell carries the hash of all that 
+The walk is canon-reading: each cell visited is a "passing reader
+in a darkened library." Every cell carries the hash of all that
 came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xea8e3820fc22e4c0` (FNV-1a 64-bit)
+`0x0cd661370645be3f` (FNV-1a 64-bit)
 
 ## Witness
 

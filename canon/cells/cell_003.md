@@ -15,12 +15,12 @@ Your character is a"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 6358192. 
-This lore emerged from cell density patterns ranked #3 across 
+The substrate walker walked through ASCII cityscape at seed 6358192.
+This lore emerged from cell density patterns ranked #3 across
 many tested seeds.
 
-The walk is canon-reading: each cell visited is a "passing reader 
-in a darkened library." Every cell carries the hash of all that 
+The walk is canon-reading: each cell visited is a "passing reader
+in a darkened library." Every cell carries the hash of all that
 came before it, forming an immutable record of traversal.
 
 ## Cell Hash

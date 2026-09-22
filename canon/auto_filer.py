@@ -2,11 +2,14 @@
 
 Watches the lore_pack.json and great_moments.json. When a new top-tier seed is
 discovered (score >= 0.86), it gets a canon cell file with FNV-1a hash.
+
+Also rebuilds great_moments.json from all known sources when run with --rebuild.
 """
 import json
 import sys
 from pathlib import Path
 from datetime import datetime, timezone
+import argparse
 
 FNV_OFFSET = 0xcbf29ce484222325
 FNV_PRIME = 0x100000001b3
@@ -32,7 +35,7 @@ def load_existing():
 
 
 def cell_type(score):
-    if score >= 0.866:
+    if score >= 0.867:
         return "doctrine-prime"
     if score >= 0.864:
         return "doctrine"
@@ -44,7 +47,6 @@ def cell_type(score):
 
 
 def file_cell(rank, m, prev_manifest):
-    """File a canon cell markdown + update manifest."""
     seed = m["seed"]
     lore = m["lore"]
     score = m["score"]
@@ -101,14 +103,91 @@ Type: cyberpunk_noir
     }
 
 
+def rebuild_great_moments():
+    """Rebuild great_moments.json from all known sources."""
+    gm_path = Path("/workspace/research/substrate-walker/playtest/great_moments.json")
+    
+    all_moments = []
+    sources = [
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/continuous_mine.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/more_special.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/triangular_miner.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/figurate_miner.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/square_miner.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/special_miner.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/special_numbers_2.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/fibonacci_miner.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/tall_columns.json"),
+        Path("/workspace/research/substrate-walker/playtest/pattern_analysis/tall_column_mine_fast.json"),
+        Path("/workspace/research/substrate-walker/playtest/gan/mine_sigma/final.json"),
+        Path("/workspace/research/substrate-walker/playtest/gan/mine_omega_long/final.json"),
+        Path("/workspace/research/substrate-walker/playtest/new_bests_lores.json"),
+        Path("/workspace/research/substrate-walker/playtest/square_lores.json"),
+        Path("/workspace/research/substrate-walker/playtest/triangular_lores.json"),
+        Path("/workspace/research/substrate-walker/playtest/figurate_lores.json"),
+        Path("/workspace/research/substrate-walker/playtest/neighborhood_canon.json"),
+    ]
+    
+    for src in sources:
+        if not src.exists():
+            continue
+        try:
+            data = json.load(open(src))
+            if isinstance(data, list):
+                for item in data:
+                    if isinstance(item, dict) and "seed" in item and "best_score" in item:
+                        all_moments.append({
+                            "seed": item["seed"],
+                            "score": item.get("best_score", 0.85),
+                            "lore": item.get("lore", ""),
+                        })
+            elif isinstance(data, dict) and "best_score" in data and "seed" in data:
+                all_moments.append({"seed": data["seed"], "score": data["best_score"], "lore": data.get("lore", "")})
+        except Exception as e:
+            print(f"  warn: {src}: {e}")
+    
+    # Best per seed
+    seed_best = {}
+    for m in all_moments:
+        s = m["seed"]
+        if s in seed_best:
+            if m["score"] > seed_best[s]["score"]:
+                seed_best[s] = m
+            elif abs(m["score"] - seed_best[s]["score"]) < 0.001 and len(m.get("lore","")) > len(seed_best[s].get("lore","")):
+                seed_best[s] = m
+        else:
+            seed_best[s] = m
+    
+    sorted_moments = sorted(seed_best.values(), key=lambda x: -x["score"])
+    
+    # If existing great_moments has lores, preserve them
+    if gm_path.exists():
+        existing = json.load(open(gm_path))
+        existing_lores = {m["seed"]: m.get("lore", "") for m in existing if m.get("lore")}
+        for m in sorted_moments:
+            if not m.get("lore") and m["seed"] in existing_lores:
+                m["lore"] = existing_lores[m["seed"]]
+    
+    # Re-rank
+    for i, m in enumerate(sorted_moments, 1):
+        m["rank"] = i
+    
+    # Save top 100
+    out = sorted_moments[:100]
+    with open(gm_path, "w") as f:
+        json.dump(out, f, indent=2)
+    
+    print(f"Rebuilt great_moments.json: {len(out)} entries (best score {out[0]['score']:.4f})")
+    return out
+
+
 def file_more_cells():
-    """Read great_moments.json, file any new canon-worthy cells."""
     gm_path = Path("/workspace/research/substrate-walker/playtest/great_moments.json")
     if not gm_path.exists():
-        print("No great_moments.json found")
-        return 0
+        gm = rebuild_great_moments()
+    else:
+        gm = json.load(open(gm_path))
     
-    gm = json.load(open(gm_path))
     existing = load_existing()
     existing_seeds = {e["seed"] for e in existing["entries"]}
     
@@ -120,11 +199,11 @@ def file_more_cells():
             continue
         if not m.get("lore"):
             continue
-        if m["score"] < 0.86:  # canon threshold
+        if m["score"] < 0.86:
             continue
         
         rank = len(new_entries) + 1
-        if rank > 200:  # cap at 200
+        if rank > 200:
             break
         
         entry = file_cell(rank, m, existing)
@@ -141,10 +220,6 @@ def file_more_cells():
         for e in new_entries:
             existing["type_breakdown"][e["type"]] = existing["type_breakdown"].get(e["type"], 0) + 1
         existing["entries"] = new_entries
-        # Keep manifest under 1000 entries to avoid bloat
-        if len(new_entries) > 100:
-            # Save full but truncate manifest entries to top 100
-            pass
         
         with open(MANIFEST, "w") as f:
             json.dump(existing, f, indent=2)
@@ -153,5 +228,31 @@ def file_more_cells():
     return n_added
 
 
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--rebuild", action="store_true", help="Rebuild great_moments.json first")
+    parser.add_argument("--watch", action="store_true", help="Watch for new files continuously")
+    args = parser.parse_args()
+    
+    if args.rebuild:
+        rebuild_great_moments()
+    
+    if args.watch:
+        print("Watching for new discoveries...")
+        import time
+        last_count = 0
+        while True:
+            n = file_more_cells()
+            if n > 0:
+                print(f"  Added {n} new cells")
+            current = json.load(open(MANIFEST))
+            if current.get("total_cells", 0) != last_count:
+                print(f"  Total: {current.get('total_cells', 0)}, best: {current.get('best_score', 0):.4f}")
+                last_count = current.get("total_cells", 0)
+            time.sleep(30)
+    else:
+        file_more_cells()
+
+
 if __name__ == "__main__":
-    file_more_cells()
+    main()

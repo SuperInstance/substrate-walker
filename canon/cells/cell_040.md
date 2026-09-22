@@ -5,23 +5,23 @@
 **type**: doctrine
 **chain**: prev_hash → this_hash
 **score**: 0.8645833333333334
-**seed**: 3801903
+**seed**: 44279
 **path**: straight_east
-**lore**: "Rain falls on the city's dark streets, a lone figure in the shadows."
+**lore**: "Rain pours down on neon-soaked streets."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 3801903. 
-This lore emerged from cell density patterns ranked #40 across 
+The substrate walker walked through ASCII cityscape at seed 44279.
+This lore emerged from cell density patterns ranked #40 across
 many tested seeds.
 
-The walk is canon-reading: each cell visited is a "passing reader 
-in a darkened library." Every cell carries the hash of all that 
+The walk is canon-reading: each cell visited is a "passing reader
+in a darkened library." Every cell carries the hash of all that
 came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x96c7f5c8933ce4c5` (FNV-1a 64-bit)
+`0x7f06583998e6e2ac` (FNV-1a 64-bit)
 
 ## Witness
 

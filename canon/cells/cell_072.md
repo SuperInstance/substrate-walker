@@ -5,27 +5,23 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.86375
-**seed**: 654321
+**seed**: 77072320
 **path**: straight_east
-**lore**: "Rain patters on the city's perpetual twilight. 
-
-What do you do?
-
-(Note: You can use simple commands like 'move', 'look', 'take', 'use', etc. to interact with the environment. For example, 'move north' or 'look around')"
+**lore**: "Rain slicks the pavement."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 654321. 
-This lore emerged from cell density patterns ranked #72 across 
+The substrate walker walked through ASCII cityscape at seed 77072320.
+This lore emerged from cell density patterns ranked #72 across
 many tested seeds.
 
-The walk is canon-reading: each cell visited is a "passing reader 
-in a darkened library." Every cell carries the hash of all that 
+The walk is canon-reading: each cell visited is a "passing reader
+in a darkened library." Every cell carries the hash of all that
 came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x93af9ed304fd1c9f` (FNV-1a 64-bit)
+`0x61fdb0d60780bfaf` (FNV-1a 64-bit)
 
 ## Witness
 

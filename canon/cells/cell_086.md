@@ -4,24 +4,24 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8633333333333333
-**seed**: 219453
+**score**: 0.86375
+**seed**: 1284
 **path**: straight_east
-**lore**: "Rain pours down on streets of New Erebo."
+**lore**: "Rainy streets, empty eyes."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 219453. 
-This lore emerged from cell density patterns ranked #86 across 
+The substrate walker walked through ASCII cityscape at seed 1284.
+This lore emerged from cell density patterns ranked #86 across
 many tested seeds.
 
-The walk is canon-reading: each cell visited is a "passing reader 
-in a darkened library." Every cell carries the hash of all that 
+The walk is canon-reading: each cell visited is a "passing reader
+in a darkened library." Every cell carries the hash of all that
 came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xcded4dc4e4b71e9f` (FNV-1a 64-bit)
+`0x59c4e52bb7b18add` (FNV-1a 64-bit)
 
 ## Witness
 
