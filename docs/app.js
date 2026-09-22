@@ -55,6 +55,11 @@ class SubstrateWalker {
             this.ghost = new GhostSubstrate(this);
         }
 
+        // Set up adaptive soundtrack
+        if (window.AdaptiveSoundtrack) {
+            this.sound = new AdaptiveSoundtrack();
+        }
+
         this.lastTime = performance.now();
         this.recording = false;
         this.walkStep = 0;
@@ -286,6 +291,23 @@ class SubstrateWalker {
                 }
             };
         }
+
+        // Sound toggle
+        const soundBtn = document.getElementById('btn-sound');
+        if (soundBtn && this.sound) {
+            soundBtn.onclick = async () => {
+                if (!this.sound.ctx) {
+                    await this.sound.init();
+                    soundBtn.textContent = '🔊 Sound ON';
+                    soundBtn.style.color = '#80FF80';
+                } else {
+                    const newState = !this.sound.enabled;
+                    this.sound.setEnabled(newState);
+                    soundBtn.textContent = newState ? '🔊 Sound ON' : '🔇 Sound OFF';
+                    soundBtn.style.color = newState ? '#80FF80' : '#FF8080';
+                }
+            };
+        }
         document.getElementById('btn-examine').onclick = async () => {
             const text = await this.cortex.onExamine();
             if (text && this.onLore) this.onLore({ kind: 'examine', text });
@@ -367,6 +389,33 @@ class SubstrateWalker {
     }
 
     render(time) {
+        // Adaptive sound effects
+        if (this.sound && this.sound.enabled) {
+            // Footstep when moving
+            if (Math.abs(this.lastVx) > 0.01 || Math.abs(this.lastVy) > 0.01) {
+                this.sound.footstep();
+            }
+
+            // District intensity from cell density
+            const x = Math.round(this.exports.camera_x());
+            const y = Math.round(this.exports.camera_y());
+            if (x >= 0 && x < 32 && y >= 0 && y < 32) {
+                const h = this.exports.get_cell_height(x, y);
+                this.sound.setDistrictIntensity(h / 30);
+            }
+
+            // Glitch on JEPA prediction errors
+            if (this.lastPrediction !== undefined && this.lastPrediction > 0) {
+                const error = Math.abs(this.lastPrediction - this.exports.get_cell_height(
+                    Math.round(this.exports.camera_x()),
+                    Math.round(this.exports.camera_y())
+                ));
+                if (error > 5) {
+                    this.sound.glitch(error / 30);
+                }
+            }
+        }
+
         // Ghost recording
         if (this.recording && this.ghost && this.exports) {
             const x = this.exports.camera_x();
