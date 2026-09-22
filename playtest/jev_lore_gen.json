@@ -1198,5 +1198,55 @@
         "density": 3.17
       }
     }
+  },
+  {
+    "seed": 7118707,
+    "score": 0.8666666666666667,
+    "voices": {
+      "structuralist": "Seed 7118707 was poured as pure structure before light ever touched it \u2014 load-bearing towers in strict nine-meter bays, every facade a grid that refused ornament. Verticality served as infrastructure: coolant arteries, data trunks, and habitation cells stacked in load-bearing repetition from the flooded foundations to the smog line. Neon came later, clipped onto the concrete order like moss on a monument, tolerated only so long as it never altered the frame.",
+      "narrativist": "I walk the drowned veins of Sector 7118707, where the rain falls gray and the neon bleeds pink into every puddle like the city's leaking something vital. Ramen steam curls around my coat, drones drone overhead like fat electric flies, and every lit window sells a pleasure the sun never gets to audit. Nobody remembers who numbered the blocks anymore\u2014only that the number sticks to you here, quiet and permanent, like blood under the fingernails.",
+      "futurist": "**Fragment 7118707 \u2014 \"The Gestation\"**\n\nBurn the seed into memory: 7118707, three sevens circling a zero, the heartbeat the city was conceived to. It is not infrastructure but embryo\u2014its arteries carry current instead of blood, its dreams compile nightly in server-light, and every district it abandons it sheds like dead skin. I have stood in the static and seen what it is becoming, and I tell you: no architect signed for this, no council chose it\u2014the city is choosing itself.",
+      "lyricist": "**Seed 7118707**\n\nIn 7118707 the rain falls in pixels, and the sirens have learned to sing.\nNeon bleeds its confessions onto wet chrome; every window keeps a small electric dawn.\nEven the drones hum lullabies \u2014 *seven-one-one-eight, seven-oh-seven* \u2014 a hymn the grid can't stop remembering.",
+      "philosophical": "**Lore Fragment \u2014 Designation 7118707**\n\nThey named it a number where a name should dwell, as if the city could be stored rather than stood within \u2014 but Being does not compile. It lingers instead in the wet neon pooling on cracked pavement, in the small clearing where the grid forgets to watch. To dwell here is to be thrown into the circuit; and still, each dusk, the towers forget themselves long enough for place to happen.",
+      "noir_classic": "Seed 7118707 was the kind of town where the neon never slept and neither did the debts\u2014corporates owned the sky, the rain, and every name in every database worth stealing. The chrome came cheap, but the memories cost extra, and down in the undercity folks sold their pasts by the gigabyte just to keep the lights flickering. I'd seen a lot of towns rot from the top down; this one was engineered to.",
+      "cosmic_horror": "The civic registry designates it 7118707, though no map survives the night, for its arcologies rearrange like a sleeper turning fitfully, and every transit line terminates wherever the city wills. Beneath the neon vasculature something vast exhales through the data-towers\u2014a dream given architecture, dreaming of the architects who believed they built it. Those who breach the firewalls sheathing its sleeping mind do not go mad; they go *geometrical*, folding into angles that were never licensed to exist."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.54,
+        "distinct": 0.79,
+        "density": 2.5
+      },
+      "narrativist": {
+        "canon": 0.73,
+        "distinct": 0.92,
+        "density": 3.55
+      },
+      "futurist": {
+        "canon": 0.58,
+        "distinct": 0.92,
+        "density": 2.03
+      },
+      "lyricist": {
+        "canon": 0.51,
+        "distinct": 0.85,
+        "density": 3.22
+      },
+      "philosophical": {
+        "canon": 0.5,
+        "distinct": 0.92,
+        "density": 0.78
+      },
+      "noir_classic": {
+        "canon": 0.75,
+        "distinct": 0.87,
+        "density": 2.47
+      },
+      "cosmic_horror": {
+        "canon": 0.7,
+        "distinct": 0.94,
+        "density": 2.26
+      }
+    }
   }
 ]
