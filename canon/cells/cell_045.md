@@ -4,31 +4,26 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8616666666666667
-**seed**: 270801
+**score**: 0.86125
+**seed**: 174836
 **path**: straight_east
-**lore**: "Rain pours on the streets of Neo-Tokyo. Dark alleys hide secrets."
+**lore**: "You're stuck in the rain-soaked streets of Neo-Tokyo."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 270801. 
-The frontal cortex was silent during routine movement, speaking only 
-at the critical moment of entry. This lore emerged from cell density 
-patterns ranked #45 across 1595 tested seeds.
+The substrate walker walked through ASCII cityscape at seed 174836. 
+This lore emerged from cell density patterns ranked #45 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library" — the player reads the city, and the city 
-remembers the reader. Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x67c6595ec01ca752` (FNV-1a 64-bit)
-
-Hash seed: "270801|Rain pours on the streets of Neo-Tokyo. Dark alleys hide secrets.|0.8616666666666667|45"
+`0xaae633fcd2daf070` (FNV-1a 64-bit)
 
 ## Witness
 
 FNV-1a canary: 0x24a555471370b18d
 Type: cyberpunk_noir
-Source: substrate-walker /api/canon endpoint

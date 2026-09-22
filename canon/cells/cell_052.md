@@ -5,25 +5,23 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8608333333333333
-**seed**: 40000
+**seed**: 19891
 **path**: straight_east
-**lore**: "Rain falls on the city's dark underbelly."
+**lore**: "A rainy night in Neo-Tokyo."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 40000. 
-This lore emerged from cell density patterns ranked #88 across 
-1595+ tested seeds.
+The substrate walker walked through ASCII cityscape at seed 19891. 
+This lore emerged from cell density patterns ranked #52 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library." Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x35a8402f4f25ad5e` (FNV-1a 64-bit)
-
-Hash seed: "40000|Rain falls on the city's dark underbelly.|0.8608333333333333|88"
+`0x5b506b25a56eaef4` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -4,31 +4,26 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 329476
+**score**: 0.8629166666666667
+**seed**: 13161
 **path**: straight_east
-**lore**: "[seed 329476 lore pending]"
+**lore**: "Rain lashes down on the city's neon-stained streets."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 329476. 
-The frontal cortex was silent during routine movement, speaking only 
-at the critical moment of entry. This lore emerged from cell density 
-patterns ranked #13 across 1595 tested seeds.
+The substrate walker walked through ASCII cityscape at seed 13161. 
+This lore emerged from cell density patterns ranked #13 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library" — the player reads the city, and the city 
-remembers the reader. Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x52bfaba2afa68236` (FNV-1a 64-bit)
-
-Hash seed: "329476|[seed 329476 lore pending]|0.86375|13"
+`0x2dcb47030425f230` (FNV-1a 64-bit)
 
 ## Witness
 
 FNV-1a canary: 0x24a555471370b18d
 Type: cyberpunk_noir
-Source: substrate-walker /api/canon endpoint

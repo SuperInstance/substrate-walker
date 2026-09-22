@@ -5,29 +5,27 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8608333333333333
-**seed**: 82369
+**seed**: 52441
 **path**: straight_east
-**lore**: "Rain pattered on the neon-soaked streets"
+**lore**: "Rain pours down, casting a gloomy veil on the city's neon-drenched streets.
 
-You are standing in a crowded street, surrounded by towering skyscrapers. The air is thick with the smells of cheap food, exhaust fumes, and desperation. People of all shapes and sizes hurry past you, their eyes cast down at the"
+Your surroundings:
+
+The tall, grey skyscraper looms before you, its facade a mesh of exposed wires and ducts. The streets are empty, save for a lone figure in the distance, shrouded"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 82369. 
-This lore emerged from cell density patterns ranked #91 across 
-1595+ tested seeds.
+The substrate walker walked through ASCII cityscape at seed 52441. 
+This lore emerged from cell density patterns ranked #55 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library." Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x1998da6d3caefbbd` (FNV-1a 64-bit)
-
-Hash seed: "82369|Rain pattered on the neon-soaked streets"
-
-You are standing in a crowded street, surrounded by towering skyscrapers. The air is thick with the smells of cheap food, exhaust fumes, and desperation. People of all shapes and sizes hurry past you, their eyes cast down at the|0.8608333333333333|91"
+`0x1c03a5aaaa5a93bb` (FNV-1a 64-bit)
 
 ## Witness
 

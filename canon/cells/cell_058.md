@@ -5,25 +5,23 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8608333333333333
-**seed**: 228484
+**seed**: 100489
 **path**: straight_east
-**lore**: "You step out of the rain into the smoky haze of the city."
+**lore**: "You stand at the edge of the city's neon-lit sprawl, the rain-soaked streets a maze of decay and rebirth."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 228484. 
-This lore emerged from cell density patterns ranked #94 across 
-1595+ tested seeds.
+The substrate walker walked through ASCII cityscape at seed 100489. 
+This lore emerged from cell density patterns ranked #58 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library." Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x414d934238c10812` (FNV-1a 64-bit)
-
-Hash seed: "228484|You step out of the rain into the smoky haze of the city.|0.8608333333333333|94"
+`0x2b309dfc3e019eb7` (FNV-1a 64-bit)
 
 ## Witness
 

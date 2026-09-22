@@ -5,25 +5,23 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8608333333333333
-**seed**: 100489
+**seed**: 75625
 **path**: straight_east
-**lore**: "You stand at the edge of the city's neon-lit sprawl, the rain-soaked streets a maze of decay and rebirth."
+**lore**: "Rain pours down on the neon-drenched streets of Neo-Tokyo."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 100489. 
-This lore emerged from cell density patterns ranked #92 across 
-1595+ tested seeds.
+The substrate walker walked through ASCII cityscape at seed 75625. 
+This lore emerged from cell density patterns ranked #56 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library." Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x2b3e0ffc3e0ceac9` (FNV-1a 64-bit)
-
-Hash seed: "100489|You stand at the edge of the city's neon-lit sprawl, the rain-soaked streets a maze of decay and rebirth.|0.8608333333333333|92"
+`0x88f81d36c93532ce` (FNV-1a 64-bit)
 
 ## Witness
 

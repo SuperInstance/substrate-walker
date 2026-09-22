@@ -5,25 +5,25 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8608333333333333
-**seed**: 127449
+**seed**: 82369
 **path**: straight_east
-**lore**: "In a city of smoke and shadows, rain-soaked streets swallowed hope whole."
+**lore**: "Rain pattered on the neon-soaked streets"
+
+You are standing in a crowded street, surrounded by towering skyscrapers. The air is thick with the smells of cheap food, exhaust fumes, and desperation. People of all shapes and sizes hurry past you, their eyes cast down at the"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 127449. 
-This lore emerged from cell density patterns ranked #93 across 
-1595+ tested seeds.
+The substrate walker walked through ASCII cityscape at seed 82369. 
+This lore emerged from cell density patterns ranked #57 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library." Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x90f5cbfeac8e34b8` (FNV-1a 64-bit)
-
-Hash seed: "127449|In a city of smoke and shadows, rain-soaked streets swallowed hope whole.|0.8608333333333333|93"
+`0x198b446d3ca3727f` (FNV-1a 64-bit)
 
 ## Witness
 

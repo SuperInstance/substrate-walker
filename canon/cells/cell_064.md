@@ -5,29 +5,23 @@
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8608333333333333
-**seed**: 414736
+**seed**: 324900
 **path**: straight_east
-**lore**: "Rain slicks the alley's empty streets.
-
-What do you want to do?"
+**lore**: "Rain pours down on the city's dark sprawl."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 414736. 
-This lore emerged from cell density patterns ranked #100 across 
-1595+ tested seeds.
+The substrate walker walked through ASCII cityscape at seed 324900. 
+This lore emerged from cell density patterns ranked #64 across 
+1613+ tested seeds (with 343 lores generated across many voices).
 
-The walk is canon-reading: each cell visited is a "passing reader in 
-a darkened library." Every cell carries the hash of all that came 
-before it, forming an immutable record of traversal.
+The walk is canon-reading: each cell visited is a "passing reader 
+in a darkened library." Every cell carries the hash of all that 
+came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x08e94ca7dfa4ae8e` (FNV-1a 64-bit)
-
-Hash seed: "414736|Rain slicks the alley's empty streets.
-
-What do you want to do?|0.8608333333333333|100"
+`0xbcf74f5d9e8b96f2` (FNV-1a 64-bit)
 
 ## Witness
 
