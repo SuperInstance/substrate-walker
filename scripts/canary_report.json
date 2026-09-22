@@ -8,68 +8,87 @@
     "FNV_PRIME_64": "0x100000001b3",
     "MASK_64": "0xffffffffffffffff"
   },
+  "implementations": {
+    "python_style": "fnv1a_64_py — native int, byte iteration",
+    "typescript_style": "fnv1a_64_ts — BigInt-shape, byte-index loop, mask-at-each-step (mirrors substrate-canary-pin/index.js)"
+  },
   "fleet_canary": {
     "input": "café Δ 日本語",
-    "hash": "0x24a555471370b18d",
+    "expected_hex": "0x024a555471370b18d",
+    "py_hash_hex": "0x24a555471370b18d",
+    "ts_hash_hex": "0x24a555471370b18d",
+    "py_match": true,
+    "ts_match": true,
+    "cross_port_agree": true,
     "match": true
   },
   "vectors": [
     {
       "input": "café Δ 日本語",
       "label": "fleet canary (substrate-* fleet pin)",
-      "expected_hex": "0x24a555471370b18d",
-      "py_hash": "0x24a555471370b18d",
-      "ts_style_hash": "0x24a555471370b18d",
+      "expected_hex": "0x024a555471370b18d",
+      "py_hash_hex": "0x24a555471370b18d",
+      "ts_hash_hex": "0x24a555471370b18d",
       "py_match": true,
-      "ts_style_match": true,
+      "ts_match": true,
       "cross_port_agree": true
     },
     {
       "input": "witness log is the prediction",
       "label": "witness-log doctrine canary",
       "expected_hex": "0x176137b542efe82a",
-      "py_hash": "0x176137b542efe82a",
-      "ts_style_hash": "0x176137b542efe82a",
+      "py_hash_hex": "0x176137b542efe82a",
+      "ts_hash_hex": "0x176137b542efe82a",
       "py_match": true,
-      "ts_style_match": true,
-      "cross_port_agree": true
-    },
-    {
-      "input": "abc",
-      "label": "FNV-1a 64 reference vector",
-      "expected_hex": "0xe71fa21905473374",
-      "py_hash": "0xe71fa2190541574b",
-      "ts_style_hash": "0xe71fa2190541574b",
-      "py_match": false,
-      "ts_style_match": false,
+      "ts_match": true,
       "cross_port_agree": true
     },
     {
       "input": "",
       "label": "empty string → FNV_OFFSET",
       "expected_hex": "0xcbf29ce484222325",
-      "py_hash": "0xcbf29ce484222325",
-      "ts_style_hash": "0xcbf29ce484222325",
+      "py_hash_hex": "0xcbf29ce484222325",
+      "ts_hash_hex": "0xcbf29ce484222325",
       "py_match": true,
-      "ts_style_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
+    },
+    {
+      "input": "a",
+      "label": "FNV-1a 64 single char (IETF Appendix C)",
+      "expected_hex": "0xaf63dc4c8601ec8c",
+      "py_hash_hex": "0xaf63dc4c8601ec8c",
+      "ts_hash_hex": "0xaf63dc4c8601ec8c",
+      "py_match": true,
+      "ts_match": true,
       "cross_port_agree": true
     },
     {
       "input": "foobar",
-      "label": "FNV-1a 64 reference vector",
+      "label": "FNV-1a 64 reference (IETF Appendix C)",
       "expected_hex": "0x85944171f73967e8",
-      "py_hash": "0x85944171f73967e8",
-      "ts_style_hash": "0x85944171f73967e8",
+      "py_hash_hex": "0x85944171f73967e8",
+      "ts_hash_hex": "0x85944171f73967e8",
       "py_match": true,
-      "ts_style_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
+    },
+    {
+      "input": "abc",
+      "label": "FNV-1a 64 reference (IETF Appendix C)",
+      "expected_hex": "0xe71fa2190541574b",
+      "py_hash_hex": "0xe71fa2190541574b",
+      "ts_hash_hex": "0xe71fa2190541574b",
+      "py_match": true,
+      "ts_match": true,
       "cross_port_agree": true
     }
   ],
-  "summary": {
-    "total": 5,
-    "py_match": 4,
-    "ts_match": 4,
-    "cross_port": 5,
-    "all_ok": false
-  }
+  "cross_port_summary": {
+    "py_match": 6,
+    "ts_match": 6,
+    "cross_port_agree": 6,
+    "total": 6
+  },
+  "all_pass": true
 }

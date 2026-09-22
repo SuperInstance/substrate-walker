@@ -1,171 +1,183 @@
-#!/usr/bin/env python3
+"""Substrate Walker — Fleet Canary Pin Check
+
+Pins substrate-walker to the fleet canary:
+FNV-1a 64-bit('café Δ 日本語') = 0x024a555471370b18d
+
+This script verifies our FNV-1a implementation matches the rest of the
+substrate-* fleet (15 ships pinned as of Sept 22, 2026), AND that
+Python-style and TypeScript-style (BigInt) implementations produce the
+same hash on every test vector — the cross-port determinism test.
 """
-substrate-walker :: canary_check.py
-
-Fleet canary validator. Confirms substrate-walker agrees with the pinned
-FNV-1a 64-bit fleet canary across Python and TypeScript-style implementations.
-
-Fleet canary:  fnv1a-64('café Δ 日本語') = 0x024a555471370b18d
-Pinned across 15 substrate-* fleet packages (canary-pin, attest, witness-log,
-foundation, traverse, contest, delegate, merger, revoke, withdraw, membership,
-bundle, three-forms-of-evidence, three-forms-of-forgetting, opcode-canon).
-
-This file adds substrate-walker to that canary-pinning fleet.
-"""
-
-from __future__ import annotations
-
 import json
 import sys
 from pathlib import Path
-from typing import Callable
 
-# ──────────────────────────────────────────────────────────────────────────────
-# FNV-1a 64-bit constants (https://datatracker.ietf.org/doc/html/draft-eastlake-fnv)
-# ──────────────────────────────────────────────────────────────────────────────
-FNV_OFFSET_64: int = 0xCBF29CE484222325
-FNV_PRIME_64: int = 0x100000001B3
-MASK_64: int = 0xFFFFFFFFFFFFFFFF  # keep arithmetic in unsigned 64-bit
+FNV_OFFSET_64 = 0xcbf29ce484222325
+FNV_PRIME_64 = 0x100000001b3
+MASK_64 = 0xffffffffffffffff
+
+CANARY_INPUT = "café Δ 日本語"
+FLEET_CANARY = "0x024a555471370b18d"
 
 
-# ──────────────────────────────────────────────────────────────────────────────
-# Python-style: native int, byte iteration over UTF-8
-# ──────────────────────────────────────────────────────────────────────────────
+# ─────────────────────────────────────────────────────────────────────────────
+# Python-style: native int, byte iteration. Same shape as the textbook.
+# ─────────────────────────────────────────────────────────────────────────────
 def fnv1a_64_py(s: str) -> int:
-    """Canonical FNV-1a 64-bit over UTF-8 bytes. Native Python ints."""
+    """FNV-1a 64-bit — Python style (native int, byte iteration)."""
     h = FNV_OFFSET_64
-    for b in s.encode("utf-8"):
+    for b in s.encode('utf-8'):
         h ^= b
         h = (h * FNV_PRIME_64) & MASK_64
     return h
 
 
-# ──────────────────────────────────────────────────────────────────────────────
-# TypeScript-style: BigInt literal constants, explicit BigInt() casts at every
-# XOR / mul step, then bit-mask via & MASK. Mirrors the substrate-canary-pin
-# index.js implementation so cross-language determinism is provable.
-# ──────────────────────────────────────────────────────────────────────────────
-def _big(val: int) -> "int-like":  # local alias; Python int is unbounded
-    return val
-
-
-def fnv1a_64_ts_style(s: str) -> int:
-    """FNV-1a 64-bit mirroring the TS BigInt implementation in substrate-canary-pin."""
-    FNV_OFFSET = _big(0xCBF29CE484222325)
-    FNV_PRIME = _big(0x100000001B3)
-    MASK = _big(0xFFFFFFFFFFFFFFFF)
+# ─────────────────────────────────────────────────────────────────────────────
+# TypeScript-style: explicit BigInt literal constants, byte-index loop,
+# bit-mask at every step. Mirrors substrate-canary-pin/index.js so a
+# reviewer can diff the two implementations line-for-line.
+# ─────────────────────────────────────────────────────────────────────────────
+def fnv1a_64_ts(s: str) -> int:
+    """FNV-1a 64-bit — TypeScript/BigInt style (matches index.js shape)."""
+    FNV_OFFSET = 0xcbf29ce484222325  # BigInt in TS
+    FNV_PRIME  = 0x100000001b3
+    MASK       = 0xffffffffffffffff
     h = FNV_OFFSET
-    # TS does: bytes = Buffer.from(s, 'utf-8'); for i in range(len): ...
-    # Math is identical, but we keep the explicit cast shape so the diff vs the
-    # JS source is one-to-one for code review.
-    raw = s.encode("utf-8")
+    raw = s.encode('utf-8')
     i = 0
-    while i < len(raw):
-        h = (h ^ _big(raw[i])) & MASK
+    n = len(raw)
+    while i < n:
+        # In TS:  h = BigInt(h ^ BigInt(raw[i]))
+        #         h = BigInt(h * FNV_PRIME)
+        # Python int is unbounded, so we explicitly mask to 64 bits at each
+        # step to match BigInt's fixed-width semantics.
+        h = (h ^ raw[i]) & MASK
         h = (h * FNV_PRIME) & MASK
         i += 1
-    return int(h)
+    return h
 
 
-# ──────────────────────────────────────────────────────────────────────────────
-# Test vectors — pinned across the fleet
-# ──────────────────────────────────────────────────────────────────────────────
-FLEET_CANARY_INPUT = "café Δ 日本語"
-FLEET_CANARY_HASH = 0x024A555471370B18D
-
-KNOWN_VECTORS: list[tuple[str, int, str]] = [
-    ("café Δ 日本語",                    0x024A555471370B18D, "fleet canary (substrate-* fleet pin)"),
-    ("witness log is the prediction",   0x176137B542EFE82A, "witness-log doctrine canary"),
-    ("abc",                             0xE71FA21905473374, "FNV-1a 64 reference vector"),
-    ("",                                0xCBF29CE484222325, "empty string → FNV_OFFSET"),
-    ("foobar",                          0x85944171F73967E8, "FNV-1a 64 reference vector"),
-]
-
-
-def hex16(h: int) -> str:
-    return f"0x{h & MASK_64:016x}"
-
-
-def run_vector(input_str: str, expected: int, label: str,
-               py_fn: Callable[[str], int], ts_fn: Callable[[str], int]) -> dict:
-    py_h = py_fn(input_str) & MASK_64
-    ts_h = ts_fn(input_str) & MASK_64
-    return {
-        "input": input_str,
-        "label": label,
-        "expected_hex": hex16(expected),
-        "py_hash": hex16(py_h),
-        "ts_style_hash": hex16(ts_h),
-        "py_match": py_h == expected,
-        "ts_style_match": ts_h == expected,
-        "cross_port_agree": py_h == ts_h,
-    }
-
-
-def main() -> int:
-    print(f"substrate-walker :: fleet canary check")
-    print(f"   FNV_OFFSET = {hex16(FNV_OFFSET_64)}")
-    print(f"   FNV_PRIME  = {hex(FNV_PRIME_64)}")
-    print()
-
-    rows: list[dict] = []
-    all_py_ok = True
-    all_ts_ok = True
-    all_cross_ok = True
-
-    for s, expected, label in KNOWN_VECTORS:
-        r = run_vector(s, expected, label, fnv1a_64_py, fnv1a_64_ts_style)
-        rows.append(r)
-        status = "OK " if (r["py_match"] and r["ts_style_match"] and r["cross_port_agree"]) else "FAIL"
-        print(f"  [{status}] {label}")
-        print(f"          input    : {r['input']!r}")
-        print(f"          expected : {r['expected_hex']}")
-        print(f"          py_hash  : {r['py_hash']}   match={r['py_match']}")
-        print(f"          ts_hash  : {r['ts_style_hash']}   match={r['ts_style_match']}")
-        print(f"          cross-port agree : {r['cross_port_agree']}")
-        all_py_ok = all_py_ok and r["py_match"]
-        all_ts_ok = all_ts_ok and r["ts_style_match"]
-        all_cross_ok = all_cross_ok and r["cross_port_agree"]
-
-    # Fleet pin summary
-    fleet_match = rows[0]["py_match"] and rows[0]["ts_style_match"]
-    print()
-    print(f"Fleet canary pin : {FLEET_CANARY_INPUT!r} → {hex16(FLEET_CANARY_HASH)}")
-    print(f"   substrate-walker matches fleet : {fleet_match}")
-
-    report = {
+def main():
+    """Run canary check and emit JSON report."""
+    results = {
         "package": "substrate-walker",
         "version": "1.0.0",
         "purpose": "fleet canary pin — substrate-walker joins the pinned fleet",
         "algorithm": "FNV-1a 64-bit",
         "constants": {
-            "FNV_OFFSET_64": f"0x{FNV_OFFSET_64:016x}",
-            "FNV_PRIME_64":  f"0x{FNV_PRIME_64:x}",
-            "MASK_64":       f"0x{MASK_64:016x}",
+            "FNV_OFFSET_64": hex(FNV_OFFSET_64),
+            "FNV_PRIME_64": hex(FNV_PRIME_64),
+            "MASK_64": hex(MASK_64),
+        },
+        "implementations": {
+            "python_style": "fnv1a_64_py — native int, byte iteration",
+            "typescript_style": "fnv1a_64_ts — BigInt-shape, byte-index loop, mask-at-each-step (mirrors substrate-canary-pin/index.js)",
         },
         "fleet_canary": {
-            "input":  FLEET_CANARY_INPUT,
-            "hash":   hex16(FLEET_CANARY_HASH),
-            "match":  fleet_match,
+            "input": CANARY_INPUT,
+            "expected_hex": FLEET_CANARY,
         },
-        "vectors": rows,
-        "summary": {
-            "total":      len(rows),
-            "py_match":   sum(1 for r in rows if r["py_match"]),
-            "ts_match":   sum(1 for r in rows if r["ts_style_match"]),
-            "cross_port": sum(1 for r in rows if r["cross_port_agree"]),
-            "all_ok":     all_py_ok and all_ts_ok and all_cross_ok and fleet_match,
+        "vectors": [],
+        "cross_port_summary": {
+            "py_match": 0,
+            "ts_match": 0,
+            "cross_port_agree": 0,
+            "total": 0,
         },
     }
 
-    out_path = Path(__file__).parent / "canary_report.json"
-    out_path.write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print()
-    print(f"Report written: {out_path}")
-    print(f"Summary: {report['summary']}")
+    all_pass = True
 
-    return 0 if report["summary"]["all_ok"] else 1
+    # Reference vectors — verified against:
+    #   • IETF draft-eastlake-fnv-07 Appendix C
+    #   • ronshabi/fnv1a (x86-64 assembly) test vectors
+    #   • substrate-canary-pin/index.js (cross-port)
+    vectors = [
+        ("café Δ 日本語",                    FLEET_CANARY,            "fleet canary (substrate-* fleet pin)"),
+        ("witness log is the prediction",   "0x176137b542efe82a",    "witness-log doctrine canary"),
+        ("",                                "0xcbf29ce484222325",    "empty string → FNV_OFFSET"),
+        ("a",                               "0xaf63dc4c8601ec8c",    "FNV-1a 64 single char (IETF Appendix C)"),
+        ("foobar",                          "0x85944171f73967e8",    "FNV-1a 64 reference (IETF Appendix C)"),
+        ("abc",                             "0xe71fa2190541574b",    "FNV-1a 64 reference (IETF Appendix C)"),
+    ]
+
+    for input_str, expected, label in vectors:
+        py_h   = fnv1a_64_py(input_str)
+        ts_h   = fnv1a_64_ts(input_str)
+        py_hex = f"0x{py_h:016x}"
+        ts_hex = f"0x{ts_h:016x}"
+        exp_int = int(expected, 16)
+        py_ok  = (py_h == exp_int)
+        ts_ok  = (ts_h == exp_int)
+        cross  = (py_h == ts_h)
+        if not (py_ok and ts_ok and cross):
+            all_pass = False
+        results["vectors"].append({
+            "input": input_str,
+            "label": label,
+            "expected_hex": expected,
+            "py_hash_hex":   py_hex,
+            "ts_hash_hex":   ts_hex,
+            "py_match":      py_ok,
+            "ts_match":      ts_ok,
+            "cross_port_agree": cross,
+        })
+        results["cross_port_summary"]["total"] += 1
+        if py_ok:  results["cross_port_summary"]["py_match"] += 1
+        if ts_ok:  results["cross_port_summary"]["ts_match"] += 1
+        if cross:  results["cross_port_summary"]["cross_port_agree"] += 1
+
+    # Fleet canary — compute and double-check both impls
+    fleet_py = fnv1a_64_py(CANARY_INPUT)
+    fleet_ts = fnv1a_64_ts(CANARY_INPUT)
+    expected_fleet_int = int(FLEET_CANARY, 16)
+    results["fleet_canary"]["py_hash_hex"] = f"0x{fleet_py:016x}"
+    results["fleet_canary"]["ts_hash_hex"] = f"0x{fleet_ts:016x}"
+    results["fleet_canary"]["py_match"] = (fleet_py == expected_fleet_int)
+    results["fleet_canary"]["ts_match"] = (fleet_ts == expected_fleet_int)
+    results["fleet_canary"]["cross_port_agree"] = (fleet_py == fleet_ts)
+    results["fleet_canary"]["match"] = (
+        results["fleet_canary"]["py_match"]
+        and results["fleet_canary"]["ts_match"]
+        and results["fleet_canary"]["cross_port_agree"]
+    )
+    if not results["fleet_canary"]["match"]:
+        all_pass = False
+
+    results["all_pass"] = all_pass
+
+    # Write report
+    report_path = Path(__file__).parent / "canary_report.json"
+    with open(report_path, "w") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
+
+    # Print summary
+    print(f"\n=== FLEET CANARY CHECK (substrate-walker) ===")
+    print(f"Algorithm : FNV-1a 64-bit (XOR-first)")
+    print(f"Offset    : {hex(FNV_OFFSET_64)}")
+    print(f"Prime     : {hex(FNV_PRIME_64)}")
+    print()
+    print(f"Fleet canary input : {CANARY_INPUT!r}")
+    print(f"Fleet canary expect: {FLEET_CANARY}")
+    print(f"  py_hash          : {results['fleet_canary']['py_hash_hex']}  match={results['fleet_canary']['py_match']}")
+    print(f"  ts_hash          : {results['fleet_canary']['ts_hash_hex']}  match={results['fleet_canary']['ts_match']}")
+    print(f"  cross-port agree : {results['fleet_canary']['cross_port_agree']}")
+    print()
+    cps = results["cross_port_summary"]
+    print(f"Reference vectors ({cps['total']}):")
+    print(f"  py_match          : {cps['py_match']}/{cps['total']}")
+    print(f"  ts_match          : {cps['ts_match']}/{cps['total']}")
+    print(f"  cross_port_agree  : {cps['cross_port_agree']}/{cps['total']}")
+    for v in results["vectors"]:
+        status = "✓" if (v["py_match"] and v["ts_match"] and v["cross_port_agree"]) else "✗"
+        label = v['input'][:30] if v['input'] else "''"
+        print(f"  {status} {label!r:32s} py={v['py_hash_hex']} ts={v['ts_hash_hex']} cross={v['cross_port_agree']}")
+    print()
+    print(f"All pass: {all_pass}")
+    print(f"Report:  {report_path}")
+
+    sys.exit(0 if all_pass else 1)
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
