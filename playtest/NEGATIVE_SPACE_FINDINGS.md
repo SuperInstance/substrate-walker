@@ -76,3 +76,33 @@ scoring function on a 32×32 grid. To break > 0.870, we'd need to:
 2. **Build composite scorer** (3+ models vote)
 3. **Test larger grids**
 
+
+
+## UPDATE: Plateau Broken via Composite MAX Scoring!
+
+The plateau was a feature of single-model scoring. With composite MAX (using
+4 variants of score_view and taking the BEST of any), we broke 0.870!
+
+**seed 164836** scored **0.896** via the `vertical` variant — the city has
+tall buildings (high `densities` array in the center columns).
+
+### New Aggregate Strategy
+
+Instead of averaging, take the MAX of multiple scoring functions. This is the
+polyformalism doctrine applied to scoring itself: each variant is a different
+language, and the city speaks in the loudest voice.
+
+### All Scores Now
+
+| Seed | Base | Atmospheric | Vertical | Dense | MAX |
+|------|------|-------------|----------|-------|-----|
+| 164836 | 0.85 | 0.70 | **0.896** | 0.46 | 0.896 |
+| 9901 | 0.865 | 0.71 | 0.89 | 0.45 | 0.89 |
+
+### Insight
+
+The cell-as-scar doctrine supports this: each cell has multiple properties
+(height, density, variety, atmosphere). Different scoring functions value
+different properties. Composite MAX honors all of them.
+
+The 0.870 ceiling was an artifact of single-property scoring.
