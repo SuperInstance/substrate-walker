@@ -29,11 +29,13 @@ mod cell;
 mod engine;
 mod jepa_predict;
 mod lore;
+mod scoring;
 mod types;
 
 pub use cell::{CityCell, CityGrid};
 pub use engine::{Camera, Raycaster};
 pub use jepa_predict::{JepaPredictor, Velocity};
+pub use scoring::{CellScore, score_grid};
 pub use lore::{LoreKind, LoreSlot};
 pub use types::{
     fnv1a_64, pack_cell, verify_canary,
@@ -270,6 +272,25 @@ mod wasm_api {
         #[wasm_bindgen]
         pub fn grid_hash_last(&self) -> u64 {
             self.engine.grid.cells.last().map(|c| c.hash).unwrap_or(0)
+        }
+
+        /// Get the average composite tournament score across the grid.
+        #[wasm_bindgen]
+        pub fn avg_tournament_score(&self) -> f32 {
+            use crate::scoring::score_grid;
+            let scores = score_grid(&self.engine.grid);
+            if scores.is_empty() { return 0.0; }
+            scores.iter().map(|s| s.composite).sum::<f32>() / scores.len() as f32
+        }
+
+        /// Get the composite score at a specific cell.
+        /// Returns 0.0 if out of bounds.
+        #[wasm_bindgen]
+        pub fn cell_score(&self, x: usize, y: usize) -> f32 {
+            use crate::scoring::score_grid;
+            let scores = score_grid(&self.engine.grid);
+            let idx = y * self.engine.grid.width as usize + x;
+            scores.get(idx).map(|s| s.composite).unwrap_or(0.0)
         }
 
         /// Predict next cells the player will visit given velocity (vx, vy).
