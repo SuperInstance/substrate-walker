@@ -1,0 +1,192 @@
+[
+  {
+    "seed": 272801,
+    "best_score": 0.8629166666666667,
+    "best_pos": [
+      22.45349155023743,
+      5.073834992343118,
+      0.0
+    ],
+    "lore": "Rain-soaked streets. Shadows hide secrets."
+  },
+  {
+    "seed": 270801,
+    "best_score": 0.8616666666666667,
+    "best_pos": [
+      13.783198753449643,
+      29.663426151880678,
+      0.0
+    ],
+    "lore": "Rain pours on the streets of Neo-Tokyo. Dark alleys hide secrets."
+  },
+  {
+    "seed": 271791,
+    "best_score": 0.86125,
+    "best_pos": [
+      2.169950027368761,
+      12.999375687000317,
+      0.0
+    ],
+    "lore": "**Rain pours down on the city's broken streets**"
+  },
+  {
+    "seed": 221801,
+    "best_score": 0.8608333333333333,
+    "best_pos": [
+      23.683765925805243,
+      26.862635425408044,
+      0.0
+    ],
+    "lore": "Rain pounds against the alley's walls, a lone streetlamp's glow like a dying soul's.\n\nYou are standing in a narrow alleyway, the walls on either side made of worn, gray concrete. The air is heavy with the smell of ozone and smoke. Ahead of you, the alleyway"
+  },
+  {
+    "seed": 271301,
+    "best_score": 0.8591666666666666,
+    "best_pos": [
+      26.05123950696911,
+      3.665485559847313,
+      0.0
+    ],
+    "lore": "Rainy streets. Neon drenched. Shadows lurk.\n\nInventory:\n\n* Gun (Magazine: 6)\n* Credit Chip (Balance: 500)\n* Smartphone (Signal: Weak)\n\nWhat do you do?"
+  },
+  {
+    "seed": 271751,
+    "best_score": 0.8590343347639485,
+    "best_pos": [
+      13.06698479430947,
+      -1.6425459214394866,
+      0.0
+    ],
+    "lore": "Rain falls on the city's dark underbelly."
+  },
+  {
+    "seed": 321801,
+    "best_score": 0.8583333333333333,
+    "best_pos": [
+      5.790462138694035,
+      27.58800024988357,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's dark underbelly.\n\nThe player's current location is displayed as a series of pipes (|) representing the city's towering skyscrapers. The coordinates (5.8, 27.6) suggest a specific location, but the actual layout of the city"
+  },
+  {
+    "seed": 271701,
+    "best_score": 0.8575,
+    "best_pos": [
+      29.59753454331703,
+      26.000614271340986,
+      0.0
+    ],
+    "lore": "Rain pours down, a dirty mist."
+  },
+  {
+    "seed": 266801,
+    "best_score": 0.8570833333333333,
+    "best_pos": [
+      9.959192107899383,
+      6.295497883300724,
+      0.0
+    ],
+    "lore": "Rain patters on wet pavement. Neon signs reflect off puddles."
+  },
+  {
+    "seed": 272301,
+    "best_score": 0.8566666666666667,
+    "best_pos": [
+      6.391564736867822,
+      0.4067333464454195,
+      0.0
+    ],
+    "lore": "The rain pours down like a dame's tears, shrouding the city in a dark, wet mist.\n\nYour character's name is Jack \"The Ghost\" Griffin, a lone mercenary with a penchant for trouble. You've been hired by a mysterious client to retrieve a valuable data package from a"
+  },
+  {
+    "seed": 261801,
+    "best_score": 0.85625,
+    "best_pos": [
+      15.078514580147205,
+      24.924503732175847,
+      4.71
+    ],
+    "lore": "Rain drips, neon glistens, shadows hide the truth.\"\n\nWhat would you like to do?"
+  },
+  {
+    "seed": 271801,
+    "best_score": 0.85625,
+    "best_pos": [
+      0.25981318340367876,
+      8.628694147975807,
+      0.0
+    ],
+    "lore": "Rain slicks streets, neon lights reflect off wet pavement."
+  },
+  {
+    "seed": 276801,
+    "best_score": 0.85625,
+    "best_pos": [
+      6.428075052092572,
+      5.223530486289754,
+      0.0
+    ],
+    "lore": "Raining neon on the mean streets of Neo-Tokyo."
+  },
+  {
+    "seed": 271811,
+    "best_score": 0.8554166666666667,
+    "best_pos": [
+      8.817702856611298,
+      21.69311964114729,
+      0.0
+    ],
+    "lore": "The city's neon haze swallowed all but the faintest glimmers of hope."
+  },
+  {
+    "seed": 271901,
+    "best_score": 0.8554166666666667,
+    "best_pos": [
+      10.821634222296728,
+      15.622822951615913,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's darkest streets\"\n\nWhat would you like to do?\n\n(Note: you can type commands like \"move north\" or \"investigate alleyway\" to interact with the environment)"
+  },
+  {
+    "seed": 296801,
+    "best_score": 0.8554166666666667,
+    "best_pos": [
+      17.42740792810729,
+      22.838533184228726,
+      0.0
+    ],
+    "lore": "A gritty, high-tech world. What's your next move?\n\n(Note: you can use commands like `move north`, `investigate location`, `use item`, etc. to interact with the environment)"
+  },
+  {
+    "seed": 271851,
+    "best_score": 0.855,
+    "best_pos": [
+      9.562445003612801,
+      22.649802331889838,
+      0.0
+    ],
+    "lore": "Rain pours down on the darkened streets of Neo-Tokyo, casting a gloomy shroud over the city's neon-lit sprawl.\n\nWhat do you do?\n\n(Note: I'll provide a simple text-based interface for you to interact with the world. You can use commands like \"move"
+  },
+  {
+    "seed": 281801,
+    "best_score": 0.855,
+    "best_pos": [
+      2.432073765948476,
+      27.24278665727937,
+      0.0
+    ],
+    "lore": "In the rain-soaked streets, a lone detective searched for answers, but the city only whispered secrets in his ear."
+  },
+  {
+    "seed": 246801,
+    "best_score": 0.8541666666666666,
+    "best_pos": [
+      6.066952963568996,
+      18.356925128461786,
+      0.0
+    ],
+    "lore": "Rains soaked the city. I walked, alone."
+  }
+]
