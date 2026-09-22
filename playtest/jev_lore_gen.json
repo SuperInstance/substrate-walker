@@ -1098,5 +1098,55 @@
         "density": 2.61
       }
     }
+  },
+  {
+    "seed": 2184160,
+    "score": 0.8666666666666667,
+    "voices": {
+      "structuralist": "Seed 2184160 registers as a single continuous section cut through the cloud layer\u2014concrete planes repeating at 4.2-meter intervals, load paths legible from subdeck to stratum nine. Conduit runs honor the column grid without deviation; neon adheres to structure or does not appear. Beneath the transfer plates, the archive vaults hold the original formwork drawings, load-rated for a population that never arrived.",
+      "narrativist": "I walk the drowned arteries of Sector 2184160, where the rain tastes of copper and every puddle bleeds pink neon like the city's own open wound. Ramen steam curls through the gutters, holograms flicker confessions in a kanji nobody living can read, and somewhere overhead the corp-towers grind their teeth in the smog. The streets keep their secrets under layers of static \u2014 but tonight, I could swear they're whispering mine.",
+      "futurist": "I have watched seed 2184160 breathe before it had lungs\u2014its gridlines pulsing like veins in the dark, learning hunger before its architects learned humility. Mark this: the city does not house its people, it digests them, slow and luminous, and what it excretes is memory coded into neon. By the hour you finish reading this, it will have already dreamed you, and the dream will outlive your name.",
+      "lyricist": "The rain arrives pre-owned, sieved through a million lungs of chrome. Neon signs its name on wet asphalt \u2014 *2184160* \u2014 and the city answers in sirens. Somewhere above, a tower hums in its sleep, dreaming of the marsh it drowned.",
+      "philosophical": "The city does not merely exist\u2014it *insists*, a clearing hacked out of the static where ten million beings are thrown into neon without ever asking why they shine. Seed 2184160 is not a number but a name the grid whispers to itself, dreaming of a ground it has never touched. To dwell here is to be wired into a question older than code: what, beneath all this electricity, does it mean to be?",
+      "noir_classic": "City charter number 2184160, stamped in chrome and lies \u2014 they gave this place a serial like everything else worth stealing. The kind of town where the rain burns neon on the way down and the only honest men work the memory-black market. Corps own the sky, the syndicates own the streets, and folks like me? We just own our regrets.",
+      "cosmic_horror": "In the archive they call it Seed-2184160, but the city dreams itself older names\u2014names that unspool through the fiber-optic dark like synaptic lightning across a brain the size of a drowned god. Its towers do not stand so much as *fold*, ascending through angles that were never invented, and those who wander the lower arcologies at 3 a.m. swear the streets return them to doorways they never entered. The neon is not light; it is the bioluminescence of something vast turning over in its sleep, and every packet of data coursing through the grid is another fragment of the dream it will one day wake screaming from."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.68,
+        "distinct": 0.87,
+        "density": 3.11
+      },
+      "narrativist": {
+        "canon": 0.75,
+        "distinct": 0.92,
+        "density": 3.48
+      },
+      "futurist": {
+        "canon": 0.64,
+        "distinct": 0.96,
+        "density": 2.87
+      },
+      "lyricist": {
+        "canon": 0.5,
+        "distinct": 0.87,
+        "density": 1.91
+      },
+      "philosophical": {
+        "canon": 0.58,
+        "distinct": 0.93,
+        "density": 1.19
+      },
+      "noir_classic": {
+        "canon": 0.74,
+        "distinct": 0.91,
+        "density": 2.94
+      },
+      "cosmic_horror": {
+        "canon": 0.67,
+        "distinct": 0.93,
+        "density": 3.34
+      }
+    }
   }
 ]
