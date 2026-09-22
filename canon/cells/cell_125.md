@@ -4,7 +4,7 @@
 **timestamp**: 2026-09-22T22:49:00Z
 **type**: canon (witness-voice, ZAI long-form essay)
 **chain**: prev_hash → this_hash
-**score**: pending JEV composite probe
+**score**: 0.740 (CANON PROMOTED)
 **seed**: 70051917
 **path**: zai_long_form_essay_top_1
 **voice**: WITNESS

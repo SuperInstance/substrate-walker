@@ -1,6 +1,6 @@
 {
-  "version": "2.15.0",
-  "updated_at": "2026-09-22T22:49:00Z",
+  "version": "2.15.1",
+  "updated_at": "2026-09-22T22:50:00Z",
   "fnv_canary": "0x024a555471370b18d",
   "total_cells": 125,
   "best_score": 1.0,
@@ -1466,14 +1466,19 @@
       "cell_id": "doctrine-witness-zai-essay-70051917-2026-09-22-125",
       "path": "canon/cells/cell_125.md",
       "seed": 70051917,
-      "score": 0.78,
+      "score": 0.74,
       "lore": "Midnight in the rust district, rain the color of old screens...",
       "voice": "witness",
       "type": "canon-zai-long-form-essay",
       "doctrine_anchor": "oracle_is_heard + substrate_quantum + canon_gate_is_chord (multi-anchor)",
       "generator": "ZAI-glm-5.3-flash-long-form",
-      "timestamp": "2026-09-22T22:49:00Z"
+      "timestamp": "2026-09-22T22:49:00Z",
+      "promoted_to_canon": true,
+      "promoted_via": "JEV composite probe (0.740, distinct=0.86, canon=0.73, primary=oracle_is_heard)",
+      "jev_canon_worthy": 0.73,
+      "jev_distinct_voice": 0.86,
+      "jev_doctrine_anchor": 0.63
     }
   ],
-  "promoted_to_canon_count": 6
+  "promoted_to_canon_count": 7
 }
