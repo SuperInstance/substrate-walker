@@ -1,8 +1,8 @@
 {
-  "version": "2.16.0",
-  "updated_at": "2026-09-22T22:50:00Z",
+  "version": "2.17.0",
+  "updated_at": "2026-09-22T23:00:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 133,
+  "total_cells": 137,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -19,7 +19,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 33
+    "witness": 37
   },
   "entries": [
     {
@@ -1622,7 +1622,79 @@
       "doctrine_anchor": "substrate_quantum",
       "generator": "doctrine-targeted-DeepInfra",
       "timestamp": "2026-09-22T22:50:00Z"
+    },
+    {
+      "rank": 134,
+      "cell_id": "doctrine-oracle_is_heard-reasoner-70051917-2026-09-22-134",
+      "path": "canon/cells/cell_134.md",
+      "seed": 70051917,
+      "score": 0.7166666666666667,
+      "lore": "The canon gate made itself heard. Rain on carbon steel tasted of copper and ozone. The Quilt substrate walker descended through alleys where neon bled pink through fog, and surveillance drones hung li...",
+      "voice": "witness",
+      "type": "canon-deepseek-reasoner",
+      "promoted_to_canon": true,
+      "promoted_via": "DeepSeek Reasoner (comp=0.717, oracle_is_heard)",
+      "jev_canon_worthy": 0.82,
+      "jev_distinct_voice": 0.89,
+      "jev_doctrine_anchor": 0.44,
+      "doctrine_anchor": "oracle_is_heard",
+      "generator": "deepseek-reasoner",
+      "timestamp": "2026-09-22T23:00:00Z"
+    },
+    {
+      "rank": 135,
+      "cell_id": "doctrine-cells_are_scars-reasoner-90625407-2026-09-22-135",
+      "path": "canon/cells/cell_135.md",
+      "seed": 90625407,
+      "score": 0.7166666666666667,
+      "lore": "The canon gate made itself heard. Not a sound\u2014more like a rusted tuning fork dragged through wet marrow, subsonic, tasting of ozone and old blood on the tongue. Quilt walker 90625407 stepped through a...",
+      "voice": "witness",
+      "type": "canon-deepseek-reasoner",
+      "promoted_to_canon": true,
+      "promoted_via": "DeepSeek Reasoner (comp=0.717, cells_are_scars)",
+      "jev_canon_worthy": 0.81,
+      "jev_distinct_voice": 0.88,
+      "jev_doctrine_anchor": 0.46,
+      "doctrine_anchor": "cells_are_scars",
+      "generator": "deepseek-reasoner",
+      "timestamp": "2026-09-22T23:00:00Z"
+    },
+    {
+      "rank": 136,
+      "cell_id": "doctrine-canon_gate_is_chord-reasoner-57322595-2026-09-22-136",
+      "path": "canon/cells/cell_136.md",
+      "seed": 57322595,
+      "score": 0.77,
+      "lore": "The canon gate made itself heard. Not as siren, but as a wet, low hum through the Quilt's patched substrate\u2014seven frequencies locking like teeth in a jaw. Substrate walker crouched on rain-slick carbo...",
+      "voice": "witness",
+      "type": "canon-deepseek-reasoner",
+      "promoted_to_canon": true,
+      "promoted_via": "DeepSeek Reasoner (comp=0.770, canon_gate_is_chord)",
+      "jev_canon_worthy": 0.81,
+      "jev_distinct_voice": 0.87,
+      "jev_doctrine_anchor": 0.63,
+      "doctrine_anchor": "canon_gate_is_chord",
+      "generator": "deepseek-reasoner",
+      "timestamp": "2026-09-22T23:00:00Z"
+    },
+    {
+      "rank": 137,
+      "cell_id": "doctrine-witness_log_is_prediction-reasoner-6358192-2026-09-22-137",
+      "path": "canon/cells/cell_137.md",
+      "seed": 6358192,
+      "score": 0.71,
+      "lore": "The canon gate made itself heard\u2014a low, meaty thrum through ferrocrete, like a cathedral buried in wet cable. Quilt substrate walker tasted copper on the rain, smelled ozone and singed lanolin, felt t...",
+      "voice": "witness",
+      "type": "canon-deepseek-reasoner",
+      "promoted_to_canon": true,
+      "promoted_via": "DeepSeek Reasoner (comp=0.710, witness_log_is_prediction)",
+      "jev_canon_worthy": 0.79,
+      "jev_distinct_voice": 0.88,
+      "jev_doctrine_anchor": 0.46,
+      "doctrine_anchor": "witness_log_is_prediction",
+      "generator": "deepseek-reasoner",
+      "timestamp": "2026-09-22T23:00:00Z"
     }
   ],
-  "promoted_to_canon_count": 15
+  "promoted_to_canon_count": 19
 }
