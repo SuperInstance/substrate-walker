@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-050
 
 **id**: doctrine-substrate-walker-2026-09-22-050
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 357489
+**score**: 0.8645833333333334
+**seed**: 60575860
 **path**: straight_east
-**voice**: narrativist
-**lore**: "I stalk rain-slick alleys, neon bleeding across chrome skin, while distant sirens hum through the smog and my boots splash through oily pudd"
+**voice**: structuralist
+**lore**: "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 357489.
-Rank #50 across many tested seeds. Voice: narrativist.
+The substrate walker walked through ASCII cityscape at seed 60575860.
+Rank #50 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x1ece67d4eb1684f4` (FNV-1a 64-bit)
+`0xf0fd48a0188f466a` (FNV-1a 64-bit)
 
 ## Witness
 

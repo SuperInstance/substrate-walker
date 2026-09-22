@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-031
 
 **id**: doctrine-substrate-walker-2026-09-22-031
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8645833333333334
-**seed**: 60575860
+**score**: 0.86625
+**seed**: 69006
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Monolithic habitable cells cluster into three tower masses, their pixelated facades dissolving into a rain-slicked, neon-scattered grid."
+**lore**: "The sprawling metropolis of Neo-Tokyo unfolded like a fractured crystal, its angular skyscrapers and neon-drenched streets a testament to the city's turbulent, asymmetrical beauty."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 60575860.
+The substrate walker walked through ASCII cityscape at seed 69006.
 Rank #31 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf10435a0189544cf` (FNV-1a 64-bit)
+`0x18f89990d6151c76` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-024
 
 **id**: doctrine-substrate-walker-2026-09-22-024
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.865
-**seed**: 3371
+**score**: 0.8666666666666667
+**seed**: 6426315
 **path**: straight_east
 **voice**: structuralist
-**lore**: "A sprawling modular grid of monolithic towers and crystalline voids forms a fractured, neon-drenched urban labyrinth of recursive density."
+**lore**: "An angular megacity where every corner hides a cathedral and every cathedral hides a corner."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 3371.
+The substrate walker walked through ASCII cityscape at seed 6426315.
 Rank #24 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x8bb59951c427a773` (FNV-1a 64-bit)
+`0xb99372f1aed6a24d` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-019
 
 **id**: doctrine-substrate-walker-2026-09-22-019
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.8654166666666666
-**seed**: 67108827
+**score**: 0.8670833333333333
+**seed**: 97054056
 **path**: straight_east
-**voice**: structuralist
-**lore**: "A dense grid of monolithic towers rises from liquid data, their fragmented facades reflecting neon and decay."
+**voice**: lyricist
+**lore**: "The grid of streets becomes a grid of glyphs; the glyphs become a story; the story becomes the city."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 67108827.
-Rank #19 across many tested seeds. Voice: structuralist.
+The substrate walker walked through ASCII cityscape at seed 97054056.
+Rank #19 across many tested seeds. Voice: lyricist.
 
 ## Cell Hash
 
-`0xb3fcbea4a722cdf3` (FNV-1a 64-bit)
+`0x372d43a5e1676175` (FNV-1a 64-bit)
 
 ## Witness
 

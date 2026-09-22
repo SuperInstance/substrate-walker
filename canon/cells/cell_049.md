@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-049
 
 **id**: doctrine-substrate-walker-2026-09-22-049
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 1015
+**score**: 0.8645833333333334
+**seed**: 95732187
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament."
+**lore**: "Brutalist data-towers rise from a flooded grid, their fractured facades reflecting neon static across a submerged cyberpunk cityscape."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 1015.
+The substrate walker walked through ASCII cityscape at seed 95732187.
 Rank #49 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x94f9bef3f9ca4294` (FNV-1a 64-bit)
+`0x2892e9d4f7e57605` (FNV-1a 64-bit)
 
 ## Witness
 

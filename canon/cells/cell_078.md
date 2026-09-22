@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-078
 
 **id**: doctrine-substrate-walker-2026-09-22-078
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 17923
+**score**: 0.8641666666666666
+**seed**: 1308153
 **path**: straight_east
-**voice**: cosmic_horror
-**lore**: "The city breathes through geometries no mind was meant to parse, and we are merely fleeting thoughts it dreams in the dark."
+**voice**: structuralist
+**lore**: "In the city's sprawling metropolis, a maze of interconnected skyscrapers formed a labyrinthine architecture, with angular lines and geometric patterns dominating the urban landscape."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 17923.
-Rank #78 across many tested seeds. Voice: cosmic_horror.
+The substrate walker walked through ASCII cityscape at seed 1308153.
+Rank #78 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x6e948f05b4872e97` (FNV-1a 64-bit)
+`0x21d3bcafb2dafebe` (FNV-1a 64-bit)
 
 ## Witness
 

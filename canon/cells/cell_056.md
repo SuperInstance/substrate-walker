@@ -1,27 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-056
 
 **id**: doctrine-substrate-walker-2026-09-22-056
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 49455
+**score**: 0.8645833333333334
+**seed**: 4073
 **path**: straight_east
-**voice**: 
-**lore**: "Rain pours down on the city's dirty streets."
-
-What do you want to do?
-
-(Note: I'll be using a simplified ASCII art representation of the environment, with characters representing the buildings, roads, and other features. The "."s represent the rain pouring down. Your actions will be displayed in"
+**voice**: futurist
+**lore**: "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams."  (Or, if you prefer something more visceral: "The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.")"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 49455.
-Rank #56 across many tested seeds. Voice: single-voice pipeline.
+The substrate walker walked through ASCII cityscape at seed 4073.
+Rank #56 across many tested seeds. Voice: futurist.
 
 ## Cell Hash
 
-`0x2868f64e258ac856` (FNV-1a 64-bit)
+`0xcb935e4b74076483` (FNV-1a 64-bit)
 
 ## Witness
 

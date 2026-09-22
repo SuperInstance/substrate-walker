@@ -1,23 +1,27 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-062
 
 **id**: doctrine-substrate-walker-2026-09-22-062
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 3868371
+**score**: 0.8645833333333334
+**seed**: 59340
 **path**: straight_east
-**voice**: structuralist
-**lore**: "Symmetrical modular megastructure rises from cascading ASCII grid, its crystalline towers and dense urban blocks forming a fractured, glitched brutalist skyline."
+**voice**: 
+**lore**: "Raining on the neon streets of New Eden"
+
+What do you do?
+
+(Note: you can enter any valid command, such as movement directions, actions, or questions. I'll respond with the outcome.)"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 3868371.
-Rank #62 across many tested seeds. Voice: structuralist.
+The substrate walker walked through ASCII cityscape at seed 59340.
+Rank #62 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 
-`0x8bad2e793fdb72bd` (FNV-1a 64-bit)
+`0x03742f85dd2d79f0` (FNV-1a 64-bit)
 
 ## Witness
 

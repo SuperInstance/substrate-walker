@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-018
 
 **id**: doctrine-substrate-walker-2026-09-22-018
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.8654166666666666
-**seed**: 1955253
+**score**: 0.8670833333333333
+**seed**: 78059087
 **path**: straight_east
-**voice**: structuralist
-**lore**: "In this cyberpunk cityscape, crystalline spires pierce the smog-choked skies, their angular geometry a testament to the city's underlying lattice of intersecting circuitry and steel."
+**voice**: philosophical
+**lore**: "Sky-piercing monoliths stand as witness to a century of weather, their surfaces a palimpsest of light and shadow."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 1955253.
-Rank #18 across many tested seeds. Voice: structuralist.
+The substrate walker walked through ASCII cityscape at seed 78059087.
+Rank #18 across many tested seeds. Voice: philosophical.
 
 ## Cell Hash
 
-`0xa2be0dcd34ef0fba` (FNV-1a 64-bit)
+`0x7c76ea2c4bddeaa9` (FNV-1a 64-bit)
 
 ## Witness
 

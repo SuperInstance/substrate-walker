@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-058
 
 **id**: doctrine-substrate-walker-2026-09-22-058
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 799480
+**score**: 0.8645833333333334
+**seed**: 509
 **path**: straight_east
 **voice**: structuralist
-**lore**: "The skyscraper's lattice-like façade, a mesh of intersecting hyperbolas and parabolas, seemed to defy gravity, a three-dimensional manifestation of the city's chaotic logic."
+**lore**: "Neon-lit megastructures rise in dense layered blocks, their shattered facades and labyrinthine alleys framing a rain-soaked, surveillance-choked cyberpunk metropolis."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 799480.
+The substrate walker walked through ASCII cityscape at seed 509.
 Rank #58 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x65594cd54dc0aabb` (FNV-1a 64-bit)
+`0x34f2fabb0c9a71e1` (FNV-1a 64-bit)
 
 ## Witness
 

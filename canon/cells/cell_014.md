@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-014
 
 **id**: doctrine-substrate-walker-2026-09-22-014
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.8658333333333333
-**seed**: 99310068
+**score**: 0.8670833333333333
+**seed**: 30264850
 **path**: straight_east
 **voice**: structuralist
-**lore**: "The city's fractured grid dissolves into a recursive lattice of glitching data-towers, where corrupted code and neon ruins intertwine."
+**lore**: "A pure brutalist cathedral of glass and rust, where every pane reflects a different version of the same skyline."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 99310068.
+The substrate walker walked through ASCII cityscape at seed 30264850.
 Rank #14 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x9bace2aff9cefc5a` (FNV-1a 64-bit)
+`0x37a0e865a7ca4b60` (FNV-1a 64-bit)
 
 ## Witness
 

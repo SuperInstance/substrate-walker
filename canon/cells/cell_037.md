@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-037
 
 **id**: doctrine-substrate-walker-2026-09-22-037
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8645833333333334
-**seed**: 4073
+**score**: 0.8654166666666666
+**seed**: 1955253
 **path**: straight_east
-**voice**: futurist
-**lore**: "The city hums with stolen whispers, its neon veins pulsing with the blood of a thousand forgotten dreams."  (Or, if you prefer something more visceral: "The city gnaws on its own flesh, swallowing lives whole, its hunger never sated by the weight of its own decay.")"
+**voice**: structuralist
+**lore**: "In this cyberpunk cityscape, crystalline spires pierce the smog-choked skies, their angular geometry a testament to the city's underlying lattice of intersecting circuitry and steel."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 4073.
-Rank #37 across many tested seeds. Voice: futurist.
+The substrate walker walked through ASCII cityscape at seed 1955253.
+Rank #37 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xcb8c5d4b74014422` (FNV-1a 64-bit)
+`0xa2b780cd34e9b475` (FNV-1a 64-bit)
 
 ## Witness
 

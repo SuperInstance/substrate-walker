@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-096
 
 **id**: doctrine-substrate-walker-2026-09-22-096
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8633333333333333
-**seed**: 41373156
+**score**: 0.86375
+**seed**: 19754564
 **path**: straight_east
-**voice**: narrativist
-**lore**: "I walk through rain-slick neon alleys, my chrome boots splashing, while synthetic smoke burns my throat and distant sirens hum."
+**voice**: structuralist
+**lore**: "A cellular grid of monolithic towers and suspended bridges forms a fractured, rain-slicked cyberpunk skyline."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 41373156.
-Rank #96 across many tested seeds. Voice: narrativist.
+The substrate walker walked through ASCII cityscape at seed 19754564.
+Rank #96 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x7a7bec0387faf5cb` (FNV-1a 64-bit)
+`0x5cfca0ab73ac7e94` (FNV-1a 64-bit)
 
 ## Witness
 

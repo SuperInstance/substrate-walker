@@ -1,27 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-043
 
 **id**: doctrine-substrate-walker-2026-09-22-043
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8645833333333334
-**seed**: 59340
+**score**: 0.865
+**seed**: 3371
 **path**: straight_east
-**voice**: 
-**lore**: "Raining on the neon streets of New Eden"
-
-What do you do?
-
-(Note: you can enter any valid command, such as movement directions, actions, or questions. I'll respond with the outcome.)"
+**voice**: structuralist
+**lore**: "A sprawling modular grid of monolithic towers and crystalline voids forms a fractured, neon-drenched urban labyrinth of recursive density."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 59340.
-Rank #43 across many tested seeds. Voice: single-voice pipeline.
+The substrate walker walked through ASCII cityscape at seed 3371.
+Rank #43 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x036d4885dd2785bd` (FNV-1a 64-bit)
+`0x8ba19651c416f950` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-012
 
 **id**: doctrine-substrate-walker-2026-09-22-012
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.86625
-**seed**: 69006
+**score**: 0.8670833333333333
+**seed**: 17759001
 **path**: straight_east
 **voice**: structuralist
-**lore**: "The sprawling metropolis of Neo-Tokyo unfolded like a fractured crystal, its angular skyscrapers and neon-drenched streets a testament to the city's turbulent, asymmetrical beauty."
+**lore**: "Tenements rise like vertebrae against the bruised sky, interconnected by skybridges that hum with electric prayer."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 69006.
+The substrate walker walked through ASCII cityscape at seed 17759001.
 Rank #12 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x18ff2890d61a7b21` (FNV-1a 64-bit)
+`0x656d233e4d3f01c4` (FNV-1a 64-bit)
 
 ## Witness
 

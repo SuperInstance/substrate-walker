@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-053
 
 **id**: doctrine-substrate-walker-2026-09-22-053
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 5216405
+**score**: 0.8645833333333334
+**seed**: 32849565
 **path**: straight_east
 **voice**: structuralist
-**lore**: "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis."
+**lore**: "A cellular grid of monolithic towers rises through layered fog, their faceted forms etched with luminous data-streams and shadowed arterial streets."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 5216405.
+The substrate walker walked through ASCII cityscape at seed 32849565.
 Rank #53 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x75d59a3c6ea3732b` (FNV-1a 64-bit)
+`0xd755ab9916daf807` (FNV-1a 64-bit)
 
 ## Witness
 

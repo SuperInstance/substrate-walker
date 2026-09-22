@@ -1,23 +1,30 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-040
 
 **id**: doctrine-substrate-walker-2026-09-22-040
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8645833333333334
-**seed**: 44279
+**score**: 0.8654166666666666
+**seed**: 728365
 **path**: straight_east
-**voice**: cosmic_horror
-**lore**: "The city breathes through angles no human eye can parse, a vast nameless god dreaming our streets into squamous, half-remembered existence."
+**voice**: 
+**lore**: "Rainy night, shadows dance, streets of New Eden.
+
+What do you do?
+
+A) Investigate the source of the darkness
+B) Follow the faint glow of a holographic sign
+C) Approach the lone figure standing at the edge of the light
+D) Retreat into the alley,"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 44279.
-Rank #40 across many tested seeds. Voice: cosmic_horror.
+The substrate walker walked through ASCII cityscape at seed 728365.
+Rank #40 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 
-`0x5bfa06f481495ef5` (FNV-1a 64-bit)
+`0xaf7801243310cc7d` (FNV-1a 64-bit)
 
 ## Witness
 

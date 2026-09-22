@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-023
 
 **id**: doctrine-substrate-walker-2026-09-22-023
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.865
-**seed**: 327067
+**score**: 0.8666666666666667
+**seed**: 2184160
 **path**: straight_east
-**voice**: futurist
-**lore**: "The city's veins pulsed with a dark, electric heartbeat, whispering ancient secrets to the wind, as Kaelin's footsteps echoed through the streets, a siren's call to the shadows that shrouded its soul."
+**voice**: structuralist
+**lore**: "In the dystopian metropolis of Neo-Tokyo, the enigmatic Architect, Ryker, weaves a tapestry of steel and neon, his creations a testament to humanity's fleeting grip on the city's crumbling landscape."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 327067.
-Rank #23 across many tested seeds. Voice: futurist.
+The substrate walker walked through ASCII cityscape at seed 2184160.
+Rank #23 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x2af054fec4551969` (FNV-1a 64-bit)
+`0x11674a836fb85012` (FNV-1a 64-bit)
 
 ## Witness
 

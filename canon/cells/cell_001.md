@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-001
 
 **id**: doctrine-substrate-walker-2026-09-22-001
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.8683333333333333
-**seed**: 3289967
+**score**: 0.8691666666666666
+**seed**: 70051917
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Monolithic brutalist towers rise from a flooded grid, their jagged facades pierced by neon glyphs and decaying data streams."
+**lore**: "Brutalist megastructures erupt from a flooded grid, their jagged facades pierced by neon glyphs. The city dreams itself into being, one alley at a time."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 3289967.
+The substrate walker walked through ASCII cityscape at seed 70051917.
 Rank #1 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x1fc6908a43c74231` (FNV-1a 64-bit)
+`0xd8896859e1f5bb33` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-087
 
 **id**: doctrine-substrate-walker-2026-09-22-087
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.86375
-**seed**: 2548
+**seed**: 1777555
 **path**: straight_east
 **voice**: structuralist
-**lore**: "A vertical megastructure of jagged, crystalline towers rises from a fragmented grid, fusing brutalist mass with chaotic digital noise."
+**lore**: "In the sprawling metropolis, skyscrapers of intersecting crystalline structures pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of geometric perfection."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 2548.
+The substrate walker walked through ASCII cityscape at seed 1777555.
 Rank #87 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x69c6979bf52ab896` (FNV-1a 64-bit)
+`0xac09a52ec32aebfe` (FNV-1a 64-bit)
 
 ## Witness
 

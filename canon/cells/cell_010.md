@@ -1,23 +1,27 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-010
 
 **id**: doctrine-substrate-walker-2026-09-22-010
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.86625
-**seed**: 16777171
+**score**: 0.8670833333333333
+**seed**: 6358192
 **path**: straight_east
-**voice**: structuralist
-**lore**: "Monolithic data-temples rise in staggered brutalist clusters, their fractured facades pierced by neon circuitry and shadowed by perpetual rain."
+**voice**: 
+**lore**: "The rain-soaked streets of Neo-Tokyo.
+
+You are standing in a dimly lit alleyway, surrounded by towering skyscrapers. The air is thick with the smell of smoke and desperation. A lone streetlight flickers above, casting eerie shadows on the ground.
+
+Your character is a"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 16777171.
-Rank #10 across many tested seeds. Voice: structuralist.
+The substrate walker walked through ASCII cityscape at seed 6358192.
+Rank #10 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 
-`0xb87c38ddf1e51cf7` (FNV-1a 64-bit)
+`0x333cd5f6530c7992` (FNV-1a 64-bit)
 
 ## Witness
 

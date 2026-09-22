@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-006
 
 **id**: doctrine-substrate-walker-2026-09-22-006
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.8666666666666667
-**seed**: 662290
+**score**: 0.8675
+**seed**: 1504276
 **path**: straight_east
-**voice**: philosophical
-**lore**: "In the labyrinthine metropolis of New Erebus, the synthetic and the organic coalesce, yet the artificial abyss of the 'Net' devours all truth, and the city itself is a sentient, labyrinthine entity, devouring its own inhabitants."
+**voice**: structuralist
+**lore**: "In the city's labyrinthine heart, towering skyscrapers with angular, aerodynamic designs pierced the smog-choked skies, their steel and glass facades reflecting the neon-lit darkness."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 662290.
-Rank #6 across many tested seeds. Voice: philosophical.
+The substrate walker walked through ASCII cityscape at seed 1504276.
+Rank #6 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xc1cd7f333ca56e7a` (FNV-1a 64-bit)
+`0xd3b6a152019dd99b` (FNV-1a 64-bit)
 
 ## Witness
 

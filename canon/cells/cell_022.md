@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-022
 
 **id**: doctrine-substrate-walker-2026-09-22-022
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8654166666666666
-**seed**: 995930
+**score**: 0.8666666666666667
+**seed**: 662290
 **path**: straight_east
-**voice**: narrativist
-**lore**: "As I walk down the rain-slicked streets of New Eden, the neon glow of holographic advertisements clashes with the city's perpetual darkness, a cacophony of light and sound that assaults my senses."
+**voice**: philosophical
+**lore**: "In the labyrinthine metropolis of New Erebus, the synthetic and the organic coalesce, yet the artificial abyss of the 'Net' devours all truth, and the city itself is a sentient, labyrinthine entity, devouring its own inhabitants."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 995930.
-Rank #22 across many tested seeds. Voice: narrativist.
+The substrate walker walked through ASCII cityscape at seed 662290.
+Rank #22 across many tested seeds. Voice: philosophical.
 
 ## Cell Hash
 
-`0x269797ae45d70f41` (FNV-1a 64-bit)
+`0xf58ff4100d0f0e14` (FNV-1a 64-bit)
 
 ## Witness
 

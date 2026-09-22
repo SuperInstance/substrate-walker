@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-066
 
 **id**: doctrine-substrate-walker-2026-09-22-066
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 1809721
+**score**: 0.8645833333333334
+**seed**: 2658
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power."
+**lore**: "A vertical megastructure grid of monolithic towers connected by skybridges, forming a dense, layered cyberpunk cityscape."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 1809721.
+The substrate walker walked through ASCII cityscape at seed 2658.
 Rank #66 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x75cfad58ff45f233` (FNV-1a 64-bit)
+`0x52bd64bcd2278213` (FNV-1a 64-bit)
 
 ## Witness
 

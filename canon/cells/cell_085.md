@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-085
 
 **id**: doctrine-substrate-walker-2026-09-22-085
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 642
+**score**: 0.8638391557496361
+**seed**: 3163870
 **path**: straight_east
-**voice**: narrativist
-**lore**: "I jack a wet breath through my rebreather while neon glyphs bleed across the alley's chrome like a dying man's prayer."
+**voice**: structuralist
+**lore**: "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 642.
-Rank #85 across many tested seeds. Voice: narrativist.
+The substrate walker walked through ASCII cityscape at seed 3163870.
+Rank #85 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf8a0c87320333dc6` (FNV-1a 64-bit)
+`0xc3e4a6d09fcc9702` (FNV-1a 64-bit)
 
 ## Witness
 

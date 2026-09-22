@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-093
 
 **id**: doctrine-substrate-walker-2026-09-22-093
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8633333333333333
-**seed**: 4080
+**score**: 0.86375
+**seed**: 17781081
 **path**: straight_east
-**voice**: lyricist
-**lore**: "Rain writes dead lovers’ names in neon across my chrome skull while memory flickers like a broken hologram under midnight’s electric bruise."
+**voice**: noir_classic
+**lore**: "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 4080.
-Rank #93 across many tested seeds. Voice: lyricist.
+The substrate walker walked through ASCII cityscape at seed 17781081.
+Rank #93 across many tested seeds. Voice: noir_classic.
 
 ## Cell Hash
 
-`0x556cd945eed862e4` (FNV-1a 64-bit)
+`0x2ba9dc9c27d64c94` (FNV-1a 64-bit)
 
 ## Witness
 

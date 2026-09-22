@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-068
 
 **id**: doctrine-substrate-walker-2026-09-22-068
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 226609321
+**score**: 0.8641666666666666
+**seed**: 1015
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance"
+**lore**: "Towering blackened monoliths, wrapped in dripping neon and rusted scaffolding, carve rain-slick canyons where surveillance and decay become structural ornament."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 226609321.
+The substrate walker walked through ASCII cityscape at seed 1015.
 Rank #68 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x9e6443abd0e55ecd` (FNV-1a 64-bit)
+`0x94f2c3f3f9c42c65` (FNV-1a 64-bit)
 
 ## Witness
 

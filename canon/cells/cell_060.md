@@ -1,25 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-060
 
 **id**: doctrine-substrate-walker-2026-09-22-060
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 636805
+**score**: 0.8645833333333334
+**seed**: 49789
 **path**: straight_east
-**voice**: 
-**lore**: "The rain-soaked streets of Neo-Tokyo stretch out before me, a labyrinth of shadows and neon lights. I stand outside the rain-drenched alley, a cigarette burning in the corner of my mouth.
-
-I look down at my cyberdeck, the streets' secrets and lies laid bare before me"
+**voice**: structuralist
+**lore**: "Towering brutalist monoliths, tangled skybridges, and neon-lit tenements form a stratified cyberpunk city cell where power flows upward and shadows pool below."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 636805.
-Rank #60 across many tested seeds. Voice: single-voice pipeline.
+The substrate walker walked through ASCII cityscape at seed 49789.
+Rank #60 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xe1041bfca0bc8d21` (FNV-1a 64-bit)
+`0xc16dd70a913092a2` (FNV-1a 64-bit)
 
 ## Witness
 

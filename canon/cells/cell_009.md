@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-009
 
 **id**: doctrine-substrate-walker-2026-09-22-009
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.86625
-**seed**: 11414805
+**score**: 0.8675
+**seed**: 79279361
 **path**: straight_east
-**voice**: 
-**lore**: "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets."
+**voice**: futurist
+**lore**: "Angular monoliths pierce the perpetual dusk of the urban sprawl, their windows pulsing with the heartbeat of a million strangers."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 11414805.
-Rank #9 across many tested seeds. Voice: single-voice pipeline.
+The substrate walker walked through ASCII cityscape at seed 79279361.
+Rank #9 across many tested seeds. Voice: futurist.
 
 ## Cell Hash
 
-`0x67c3df95e0d57338` (FNV-1a 64-bit)
+`0x19b5c7cfbfb7bc1d` (FNV-1a 64-bit)
 
 ## Witness
 

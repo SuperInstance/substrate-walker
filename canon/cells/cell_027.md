@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-027
 
 **id**: doctrine-substrate-walker-2026-09-22-027
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.865
-**seed**: 2388205
+**score**: 0.86625
+**seed**: 152417070
 **path**: straight_east
-**voice**: narrativist
-**lore**: "The rain-soaked streets of Neo-Tokyo's undercity gleam like a diseased mirror, reflecting the neon hellscapes that cling to its crumbling skyscrapers like a bad dream."
+**voice**: structuralist
+**lore**: "Brutalist megastructures erupt in ASCII grids, their jagged data-towers and fractured facades encoding a decaying cyberpunk metropolis."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 2388205.
-Rank #27 across many tested seeds. Voice: narrativist.
+The substrate walker walked through ASCII cityscape at seed 152417070.
+Rank #27 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x76915d0c6ef36364` (FNV-1a 64-bit)
+`0x867e8629329f45d3` (FNV-1a 64-bit)
 
 ## Witness
 

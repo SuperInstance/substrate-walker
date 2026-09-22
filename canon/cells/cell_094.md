@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-094
 
 **id**: doctrine-substrate-walker-2026-09-22-094
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8633333333333333
-**seed**: 16546963
+**score**: 0.86375
+**seed**: 4293784
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Brutalist megastructures rise as monolithic ziggurats, their fractured facades pierced by neon glyphs and labyrinthine arterial streets below."
+**lore**: "Brutalist megastructures rise from ASCII ruins, their fragmented geometric facades encoding a decaying cyberpunk metropolis in monochrome."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 16546963.
+The substrate walker walked through ASCII cityscape at seed 4293784.
 Rank #94 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xd483bca9bded7bc3` (FNV-1a 64-bit)
+`0xf736fae1c2155c9b` (FNV-1a 64-bit)
 
 ## Witness
 

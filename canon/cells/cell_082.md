@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-082
 
 **id**: doctrine-substrate-walker-2026-09-22-082
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 1225372
+**score**: 0.8641666666666666
+**seed**: 1206
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Modular arcologies erupt as jagged crystalline clusters, their dense pixelated facades weaving chaotic interlocking volumes above rain-slicked, reflective street canyons."
+**lore**: "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 1225372.
+The substrate walker walked through ASCII cityscape at seed 1206.
 Rank #82 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x400c060512427f15` (FNV-1a 64-bit)
+`0x2286eebd8ae4fbb5` (FNV-1a 64-bit)
 
 ## Witness
 

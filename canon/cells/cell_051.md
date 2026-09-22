@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-051
 
 **id**: doctrine-substrate-walker-2026-09-22-051
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 181517931
+**score**: 0.8645833333333334
+**seed**: 128056006
 **path**: straight_east
-**voice**: noir_classic
-**lore**: "She walked into my office with neon rain dripping off her chrome, and I knew the city had a bad attitude and the job paid seven credits."
+**voice**: structuralist
+**lore**: "Symmetrical monolithic towers rise from dense ASCII grid, their crystalline facades punctuated by scattered windows and shadowed voids."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 181517931.
-Rank #51 across many tested seeds. Voice: noir_classic.
+The substrate walker walked through ASCII cityscape at seed 128056006.
+Rank #51 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x940887e508dbc761` (FNV-1a 64-bit)
+`0x78410794c8c33f33` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-083
 
 **id**: doctrine-substrate-walker-2026-09-22-083
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 3997378
+**score**: 0.8641666666666666
+**seed**: 309645
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Brutalist megastructures rise from fractured grid, their jagged spires piercing neon-soaked skies above labyrinthine street canyons."
+**lore**: "A sprawling metropolis of interconnected, organically-grown skyscrapers and labyrinthine streets, its architecture a symphony of angles and curves in perpetual, dystopian decay."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 3997378.
+The substrate walker walked through ASCII cityscape at seed 309645.
 Rank #83 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x0baaedb6ebb830ac` (FNV-1a 64-bit)
+`0x8574c4747b7a2dac` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-091
 
 **id**: doctrine-substrate-walker-2026-09-22-091
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8633333333333333
-**seed**: 8388601
+**score**: 0.86375
+**seed**: 1538456
 **path**: straight_east
 **voice**: structuralist
-**lore**: "Modular arcologies rise as jagged crystalline clusters, their pixelated facades pierced by neon grids and shadowed algorithmic courtyards."
+**lore**: "Brutalist megastructures rise from a glyph-scattered grid, their fractured facades and crystalline towers encoding a sprawling, asymmetric cyberpunk metropolis."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 8388601.
+The substrate walker walked through ASCII cityscape at seed 1538456.
 Rank #91 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x7325c695430bf8bd` (FNV-1a 64-bit)
+`0x2b5fc2129dc121dc` (FNV-1a 64-bit)
 
 ## Witness
 

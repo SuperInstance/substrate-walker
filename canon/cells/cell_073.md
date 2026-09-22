@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-073
 
 **id**: doctrine-substrate-walker-2026-09-22-073
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 17781081
+**score**: 0.8641666666666666
+**seed**: 78503634
 **path**: straight_east
-**voice**: noir_classic
-**lore**: "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me."
+**voice**: structuralist
+**lore**: "Brutalist data-spires and glitched tenements fuse into a fractured grid of neon ruins and coded shadows."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 17781081.
-Rank #73 across many tested seeds. Voice: noir_classic.
+The substrate walker walked through ASCII cityscape at seed 78503634.
+Rank #73 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x2bbe449c27e7a656` (FNV-1a 64-bit)
+`0xf5c253b8388c22be` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-065
 
 **id**: doctrine-substrate-walker-2026-09-22-065
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8638391557496361
-**seed**: 3163870
+**score**: 0.8645833333333334
+**seed**: 3801903
 **path**: straight_east
 **voice**: structuralist
-**lore**: "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis."
+**lore**: "Fractured city cells of steel and neon intertwine, forming a geometrically chaotic, yet rigidly structured, dystopian landscape of interconnected towers and shadowed alleys."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 3163870.
+The substrate walker walked through ASCII cityscape at seed 3801903.
 Rank #65 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xc41432d09ff4f5a8` (FNV-1a 64-bit)
+`0xe98d72b9c97057bf` (FNV-1a 64-bit)
 
 ## Witness
 

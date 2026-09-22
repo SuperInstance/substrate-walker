@@ -1,25 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-069
 
 **id**: doctrine-substrate-walker-2026-09-22-069
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 55006666
+**score**: 0.8641666666666666
+**seed**: 357489
 **path**: straight_east
-**voice**: 
-**lore**: "Rain soaks streets, neon lights bleed"
-
-(The player is in a dimly lit alleyway, the only sound the patter of rain on the pavement. The camera pans down to the player's character, a worn leather duster coat and fedora-clad figure, eyes fixed on a large"
+**voice**: narrativist
+**lore**: "I stalk rain-slick alleys, neon bleeding across chrome skin, while distant sirens hum through the smog and my boots splash through oily pudd"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 55006666.
-Rank #69 across many tested seeds. Voice: single-voice pipeline.
+The substrate walker walked through ASCII cityscape at seed 357489.
+Rank #69 across many tested seeds. Voice: narrativist.
 
 ## Cell Hash
 
-`0xed3c63c20a68bdd3` (FNV-1a 64-bit)
+`0x1ed860d4eb1ecd94` (FNV-1a 64-bit)
 
 ## Witness
 

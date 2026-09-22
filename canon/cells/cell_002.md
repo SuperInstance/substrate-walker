@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-002
 
 **id**: doctrine-substrate-walker-2026-09-22-002
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine-prime
 **chain**: prev_hash → this_hash
-**score**: 0.8675
-**seed**: 1504276
+**score**: 0.86875
+**seed**: 4685000
 **path**: straight_east
 **voice**: structuralist
-**lore**: "In the city's labyrinthine heart, towering skyscrapers with angular, aerodynamic designs pierced the smog-choked skies, their steel and glass facades reflecting the neon-lit darkness."
+**lore**: "A sprawling vertical labyrinth of angular tenements and skybridges, each window a flickering pixel in the city's electric soul."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 1504276.
+The substrate walker walked through ASCII cityscape at seed 4685000.
 Rank #2 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xd3b6a552019de067` (FNV-1a 64-bit)
+`0x079d0f116c28c45c` (FNV-1a 64-bit)
 
 ## Witness
 

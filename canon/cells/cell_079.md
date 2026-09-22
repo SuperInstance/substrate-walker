@@ -1,23 +1,25 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-079
 
 **id**: doctrine-substrate-walker-2026-09-22-079
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 25303
+**score**: 0.8641666666666666
+**seed**: 636805
 **path**: straight_east
-**voice**: cosmic_horror
-**lore**: "I glimpsed the city’s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear."
+**voice**: 
+**lore**: "The rain-soaked streets of Neo-Tokyo stretch out before me, a labyrinth of shadows and neon lights. I stand outside the rain-drenched alley, a cigarette burning in the corner of my mouth.
+
+I look down at my cyberdeck, the streets' secrets and lies laid bare before me"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 25303.
-Rank #79 across many tested seeds. Voice: cosmic_horror.
+The substrate walker walked through ASCII cityscape at seed 636805.
+Rank #79 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 
-`0xa9637cc4cf821ae5` (FNV-1a 64-bit)
+`0xe1008efca0b967b3` (FNV-1a 64-bit)
 
 ## Witness
 

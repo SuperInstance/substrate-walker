@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-067
 
 **id**: doctrine-substrate-walker-2026-09-22-067
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 1777555
+**score**: 0.8642849344978166
+**seed**: 2041
 **path**: straight_east
-**voice**: structuralist
-**lore**: "In the sprawling metropolis, skyscrapers of intersecting crystalline structures pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of geometric perfection."
+**voice**: cosmic_horror
+**lore**: "Beneath squamous spires, the city breathes through angles no mind should know, devouring thought as we crawl through its dreaming streets."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 1777555.
-Rank #67 across many tested seeds. Voice: structuralist.
+The substrate walker walked through ASCII cityscape at seed 2041.
+Rank #67 across many tested seeds. Voice: cosmic_horror.
 
 ## Cell Hash
 
-`0xabda152ec302868c` (FNV-1a 64-bit)
+`0x2612e43c2466a8fa` (FNV-1a 64-bit)
 
 ## Witness
 

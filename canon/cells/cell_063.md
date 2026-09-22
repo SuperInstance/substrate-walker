@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-063
 
 **id**: doctrine-substrate-walker-2026-09-22-063
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8641666666666666
-**seed**: 1206
+**score**: 0.8645833333333334
+**seed**: 817102
 **path**: straight_east
-**voice**: structuralist
-**lore**: "A cellular grid of monolithic towers rises from a submerged grid, their faceted, circuit-like surfaces forming a dense, repeating urban matrix."
+**voice**: narrativist
+**lore**: "I stepped out of the rain-soaked alley and onto the neon-drenched streets of New Eden, the city's perpetual hum of machinery and despair thrumming through my veins."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 1206.
-Rank #63 across many tested seeds. Voice: structuralist.
+The substrate walker walked through ASCII cityscape at seed 817102.
+Rank #63 across many tested seeds. Voice: narrativist.
 
 ## Cell Hash
 
-`0x228d75bd8aea4cc8` (FNV-1a 64-bit)
+`0x2e14dc7058c1c35d` (FNV-1a 64-bit)
 
 ## Witness
 

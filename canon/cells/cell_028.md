@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-028
 
 **id**: doctrine-substrate-walker-2026-09-22-028
-**timestamp**: 2026-09-22T10:30:00Z
+**timestamp**: 2026-09-22T17:50:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8645833333333334
-**seed**: 2464645
+**score**: 0.86625
+**seed**: 11414805
 **path**: straight_east
-**voice**: structuralist
-**lore**: "In the city's labyrinthine underbelly, a sprawling metropolis of interconnected domes and spires stretched like a mechanical organism, its skeletal framework a testament to humanity's unyielding pursuit of verticality."
+**voice**: 
+**lore**: "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 2464645.
-Rank #28 across many tested seeds. Voice: structuralist.
+The substrate walker walked through ASCII cityscape at seed 11414805.
+Rank #28 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 
-`0x6c2f15198a6cd267` (FNV-1a 64-bit)
+`0x2736edad0aa3f933` (FNV-1a 64-bit)
 
 ## Witness
 

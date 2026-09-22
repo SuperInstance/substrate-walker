@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-072
 
 **id**: doctrine-substrate-walker-2026-09-22-072
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 77072320
+**score**: 0.8641666666666666
+**seed**: 5216405
 **path**: straight_east
-**voice**: cosmic_horror
-**lore**: "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers."
+**voice**: structuralist
+**lore**: "A fractured grid of monolithic towers rises through static, their brutalist forms dissolving into the neon-drenched entropy of a decaying metropolis."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 77072320.
-Rank #72 across many tested seeds. Voice: cosmic_horror.
+The substrate walker walked through ASCII cityscape at seed 5216405.
+Rank #72 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x58c85638f231a99e` (FNV-1a 64-bit)
+`0x75ce913c6e9d4532` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -1,23 +1,23 @@
 # Canon Cell: doctrine-substrate-walker-2026-09-22-080
 
 **id**: doctrine-substrate-walker-2026-09-22-080
-**timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**timestamp**: 2026-09-22T17:50:00Z
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.86375
-**seed**: 153181
+**score**: 0.8641666666666666
+**seed**: 3049215
 **path**: straight_east
 **voice**: structuralist
-**lore**: "In the city's labyrinthine sprawl, towering skyscrapers pierced the smog-filled sky, their angular silhouettes a testament to the architect's obsessive pursuit of geometric perfection."
+**lore**: "A fractured grid of monolithic data-towers rises from a flooded, neon-scarred matrix, its brutalist forms dissolving into recursive urban decay."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 153181.
+The substrate walker walked through ASCII cityscape at seed 3049215.
 Rank #80 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xe09f20aeef7754ea` (FNV-1a 64-bit)
+`0x64109c3e9d190d1a` (FNV-1a 64-bit)
 
 ## Witness
 
