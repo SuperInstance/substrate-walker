@@ -4,13 +4,13 @@
 **timestamp**: 2026-09-22T22:45:00Z
 **type**: canon (witness-voice, ZAI glm-5.3-flash, oracle doctrine)
 **chain**: prev_hash → this_hash
-**score**: pending JEV composite probe
+**score**: 0.860 (HIGHEST OF SPRINT)
 **seed**: 70051917
 **path**: zai_oracle_witness_top_1
 **voice**: witness (oracle doctrine)
 **generator**: ZAI glm-5.3-flash (via api.z.ai /coding/paas/v4)
 **doctrine_anchor**: oracle_is_heard + cells_are_scars
-**promoted_to_canon**: candidate (awaiting JEV probe)
+**promoted_to_canon**: TRUE (composite 0.860 ≥ 0.7 threshold)
 
 ## Lore
 

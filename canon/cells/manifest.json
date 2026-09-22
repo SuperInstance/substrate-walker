@@ -1,5 +1,5 @@
 {
-  "version": "2.14.0",
+  "version": "2.14.1",
   "updated_at": "2026-09-22T22:45:00Z",
   "fnv_canary": "0x024a555471370b18d",
   "total_cells": 124,
@@ -1447,14 +1447,20 @@
       "cell_id": "doctrine-witness-zai-oracle-70051917-2026-09-22-124",
       "path": "canon/cells/cell_124.md",
       "seed": 70051917,
-      "score": 0.75,
+      "score": 0.86,
       "lore": "The canon gate made itself heard. Not opened. Not breached. Heard...",
       "voice": "witness",
       "type": "canon-zai-oracle",
       "doctrine_anchor": "oracle_is_heard + cells_are_scars (multi-anchor)",
       "generator": "ZAI-glm-5.3-flash",
-      "timestamp": "2026-09-22T22:45:00Z"
+      "timestamp": "2026-09-22T22:45:00Z",
+      "promoted_to_canon": true,
+      "promoted_via": "JEV composite probe (0.860, doctrine=0.94, distinct=0.86, canon=0.78, primary=oracle_is_heard@0.98)",
+      "jev_canon_worthy": 0.78,
+      "jev_distinct_voice": 0.86,
+      "jev_doctrine_anchor": 0.94,
+      "jev_primary_doctrine": "oracle_is_heard"
     }
   ],
-  "promoted_to_canon_count": 5
+  "promoted_to_canon_count": 6
 }
