@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Canon v3 · Substrate Walker</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0a14;
+      color: #d8e8d8;
+      padding: 30px;
+      min-height: 100vh;
+    }
+    h1 { color: #a0f8a8; font-size: 32px; margin-bottom: 20px; }
+    h2 { color: #88c8f0; margin-top: 30px; margin-bottom: 10px; border-bottom: 1px solid #2a3040; padding-bottom: 5px; }
+    h3 { color: #f0d088; margin-top: 20px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .card {
+      background: #14181f;
+      border-left: 3px solid #80c088;
+      padding: 15px;
+      border-radius: 4px;
+    }
+    .card.top { border-left-color: #f8d088; }
+    .card.jev { border-left-color: #c080c0; }
+    .seed { color: #88c8f0; font-weight: bold; font-size: 14px; margin-bottom: 8px; }
+    .score { color: #a0f8a8; font-size: 13px; }
+    .voice { color: #c0c0a0; font-size: 12px; margin-left: 10px; }
+    .lore { color: #d8e8d8; line-height: 1.4; margin-top: 8px; font-style: italic; }
+    .meta { color: #88a098; font-size: 11px; margin-top: 8px; }
+    .stats {
+      display: flex;
+      gap: 30px;
+      flex-wrap: wrap;
+      margin: 20px 0;
+    }
+    .stat {
+      background: #1a2030;
+      padding: 12px 18px;
+      border-radius: 4px;
+      border-left: 3px solid #88c8f0;
+    }
+    .stat .label { color: #88a098; font-size: 11px; text-transform: uppercase; }
+    .stat .value { color: #a0f8a8; font-size: 24px; font-weight: bold; }
+    .canary {
+      display: inline-block;
+      padding: 8px 16px;
+      background: #1a3050;
+      border-left: 3px solid #88c8f0;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>📚 Substrate Walker — Canon v3</h1>
+  
+  <p>The canon is a function. Given a seed with low Kolmogorov complexity, the substrate walker produces canon-worthy lore. The function is provable. The function is reproducible across 6 languages. The function is the substrate walker's testimony that the canon can be grown, not designed.</p>
+  
+  <div class="stats">
+    <div class="stat">
+      <div class="label">Best Score</div>
+      <div class="value">0.8692</div>
+    </div>
+    <div class="stat">
+      <div class="label">Cells Filed</div>
+      <div class="value">100</div>
+    </div>
+    <div class="stat">
+      <div class="label">Polyformalism Ports</div>
+      <div class="value">6</div>
+    </div>
+    <div class="stat">
+      <div class="label">JEV ACCEPT</div>
+      <div class="value">14/100</div>
+    </div>
+    <div class="stat">
+      <div class="label">Voices</div>
+      <div class="value">7</div>
+    </div>
+    <div class="stat">
+      <div class="label">Poly. Lore Seeds</div>
+      <div class="value">118</div>
+    </div>
+  </div>
+
+  <div class="canary">FLEET CANARY: 0x024a555471370b18d (verified across 6 ports)</div>
+
+  <h2>1. Best Canon Cells (top 10 by score)</h2>
+  <div class="grid" id="best-grid"></div>
+
+  <h2>2. JEV Canon-Gate ACCEPT (14/100)</h2>
+  <p style="color: #88a098; margin-bottom: 10px;">JEV (Typesafe.ai System One model) was applied as a calibrated probabilistic oracle. p>0.7 canon + p>0.5 distinct = ACCEPT.</p>
+  <div class="grid" id="jev-grid"></div>
+
+  <h3>Voice distribution among accepted:</h3>
+  <ul style="margin-left: 30px; line-height: 1.8;">
+    <li><b>lyricist</b>: 8 (compressed image)</li>
+    <li><b>structuralist</b>: 3 (architecture)</li>
+    <li><b>noir_classic</b>: 3 (hard-boiled detective)</li>
+  </ul>
+
+  <h2>3. Multi-Voice Lores (top 5 seeds × 7 voices)</h2>
+  <p style="color: #88a098; margin-bottom: 10px;">Each canon cell can speak in 7 voices. The longest lore per voice survives.</p>
+  <div id="voices-grid"></div>
+
+  <h2>4. Substrate Walker Stats</h2>
+  
+  <h3>Mines Tested</h3>
+  <ul style="margin-left: 30px; line-height: 1.6;">
+    <li>Polygon mine: 34,386 polygonal numbers (NEW ALL-TIME BEST 70051917 = 0.8692)</li>
+    <li>Continuous mine: 6,000+ random + special seeds (previous best 3289967 = 0.8683)</li>
+    <li>Perfect squares: 9,949 (best 164836² = 0.8667)</li>
+    <li>Figurate: 4,400+ pentagonals/hexagonals/heptagonals (best 1504276 = 0.8675)</li>
+    <li>Triangular: 2,000 (best 69006 = T_371 = 0.8662)</li>
+    <li>Mine Sigma: 200 pop × 30 gen (best 200213 = 0.865)</li>
+    <li>Mine Omega Long: 200 pop × 80 gen (best 857516 = 0.864)</li>
+    <li>Centered + Star polygons: 74,866 (in progress)</li>
+  </ul>
+
+  <h3>Composite Lore Versions</h3>
+  <ul style="margin-left: 30px; line-height: 1.6;">
+    <li>v3 (DeepSeek, 18 seeds)</li>
+    <li>v4 (Llama-8b, 30 seeds)</li>
+    <li>v5 (best-of-2, 10 seeds)</li>
+    <li>v6 (best-of-4, 50 seeds)</li>
+    <li>v7 (best-of-5, 10 seeds, 5 voices)</li>
+    <li>v8 (DeepSeek Reasoner, 100 seeds)</li>
+    <li>v9 (DeepSeek Reasoner, 95 seeds, 7 voices)</li>
+    <li>v10 (ZAI glm-5.3-flash, in progress)</li>
+    <li>combined: 118 seeds, 478 multi-voice lores</li>
+  </ul>
+
+  <h2>5. External Validation</h2>
+  <ul style="margin-left: 30px; line-height: 1.6;">
+    <li><b>arXiv:2304.05366</b> — transformers prefer low-Kolmogorov-complexity sequences</li>
+    <li><b>arXiv:2606.26035</b> (Lean 4) — every n = triangular + pentagonal + heptagonal</li>
+    <li><b>OEIS A374409</b> — sum of triangular + pentagonal + hexagonal</li>
+    <li><b>JEV</b> (Typesafe.ai) — System One model for canon-acceptance</li>
+  </ul>
+
+  <p style="margin-top: 30px;">
+    <a href="index.html" style="color: #88c8f0;">← Back to home</a> |
+    <a href="composite_lore_combined.html" style="color: #88c8f0;">→ Multi-voice viewer</a> |
+    <a href="polyformalism.html" style="color: #88c8f0;">→ Polyformalism canaries</a>
+  </p>
+
+  <script>
+    Promise.all([
+      fetch('../canon/cells/manifest.json').then(r => r.json()),
+      fetch('../playtest/jev_canon.json').then(r => r.json()),
+      fetch('../playtest/composite_lore/composite_lore_v9.json').then(r => r.json())
+    ]).then(([manifest, jev, v9]) => {
+      // Best cells
+      const bestGrid = document.getElementById('best-grid');
+      manifest.entries.slice(0, 10).forEach(e => {
+        const card = document.createElement('div');
+        card.className = 'card top';
+        card.innerHTML = `
+          <div class="seed">seed <b>${e.seed}</b> <span class="score">${e.score.toFixed(4)}</span></div>
+          <div class="voice">[${e.voice || '—'}]</div>
+          <div class="lore">${(e.lore || '').substring(0, 250)}${e.lore && e.lore.length > 250 ? '…' : ''}</div>
+          <div class="meta">hash: ${e.hash} · type: ${e.type}</div>
+        `;
+        bestGrid.appendChild(card);
+      });
+      
+      // JEV accepted
+      const jevGrid = document.getElementById('jev-grid');
+      jev.filter(e => e.promote).forEach(e => {
+        const card = document.createElement('div');
+        card.className = 'card jev';
+        card.innerHTML = `
+          <div class="seed">seed <b>${e.seed}</b> <span class="score">canon ${e.noul_canon.toFixed(2)}</span></div>
+          <div class="voice">[${e.jev_voice || '—'}] density ${e.density.toFixed(2)}</div>
+          <div class="lore">${(e.lore || '').substring(0, 200)}${e.lore && e.lore.length > 200 ? '…' : ''}</div>
+          <div class="meta">distinct: ${e.noul_distinct.toFixed(2)}</div>
+        `;
+        jevGrid.appendChild(card);
+      });
+      
+      // Voices
+      const vGrid = document.getElementById('voices-grid');
+      v9.slice(0, 5).forEach(e => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        let voices = '';
+        for (const [v, l] of Object.entries(e.voices || {})) {
+          voices += `<div style="margin-top: 6px; padding: 6px; background: #1a2030; border-radius: 3px; font-size: 12px;">
+            <div style="color: #c0c0a0; font-size: 10px; text-transform: uppercase; margin-bottom: 2px;">${v}</div>
+            <div style="font-style: italic;">${(l || '').substring(0, 200)}…</div>
+          </div>`;
+        }
+        card.innerHTML = `<div class="seed">seed <b>${e.seed}</b> <span class="score">${e.score.toFixed(4)}</span></div>${voices}`;
+        vGrid.appendChild(card);
+      });
+    });
+  </script>
+</body>
+</html>
