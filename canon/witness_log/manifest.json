@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "created_at": "2026-09-22T10:30:33.962973",
+  "fnv_canary": "0x24a555471370b18d",
+  "total_entries": 79,
+  "sources": [
+    "great_moments",
+    "parallel_expedition_results.json",
+    "parallel_expedition_big_results.json",
+    "mine_004_final",
+    "mine_005_final",
+    "mine_big_final",
+    "mine_huge_final",
+    "mine_long_final",
+    "mine_massive_final",
+    "mine_mega_final",
+    "mine_quantum_final",
+    "test_final"
+  ],
+  "min_score": 0.8429166666666666,
+  "max_score": 0.8641666666666666
+}

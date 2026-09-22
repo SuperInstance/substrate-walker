@@ -1,0 +1,776 @@
+{
+  "created_at": "2026-09-22T10:30:33.958082",
+  "entry_count": 79,
+  "entries": [
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 800330,
+      "score": 0.8641666666666666,
+      "lore": "Rain-soaked streets, neon haze, and a femme fatale's whisper in the darkness...",
+      "rank": 1,
+      "prev_hash": "0xcbf29ce484222325",
+      "this_hash": "0x3ea78c18cec48c07"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 654321,
+      "score": 0.86375,
+      "lore": "Rain pours down on streets of New Erebo.",
+      "rank": 2,
+      "prev_hash": "0x3ea78c18cec48c07",
+      "this_hash": "0x67f4f527a8a0c9c1"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 390172,
+      "score": 0.8633333333333333,
+      "lore": "Rain-soaked streets reflected city's neon despair.",
+      "rank": 3,
+      "prev_hash": "0x67f4f527a8a0c9c1",
+      "this_hash": "0x73fe421e824f3c0f"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 272801,
+      "score": 0.8629166666666667,
+      "lore": "Rain-soaked streets. Shadows hide secrets.",
+      "rank": 4,
+      "prev_hash": "0x73fe421e824f3c0f",
+      "this_hash": "0x9111e0dd51c7d482"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 270801,
+      "score": 0.8616666666666667,
+      "lore": "Rain pours on the streets of Neo-Tokyo. Dark alleys hide secrets.",
+      "rank": 5,
+      "prev_hash": "0x9111e0dd51c7d482",
+      "this_hash": "0x1bea2130bc98e3fc"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 800340,
+      "score": 0.86125,
+      "lore": "Rain-soaked streets, neon lights dance on wet pavement. Your watch: 23:47.",
+      "rank": 6,
+      "prev_hash": "0x1bea2130bc98e3fc",
+      "this_hash": "0x52c09ee0607f5e2f"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 271791,
+      "score": 0.86125,
+      "lore": "**Rain pours down on the city's broken streets**",
+      "rank": 7,
+      "prev_hash": "0x52c09ee0607f5e2f",
+      "this_hash": "0x8265249d9fa2e872"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 777777,
+      "score": 0.86125,
+      "lore": "You stood at the edge of the rain-soaked street, a haze of cigarette smoke clinging to your suit.",
+      "rank": 8,
+      "prev_hash": "0x8265249d9fa2e872",
+      "this_hash": "0xd42d239ab97dfe30"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 221801,
+      "score": 0.8608333333333333,
+      "lore": "Rain pounds against the alley's walls, a lone streetlamp's glow like a dying soul's.\n\nYou are standing in a narrow alleyway, the walls on either side made of worn, gray concrete. The air is heavy with the smell of ozone and smoke. Ahead of you, the alleyway",
+      "rank": 9,
+      "prev_hash": "0xd42d239ab97dfe30",
+      "this_hash": "0xab0897a8643f03ed"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 644321,
+      "score": 0.8604166666666666,
+      "lore": "Rain-soaked streets reflected the neon lights of the city's underbelly.",
+      "rank": 10,
+      "prev_hash": "0xab0897a8643f03ed",
+      "this_hash": "0x68ce7b1d5e2fc1b8"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 654221,
+      "score": 0.8604166666666666,
+      "lore": "Rain drizzles down on the city's dimly lit streets. A lone saxophone wails in the distance.",
+      "rank": 11,
+      "prev_hash": "0x68ce7b1d5e2fc1b8",
+      "this_hash": "0x0e471d6b4ccf5d89"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 281679,
+      "score": 0.86,
+      "lore": "The rain-soaked streets of Neo-Eden stretched out before me, a tangled web of despair.",
+      "rank": 12,
+      "prev_hash": "0x0e471d6b4ccf5d89",
+      "this_hash": "0x203f854d1b5c2532"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 799840,
+      "score": 0.86,
+      "lore": "Rain falls hard on wet streets, reflecting city's neon glow.",
+      "rank": 13,
+      "prev_hash": "0x203f854d1b5c2532",
+      "this_hash": "0x839305fbb0a48f19"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 415222,
+      "score": 0.86,
+      "lore": "Rain-soaked streets, neon-lit shroud, city's dark soul.\n\nASCII view updates:\n                                 |                                  |                                  |                                  |                                  |                                  |              |\n\nYour character's description: Jack \"Lucky\" LaGraine, ex-hack turned private eye.",
+      "rank": 14,
+      "prev_hash": "0x839305fbb0a48f19",
+      "this_hash": "0xeb2220729a72441a"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 704321,
+      "score": 0.86,
+      "lore": "I stepped into the dimly lit alley, rain pattering against my trenchcoat.",
+      "rank": 15,
+      "prev_hash": "0xeb2220729a72441a",
+      "this_hash": "0x8ca6567d17976478"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 790340,
+      "score": 0.8595833333333334,
+      "lore": "The city's neon smog choked the alley, where shadows hid secrets and sins.",
+      "rank": 16,
+      "prev_hash": "0x8ca6567d17976478",
+      "this_hash": "0x1772893821ef4310"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 801340,
+      "score": 0.8595833333333334,
+      "lore": "The rain-soaked streets of New Eden stretched out before you like a diseased artery.",
+      "rank": 17,
+      "prev_hash": "0x1772893821ef4310",
+      "this_hash": "0xde31603f8e69a707"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 389722,
+      "score": 0.8595833333333334,
+      "lore": "Rain lashes down on the city's neon-drenched sprawl.",
+      "rank": 18,
+      "prev_hash": "0xde31603f8e69a707",
+      "this_hash": "0x1524329af0ee0e24"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 390232,
+      "score": 0.8595833333333334,
+      "lore": "Rain poured down, illuminating the city's dark alleys.",
+      "rank": 19,
+      "prev_hash": "0x1524329af0ee0e24",
+      "this_hash": "0x31097c64daab3319"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 380222,
+      "score": 0.8591666666666666,
+      "lore": "You stood on the rain-soaked streets, eyes fixed on the dimly lit alley.",
+      "rank": 20,
+      "prev_hash": "0x31097c64daab3319",
+      "this_hash": "0x86c227d13142bf26"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 389222,
+      "score": 0.8591666666666666,
+      "lore": "Rainy streets shroud a city in despair.\n\nWhat do you do?",
+      "rank": 21,
+      "prev_hash": "0x86c227d13142bf26",
+      "this_hash": "0x4fc709c8cf2022e6"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 271301,
+      "score": 0.8591666666666666,
+      "lore": "Rainy streets. Neon drenched. Shadows lurk.\n\nInventory:\n\n* Gun (Magazine: 6)\n* Credit Chip (Balance: 500)\n* Smartphone (Signal: Weak)\n\nWhat do you do?",
+      "rank": 22,
+      "prev_hash": "0x4fc709c8cf2022e6",
+      "this_hash": "0x685367bf25e49843"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 654271,
+      "score": 0.8591666666666666,
+      "lore": "Rain patters on wet streets, neon lights reflecting off the damp pavement.",
+      "rank": 23,
+      "prev_hash": "0x685367bf25e49843",
+      "this_hash": "0x897aa1f312e54788"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 271751,
+      "score": 0.8590343347639485,
+      "lore": "Rain falls on the city's dark underbelly.",
+      "rank": 24,
+      "prev_hash": "0x897aa1f312e54788",
+      "this_hash": "0x1429d73aa0d29806"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 440222,
+      "score": 0.85875,
+      "lore": "Raining neon on the wet streets of New Erebo.",
+      "rank": 25,
+      "prev_hash": "0x1429d73aa0d29806",
+      "this_hash": "0x9d86305730357eab"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 654371,
+      "score": 0.85875,
+      "lore": "Rain pounds against the pavement, a lone figure lurks in the shadows.\n\n(Note: I'll assume the ASCII view is a map of the city, and the coordinates (18.5, 4.9) are the player's current location. The facing direction, 0.00rad,",
+      "rank": 26,
+      "prev_hash": "0x9d86305730357eab",
+      "this_hash": "0xf9e791896185ab4d"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 655321,
+      "score": 0.85875,
+      "lore": "Rain-soaked streets, shadows danced on walls.\"\n\nYour surroundings:\n\n  You are at (13.8, 8.9) with a 1.57 rad bearing.\n  Ahead, a lone streetlamp casts a weak glow.\n  To your left, a cramped alleyway beckons",
+      "rank": 27,
+      "prev_hash": "0xf9e791896185ab4d",
+      "this_hash": "0x8d0bc490d0a88d72"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 807309,
+      "score": 0.8583333333333333,
+      "lore": "Rain patters against the pavement, a lone streetlight flickers.",
+      "rank": 28,
+      "prev_hash": "0x8d0bc490d0a88d72",
+      "this_hash": "0x849da95be9c601a4"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 800440,
+      "score": 0.8583333333333333,
+      "lore": "Rain-soaked streets, dark alleys, and a city that never sleeps.",
+      "rank": 29,
+      "prev_hash": "0x849da95be9c601a4",
+      "this_hash": "0xed84d646623bb0b0"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 805340,
+      "score": 0.8583333333333333,
+      "lore": "Rain drips on the city's cold, dark streets.\n\nWhat do you want to do?",
+      "rank": 30,
+      "prev_hash": "0xed84d646623bb0b0",
+      "this_hash": "0x58957c507c67a8ce"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 321801,
+      "score": 0.8583333333333333,
+      "lore": "Rain pours down on the city's dark underbelly.\n\nThe player's current location is displayed as a series of pipes (|) representing the city's towering skyscrapers. The coordinates (5.8, 27.6) suggest a specific location, but the actual layout of the city",
+      "rank": 31,
+      "prev_hash": "0x58957c507c67a8ce",
+      "this_hash": "0x872b020faad2073f"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 659321,
+      "score": 0.8583333333333333,
+      "lore": "Rain falls hard on city streets, neon lights reflecting in wet pavement.",
+      "rank": 32,
+      "prev_hash": "0x872b020faad2073f",
+      "this_hash": "0x2bd2050149ed9d3e"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 398540,
+      "score": 0.8579166666666667,
+      "lore": "Rain falls on the city's dirty streets. A lone figure appears.",
+      "rank": 33,
+      "prev_hash": "0x2bd2050149ed9d3e",
+      "this_hash": "0x405e4b695368195b"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 365222,
+      "score": 0.8579166666666667,
+      "lore": "Rain pours down, neon signs flicker, and shadows writhe.",
+      "rank": 34,
+      "prev_hash": "0x405e4b695368195b",
+      "this_hash": "0xfbb134791e03b2e9"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 385222,
+      "score": 0.8579166666666667,
+      "lore": "The rain-soaked streets swallowed the city's secrets whole.",
+      "rank": 35,
+      "prev_hash": "0xfbb134791e03b2e9",
+      "this_hash": "0x5def70d9830c0df9"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 390222,
+      "score": 0.8579166666666667,
+      "lore": "Neon signs flicker, casting shadows on rain-soaked streets.",
+      "rank": 36,
+      "prev_hash": "0x5def70d9830c0df9",
+      "this_hash": "0xb45f9e92d6a66c00"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 390322,
+      "score": 0.8579166666666667,
+      "lore": "Rain pours down on city streets, neon lights reflecting off wet pavement.",
+      "rank": 37,
+      "prev_hash": "0xb45f9e92d6a66c00",
+      "this_hash": "0xba66761abca92813"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 400222,
+      "score": 0.8579166666666667,
+      "lore": "Rain-soaked streets. Neon lights cast long shadows.\n\nYou're in a dark alley between towering skyscrapers. The air reeks of smoke and desperation.\n\nYour options:\n\nA) Investigate the source of the smoke\nB) Approach the alley's entrance, where a lone figure watches\nC",
+      "rank": 38,
+      "prev_hash": "0xba66761abca92813",
+      "this_hash": "0xfff16129212920b7"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 825340,
+      "score": 0.8579166666666667,
+      "lore": "Rainy streets, neon glow.",
+      "rank": 39,
+      "prev_hash": "0xfff16129212920b7",
+      "this_hash": "0xe7c6140e35cc45f6"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 654821,
+      "score": 0.8579166666666667,
+      "lore": "Rain falls on wet pavement. Neon lights cast long shadows.",
+      "rank": 40,
+      "prev_hash": "0xe7c6140e35cc45f6",
+      "this_hash": "0xdf357eaf2af26e34"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 390272,
+      "score": 0.8575,
+      "lore": "I've got a score to settle with the corporate elite.",
+      "rank": 41,
+      "prev_hash": "0xdf357eaf2af26e34",
+      "this_hash": "0x86f3f9fae3daefc1"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 271701,
+      "score": 0.8575,
+      "lore": "Rain pours down, a dirty mist.",
+      "rank": 42,
+      "prev_hash": "0x86f3f9fae3daefc1",
+      "this_hash": "0x9df7317bac354303"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 321654,
+      "score": 0.8575,
+      "lore": "Rain patters on wet streets. Neon signs reflect off wet pavement.",
+      "rank": 43,
+      "prev_hash": "0x9df7317bac354303",
+      "this_hash": "0xdcfa006bbbadfca4"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 654311,
+      "score": 0.8575,
+      "lore": "I can only see the darkness.",
+      "rank": 44,
+      "prev_hash": "0xdcfa006bbbadfca4",
+      "this_hash": "0x5e600545da440364"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 280501,
+      "score": 0.8570833333333333,
+      "lore": "Rain-soaked streets swallowed the darkness.",
+      "rank": 45,
+      "prev_hash": "0x5e600545da440364",
+      "this_hash": "0xde0d9135f958c925"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 850340,
+      "score": 0.8570833333333333,
+      "lore": "Rain falls on the city's dark sprawl. Neon lights reflect off wet pavement.",
+      "rank": 46,
+      "prev_hash": "0xde0d9135f958c925",
+      "this_hash": "0x5bf2eedb42d26973"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 266801,
+      "score": 0.8570833333333333,
+      "lore": "Rain patters on wet pavement. Neon signs reflect off puddles.",
+      "rank": 47,
+      "prev_hash": "0x5bf2eedb42d26973",
+      "this_hash": "0x66f59d85bfa1554b"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 604321,
+      "score": 0.8570833333333333,
+      "lore": "Rain soaks the city's neon veins\"\n\n(Note: in this game, you can type movement commands like \"n\" for north, \"s\" for south, \"e\" for east, \"w\" for west, \"f\" for forward (your current direction), and \"l",
+      "rank": 48,
+      "prev_hash": "0x66f59d85bfa1554b",
+      "this_hash": "0xe2f72f5ca51725c0"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 654322,
+      "score": 0.8570833333333333,
+      "lore": "What a lovely ASCII art view. I'm a gumshoe, a cyberpunk detective, in the neon-lit sprawl of New Eden. My client's daughter has gone missing, and I've got a lead on a shady netrunner who might know something...",
+      "rank": 49,
+      "prev_hash": "0xe2f72f5ca51725c0",
+      "this_hash": "0xd3e636e954cf2276"
+    },
+    {
+      "source": "great_moments",
+      "type": "canon_witness",
+      "seed": 113931,
+      "score": 0.8566666666666667,
+      "lore": "Rain pours down on the neon-drenched streets. A lone cyber-shade stalks prey.",
+      "rank": 50,
+      "prev_hash": "0xd3e636e954cf2276",
+      "this_hash": "0xb7f6a5c4b38b52d5"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 883554,
+      "score": 0.85375,
+      "lore": "Neon drips, shadows whisper\u2014you're already too late.\"\n\n*(City seed: 883554, Position (20.4, 19.5), Orientation: 0.96rad. Chars: # $ . : = @ X.)",
+      "prev_hash": "0xb7f6a5c4b38b52d5",
+      "this_hash": "0xf8c90b70546033a1"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 688867,
+      "score": 0.8533333333333333,
+      "lore": "Neon dripped, the hacker sighed. `@=$...`\"\n\n(Characters used: @, =, $, ., # is implied in \"Neon dripped\" as the glow of #, $ wraps the cipher, : implied in \"sighed\")",
+      "prev_hash": "0xf8c90b70546033a1",
+      "this_hash": "0x423556a40e1b5ec6"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 573208,
+      "score": 0.85125,
+      "lore": "Here are a few cyberpunk noir one-liners, under 40 characters, using the specified seed, position, and characters:\n\n**Option 1 (Shortest):**\n\n`X=@.#:$.` (7 chars)\n\n**Option 2:**\n\n`#:X=.@",
+      "prev_hash": "0x423556a40e1b5ec6",
+      "this_hash": "0xfa7a2758d4f17b28"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 984289,
+      "score": 0.8491666666666666,
+      "lore": "**\"#$:=@X\u2014lights flicker dark. Neon whispers nothing.\"**\n\n(39 chars)\n*Cyberpunk noir style\u2014twisted city, cryptic symbols, artificial glow, and emptiness.*\n\n*(Generated with your seed/pos/char constraints. Want a different vibe",
+      "prev_hash": "0xfa7a2758d4f17b28",
+      "this_hash": "0x5cf462d16d119b3d"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 559582,
+      "score": 0.8479166666666667,
+      "lore": "Neon drips, shadows whisper secrets.\"\n\n*(ASCII noir in seed 559582\u2014watch the Xes.)*",
+      "prev_hash": "0x5cf462d16d119b3d",
+      "this_hash": "0xc49b2900287baa88"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 843743,
+      "score": 0.8475,
+      "lore": "**\"Rain glints off a $=@X tilted hat. Past shines @#. Time's up, Neon Kid.\"**\n\n*(40 chars, using all given symbols while keeping that shadow-draped cyberpunk noir vibe.)*\n\nBreaking it down:\n- **Symbols used**:",
+      "prev_hash": "0xc49b2900287baa88",
+      "this_hash": "0x021d7cdfc57425ed"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 153547,
+      "score": 0.8475,
+      "lore": "Here are a few options, playing with the given constraints (seed 153547, position, and allowed characters):\n\n1. **X=#@: Data's dead.** (20 chars)\n2. **$=X. Code bleeds.** (18 chars",
+      "prev_hash": "0x021d7cdfc57425ed",
+      "this_hash": "0x588fb4c5d9f3703a"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 68136,
+      "score": 0.8475,
+      "lore": "**\"Neon rain hides neon sins.\"**\n\n*(The ASCII city sprawls in 10.8, 18.8, shadows pooling where light bends.)*",
+      "prev_hash": "0x588fb4c5d9f3703a",
+      "this_hash": "0x1774e59158584f99"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 594551,
+      "score": 0.8466666666666667,
+      "lore": "Here are a few options, using only the allowed characters and staying within the 40-character limit, geared toward a cyberpunk noir feel with seed 594551 and position (4.0, 4.1):\n\n1. **#X=@: Data's",
+      "prev_hash": "0x1774e59158584f99",
+      "this_hash": "0x394bd79133780500"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 991990,
+      "score": 0.84625,
+      "lore": "Neon rain hides a @ dollar = death.\"\n\n(Char count: 30)\n\n*Breakdown:*\n- **@** and **$** reflect noir's gritty, high-tech/money themes.\n- **=** and **. :** as punctuation add ambiguity (e.g., ",
+      "prev_hash": "0x394bd79133780500",
+      "this_hash": "0xef6eec3dd80954cf"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 757482,
+      "score": 0.8458333333333333,
+      "lore": "Here are a few options, playing with the provided characters and aiming for a cyberpunk noir feel, under 40 characters, based on the seed & position:\n\n1. **X=#: Data's dead.** (20 chars)\n2. **@$=Lost signal.** (1",
+      "prev_hash": "0xef6eec3dd80954cf",
+      "this_hash": "0xf76ffffaf2bdfc67"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 909573,
+      "score": 0.8454166666666667,
+      "lore": "**\"Rain slicks shadows. Neon whispers danger.\"**\n\n*(Neon lights glint off wet chrome, revealing a world of corruption and forgotten souls.)*",
+      "prev_hash": "0xf76ffffaf2bdfc67",
+      "this_hash": "0xbcab172699169264"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 785547,
+      "score": 0.845,
+      "lore": "Here are a few options, keeping within the constraints (seed 785547, pos 14.4, 14.9, chars #, $, ., :, =, @, X) and aiming for a cyberpunk noir vibe:\n\n1. **X=#. Data",
+      "prev_hash": "0xbcab172699169264",
+      "this_hash": "0x03b3a3d6a83f5586"
+    },
+    {
+      "source": "parallel_expedition_big_results.json",
+      "type": "expedition_witness",
+      "seed": 416040,
+      "score": 0.845,
+      "lore": "Here are a few cyberpunk noir one-liners (\u226440 chars) using the specified seed, position, and characters:\n\n1.  **X=@#: Data's dead. $ = lies.** (28 chars)\n2.  **.:X#@$ Equal parts rain",
+      "prev_hash": "0x03b3a3d6a83f5586",
+      "this_hash": "0xc4346008357b7b98"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 188330,
+      "score": 0.8441666666666666,
+      "lore": "**\"The neon ghosts whisper, but the rain drowns them out.\"**\n\n(ASCII view at (16.2, 3.4), facing 3.93 radians in seed 188330. Chars: #, $, ., :,",
+      "prev_hash": "0xc4346008357b7b98",
+      "this_hash": "0x9d33e345d6e5d8b2"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 90814,
+      "score": 0.8441666666666666,
+      "lore": "Rain poured down on the city's neon-drenched streets. I had a score to settle.",
+      "prev_hash": "0x9d33e345d6e5d8b2",
+      "this_hash": "0xf75a7c45cf18743c"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 579856,
+      "score": 0.84375,
+      "lore": "**\"The rain hates us all. Even the streetlights.\"**\n\n*(ASCII city looms, neon flickers between # and @. A lone figure in $ lingers, dripping.)*",
+      "prev_hash": "0xf75a7c45cf18743c",
+      "this_hash": "0x3e997cf86d3cb4da"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 658924,
+      "score": 0.84375,
+      "lore": "Rain-slicked chrome hides too many sins.\"\n\n(Or, for a grittier tone: \"The city whispers, neon turning lies to truth.\")",
+      "prev_hash": "0x3e997cf86d3cb4da",
+      "this_hash": "0xe0beec42f38ceadf"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 975230,
+      "score": 0.8433333333333334,
+      "lore": "Rain-soaked streets reflected neon despair. Detective De Santos' eyes scanned the crowded streets.",
+      "prev_hash": "0xe0beec42f38ceadf",
+      "this_hash": "0xf84057adc6c987b9"
+    },
+    {
+      "source": "parallel_expedition_results.json",
+      "type": "expedition_witness",
+      "seed": 748581,
+      "score": 0.8429166666666666,
+      "lore": "Rain pours down on the city's dirty dreams. The streetlights are my only friend.\"\n\n(Ascii view at 10.0, 31.8)",
+      "prev_hash": "0xf84057adc6c987b9",
+      "this_hash": "0x56982aebc1c82d77"
+    },
+    {
+      "source": "mine_004_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x56982aebc1c82d77",
+      "this_hash": "0x5f21e17a23dee516"
+    },
+    {
+      "source": "mine_005_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x5f21e17a23dee516",
+      "this_hash": "0x7971f5b929a732dd"
+    },
+    {
+      "source": "mine_big_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x7971f5b929a732dd",
+      "this_hash": "0x83b6ead6fe14e688"
+    },
+    {
+      "source": "mine_huge_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x83b6ead6fe14e688",
+      "this_hash": "0xea66663a58560813"
+    },
+    {
+      "source": "mine_long_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0xea66663a58560813",
+      "this_hash": "0x21041fb7d7915816"
+    },
+    {
+      "source": "mine_massive_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x21041fb7d7915816",
+      "this_hash": "0x49b7a5df213a42b8"
+    },
+    {
+      "source": "mine_mega_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x49b7a5df213a42b8",
+      "this_hash": "0x8f68e46c80f295d6"
+    },
+    {
+      "source": "mine_quantum_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x8f68e46c80f295d6",
+      "this_hash": "0x8ac1eef796f9583f"
+    },
+    {
+      "source": "test_final",
+      "type": "mine_witness",
+      "seed": null,
+      "score": null,
+      "lore": null,
+      "path": null,
+      "prev_hash": "0x8ac1eef796f9583f",
+      "this_hash": "0x063186cb28387166"
+    }
+  ]
+}
