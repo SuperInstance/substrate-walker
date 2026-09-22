@@ -1272,7 +1272,9 @@
       "jev_canon_worthy": 0.5,
       "jev_distinct_voice": 0.73,
       "jev_promote_threshold": 0.7,
-      "timestamp": "2026-09-22T22:10:00Z"
+      "timestamp": "2026-09-22T22:10:00Z",
+      "promoted_to_canon": true,
+      "promoted_via": "doctrine-anchor-probe (canon_worthy=0.72, cells_are_scars anchor)"
     },
     {
       "rank": 114,
@@ -1369,5 +1371,5 @@
       "timestamp": "2026-09-22T22:18:00Z"
     }
   ],
-  "promoted_to_canon_count": 0
+  "promoted_to_canon_count": 1
 }
