@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "fleet_canary": "0x024a555471370b18d",
+  "fleet_canary_input": "café Δ 日本語",
+  "hash_algorithm": "FNV-1a 64-bit",
+  "constants": {
+    "offset_basis": "0xcbf29ce484222325",
+    "prime": "0x100000001b3"
+  },
+  "reference_vectors": [
+    {"input": "", "expected": "0xcbf29ce484222325"},
+    {"input": "a", "expected": "0xaf63dc4c8601ec8c"},
+    {"input": "foobar", "expected": "0x85944171f73967e8"},
+    {"input": "abc", "expected": "0xe71fa2190541574b"},
+    {"input": "café Δ 日本語", "expected": "0x024a555471370b18d"},
+    {"input": "witness log is the prediction", "expected": "0x176137b542efe82a"}
+  ],
+  "ports": [
+    {"language": "python", "file": "canary_check.py", "status": "verified"},
+    {"language": "typescript", "file": "canary_check.ts", "status": "verified"},
+    {"language": "rust", "file": "canary_check_rust.rs", "status": "verified"},
+    {"language": "bash", "file": "canary_check_bash.sh", "status": "verified"},
+    {"language": "javascript_esm", "file": "canary_check.mjs", "status": "verified"}
+  ]
+}
