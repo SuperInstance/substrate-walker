@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "updated_at": "2026-09-22T16:46:58.234938",
+  "version": "2.2.0",
+  "updated_at": "2026-09-22T17:06:07.358134",
   "fnv_canary": "0x24a555471370b18d",
   "total_cells": 100,
   "best_score": 0.8683333333333333,
@@ -9,6 +9,12 @@
     "doctrine": 61,
     "canon": 36
   },
+  "voice_breakdown": {
+    "philosophical": 1,
+    "futurist": 2,
+    "narrativist": 2,
+    "structuralist": 20
+  },
   "entries": [
     {
       "rank": 1,
@@ -16,9 +22,10 @@
       "path": "canon/cells/cell_001.md",
       "seed": 3289967,
       "score": 0.8683333333333333,
-      "lore": "Rain-soaked streets, neon lights flicker, shadows hide secrets.\n\nWhat do you do?",
+      "lore": "Monolithic brutalist towers rise from a flooded grid, their jagged facades pierced by neon glyphs and decaying data streams.",
       "type": "doctrine-prime",
-      "hash": "0xe67a5cfe592b2e10"
+      "voice": "structuralist",
+      "hash": "0x1fc6908a43c74231"
     },
     {
       "rank": 2,
@@ -26,9 +33,10 @@
       "path": "canon/cells/cell_002.md",
       "seed": 1504276,
       "score": 0.8675,
-      "lore": "Rains pour down on city streets like a dirty shroud",
+      "lore": "In the city's labyrinthine heart, towering skyscrapers with angular, aerodynamic designs pierced the smog-choked skies, their steel and glass facades reflecting the neon-lit darkness.",
       "type": "doctrine-prime",
-      "hash": "0x777a2276260e36b0"
+      "voice": "structuralist",
+      "hash": "0xd3b6a552019de067"
     },
     {
       "rank": 3,
@@ -38,6 +46,7 @@
       "score": 0.8670833333333333,
       "lore": "The rain-soaked streets of Neo-Tokyo.\n\nYou are standing in a dimly lit alleyway, surrounded by towering skyscrapers. The air is thick with the smell of smoke and desperation. A lone streetlight flickers above, casting eerie shadows on the ground.\n\nYour character is a",
       "type": "doctrine-prime",
+      "voice": "",
       "hash": "0xdb036f65ca0c5fb0"
     },
     {
@@ -46,9 +55,10 @@
       "path": "canon/cells/cell_004.md",
       "seed": 302238,
       "score": 0.8666666666666667,
-      "lore": "Rain falls on the city's dark streets.",
+      "lore": "In the neon-drenched sprawl of New Eden, towering skyscrapers pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of verticality.",
       "type": "doctrine",
-      "hash": "0xbe63f700d5dbfcf9"
+      "voice": "structuralist",
+      "hash": "0xff3715d343c633ee"
     },
     {
       "rank": 5,
@@ -56,9 +66,10 @@
       "path": "canon/cells/cell_005.md",
       "seed": 550551,
       "score": 0.8666666666666667,
-      "lore": "Rain-soaked streets. Neon lights flicker. One last case.",
+      "lore": "A labyrinthine metropolis sprawls across a scorched terrain, its skeletal skyscrapers twisted in impossible geometries, a testament to humanity's hubris and despair.",
       "type": "doctrine",
-      "hash": "0xcd4b4de8974d6429"
+      "voice": "structuralist",
+      "hash": "0xe7c8bd7475eeb5e5"
     },
     {
       "rank": 6,
@@ -66,9 +77,10 @@
       "path": "canon/cells/cell_006.md",
       "seed": 662290,
       "score": 0.8666666666666667,
-      "lore": "Rainy streets, dark alleys. She was supposed to meet me here.",
+      "lore": "In the labyrinthine metropolis of New Erebus, the synthetic and the organic coalesce, yet the artificial abyss of the 'Net' devours all truth, and the city itself is a sentient, labyrinthine entity, devouring its own inhabitants.",
       "type": "doctrine",
-      "hash": "0x9fa395a63e3ae506"
+      "voice": "philosophical",
+      "hash": "0xc1cd7f333ca56e7a"
     },
     {
       "rank": 7,
@@ -76,9 +88,10 @@
       "path": "canon/cells/cell_007.md",
       "seed": 2184160,
       "score": 0.8666666666666667,
-      "lore": "Rain falls on the city's cold, dark streets.",
+      "lore": "In the dystopian metropolis of Neo-Tokyo, the enigmatic Architect, Ryker, weaves a tapestry of steel and neon, his creations a testament to humanity's fleeting grip on the city's crumbling landscape.",
       "type": "doctrine",
-      "hash": "0xf729e766be5ef406"
+      "voice": "structuralist",
+      "hash": "0xe5e078243374ea16"
     },
     {
       "rank": 8,
@@ -86,9 +99,10 @@
       "path": "canon/cells/cell_008.md",
       "seed": 152417070,
       "score": 0.86625,
-      "lore": "Rain-soaked streets, a lone figure strolls alone.\n\nWhat action?",
+      "lore": "Brutalist megastructures erupt in ASCII grids, their jagged data-towers and fractured facades encoding a decaying cyberpunk metropolis.",
       "type": "doctrine",
-      "hash": "0xa9e207461c88cddd"
+      "voice": "structuralist",
+      "hash": "0x05a6a6bf5bec6588"
     },
     {
       "rank": 9,
@@ -98,6 +112,7 @@
       "score": 0.86625,
       "lore": "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x67c3df95e0d57338"
     },
     {
@@ -106,9 +121,10 @@
       "path": "canon/cells/cell_010.md",
       "seed": 16777171,
       "score": 0.86625,
-      "lore": "Rain soaks the streets of Neo-Tokyo.",
+      "lore": "Monolithic data-temples rise in staggered brutalist clusters, their fractured facades pierced by neon circuitry and shadowed by perpetual rain.",
       "type": "doctrine",
-      "hash": "0x6fd5d6a6106c3c40"
+      "voice": "structuralist",
+      "hash": "0xb87c38ddf1e51cf7"
     },
     {
       "rank": 11,
@@ -116,9 +132,10 @@
       "path": "canon/cells/cell_011.md",
       "seed": 39509,
       "score": 0.86625,
-      "lore": "Rain pours down on neon-lit streets. A lone figure stands at the edge of shadows.",
+      "lore": "Brutalist modular megastructures rise from a flooded grid, their jagged towers pierced by neon data-streams and shadowed by decay.",
       "type": "doctrine",
-      "hash": "0x57a37b7b6686f147"
+      "voice": "structuralist",
+      "hash": "0x7b41fb18eef963d7"
     },
     {
       "rank": 12,
@@ -126,9 +143,10 @@
       "path": "canon/cells/cell_012.md",
       "seed": 69006,
       "score": 0.86625,
-      "lore": "Rain pours down on wet streets, neon signs reflecting in puddles.",
+      "lore": "The sprawling metropolis of Neo-Tokyo unfolded like a fractured crystal, its angular skyscrapers and neon-drenched streets a testament to the city's turbulent, asymmetrical beauty.",
       "type": "doctrine",
-      "hash": "0x596e8046a96b05f7"
+      "voice": "structuralist",
+      "hash": "0x18ff2890d61a7b21"
     },
     {
       "rank": 13,
@@ -136,9 +154,10 @@
       "path": "canon/cells/cell_013.md",
       "seed": 11751601,
       "score": 0.8658333333333333,
-      "lore": "Rains pour down on neon-lit streets, umbrellas scarce.",
+      "lore": "A vertical grid of monolithic towers rises from a flooded, circuit-like ground plane, their fragmented facades forming a brutalist, dystopian cityscape.",
       "type": "doctrine",
-      "hash": "0x0e5068f009c3f7bc"
+      "voice": "structuralist",
+      "hash": "0x791a6cc3813b1c3b"
     },
     {
       "rank": 14,
@@ -146,9 +165,10 @@
       "path": "canon/cells/cell_014.md",
       "seed": 99310068,
       "score": 0.8658333333333333,
-      "lore": "Rain-soaked streets, flickering neon, and the city's dark pulse beats on.\n\nWhat do you do?",
+      "lore": "The city's fractured grid dissolves into a recursive lattice of glitching data-towers, where corrupted code and neon ruins intertwine.",
       "type": "doctrine",
-      "hash": "0x5e9ff2c35995b1e1"
+      "voice": "structuralist",
+      "hash": "0x9bace2aff9cefc5a"
     },
     {
       "rank": 15,
@@ -156,9 +176,10 @@
       "path": "canon/cells/cell_015.md",
       "seed": 1668051,
       "score": 0.8658333333333333,
-      "lore": "Rain dripped from the city's dark spine, a perpetual shroud on the streets of Neo-Eden.",
+      "lore": "In the city's labyrinthine underbelly, a maze of metallic spires and angular skyscrapers pierced the smog-choked sky, a testament to humanity's insatiable quest for vertical dominance.",
       "type": "doctrine",
-      "hash": "0x11b9121b8d1bcc10"
+      "voice": "structuralist",
+      "hash": "0x58ce242b1aebd904"
     },
     {
       "rank": 16,
@@ -168,6 +189,7 @@
       "score": 0.8658333333333333,
       "lore": "Rainy streets, dark alleys, and a future lost.\n\nYou are in the sprawling metropolis of New Eden, where corporations reign and the streets are a battleground for those who refuse to be silenced. Your name is Jack, a former netrunner turned private investigator, seeking to uncover the truth in",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x42def2472001fa98"
     },
     {
@@ -176,9 +198,10 @@
       "path": "canon/cells/cell_017.md",
       "seed": 326028,
       "score": 0.8658333333333333,
-      "lore": "Rain pours down on city streets. Shadows hide truths.",
+      "lore": "In slumber, New Erebo stirs, its skyscrapers whispering secrets to the wind, its streets a tapestry of dreams and darkness, its voice a perpetual whisper: 'Arise, my child, the city's hunger is a hunger for you.'",
       "type": "doctrine",
-      "hash": "0x5392bf63085dcb19"
+      "voice": "futurist",
+      "hash": "0xd9db6f1515b0d579"
     },
     {
       "rank": 18,
@@ -186,9 +209,10 @@
       "path": "canon/cells/cell_018.md",
       "seed": 1955253,
       "score": 0.8654166666666666,
-      "lore": "The rain soaks the city's neon-drenched streets, a perpetual downpour that hides the truth.",
+      "lore": "In this cyberpunk cityscape, crystalline spires pierce the smog-choked skies, their angular geometry a testament to the city's underlying lattice of intersecting circuitry and steel.",
       "type": "doctrine",
-      "hash": "0x29e3e7fdda292d77"
+      "voice": "structuralist",
+      "hash": "0xa2be0dcd34ef0fba"
     },
     {
       "rank": 19,
@@ -196,9 +220,10 @@
       "path": "canon/cells/cell_019.md",
       "seed": 67108827,
       "score": 0.8654166666666666,
-      "lore": "Rain patters on wet streets, lone figure disappears into shadows.",
+      "lore": "A dense grid of monolithic towers rises from liquid data, their fragmented facades reflecting neon and decay.",
       "type": "doctrine",
-      "hash": "0xf16807f3c928c835"
+      "voice": "structuralist",
+      "hash": "0xb3fcbea4a722cdf3"
     },
     {
       "rank": 20,
@@ -206,9 +231,10 @@
       "path": "canon/cells/cell_020.md",
       "seed": 271216,
       "score": 0.8654166666666666,
-      "lore": "Rain-soaked streets, flickering neon, and the city's dark underbelly.",
+      "lore": "In the cyberpunk city's labyrinthine undercroft, crystalline spires pierced the smog-choked sky, their faceted geometry a testament to the architect's obsession with fractal perfection.",
       "type": "doctrine",
-      "hash": "0xbac14a9f12329de5"
+      "voice": "structuralist",
+      "hash": "0x7d80f69065be321a"
     },
     {
       "rank": 21,
@@ -218,6 +244,7 @@
       "score": 0.8654166666666666,
       "lore": "Rainy night, shadows dance, streets of New Eden.\n\nWhat do you do?\n\nA) Investigate the source of the darkness\nB) Follow the faint glow of a holographic sign\nC) Approach the lone figure standing at the edge of the light\nD) Retreat into the alley,",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xaf717424330b7138"
     },
     {
@@ -226,9 +253,10 @@
       "path": "canon/cells/cell_022.md",
       "seed": 995930,
       "score": 0.8654166666666666,
-      "lore": "You step into the dimly lit alley, the rain-soaked streets of Neo-Tokyo stretching out before you like a dystopian canvas.",
+      "lore": "As I walk down the rain-slicked streets of New Eden, the neon glow of holographic advertisements clashes with the city's perpetual darkness, a cacophony of light and sound that assaults my senses.",
       "type": "doctrine",
-      "hash": "0xeec38f9a14c9d332"
+      "voice": "narrativist",
+      "hash": "0x269797ae45d70f41"
     },
     {
       "rank": 23,
@@ -236,9 +264,10 @@
       "path": "canon/cells/cell_023.md",
       "seed": 327067,
       "score": 0.865,
-      "lore": "Rain pours down on the city's dark streets.",
+      "lore": "The city's veins pulsed with a dark, electric heartbeat, whispering ancient secrets to the wind, as Kaelin's footsteps echoed through the streets, a siren's call to the shadows that shrouded its soul.",
       "type": "doctrine",
-      "hash": "0x2c20864680298cb0"
+      "voice": "futurist",
+      "hash": "0x2af054fec4551969"
     },
     {
       "rank": 24,
@@ -246,9 +275,10 @@
       "path": "canon/cells/cell_024.md",
       "seed": 3371,
       "score": 0.865,
-      "lore": "Rain falls on wet streets, neon lights a distant hum.",
+      "lore": "A sprawling modular grid of monolithic towers and crystalline voids forms a fractured, neon-drenched urban labyrinth of recursive density.",
       "type": "doctrine",
-      "hash": "0xe8cf3072e26803e2"
+      "voice": "structuralist",
+      "hash": "0x8bb59951c427a773"
     },
     {
       "rank": 25,
@@ -256,9 +286,10 @@
       "path": "canon/cells/cell_025.md",
       "seed": 5659,
       "score": 0.865,
-      "lore": "Rain-soaked streets, neon whispers, and the city's cold kiss.",
+      "lore": "A vertical megastructure grid of blackened spires and luminous data veins, its brutalist skeleton carved by rain and neon.",
       "type": "doctrine",
-      "hash": "0xf29b5b73ab40a9b8"
+      "voice": "structuralist",
+      "hash": "0x97b1e78e0d50dcb0"
     },
     {
       "rank": 26,
@@ -268,6 +299,7 @@
       "score": 0.865,
       "lore": "Rain-soaked streets. Neon glare. Shadow's lurking.\n\nWhat do you do?\n\nA) Investigate the source of the light\nB) Head towards the dark alley\nC) Approach the suspicious character\nD) Keep moving, can't stay in one spot",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x93cafe6b38bc2a05"
     },
     {
@@ -276,9 +308,10 @@
       "path": "canon/cells/cell_027.md",
       "seed": 2388205,
       "score": 0.865,
-      "lore": "Rain pours down on the city's neon sprawl.",
+      "lore": "The rain-soaked streets of Neo-Tokyo's undercity gleam like a diseased mirror, reflecting the neon hellscapes that cling to its crumbling skyscrapers like a bad dream.",
       "type": "doctrine",
-      "hash": "0xdbe22c5b75eba33a"
+      "voice": "narrativist",
+      "hash": "0x76915d0c6ef36364"
     },
     {
       "rank": 28,
@@ -286,9 +319,10 @@
       "path": "canon/cells/cell_028.md",
       "seed": 2464645,
       "score": 0.8645833333333334,
-      "lore": "Rainy streets, neon shadows, and a whispered promise: \"Meet me at Club Europa.",
+      "lore": "In the city's labyrinthine underbelly, a sprawling metropolis of interconnected domes and spires stretched like a mechanical organism, its skeletal framework a testament to humanity's unyielding pursuit of verticality.",
       "type": "doctrine",
-      "hash": "0x22a5da98bd0cb5b7"
+      "voice": "structuralist",
+      "hash": "0x6c2f15198a6cd267"
     },
     {
       "rank": 29,
@@ -296,9 +330,10 @@
       "path": "canon/cells/cell_029.md",
       "seed": 18926250,
       "score": 0.8645833333333334,
-      "lore": "Rain-soaked streets, neon lit.\n\nWhat action? (type 'n' to north, 's' to south, etc.)",
+      "lore": "Brutalist modular megastructures rise in fragmented crystalline clusters, their jagged silhouettes pierced by neon-lit interstitial voids and rain-slicked reflective surfaces.",
       "type": "doctrine",
-      "hash": "0x84dc5487ce901fba"
+      "voice": "structuralist",
+      "hash": "0x5a5d4aceea1d5209"
     },
     {
       "rank": 30,
@@ -306,9 +341,10 @@
       "path": "canon/cells/cell_030.md",
       "seed": 95732187,
       "score": 0.8645833333333334,
-      "lore": "Rain drips from the neon sky, a lonely raincoat clings to me.",
+      "lore": "Brutalist data-towers rise from a flooded grid, their fractured facades reflecting neon static across a submerged cyberpunk cityscape.",
       "type": "doctrine",
-      "hash": "0xc63c8d670b241323"
+      "voice": "structuralist",
+      "hash": "0x289ce2d4f7edbea5"
     },
     {
       "rank": 31,
@@ -318,6 +354,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain pours on the city's dark alleys.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x8874892a63c8901d"
     },
     {
@@ -328,6 +365,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain patters on wet streets, a lone figure walks.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x2042b6760fb09bd6"
     },
     {
@@ -338,6 +376,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain falls on dirty streets.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x3bcddef71cecc93f"
     },
     {
@@ -348,6 +387,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain slicks the pavement, city's dark underbelly.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x84a71cf47ae58a16"
     },
     {
@@ -358,6 +398,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain pours down on darkened streets.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xbc7b7b09fb3a4bbb"
     },
     {
@@ -368,6 +409,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain pours down on streets of New Eden.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xddd09220db3258ea"
     },
     {
@@ -378,6 +420,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain pours down on neon drenched streets.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x45723784efd0cfc1"
     },
     {
@@ -388,6 +431,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain falls hard on neon streets.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x4db70dca549bb4bc"
     },
     {
@@ -398,6 +442,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain pours down on a city in perpetual night.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x55b0b95f11d6221d"
     },
     {
@@ -408,6 +453,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain pours down on neon-soaked streets.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x7f06583998e6e2ac"
     },
     {
@@ -418,6 +464,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain-soaked streets. Neon signs blur. Victim found dead.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xf2b45157a66da935"
     },
     {
@@ -428,6 +475,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain-soaked streets shrouded in neon darkness.\n\nWhat do you do?",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xd1462256de3090eb"
     },
     {
@@ -438,6 +486,7 @@
       "score": 0.8645833333333334,
       "lore": "Raining on the neon streets of New Eden\"\n\nWhat do you do?\n\n(Note: you can enter any valid command, such as movement directions, actions, or questions. I'll respond with the outcome.)",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x036d4885dd2785bd"
     },
     {
@@ -448,6 +497,7 @@
       "score": 0.8645833333333334,
       "lore": "I stepped out of the rain-soaked alley, eyes scanning the cityscape.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xc5004529f3744fbf"
     },
     {
@@ -458,6 +508,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain slicks the pavement, a lone streetlamp casts a ghoulish glow.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x85409e14f5c3640d"
     },
     {
@@ -468,6 +519,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain falls on the city's dark streets, a lone figure in the shadows.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x96c7efc8933cda93"
     },
     {
@@ -478,6 +530,7 @@
       "score": 0.8645833333333334,
       "lore": "Rain drips off the gumshoe's trenchcoat.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x798eebd563af2e41"
     },
     {
@@ -488,6 +541,7 @@
       "score": 0.8642849344978166,
       "lore": "Rain slicks the streets of New Eden, a lone shadow lingers.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x21f692cbe18e46c7"
     },
     {
@@ -498,6 +552,7 @@
       "score": 0.8641666666666666,
       "lore": "Rainy streets, neon glare. Crisp air, sharp lies.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x82813c95eb5a66ea"
     },
     {
@@ -508,6 +563,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain pours on the neon-soaked streets.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xc9b0a383aa0dffbe"
     },
     {
@@ -518,6 +574,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain slicks the pavement.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x62a6480808d32186"
     },
     {
@@ -528,6 +585,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain-soaked streets, neon shadows, corruption reigns.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xe640a7e8379410c6"
     },
     {
@@ -538,6 +596,7 @@
       "score": 0.8641666666666666,
       "lore": "Rainy night streets, hardboiled eyes scanning",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xf1d070b3922ff199"
     },
     {
@@ -548,6 +607,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain soaks streets, neon drowns the night.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x705c40ca215e8a4a"
     },
     {
@@ -558,6 +618,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain-soaked streets swallowed the last embers of daybreak.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xa89dfd8b7fdb89e1"
     },
     {
@@ -568,6 +629,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain pours down on the city's dirty streets.\"\n\nWhat do you want to do?\n\n(Note: I'll be using a simplified ASCII art representation of the environment, with characters representing the buildings, roads, and other features. The \".\"s represent the rain pouring down. Your actions will be displayed in",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x2868f64e258ac856"
     },
     {
@@ -578,6 +640,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain lashes streets, neon blinds, the city's dark heart beats.\"\n\nWhat do you do?\n\n(Note: you can type commands like 'move north' or 'investigate alleyway')",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xb02679c8bc262ce4"
     },
     {
@@ -588,6 +651,7 @@
       "score": 0.8641666666666666,
       "lore": "A dimly lit alleyway, rain-soaked streets, and the distant hum of holographic advertisements. What's your move?",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xa13aef64dd4f9352"
     },
     {
@@ -598,6 +662,7 @@
       "score": 0.8641666666666666,
       "lore": "Rains pour down on wet neon streets...",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x8f657b9164e81207"
     },
     {
@@ -608,6 +673,7 @@
       "score": 0.8641666666666666,
       "lore": "The rain-soaked streets of Neo-Tokyo stretch out before me, a labyrinth of shadows and neon lights. I stand outside the rain-drenched alley, a cigarette burning in the corner of my mouth.\n\nI look down at my cyberdeck, the streets' secrets and lies laid bare before me",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xe1041bfca0bc8d21"
     },
     {
@@ -618,6 +684,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain pours down on neon streets. A lone figure emerges.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xfd999694969a6ca0"
     },
     {
@@ -628,6 +695,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain-soaked streets. Neon-lit alleys. One last gig.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0xab3ce834e80872d5"
     },
     {
@@ -638,6 +706,7 @@
       "score": 0.8641666666666666,
       "lore": "Rain-soaked streets swallowed the last of the neon.\n\nWhat would you like to do?",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x778a5f3e6138401b"
     },
     {
@@ -648,6 +717,7 @@
       "score": 0.8641666666666666,
       "lore": "The rain-soaked streets of Neo-Tokyo stretched out before you like a diseased serpent.",
       "type": "doctrine",
+      "voice": "",
       "hash": "0x1612e00905439973"
     },
     {
@@ -658,6 +728,7 @@
       "score": 0.8638391557496361,
       "lore": "Rain pounds streets of New Erebo, a neon-lit abyss",
       "type": "canon",
+      "voice": "",
       "hash": "0xec6a691ac3f0a5e2"
     },
     {
@@ -668,6 +739,7 @@
       "score": 0.86375,
       "lore": "Rain pours down on streets of Neo-Tokyo, neon lights reflecting off wet pavement.",
       "type": "canon",
+      "voice": "",
       "hash": "0x3f1ea8a7572bc373"
     },
     {
@@ -678,6 +750,7 @@
       "score": 0.86375,
       "lore": "Rain drips from a lone streetlamp",
       "type": "canon",
+      "voice": "",
       "hash": "0xd0ef54e5333663ec"
     },
     {
@@ -688,6 +761,7 @@
       "score": 0.86375,
       "lore": "Rain pours on wet streets, a lone figure emerges from the neon haze",
       "type": "canon",
+      "voice": "",
       "hash": "0x1a83f9e14ec5aaa3"
     },
     {
@@ -698,6 +772,7 @@
       "score": 0.86375,
       "lore": "Rain soaks streets, neon lights bleed\"\n\n(The player is in a dimly lit alleyway, the only sound the patter of rain on the pavement. The camera pans down to the player's character, a worn leather duster coat and fedora-clad figure, eyes fixed on a large",
       "type": "canon",
+      "voice": "",
       "hash": "0xed3c63c20a68bdd3"
     },
     {
@@ -708,6 +783,7 @@
       "score": 0.86375,
       "lore": "Rain-soaked streets, neon haze, shadows hide the truth.",
       "type": "canon",
+      "voice": "",
       "hash": "0xb119310e14f36df7"
     },
     {
@@ -718,6 +794,7 @@
       "score": 0.86375,
       "lore": "Rain pours down on a deserted alleyway.",
       "type": "canon",
+      "voice": "",
       "hash": "0x33920716ad288157"
     },
     {
@@ -728,6 +805,7 @@
       "score": 0.86375,
       "lore": "Rain slicks the pavement.",
       "type": "canon",
+      "voice": "",
       "hash": "0x61fdb0d60780bfaf"
     },
     {
@@ -738,6 +816,7 @@
       "score": 0.86375,
       "lore": "Rain poured down on the city like a dirty shroud.",
       "type": "canon",
+      "voice": "",
       "hash": "0x62edfc40714931a8"
     },
     {
@@ -748,6 +827,7 @@
       "score": 0.86375,
       "lore": "Rainy streets, neon lights flicker, a lone figure stands at the edge of the city",
       "type": "canon",
+      "voice": "",
       "hash": "0x539e7101056cf630"
     },
     {
@@ -758,6 +838,7 @@
       "score": 0.86375,
       "lore": "Rain pours down on the city's dirty streets.",
       "type": "canon",
+      "voice": "",
       "hash": "0x37d1fe4e52894f53"
     },
     {
@@ -768,6 +849,7 @@
       "score": 0.86375,
       "lore": "Rain lashes down on the deserted streets of New Haven.",
       "type": "canon",
+      "voice": "",
       "hash": "0xedecef7ce5fe9945"
     },
     {
@@ -778,6 +860,7 @@
       "score": 0.86375,
       "lore": "Rain pours down on the streets of Neo-Tokyo, a city that never sleeps.",
       "type": "canon",
+      "voice": "",
       "hash": "0xf005fc12624754ca"
     },
     {
@@ -788,6 +871,7 @@
       "score": 0.86375,
       "lore": "Rainy streets, dimly lit alleys. Lost souls prowl.",
       "type": "canon",
+      "voice": "",
       "hash": "0x2365d43e1b3ad78a"
     },
     {
@@ -798,6 +882,7 @@
       "score": 0.86375,
       "lore": "Rain lashes down, neon lights flicker.",
       "type": "canon",
+      "voice": "",
       "hash": "0x0a4c1840e990283a"
     },
     {
@@ -808,6 +893,7 @@
       "score": 0.86375,
       "lore": "Rain patters on the wet pavement. Neon lights reflect off a puddle, casting a distorted glow.",
       "type": "canon",
+      "voice": "",
       "hash": "0xb35913f4aeb8cae3"
     },
     {
@@ -818,6 +904,7 @@
       "score": 0.86375,
       "lore": "Rain pours down, casting shadows on the city's bleak streets.\n\nWhat do you do?",
       "type": "canon",
+      "voice": "",
       "hash": "0x3e5ef0744533ee4c"
     },
     {
@@ -828,6 +915,7 @@
       "score": 0.86375,
       "lore": "Rain slicks the alley's dark floor.",
       "type": "canon",
+      "voice": "",
       "hash": "0x64b9d7320b1519f7"
     },
     {
@@ -838,6 +926,7 @@
       "score": 0.86375,
       "lore": "Rain-soaked streets. Neon haze. A lone silhouette.",
       "type": "canon",
+      "voice": "",
       "hash": "0xa8487119fd112c7c"
     },
     {
@@ -848,6 +937,7 @@
       "score": 0.86375,
       "lore": "Rain drips like tears on the city's dark skin.",
       "type": "canon",
+      "voice": "",
       "hash": "0xe5239e32c3f7d1ec"
     },
     {
@@ -858,6 +948,7 @@
       "score": 0.86375,
       "lore": "Rain falls on the city's dirty streets.",
       "type": "canon",
+      "voice": "",
       "hash": "0x610d8085273f7664"
     },
     {
@@ -868,6 +959,7 @@
       "score": 0.86375,
       "lore": "Rainy streets, empty eyes.",
       "type": "canon",
+      "voice": "",
       "hash": "0x59c4e52bb7b18add"
     },
     {
@@ -878,6 +970,7 @@
       "score": 0.86375,
       "lore": "Rain pours down like sin's dark tears.",
       "type": "canon",
+      "voice": "",
       "hash": "0x0cd661370645be3f"
     },
     {
@@ -888,6 +981,7 @@
       "score": 0.86375,
       "lore": "Rain slanted down the neon-drenched streets.",
       "type": "canon",
+      "voice": "",
       "hash": "0xd098ccd40a6dd26b"
     },
     {
@@ -898,6 +992,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain-soaked streets.",
       "type": "canon",
+      "voice": "",
       "hash": "0xb6b059dbdb0688a2"
     },
     {
@@ -908,6 +1003,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain pattered on the alley's dark slick.",
       "type": "canon",
+      "voice": "",
       "hash": "0xfdd2a599e21066a8"
     },
     {
@@ -918,6 +1014,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain slicks streets of Neo-Tokyo, shadows hide secrets.\n\nWhat do you do?",
       "type": "canon",
+      "voice": "",
       "hash": "0xc2b8143327268614"
     },
     {
@@ -928,6 +1025,7 @@
       "score": 0.8633333333333333,
       "lore": "Rainy streets a haze of neon. \n\nWhat do you do?",
       "type": "canon",
+      "voice": "",
       "hash": "0x620126da68ced0ae"
     },
     {
@@ -938,6 +1036,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain slams against the alleyway's neon-drenched walls.",
       "type": "canon",
+      "voice": "",
       "hash": "0x1b8a14aa38b5c16a"
     },
     {
@@ -948,6 +1047,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain-soaked streets, a lone figure emerges.\n\nWhat do you want to do?",
       "type": "canon",
+      "voice": "",
       "hash": "0x5a60429f8abed334"
     },
     {
@@ -958,6 +1058,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain slicks the pavement. Shadows swallow streets.",
       "type": "canon",
+      "voice": "",
       "hash": "0x3d20d2cbf558143b"
     },
     {
@@ -968,6 +1069,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain pours on the city's dark streets.",
       "type": "canon",
+      "voice": "",
       "hash": "0x4a5764472bfb98e0"
     },
     {
@@ -978,6 +1080,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain falls on empty streets.",
       "type": "canon",
+      "voice": "",
       "hash": "0xf7e293f4b8eb36fd"
     },
     {
@@ -988,6 +1091,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain-soaked streets. Neon screams.",
       "type": "canon",
+      "voice": "",
       "hash": "0x15cd57107cd946d7"
     },
     {
@@ -998,6 +1102,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain pours down on the city like a dirty mistress",
       "type": "canon",
+      "voice": "",
       "hash": "0x6cbbb2021fa7e77a"
     },
     {
@@ -1008,6 +1113,7 @@
       "score": 0.8633333333333333,
       "lore": "Rain patters on wet streets. Neon signs flicker.",
       "type": "canon",
+      "voice": "",
       "hash": "0xf3e016f61aa5a988"
     }
   ]

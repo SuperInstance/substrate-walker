@@ -7,6 +7,7 @@
 **score**: 0.8645833333333334
 **seed**: 39621
 **path**: straight_east
+**voice**: 
 **lore**: "Rain-soaked streets shrouded in neon darkness.
 
 What do you do?"
@@ -14,12 +15,7 @@ What do you do?"
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 39621.
-This lore emerged from cell density patterns ranked #42 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #42 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

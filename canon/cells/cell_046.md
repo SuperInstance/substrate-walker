@@ -7,17 +7,13 @@
 **score**: 0.8645833333333334
 **seed**: 3801903
 **path**: straight_east
+**voice**: 
 **lore**: "Rain falls on the city's dark streets, a lone figure in the shadows."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 3801903.
-This lore emerged from cell density patterns ranked #46 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #46 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

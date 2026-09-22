@@ -7,17 +7,13 @@
 **score**: 0.8645833333333334
 **seed**: 44279
 **path**: straight_east
+**voice**: 
 **lore**: "Rain pours down on neon-soaked streets."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 44279.
-This lore emerged from cell density patterns ranked #40 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #40 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

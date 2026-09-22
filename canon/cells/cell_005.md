@@ -7,21 +7,17 @@
 **score**: 0.8666666666666667
 **seed**: 550551
 **path**: straight_east
-**lore**: "Rain-soaked streets. Neon lights flicker. One last case."
+**voice**: structuralist
+**lore**: "A labyrinthine metropolis sprawls across a scorched terrain, its skeletal skyscrapers twisted in impossible geometries, a testament to humanity's hubris and despair."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 550551.
-This lore emerged from cell density patterns ranked #5 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #5 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xcd4b4de8974d6429` (FNV-1a 64-bit)
+`0xe7c8bd7475eeb5e5` (FNV-1a 64-bit)
 
 ## Witness
 

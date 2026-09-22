@@ -7,21 +7,17 @@
 **score**: 0.8675
 **seed**: 1504276
 **path**: straight_east
-**lore**: "Rains pour down on city streets like a dirty shroud"
+**voice**: structuralist
+**lore**: "In the city's labyrinthine heart, towering skyscrapers with angular, aerodynamic designs pierced the smog-choked skies, their steel and glass facades reflecting the neon-lit darkness."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1504276.
-This lore emerged from cell density patterns ranked #2 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #2 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x777a2276260e36b0` (FNV-1a 64-bit)
+`0xd3b6a552019de067` (FNV-1a 64-bit)
 
 ## Witness
 

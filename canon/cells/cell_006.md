@@ -7,21 +7,17 @@
 **score**: 0.8666666666666667
 **seed**: 662290
 **path**: straight_east
-**lore**: "Rainy streets, dark alleys. She was supposed to meet me here."
+**voice**: philosophical
+**lore**: "In the labyrinthine metropolis of New Erebus, the synthetic and the organic coalesce, yet the artificial abyss of the 'Net' devours all truth, and the city itself is a sentient, labyrinthine entity, devouring its own inhabitants."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 662290.
-This lore emerged from cell density patterns ranked #6 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #6 across many tested seeds. Voice: philosophical.
 
 ## Cell Hash
 
-`0x9fa395a63e3ae506` (FNV-1a 64-bit)
+`0xc1cd7f333ca56e7a` (FNV-1a 64-bit)
 
 ## Witness
 

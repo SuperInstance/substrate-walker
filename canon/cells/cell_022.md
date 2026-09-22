@@ -7,21 +7,17 @@
 **score**: 0.8654166666666666
 **seed**: 995930
 **path**: straight_east
-**lore**: "You step into the dimly lit alley, the rain-soaked streets of Neo-Tokyo stretching out before you like a dystopian canvas."
+**voice**: narrativist
+**lore**: "As I walk down the rain-slicked streets of New Eden, the neon glow of holographic advertisements clashes with the city's perpetual darkness, a cacophony of light and sound that assaults my senses."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 995930.
-This lore emerged from cell density patterns ranked #22 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #22 across many tested seeds. Voice: narrativist.
 
 ## Cell Hash
 
-`0xeec38f9a14c9d332` (FNV-1a 64-bit)
+`0x269797ae45d70f41` (FNV-1a 64-bit)
 
 ## Witness
 

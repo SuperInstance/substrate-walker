@@ -7,21 +7,17 @@
 **score**: 0.865
 **seed**: 3371
 **path**: straight_east
-**lore**: "Rain falls on wet streets, neon lights a distant hum."
+**voice**: structuralist
+**lore**: "A sprawling modular grid of monolithic towers and crystalline voids forms a fractured, neon-drenched urban labyrinth of recursive density."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 3371.
-This lore emerged from cell density patterns ranked #24 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #24 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xe8cf3072e26803e2` (FNV-1a 64-bit)
+`0x8bb59951c427a773` (FNV-1a 64-bit)
 
 ## Witness
 

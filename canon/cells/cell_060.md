@@ -7,6 +7,7 @@
 **score**: 0.8641666666666666
 **seed**: 636805
 **path**: straight_east
+**voice**: 
 **lore**: "The rain-soaked streets of Neo-Tokyo stretch out before me, a labyrinth of shadows and neon lights. I stand outside the rain-drenched alley, a cigarette burning in the corner of my mouth.
 
 I look down at my cyberdeck, the streets' secrets and lies laid bare before me"
@@ -14,12 +15,7 @@ I look down at my cyberdeck, the streets' secrets and lies laid bare before me"
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 636805.
-This lore emerged from cell density patterns ranked #60 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #60 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

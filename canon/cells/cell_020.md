@@ -7,21 +7,17 @@
 **score**: 0.8654166666666666
 **seed**: 271216
 **path**: straight_east
-**lore**: "Rain-soaked streets, flickering neon, and the city's dark underbelly."
+**voice**: structuralist
+**lore**: "In the cyberpunk city's labyrinthine undercroft, crystalline spires pierced the smog-choked sky, their faceted geometry a testament to the architect's obsession with fractal perfection."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 271216.
-This lore emerged from cell density patterns ranked #20 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #20 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xbac14a9f12329de5` (FNV-1a 64-bit)
+`0x7d80f69065be321a` (FNV-1a 64-bit)
 
 ## Witness
 

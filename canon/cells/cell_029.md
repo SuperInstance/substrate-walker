@@ -7,23 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 18926250
 **path**: straight_east
-**lore**: "Rain-soaked streets, neon lit.
-
-What action? (type 'n' to north, 's' to south, etc.)"
+**voice**: structuralist
+**lore**: "Brutalist modular megastructures rise in fragmented crystalline clusters, their jagged silhouettes pierced by neon-lit interstitial voids and rain-slicked reflective surfaces."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 18926250.
-This lore emerged from cell density patterns ranked #29 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #29 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x84dc5487ce901fba` (FNV-1a 64-bit)
+`0x5a5d4aceea1d5209` (FNV-1a 64-bit)
 
 ## Witness
 

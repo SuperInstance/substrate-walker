@@ -6,30 +6,37 @@
 
 **Seed 3289967** with score **0.8683**
 
-Lore: "Rain-soaked streets, neon lights flicker, shadows hide secrets.
+Lore: "Monolithic brutalist towers rise from a flooded grid, their jagged facades pierced by neon glyphs and decaying data streams."
 
-What do you do?"
+Voice: structuralist
 
 ## Top 10
 
-| Rank | Seed | Score | Lore |
-|------|------|-------|------|
-| 1 | 3289967 | 0.8683 | Rain-soaked streets, neon lights flicker, shadows hide secrets.  What do you do? |
-| 2 | 1504276 | 0.8675 | Rains pour down on city streets like a dirty shroud |
-| 3 | 6358192 | 0.8671 | The rain-soaked streets of Neo-Tokyo.  You are standing in a dimly lit alleyway, |
-| 4 | 302238 | 0.8667 | Rain falls on the city's dark streets. |
-| 5 | 550551 | 0.8667 | Rain-soaked streets. Neon lights flicker. One last case. |
-| 6 | 662290 | 0.8667 | Rainy streets, dark alleys. She was supposed to meet me here. |
-| 7 | 2184160 | 0.8667 | Rain falls on the city's cold, dark streets. |
-| 8 | 152417070 | 0.8662 | Rain-soaked streets, a lone figure strolls alone.  What action? |
-| 9 | 11414805 | 0.8662 | A dimly lit alleyway stretches into the night, littered with trash and shadows.  |
-| 10 | 16777171 | 0.8662 | Rain soaks the streets of Neo-Tokyo. |
+| Rank | Seed | Score | Voice | Lore |
+|------|------|-------|-------|------|
+| 1 | 3289967 | 0.8683 | structuralist | Monolithic brutalist towers rise from a flooded grid, their jagged fac |
+| 2 | 1504276 | 0.8675 | structuralist | In the city's labyrinthine heart, towering skyscrapers with angular, a |
+| 3 | 6358192 | 0.8671 | — | The rain-soaked streets of Neo-Tokyo.  You are standing in a dimly lit |
+| 4 | 302238 | 0.8667 | structuralist | In the neon-drenched sprawl of New Eden, towering skyscrapers pierced  |
+| 5 | 550551 | 0.8667 | structuralist | A labyrinthine metropolis sprawls across a scorched terrain, its skele |
+| 6 | 662290 | 0.8667 | philosophical | In the labyrinthine metropolis of New Erebus, the synthetic and the or |
+| 7 | 2184160 | 0.8667 | structuralist | In the dystopian metropolis of Neo-Tokyo, the enigmatic Architect, Ryk |
+| 8 | 152417070 | 0.8662 | structuralist | Brutalist megastructures erupt in ASCII grids, their jagged data-tower |
+| 9 | 11414805 | 0.8662 | — | A dimly lit alleyway stretches into the night, littered with trash and |
+| 10 | 16777171 | 0.8662 | structuralist | Monolithic data-temples rise in staggered brutalist clusters, their fr |
 
 ## Type Breakdown
 
 - **doctrine**: 61
 - **canon**: 36
 - **doctrine-prime**: 3
+
+## Voice Breakdown (multi-voice canon)
+
+- **structuralist**: 20
+- **futurist**: 2
+- **narrativist**: 2
+- **philosophical**: 1
 
 ## Hash chain
 
@@ -38,14 +45,15 @@ The chain integrity is verified by the fleet canary: `0x24a555471370b18d`.
 
 ## Sources
 
-- Continuous mine (random + special numbers)
+- Continuous mine (random + special numbers, 6000+ tested)
 - Perfect squares (9949 tested)
 - Triangular (2000 tested)
-- Figurate (4407 tested: pentagonal/hexagonal/heptagonal)
+- Figurate (4400+ tested: pentagonal/hexagonal/heptagonal)
 - Fibonacci (34 tested)
 - Catalan/Motzkin/Lucas/Pell (72 tested)
 - Amicable/Abundant/Perfect/Tau-rich (781 tested)
-- Composite lore (multi-voice)
+- Polygon (34,000+ tested in progress)
+- Composite lore (5 voices × 5 models, multi-version)
 
 ## Live URLs
 
@@ -53,3 +61,5 @@ The chain integrity is verified by the fleet canary: `0x24a555471370b18d`.
 - https://superinstance.github.io/substrate-walker/canon_explorer.html
 - https://superinstance.github.io/substrate-walker/number_theory.html
 - https://superinstance.github.io/substrate-walker/composite_lore.html
+- https://superinstance.github.io/substrate-walker/composite_lore_combined.html
+- https://superinstance.github.io/substrate-walker/lore_explorer.html

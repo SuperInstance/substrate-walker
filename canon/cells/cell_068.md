@@ -7,17 +7,13 @@
 **score**: 0.86375
 **seed**: 226609321
 **path**: straight_east
+**voice**: 
 **lore**: "Rain pours on wet streets, a lone figure emerges from the neon haze"
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 226609321.
-This lore emerged from cell density patterns ranked #68 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #68 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

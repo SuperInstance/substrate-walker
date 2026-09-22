@@ -7,6 +7,7 @@
 **score**: 0.86375
 **seed**: 55006666
 **path**: straight_east
+**voice**: 
 **lore**: "Rain soaks streets, neon lights bleed"
 
 (The player is in a dimly lit alleyway, the only sound the patter of rain on the pavement. The camera pans down to the player's character, a worn leather duster coat and fedora-clad figure, eyes fixed on a large"
@@ -14,12 +15,7 @@
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 55006666.
-This lore emerged from cell density patterns ranked #69 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #69 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

@@ -7,17 +7,13 @@
 **score**: 0.8645833333333334
 **seed**: 817102
 **path**: straight_east
+**voice**: 
 **lore**: "I stepped out of the rain-soaked alley, eyes scanning the cityscape."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 817102.
-This lore emerged from cell density patterns ranked #44 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #44 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

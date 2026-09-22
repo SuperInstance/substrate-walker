@@ -7,17 +7,13 @@
 **score**: 0.8642849344978166
 **seed**: 2041
 **path**: straight_east
+**voice**: 
 **lore**: "Rain slicks the streets of New Eden, a lone shadow lingers."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2041.
-This lore emerged from cell density patterns ranked #48 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #48 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

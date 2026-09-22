@@ -7,23 +7,17 @@
 **score**: 0.86625
 **seed**: 152417070
 **path**: straight_east
-**lore**: "Rain-soaked streets, a lone figure strolls alone.
-
-What action?"
+**voice**: structuralist
+**lore**: "Brutalist megastructures erupt in ASCII grids, their jagged data-towers and fractured facades encoding a decaying cyberpunk metropolis."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 152417070.
-This lore emerged from cell density patterns ranked #8 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #8 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xa9e207461c88cddd` (FNV-1a 64-bit)
+`0x05a6a6bf5bec6588` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,21 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 2464645
 **path**: straight_east
-**lore**: "Rainy streets, neon shadows, and a whispered promise: "Meet me at Club Europa."
+**voice**: structuralist
+**lore**: "In the city's labyrinthine underbelly, a sprawling metropolis of interconnected domes and spires stretched like a mechanical organism, its skeletal framework a testament to humanity's unyielding pursuit of verticality."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2464645.
-This lore emerged from cell density patterns ranked #28 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #28 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x22a5da98bd0cb5b7` (FNV-1a 64-bit)
+`0x6c2f15198a6cd267` (FNV-1a 64-bit)
 
 ## Witness
 

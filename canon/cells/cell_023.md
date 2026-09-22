@@ -7,21 +7,17 @@
 **score**: 0.865
 **seed**: 327067
 **path**: straight_east
-**lore**: "Rain pours down on the city's dark streets."
+**voice**: futurist
+**lore**: "The city's veins pulsed with a dark, electric heartbeat, whispering ancient secrets to the wind, as Kaelin's footsteps echoed through the streets, a siren's call to the shadows that shrouded its soul."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 327067.
-This lore emerged from cell density patterns ranked #23 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #23 across many tested seeds. Voice: futurist.
 
 ## Cell Hash
 
-`0x2c20864680298cb0` (FNV-1a 64-bit)
+`0x2af054fec4551969` (FNV-1a 64-bit)
 
 ## Witness
 

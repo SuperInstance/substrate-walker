@@ -7,17 +7,13 @@
 **score**: 0.86375
 **seed**: 1225372
 **path**: straight_east
+**voice**: 
 **lore**: "Rain slicks the alley's dark floor."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1225372.
-This lore emerged from cell density patterns ranked #82 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #82 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

@@ -7,21 +7,17 @@
 **score**: 0.8666666666666667
 **seed**: 302238
 **path**: straight_east
-**lore**: "Rain falls on the city's dark streets."
+**voice**: structuralist
+**lore**: "In the neon-drenched sprawl of New Eden, towering skyscrapers pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of verticality."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 302238.
-This lore emerged from cell density patterns ranked #4 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #4 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xbe63f700d5dbfcf9` (FNV-1a 64-bit)
+`0xff3715d343c633ee` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,21 +7,17 @@
 **score**: 0.8666666666666667
 **seed**: 2184160
 **path**: straight_east
-**lore**: "Rain falls on the city's cold, dark streets."
+**voice**: structuralist
+**lore**: "In the dystopian metropolis of Neo-Tokyo, the enigmatic Architect, Ryker, weaves a tapestry of steel and neon, his creations a testament to humanity's fleeting grip on the city's crumbling landscape."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2184160.
-This lore emerged from cell density patterns ranked #7 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #7 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf729e766be5ef406` (FNV-1a 64-bit)
+`0xe5e078243374ea16` (FNV-1a 64-bit)
 
 ## Witness
 

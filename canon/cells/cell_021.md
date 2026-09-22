@@ -7,6 +7,7 @@
 **score**: 0.8654166666666666
 **seed**: 728365
 **path**: straight_east
+**voice**: 
 **lore**: "Rainy night, shadows dance, streets of New Eden.
 
 What do you do?
@@ -19,12 +20,7 @@ D) Retreat into the alley,"
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 728365.
-This lore emerged from cell density patterns ranked #21 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #21 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

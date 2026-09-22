@@ -7,21 +7,17 @@
 **score**: 0.86625
 **seed**: 16777171
 **path**: straight_east
-**lore**: "Rain soaks the streets of Neo-Tokyo."
+**voice**: structuralist
+**lore**: "Monolithic data-temples rise in staggered brutalist clusters, their fractured facades pierced by neon circuitry and shadowed by perpetual rain."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 16777171.
-This lore emerged from cell density patterns ranked #10 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #10 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x6fd5d6a6106c3c40` (FNV-1a 64-bit)
+`0xb87c38ddf1e51cf7` (FNV-1a 64-bit)
 
 ## Witness
 

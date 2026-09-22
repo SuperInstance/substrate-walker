@@ -7,21 +7,17 @@
 **score**: 0.8645833333333334
 **seed**: 95732187
 **path**: straight_east
-**lore**: "Rain drips from the neon sky, a lonely raincoat clings to me."
+**voice**: structuralist
+**lore**: "Brutalist data-towers rise from a flooded grid, their fractured facades reflecting neon static across a submerged cyberpunk cityscape."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 95732187.
-This lore emerged from cell density patterns ranked #30 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #30 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xc63c8d670b241323` (FNV-1a 64-bit)
+`0x289ce2d4f7edbea5` (FNV-1a 64-bit)
 
 ## Witness
 

@@ -7,21 +7,17 @@
 **score**: 0.8658333333333333
 **seed**: 1668051
 **path**: straight_east
-**lore**: "Rain dripped from the city's dark spine, a perpetual shroud on the streets of Neo-Eden."
+**voice**: structuralist
+**lore**: "In the city's labyrinthine underbelly, a maze of metallic spires and angular skyscrapers pierced the smog-choked sky, a testament to humanity's insatiable quest for vertical dominance."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1668051.
-This lore emerged from cell density patterns ranked #15 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #15 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0x11b9121b8d1bcc10` (FNV-1a 64-bit)
+`0x58ce242b1aebd904` (FNV-1a 64-bit)
 
 ## Witness
 

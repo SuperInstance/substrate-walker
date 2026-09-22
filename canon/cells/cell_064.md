@@ -7,17 +7,13 @@
 **score**: 0.8641666666666666
 **seed**: 309645
 **path**: straight_east
+**voice**: 
 **lore**: "The rain-soaked streets of Neo-Tokyo stretched out before you like a diseased serpent."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 309645.
-This lore emerged from cell density patterns ranked #64 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #64 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

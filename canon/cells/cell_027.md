@@ -7,21 +7,17 @@
 **score**: 0.865
 **seed**: 2388205
 **path**: straight_east
-**lore**: "Rain pours down on the city's neon sprawl."
+**voice**: narrativist
+**lore**: "The rain-soaked streets of Neo-Tokyo's undercity gleam like a diseased mirror, reflecting the neon hellscapes that cling to its crumbling skyscrapers like a bad dream."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 2388205.
-This lore emerged from cell density patterns ranked #27 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #27 across many tested seeds. Voice: narrativist.
 
 ## Cell Hash
 
-`0xdbe22c5b75eba33a` (FNV-1a 64-bit)
+`0x76915d0c6ef36364` (FNV-1a 64-bit)
 
 ## Witness
 

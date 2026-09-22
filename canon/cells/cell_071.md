@@ -7,17 +7,13 @@
 **score**: 0.86375
 **seed**: 1538456
 **path**: straight_east
+**voice**: 
 **lore**: "Rain pours down on a deserted alleyway."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 1538456.
-This lore emerged from cell density patterns ranked #71 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #71 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 

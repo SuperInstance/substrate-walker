@@ -7,21 +7,17 @@
 **score**: 0.865
 **seed**: 5659
 **path**: straight_east
-**lore**: "Rain-soaked streets, neon whispers, and the city's cold kiss."
+**voice**: structuralist
+**lore**: "A vertical megastructure grid of blackened spires and luminous data veins, its brutalist skeleton carved by rain and neon."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 5659.
-This lore emerged from cell density patterns ranked #25 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #25 across many tested seeds. Voice: structuralist.
 
 ## Cell Hash
 
-`0xf29b5b73ab40a9b8` (FNV-1a 64-bit)
+`0x97b1e78e0d50dcb0` (FNV-1a 64-bit)
 
 ## Witness
 

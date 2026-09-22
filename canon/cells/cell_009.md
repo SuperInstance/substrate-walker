@@ -7,17 +7,13 @@
 **score**: 0.86625
 **seed**: 11414805
 **path**: straight_east
+**voice**: 
 **lore**: "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 11414805.
-This lore emerged from cell density patterns ranked #9 across
-many tested seeds.
-
-The walk is canon-reading: each cell visited is a "passing reader
-in a darkened library." Every cell carries the hash of all that
-came before it, forming an immutable record of traversal.
+Rank #9 across many tested seeds. Voice: single-voice pipeline.
 
 ## Cell Hash
 
