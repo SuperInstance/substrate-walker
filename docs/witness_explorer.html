@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Witness Log Explorer</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body { font-family: 'Courier New', monospace; }
+  
+  .header {
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 1px solid #4af;
+  }
+  
+  #chain {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  .entry {
+    background: #111;
+    border-left: 5px solid #4af;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+  }
+  
+  .entry.canon_witness { border-left-color: #f4a; }
+  .entry.mine_witness { border-left-color: #4af; }
+  .entry.discovery_witness { border-left-color: #af4; }
+  .entry.expedition_witness { border-left-color: #888; }
+  
+  .entry-meta {
+    color: #888;
+    font-size: 0.85rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .entry-lore {
+    color: #fff;
+    margin: 0.5rem 0;
+    font-style: italic;
+  }
+  
+  .entry-hash {
+    color: #ff4;
+    font-size: 0.75rem;
+    word-break: break-all;
+  }
+  
+  .chain-broken {
+    border-left-color: #f44 !important;
+    background: #2a0808;
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>📜 WITNESS LOG EXPLORER</h1>
+  <p>Every entry is a witness event in the substrate-walker's traversal.</p>
+  <p style="color:#888;font-size:0.85rem;">
+    FNV-1a 64-bit chain. Canary: 0x24a555471370b18d
+  </p>
+</div>
+
+<div id="chain"></div>
+
+<script>
+fetch('../canon/witness_log/witness_log.json')
+  .then(r => r.json())
+  .then(log => {
+    const chain = document.getElementById('chain');
+    let prevHash = null;
+    let broken = 0;
+    let valid = 0;
+    
+    for (let i = 0; i < log.entries.length; i++) {
+      const entry = log.entries[i];
+      const card = document.createElement('div');
+      
+      const typeClass = (entry.type || 'unknown').replace('_witness', '');
+      card.className = `entry ${typeClass}_witness`;
+      
+      // Verify chain
+      if (prevHash && entry.prev_hash !== prevHash) {
+        card.classList.add('chain-broken');
+        broken++;
+      } else {
+        valid++;
+      }
+      
+      const entryHtml = `
+        <div class="entry-meta">
+          <span>#${i+1}</span>
+          <span>source: ${entry.source}</span>
+          <span>seed: ${entry.seed || '?'}</span>
+          <span>score: ${entry.score?.toFixed(4) || '?'}</span>
+          <span>type: ${entry.type || 'unknown'}</span>
+        </div>
+        <div class="entry-lore">"${escapeHtml(entry.lore || '[no lore]')}"</div>
+        <div class="entry-hash">prev: ${entry.prev_hash || '?'}</div>
+        <div class="entry-hash">this: ${entry.this_hash}</div>
+      `;
+      card.innerHTML = entryHtml;
+      chain.appendChild(card);
+      
+      prevHash = entry.this_hash;
+    }
+    
+    // Header summary
+    const summary = document.createElement('p');
+    summary.innerHTML = `<strong>${log.entries.length}</strong> witness events. Chain: <strong style="color:#4f4">${valid} valid</strong>, <strong style="color:#f44">${broken} broken</strong>.`;
+    document.querySelector('.header').appendChild(summary);
+  })
+  .catch(e => {
+    document.getElementById('chain').textContent = 'Failed to load: ' + e;
+  });
+
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  })[c]);
+}
+</script>
+</body>
+</html>

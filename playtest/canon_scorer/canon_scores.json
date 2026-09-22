@@ -1,0 +1,514 @@
+[
+  {
+    "rank": 14,
+    "seed": 654321,
+    "score": 0.86375,
+    "lore": "Rain patters on the city's perpetual twilight. \n\nWhat do you do?\n\n(Note: You can use simple commands like 'move', 'look', 'take', 'use', etc. to interact with the environment. For example, 'move north' or 'look around')",
+    "canon_similarity": 3.2063674565299025,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 4,
+    "seed": 9901,
+    "score": 0.8654166666666666,
+    "lore": "I see a blurred silhouette of a lone figure in the distance, a faint glow of a holographic sign reading \"ECHO-1\" above a dark alleyway.",
+    "canon_similarity": 3.0995318065770237,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 91,
+    "seed": 82369,
+    "score": 0.8608333333333333,
+    "lore": "Rain pattered on the neon-soaked streets\"\n\nYou are standing in a crowded street, surrounded by towering skyscrapers. The air is thick with the smells of cheap food, exhaust fumes, and desperation. People of all shapes and sizes hurry past you, their eyes cast down at the",
+    "canon_similarity": 3.0541617176370637,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 99,
+    "seed": 369664,
+    "score": 0.8608333333333333,
+    "lore": "Rain falls hard, a lone silhouette emerges\"\n\nYour character is in a dimly lit alleyway, the only sound being the patter of rain on the pavement. The player's character is located at (24.0, 8.0) and is facing 0.00rad, which",
+    "canon_similarity": 3.012348279416072,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 6,
+    "seed": 7001,
+    "score": 0.865,
+    "lore": "Rain pours down, a deluge of despair.\"\n\nYour character, a grizzled cyber-enhanced private investigator, stands in the midst of the neon-drenched sprawl, surrounded by towering skyscrapers and holographic advertisements. The air reeks of smoke and ozone.",
+    "canon_similarity": 2.928092623291028,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 89,
+    "seed": 52441,
+    "score": 0.8608333333333333,
+    "lore": "Rain pours down, casting a gloomy veil on the city's neon-drenched streets.\n\nYour surroundings:\n\nThe tall, grey skyscraper looms before you, its facade a mesh of exposed wires and ducts. The streets are empty, save for a lone figure in the distance, shrouded",
+    "canon_similarity": 2.853028630846328,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 5,
+    "seed": 690561,
+    "score": 0.8654166666666666,
+    "lore": "**Rain-soaked streets, neon-drenched night.**\n\nIn this dimly lit corner of the city, you stand at 8.0, 12.0, gazing out into the downpour. The rain drums against the pavement, a relentless beat that mirrors the turmoil brewing in the",
+    "canon_similarity": 2.812762206266648,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 94,
+    "seed": 228484,
+    "score": 0.8608333333333333,
+    "lore": "You step out of the rain into the smoky haze of the city.",
+    "canon_similarity": 2.612880829166747,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 100,
+    "seed": 414736,
+    "score": 0.8608333333333333,
+    "lore": "Rain slicks the alley's empty streets.\n\nWhat do you want to do?",
+    "canon_similarity": 2.5908593034771386,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 10,
+    "seed": 800330,
+    "score": 0.8641666666666666,
+    "lore": "Rain-soaked streets, neon haze, and a femme fatale's whisper in the darkness...",
+    "canon_similarity": 2.4641239080048063,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 92,
+    "seed": 100489,
+    "score": 0.8608333333333333,
+    "lore": "You stand at the edge of the city's neon-lit sprawl, the rain-soaked streets a maze of decay and rebirth.",
+    "canon_similarity": 2.407120285527375,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 86,
+    "seed": 19891,
+    "score": 0.8608333333333333,
+    "lore": "A rainy night in Neo-Tokyo.",
+    "canon_similarity": 2.3965693730457125,
+    "keyword_overlap": 0.75
+  },
+  {
+    "rank": 93,
+    "seed": 127449,
+    "score": 0.8608333333333333,
+    "lore": "In a city of smoke and shadows, rain-soaked streets swallowed hope whole.",
+    "canon_similarity": 2.362313826685456,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 55,
+    "seed": 270801,
+    "score": 0.8616666666666667,
+    "lore": "Rain pours on the streets of Neo-Tokyo. Dark alleys hide secrets.",
+    "canon_similarity": 2.360933546685616,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 75,
+    "seed": 964324,
+    "score": 0.86125,
+    "lore": "Rain pounds against the neon-drenched alleyway. A lone figure emerges from the shadows...",
+    "canon_similarity": 2.309450833323694,
+    "keyword_overlap": 0.9090909090909091
+  },
+  {
+    "rank": 53,
+    "seed": 398161,
+    "score": 0.8616666666666667,
+    "lore": "A rainy night in the sprawl, the city's darkness reflected in the streets.\n\nWhat do you do?",
+    "canon_similarity": 2.3053800199543604,
+    "keyword_overlap": 0.875
+  },
+  {
+    "rank": 7,
+    "seed": 18381,
+    "score": 0.865,
+    "lore": "Rain falls on the city's concrete spine.",
+    "canon_similarity": 2.2644652708793798,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 95,
+    "seed": 239121,
+    "score": 0.8608333333333333,
+    "lore": "Rain slants down on neon streets, casting long shadows.\n\nWhat do you do?",
+    "canon_similarity": 2.2630007293496672,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 35,
+    "seed": 164336,
+    "score": 0.8625,
+    "lore": "Rain poured down on the city's neon-lit streets. A lone figure emerged from the shadows.",
+    "canon_similarity": 2.256277901536021,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 3,
+    "seed": 310249,
+    "score": 0.8654166666666666,
+    "lore": "Rain falls on the neon drenched streets. A lone saxophone wails in the distance.",
+    "canon_similarity": 2.1839823197871535,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 97,
+    "seed": 295936,
+    "score": 0.8608333333333333,
+    "lore": "Rain soaks the city's dark alleys.",
+    "canon_similarity": 2.156665970732843,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 25,
+    "seed": 272801,
+    "score": 0.8629166666666667,
+    "lore": "Rain-soaked streets. Shadows hide secrets.",
+    "canon_similarity": 2.089598860890266,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 71,
+    "seed": 558009,
+    "score": 0.86125,
+    "lore": "Rains pours down on the neon-drenched streets. A lone figure emerges from the shadows.",
+    "canon_similarity": 2.0839429252651955,
+    "keyword_overlap": 0.9090909090909091
+  },
+  {
+    "rank": 88,
+    "seed": 40000,
+    "score": 0.8608333333333333,
+    "lore": "Rain falls on the city's dark underbelly.",
+    "canon_similarity": 1.9872063986554018,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 73,
+    "seed": 910116,
+    "score": 0.86125,
+    "lore": "Rain pours down on the city's neon decay.\"\n\nWhat do you do?",
+    "canon_similarity": 1.932163845319606,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 65,
+    "seed": 32041,
+    "score": 0.86125,
+    "lore": "Rain pours down, neon lights flicker\"\n\nThe player's character, a grizzled cyber-enhanced private eye, stands at the edge of a dimly lit alleyway. The rain-soaked streets are empty, save for a few stragglers hurrying to find shelter. The",
+    "canon_similarity": 1.9071467649935991,
+    "keyword_overlap": 0.7037037037037037
+  },
+  {
+    "rank": 90,
+    "seed": 75625,
+    "score": 0.8608333333333333,
+    "lore": "Rain pours down on the neon-drenched streets of Neo-Tokyo.",
+    "canon_similarity": 1.9018589634721315,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 19,
+    "seed": 390172,
+    "score": 0.8633333333333333,
+    "lore": "Rain-soaked streets reflected city's neon despair.",
+    "canon_similarity": 1.8808859749662812,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 70,
+    "seed": 512656,
+    "score": 0.86125,
+    "lore": "Rain pours down on the neon-lit sprawl.",
+    "canon_similarity": 1.8704269707071992,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 76,
+    "seed": 777777,
+    "score": 0.86125,
+    "lore": "I see a dark, rain-soaked alleyway stretching out before me. The flickering neon signs of the city's underbelly cast eerie shadows on the wet pavement.",
+    "canon_similarity": 1.8443598438619686,
+    "keyword_overlap": 0.7222222222222222
+  },
+  {
+    "rank": 74,
+    "seed": 927369,
+    "score": 0.86125,
+    "lore": "Rain poured down, casting shadows on wet streets.",
+    "canon_similarity": 1.8203410825696582,
+    "keyword_overlap": 0.8571428571428571
+  },
+  {
+    "rank": 98,
+    "seed": 324900,
+    "score": 0.8608333333333333,
+    "lore": "Rain pours down on the city's dark sprawl.",
+    "canon_similarity": 1.7920930324995765,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 63,
+    "seed": 22801,
+    "score": 0.86125,
+    "lore": "Rain-soaked streets, shadows deepen. \n\nWhat does the player want to do?",
+    "canon_similarity": 1.7912346781997452,
+    "keyword_overlap": 0.7777777777777778
+  },
+  {
+    "rank": 96,
+    "seed": 257049,
+    "score": 0.8608333333333333,
+    "lore": "Rain falls hard on the city's dark streets.",
+    "canon_similarity": 1.7741545884675156,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 79,
+    "seed": 174836,
+    "score": 0.86125,
+    "lore": "You're stuck in the rain-soaked streets of Neo-Tokyo.",
+    "canon_similarity": 1.6646913324026704,
+    "keyword_overlap": 0.8333333333333334
+  },
+  {
+    "rank": 87,
+    "seed": 24025,
+    "score": 0.8608333333333333,
+    "lore": "Rain-soaked streets, neon glow.",
+    "canon_similarity": 1.66283431216887,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 60,
+    "seed": 3333,
+    "score": 0.86125,
+    "lore": "Rain pours down like a sinner's tears.\n\nWhat would you like to do?\n\n(Note: you can type actions like 'move north', 'investigate alley', 'hack terminal', etc.)",
+    "canon_similarity": 1.6603670321997797,
+    "keyword_overlap": 0.5789473684210527
+  },
+  {
+    "rank": 64,
+    "seed": 26569,
+    "score": 0.86125,
+    "lore": "I see a rainy night. Neon lights reflect off wet pavement. A lone figure hovers at the edge of view, shrouded in shadows.",
+    "canon_similarity": 1.624916642144208,
+    "keyword_overlap": 0.5625
+  },
+  {
+    "rank": 56,
+    "seed": 44,
+    "score": 0.86125,
+    "lore": "Rain falls like tears on the city's concrete heart.",
+    "canon_similarity": 1.6174751934852714,
+    "keyword_overlap": 0.7142857142857143
+  },
+  {
+    "rank": 61,
+    "seed": 4861,
+    "score": 0.86125,
+    "lore": "Rain poured down like a dame's tears.",
+    "canon_similarity": 1.5806744782556585,
+    "keyword_overlap": 0.6666666666666666
+  },
+  {
+    "rank": 85,
+    "seed": 19091,
+    "score": 0.8608333333333333,
+    "lore": "Rain pours down on the neon drenched streets\"\n\nWhat do you want to do?\n\n(Note: you can type 'n' to move north, 's' to move south, 'e' to move east, 'w' to move west, 'q' to quit, or any other",
+    "canon_similarity": 1.5366104397174916,
+    "keyword_overlap": 0.631578947368421
+  },
+  {
+    "rank": 9,
+    "seed": 970225,
+    "score": 0.8645833333333334,
+    "lore": "Rain falls on the city's dark streets.",
+    "canon_similarity": 1.5169313472227064,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 1,
+    "seed": 164836,
+    "score": 0.8666666666666667,
+    "lore": "Rain pours down on neon-drenched streets.",
+    "canon_similarity": 1.5157216863989877,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 8,
+    "seed": 4073,
+    "score": 0.8645833333333334,
+    "lore": "Rain pours down on neon drenched streets.",
+    "canon_similarity": 1.5157216863989877,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 84,
+    "seed": 7777,
+    "score": 0.8608333333333333,
+    "lore": "Rain pours down on neon-drenched streets.",
+    "canon_similarity": 1.5157216863989877,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 67,
+    "seed": 150544,
+    "score": 0.86125,
+    "lore": "Rainy streets. Neons reflected off wet pavement. A lonely saxophone wails.",
+    "canon_similarity": 1.457183914872699,
+    "keyword_overlap": 0.5
+  },
+  {
+    "rank": 51,
+    "seed": 138384,
+    "score": 0.8616666666666667,
+    "lore": "Rain pours down on the city's gray sprawl.",
+    "canon_similarity": 1.4455194422196038,
+    "keyword_overlap": 0.8333333333333334
+  },
+  {
+    "rank": 59,
+    "seed": 2209,
+    "score": 0.86125,
+    "lore": "Rain-soaked streets, neon dreams.\n\nWhat would you like to do?",
+    "canon_similarity": 1.4365281738990372,
+    "keyword_overlap": 0.75
+  },
+  {
+    "rank": 54,
+    "seed": 518400,
+    "score": 0.8616666666666667,
+    "lore": "A gritty cyberpunk world awaits. What's your first move?\n\n**Your location:** (12.0, 16.0) \n**Direction:** facing 0.00rad (North)\n\nThe city's neon-drenched streets stretch out before you, a labyrinth of shadows and crime. You",
+    "canon_similarity": 1.4083739968568847,
+    "keyword_overlap": 0.5454545454545454
+  },
+  {
+    "rank": 2,
+    "seed": 163836,
+    "score": 0.8658333333333333,
+    "lore": "Rain pours down on the city's neon streets.",
+    "canon_similarity": 1.4001971563056637,
+    "keyword_overlap": 1.0
+  },
+  {
+    "rank": 81,
+    "seed": 1000,
+    "score": 0.8608333333333333,
+    "lore": "Rain-soaked streets, neon-lit lies.",
+    "canon_similarity": 1.3005576561797267,
+    "keyword_overlap": 0.8333333333333334
+  },
+  {
+    "rank": 82,
+    "seed": 2048,
+    "score": 0.8608333333333333,
+    "lore": "The city's neon lights reflected off the wet pavement like a diseased smile.",
+    "canon_similarity": 1.2764331322530795,
+    "keyword_overlap": 0.5
+  },
+  {
+    "rank": 66,
+    "seed": 128164,
+    "score": 0.86125,
+    "lore": "Rains pour down like tears on the city's steel spine.",
+    "canon_similarity": 1.2598442471600806,
+    "keyword_overlap": 0.5
+  },
+  {
+    "rank": 78,
+    "seed": 271791,
+    "score": 0.86125,
+    "lore": "**Rain pours down on the city's broken streets**",
+    "canon_similarity": 1.169148096119015,
+    "keyword_overlap": 0.8333333333333334
+  },
+  {
+    "rank": 77,
+    "seed": 800340,
+    "score": 0.86125,
+    "lore": "Rain-soaked streets, neon lights dance on wet pavement. Your watch: 23:47.",
+    "canon_similarity": 1.1086760283084132,
+    "keyword_overlap": 0.6
+  },
+  {
+    "rank": 52,
+    "seed": 264196,
+    "score": 0.8616666666666667,
+    "lore": "I'd be happy to create a cyberpunk noir world for you. Here's your starting view:\n\nYou find yourself standing in the middle of a dimly lit, rainy street. The towering skyscrapers of the corporate district loom above you, their neon lights reflecting off the wet pavement. The",
+    "canon_similarity": 1.0937451681416797,
+    "keyword_overlap": 0.36666666666666664
+  },
+  {
+    "rank": 83,
+    "seed": 2401,
+    "score": 0.8608333333333333,
+    "lore": "Rain pours down the city's cracked streets, neon lights flickering.",
+    "canon_similarity": 0.9334647708704424,
+    "keyword_overlap": 0.6666666666666666
+  },
+  {
+    "rank": 72,
+    "seed": 570025,
+    "score": 0.86125,
+    "lore": "Rainy streets stretch out to the neon horizon.",
+    "canon_similarity": 0.9268209669079502,
+    "keyword_overlap": 0.5
+  },
+  {
+    "rank": 62,
+    "seed": 8599,
+    "score": 0.86125,
+    "lore": "Rain-soaked streets, neon lights, and corruption.",
+    "canon_similarity": 0.8756501276921315,
+    "keyword_overlap": 0.6666666666666666
+  },
+  {
+    "rank": 58,
+    "seed": 1681,
+    "score": 0.86125,
+    "lore": "The rain-soaked streets of New Erebo.",
+    "canon_similarity": 0.7735212810065798,
+    "keyword_overlap": 0.6
+  },
+  {
+    "rank": 57,
+    "seed": 66,
+    "score": 0.86125,
+    "lore": "In a rain-soaked alley, the city's dark secrets whispered to him.\n\nWhat does the player do?\n\nA) Investigate the alley\nB) Head back to the bar for another drink\nC) Check the city's surveillance feeds\nD) Visit the local cybernetic enhancement clinic",
+    "canon_similarity": 0.759332519389087,
+    "keyword_overlap": 0.32
+  },
+  {
+    "rank": 68,
+    "seed": 231361,
+    "score": 0.86125,
+    "lore": "Rain-soaked streets. Neon lights. Gunfire echoes.",
+    "canon_similarity": 0.7505572523075413,
+    "keyword_overlap": 0.5714285714285714
+  },
+  {
+    "rank": 80,
+    "seed": 610,
+    "score": 0.8608333333333333,
+    "lore": "Rain-soaked streets. Neon lights flicker. The city never sleeps.",
+    "canon_similarity": 0.7377994585858533,
+    "keyword_overlap": 0.5555555555555556
+  },
+  {
+    "rank": 69,
+    "seed": 375769,
+    "score": 0.86125,
+    "lore": "Rain pounds the wet pavement. Shattered neon signs reflect off the puddles.",
+    "canon_similarity": 0.523815240918465,
+    "keyword_overlap": 0.3
+  }
+]
