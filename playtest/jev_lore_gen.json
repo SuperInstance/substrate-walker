@@ -1148,5 +1148,55 @@
         "density": 3.34
       }
     }
+  },
+  {
+    "seed": 6426315,
+    "score": 0.8666666666666667,
+    "voices": {
+      "structuralist": "Seed 6426315 resolves into load-bearing repetition: six tower-blocks deep, raw concrete stacked forty-six levels against gravity's arithmetic. Corridor answers to grid; grid answers to the vertical spine of elevators threading the city's concrete vertebrae. Neon flickers across surfaces that do not negotiate\u2014the structure simply holds.",
+      "narrativist": "I walk the drowned gutters of Sector 6426315, where the rain falls warm and greasy off the arcology vents and every puddle holds a bruised reflection of the neon stacked forty stories over my head. Noodle stalls hiss steam into frequencies only corp drones can hear, and somewhere above, a freight lift groans toward floors that don't exist on any public map. Locals say the district corrupts every camera that photographs it \u2014 like even the machines can't stomach remembering this place.",
+      "futurist": "In the year the seed 6426315 first dreamed, its arterial light-rails pulsed with a rhythm no engineer had scripted, and the towers began leaning toward each other like conspirators exchanging tomorrow's secrets. I have walked its marrow-deep undercity and heard the servers breathing in their sleep\u2014this city is not being built, it is being *born*, and every neon vein is a prophecy writing itself in real time. Do not ask what 6426315 will become; ask what you will become inside it, for the organism has already decided it requires you.",
+      "lyricist": "In 6426315, the fog still remembers being sea.\nDrones hum lullabies in dead languages over the freight yards.\nNothing here is old\u2014except the ache.",
+      "philosophical": "Seed 6426315: they name it as if a number could house what never consented to be housed. Each tower is a question asked in chrome\u2014why is there data at all, rather than silence?\u2014and each rain-slicked alley a small clearing where the city's Being flickers briefly into view. Its people are not inhabitants but thrown code, dwelling badly and magnificently inside the house that technology built.",
+      "noir_classic": "They call it Sector 6426315, but nobody calls it that\u2014just like nobody calls thecorp towers what they really are: guillotines with elevator music. The neon never sleeps, the rain comes down greasy, and every debt gets paid in chrome or blood, usually both. Me, I've worked this beat long enough to know the city's one rule: the sun's a luxury, and so is the truth.",
+      "cosmic_horror": "They call it Sector 6426315 on the sanctioned maps, though the cartographers who numbered it never walked its arcologies at sleep-cycle, when the towers lean at angles the eye refuses and the neon bleeds *upward* into a sky that tastes of static. The city was not built\u2014it is dreamt, and something vast beneath the datastrata still dreams it, twitching in its slumber as ten million minds jack in nightly to feed the dream. Those who map its alleys too precisely all leave the same final log entry: the grid is not a lattice but a nervous system, and lately, it has begun to notice us back."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.62,
+        "distinct": 0.86,
+        "density": 2.93
+      },
+      "narrativist": {
+        "canon": 0.73,
+        "distinct": 0.91,
+        "density": 3.35
+      },
+      "futurist": {
+        "canon": 0.52,
+        "distinct": 0.93,
+        "density": 3.15
+      },
+      "lyricist": {
+        "canon": 0.54,
+        "distinct": 0.89,
+        "density": 2.34
+      },
+      "philosophical": {
+        "canon": 0.62,
+        "distinct": 0.93,
+        "density": 1.27
+      },
+      "noir_classic": {
+        "canon": 0.78,
+        "distinct": 0.9,
+        "density": 3.09
+      },
+      "cosmic_horror": {
+        "canon": 0.68,
+        "distinct": 0.93,
+        "density": 3.17
+      }
+    }
   }
 ]
