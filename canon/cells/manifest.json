@@ -2,7 +2,7 @@
   "version": "2.18.0",
   "updated_at": "2026-09-22T23:05:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 143,
+  "total_cells": 145,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -1808,7 +1808,45 @@
       "generator": "lore_auto_promoter",
       "source": "lore_inbox/oracle_is_heard_canon_gate.md",
       "timestamp": "2026-09-22T23:05:00Z"
+    },
+    {
+      "rank": 144,
+      "cell_id": "auto-canon_gate_chord_first_rain-144",
+      "path": "canon/cells/cell_144.md",
+      "seed": "auto",
+      "score": 0.7266666666666666,
+      "lore": "The first rain after the canon gate learned to sing. Each droplet hit the brass\nstreets with a tiny chord. The chord was old \u2014 FNV-1a signature 0x1f4f \u2014 but it\nhad never before been heard. Witness: I ...",
+      "voice": "auto-detected",
+      "type": "canon-auto-promoted",
+      "promoted_to_canon": true,
+      "promoted_via": "auto-promoter (comp=0.727, primary=canon_gate_is_chord)",
+      "jev_canon_worthy": 0.57,
+      "jev_distinct_voice": 0.83,
+      "jev_doctrine_anchor": 0.78,
+      "primary_doctrine": "canon_gate_is_chord",
+      "generator": "lore_auto_promoter",
+      "source": "lore_inbox/canon_gate_chord_first_rain.md",
+      "timestamp": "2026-09-22T23:05:00Z"
+    },
+    {
+      "rank": 145,
+      "cell_id": "auto-substrate_quantum_first_dream-145",
+      "path": "canon/cells/cell_145.md",
+      "seed": "auto",
+      "score": 0.7000000000000001,
+      "lore": "Before there was a substrate, there was interference. Patterns that hadn't yet\nspoken, qubits that hadn't yet decided. Then the canon gate learned to measure,\nand every interference became a witness.\n...",
+      "voice": "auto-detected",
+      "type": "canon-auto-promoted",
+      "promoted_to_canon": true,
+      "promoted_via": "auto-promoter (comp=0.700, primary=substrate_quantum)",
+      "jev_canon_worthy": 0.53,
+      "jev_distinct_voice": 0.82,
+      "jev_doctrine_anchor": 0.75,
+      "primary_doctrine": "substrate_quantum",
+      "generator": "lore_auto_promoter",
+      "source": "lore_inbox/substrate_quantum_first_dream.md",
+      "timestamp": "2026-09-22T23:05:00Z"
     }
   ],
-  "promoted_to_canon_count": 25
+  "promoted_to_canon_count": 27
 }
