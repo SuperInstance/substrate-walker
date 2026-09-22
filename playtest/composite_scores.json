@@ -1,0 +1,102 @@
+[
+  {
+    "seed": 9901,
+    "x": 24,
+    "y": 16,
+    "angle": 0.0,
+    "base_score": 0.8654166666666666,
+    "composite": 0.7820520833333333,
+    "final": 0.8237343749999999,
+    "lore": "Rain pours down, neon lights reflected on wet streets."
+  },
+  {
+    "seed": 18381,
+    "x": 8,
+    "y": 8,
+    "angle": 0.0,
+    "base_score": 0.865,
+    "composite": 0.7821770833333332,
+    "final": 0.8235885416666666,
+    "lore": "Rain patters on the wet streets, a lone figure disappears into the neon haze.\n\nYou are in a desolate alleyway, the city's towering skyscrapers looming above. The air reeks of smoke and desperation. Your cyberdeck's comms are crackling, but you can't shake"
+  },
+  {
+    "seed": 970225,
+    "x": 12,
+    "y": 8,
+    "angle": 0.0,
+    "base_score": 0.8645833333333334,
+    "composite": 0.7819895833333332,
+    "final": 0.8232864583333332,
+    "lore": "Rain falls on a deserted street, the only light a flickering streetlamp"
+  },
+  {
+    "seed": 690561,
+    "x": 8,
+    "y": 12,
+    "angle": 0.0,
+    "base_score": 0.8654166666666666,
+    "composite": 0.7807083333333333,
+    "final": 0.8230625,
+    "lore": "Raining data on a dirty street."
+  },
+  {
+    "seed": 4073,
+    "x": 12,
+    "y": 8,
+    "angle": 0.0,
+    "base_score": 0.8645833333333334,
+    "composite": 0.7808020833333333,
+    "final": 0.8226927083333333,
+    "lore": "Rain pours down on the city, casting shadows on the wet pavement."
+  },
+  {
+    "seed": 310249,
+    "x": 20,
+    "y": 16,
+    "angle": 0.0,
+    "base_score": 0.8629166666666667,
+    "composite": 0.7818333333333333,
+    "final": 0.822375,
+    "lore": "Rain pours down, shrouding the city's decay."
+  },
+  {
+    "seed": 164836,
+    "x": 12,
+    "y": 8,
+    "angle": 0.0,
+    "base_score": 0.85875,
+    "composite": 0.7821145833333333,
+    "final": 0.8204322916666666,
+    "lore": "Rain-soaked streets, neon glow."
+  },
+  {
+    "seed": 7001,
+    "x": 12,
+    "y": 4,
+    "angle": 0.0,
+    "base_score": 0.8583333333333333,
+    "composite": 0.7821145833333333,
+    "final": 0.8202239583333333,
+    "lore": "Rain-soaked streets gleamed in the neon haze.\n\nYou find yourself standing in the middle of a deserted street, surrounded by towering skyscrapers that seem to stretch up to the clouds. The rain pours down, casting a misty veil over the city. The air is thick with the smell of"
+  },
+  {
+    "seed": 654321,
+    "x": 8,
+    "y": 12,
+    "angle": 0.0,
+    "base_score": 0.8579166666666667,
+    "composite": 0.7818645833333333,
+    "final": 0.819890625,
+    "lore": "In the rain-soaked sprawl, shadows whispered secrets to the streets."
+  },
+  {
+    "seed": 800330,
+    "x": 12,
+    "y": 12,
+    "angle": 0.0,
+    "base_score": 0.8529166666666667,
+    "composite": 0.7824583333333333,
+    "final": 0.8176874999999999,
+    "lore": "Rain pours down on neon-drenched streets. A lone figure emerges from the shadows."
+  }
+]
