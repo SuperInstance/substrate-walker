@@ -1,0 +1,1652 @@
+[
+  {
+    "seed": 654321,
+    "strategy": "straight_east",
+    "best_score": 0.86375,
+    "best_pos": [
+      0.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain pours down on streets of New Erebo."
+  },
+  {
+    "seed": 777777,
+    "strategy": "zigzag",
+    "best_score": 0.86125,
+    "best_pos": [
+      6.0,
+      21,
+      0
+    ],
+    "lore": "You stood at the edge of the rain-soaked street, a haze of cigarette smoke clinging to your suit."
+  },
+  {
+    "seed": 777777,
+    "strategy": "straight_east",
+    "best_score": 0.8608333333333333,
+    "best_pos": [
+      16.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain poured down like a dirty secret.\n\nWhat do you do?"
+  },
+  {
+    "seed": 281679,
+    "strategy": "zigzag",
+    "best_score": 0.86,
+    "best_pos": [
+      6.0,
+      21,
+      0
+    ],
+    "lore": "You step out into the neon-drenched night. The rain-soaked streets of Neo-Tokyo stretch out before you like a diseased smile."
+  },
+  {
+    "seed": 800340,
+    "strategy": "zigzag",
+    "best_score": 0.8579166666666667,
+    "best_pos": [
+      12.0,
+      21,
+      0
+    ],
+    "lore": "Rain slicks the neon-drenched streets. Shadows writhe like living things."
+  },
+  {
+    "seed": 321654,
+    "strategy": "zigzag",
+    "best_score": 0.8575,
+    "best_pos": [
+      6.0,
+      21,
+      0
+    ],
+    "lore": "Rain patters on wet streets. Neon signs reflect off wet pavement."
+  },
+  {
+    "seed": 654321,
+    "strategy": "zigzag",
+    "best_score": 0.8566666666666667,
+    "best_pos": [
+      21.0,
+      21,
+      0
+    ],
+    "lore": "Rain-soaked streets. Neon lights flicker, casting shadows on the wet pavement. A lone figure emerges."
+  },
+  {
+    "seed": 799840,
+    "strategy": "spiral_wide",
+    "best_score": 0.85625,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rain pounds streets like tears."
+  },
+  {
+    "seed": 389722,
+    "strategy": "straight_east",
+    "best_score": 0.85625,
+    "best_pos": [
+      9.600000000000001,
+      16,
+      0.1
+    ],
+    "lore": "Rain-soaked streets reflected the city's despair. Neon lights screamed through the darkness."
+  },
+  {
+    "seed": 101010,
+    "strategy": "straight_east",
+    "best_score": 0.85625,
+    "best_pos": [
+      0.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain-soaked streets. Neon drenched. Shadows hide secrets.\n\nWhat do you do?\n\n1. Investigate nearby nightclub (0.1, 16.1)\n2. Head to the pawn shop (0.3, 15.8)\n3. Visit the street vendor (0."
+  },
+  {
+    "seed": 221801,
+    "strategy": "zigzag",
+    "best_score": 0.8558333333333333,
+    "best_pos": [
+      15.0,
+      21,
+      0
+    ],
+    "lore": "The rain-soaked streets were always darkest before dawn.\n\nCurrent Situation:\n\n* You're standing in a crowded, dimly lit alleyway.\n* The air reeks of smoke, sweat, and desperation.\n* The city's towering skyscrapers loom above, their neon lights reflecting off the wet"
+  },
+  {
+    "seed": 444444,
+    "strategy": "zigzag",
+    "best_score": 0.8558333333333333,
+    "best_pos": [
+      3.0,
+      21,
+      0
+    ],
+    "lore": "Rain-soaked streets, neon haze, the city never sleeps."
+  },
+  {
+    "seed": 999999,
+    "strategy": "zigzag",
+    "best_score": 0.8558333333333333,
+    "best_pos": [
+      3.0,
+      21,
+      0
+    ],
+    "lore": "Rain poured down, illuminating the city's dark soul.\"\n\nWhat do you do?\n\n(Note: you can use simple commands like 'go' or 'look' to interact with the environment, or 'move' to change your direction. If you need help or want to know more, just ask"
+  },
+  {
+    "seed": 101010,
+    "strategy": "zigzag",
+    "best_score": 0.8558333333333333,
+    "best_pos": [
+      3.0,
+      21,
+      0
+    ],
+    "lore": "Rain pours down, reflecting city's dark soul."
+  },
+  {
+    "seed": 270801,
+    "strategy": "straight_east",
+    "best_score": 0.8554166666666667,
+    "best_pos": [
+      16.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain pours down on city streets."
+  },
+  {
+    "seed": 202020,
+    "strategy": "zigzag",
+    "best_score": 0.8554166666666667,
+    "best_pos": [
+      6.0,
+      21,
+      0
+    ],
+    "lore": "Rain pours down on the city's neon-drenched streets, a lone figure emerges from the shadows."
+  },
+  {
+    "seed": 415222,
+    "strategy": "perimeter",
+    "best_score": 0.855,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rain drizzles on the city's concrete veins."
+  },
+  {
+    "seed": 123456,
+    "strategy": "perimeter",
+    "best_score": 0.855,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's dark streets."
+  },
+  {
+    "seed": 321654,
+    "strategy": "spiral",
+    "best_score": 0.855,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's dark streets. A lone cab speeds by.\"\n\n(Note: I'll provide a description of the environment as per your request, but I'll need you to clarify what kind of environment you'd like to describe and what actions you'd like the player to take next.)"
+  },
+  {
+    "seed": 321654,
+    "strategy": "spiral_wide",
+    "best_score": 0.855,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain slicks the city's dirty soul."
+  },
+  {
+    "seed": 271801,
+    "strategy": "zigzag",
+    "best_score": 0.8545833333333334,
+    "best_pos": [
+      12.0,
+      21,
+      0
+    ],
+    "lore": "Rain-soaked streets reflected city's despair."
+  },
+  {
+    "seed": 790340,
+    "strategy": "straight_east",
+    "best_score": 0.8545833333333334,
+    "best_pos": [
+      1.6,
+      16,
+      0.1
+    ],
+    "lore": "Rain poured down on the streets of New Erebus, casting a gloomy shroud over the city's squalid sprawl."
+  },
+  {
+    "seed": 221801,
+    "strategy": "straight_east",
+    "best_score": 0.8545833333333334,
+    "best_pos": [
+      9.600000000000001,
+      16,
+      0.1
+    ],
+    "lore": "Rains poured down, a solo figure emerged from shadows, gun in hand."
+  },
+  {
+    "seed": 222222,
+    "strategy": "perimeter",
+    "best_score": 0.8545833333333334,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rain patters on neon-drenched streets, a city's despair in every drop."
+  },
+  {
+    "seed": 333333,
+    "strategy": "zigzag",
+    "best_score": 0.8545833333333334,
+    "best_pos": [
+      0.0,
+      21,
+      0
+    ],
+    "lore": "Rain pours on the city's underbelly."
+  },
+  {
+    "seed": 799840,
+    "strategy": "straight_east",
+    "best_score": 0.8541666666666666,
+    "best_pos": [
+      14.4,
+      16,
+      0.4
+    ],
+    "lore": "Rain-soaked streets swallowed the city's secrets whole."
+  },
+  {
+    "seed": 390232,
+    "strategy": "zigzag",
+    "best_score": 0.8541666666666666,
+    "best_pos": [
+      12.0,
+      21,
+      0
+    ],
+    "lore": "Rain pours down on the mean streets."
+  },
+  {
+    "seed": 123456,
+    "strategy": "zigzag",
+    "best_score": 0.8541666666666666,
+    "best_pos": [
+      12.0,
+      21,
+      0
+    ],
+    "lore": "Rains pour down on rain-soaked streets, neon signs flicker, casting shadows on a city's dark soul."
+  },
+  {
+    "seed": 333333,
+    "strategy": "straight_east",
+    "best_score": 0.8541666666666666,
+    "best_pos": [
+      8.0,
+      16,
+      0.0
+    ],
+    "lore": "Ruin's neon glow casts shadows on the streets of New Eden."
+  },
+  {
+    "seed": 390172,
+    "strategy": "perimeter",
+    "best_score": 0.85375,
+    "best_pos": [
+      0,
+      0,
+      0.0
+    ],
+    "lore": "Rain pours down on the city, a lone figure emerges.\n\nYour character is:\nName: Axel Steele\nJob: Investigator\nInventory: \n- .40 cal pistol\n- Pocket knife\n- Comms device (locked)\n- $500 credits\n\nWhat do you do? (type 'n"
+  },
+  {
+    "seed": 281679,
+    "strategy": "spiral",
+    "best_score": 0.85375,
+    "best_pos": [
+      17.734,
+      17.666,
+      0.4
+    ],
+    "lore": "Rain pours down on the city, a lonely saxophone wails in the distance."
+  },
+  {
+    "seed": 415222,
+    "strategy": "zigzag",
+    "best_score": 0.85375,
+    "best_pos": [
+      18.0,
+      21,
+      0
+    ],
+    "lore": "The rain soaks through my trenchcoat, a cold reminder.\"\n\nI'm in a run-down alleyway, the flickering neon signs of the city's underbelly casting long shadows. The air reeks of smoke, sweat, and desperation. I need to move, but which direction to take"
+  },
+  {
+    "seed": 111111,
+    "strategy": "straight_east",
+    "best_score": 0.85375,
+    "best_pos": [
+      6.4,
+      16,
+      0.4
+    ],
+    "lore": "Rain pours down on the neon-drenched streets."
+  },
+  {
+    "seed": 444444,
+    "strategy": "straight_east",
+    "best_score": 0.85375,
+    "best_pos": [
+      22.400000000000002,
+      16,
+      0.4
+    ],
+    "lore": "Rat scurries through shadows, vanishes in alleys."
+  },
+  {
+    "seed": 555555,
+    "strategy": "zigzag",
+    "best_score": 0.85375,
+    "best_pos": [
+      18.0,
+      21,
+      0
+    ],
+    "lore": "Rain pours down, casting a gloomy veil over the city's neon sprawl."
+  },
+  {
+    "seed": 555555,
+    "strategy": "straight_east",
+    "best_score": 0.85375,
+    "best_pos": [
+      16.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain pours on the dark streets. Neon lights flicker, a lonely saxophone wails.\n\nWhat does the player want to do?"
+  },
+  {
+    "seed": 800330,
+    "strategy": "straight_east",
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      9.600000000000001,
+      16,
+      0.1
+    ],
+    "lore": "Rain-soaked streets. Neon signs reflected in wet pavement."
+  },
+  {
+    "seed": 272801,
+    "strategy": "zigzag",
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      6.0,
+      21,
+      0
+    ],
+    "lore": "**Rain-soaked streets, dimly lit alleys**"
+  },
+  {
+    "seed": 800340,
+    "strategy": "straight_east",
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      1.6,
+      16,
+      0.1
+    ],
+    "lore": "Rainy night, shadows danced."
+  },
+  {
+    "seed": 281679,
+    "strategy": "perimeter",
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rainy night streets. Neon signs flicker."
+  },
+  {
+    "seed": 221801,
+    "strategy": "perimeter",
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, neon-lit alleys, and the city's dark underbelly."
+  },
+  {
+    "seed": 101010,
+    "strategy": "perimeter",
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, alleys dark as sin."
+  },
+  {
+    "seed": 202020,
+    "strategy": "straight_east",
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      14.4,
+      16,
+      0.4
+    ],
+    "lore": "Rain patters on the wet pavement, casting a gloomy shroud over the city."
+  },
+  {
+    "seed": 270801,
+    "strategy": "zigzag",
+    "best_score": 0.8529166666666667,
+    "best_pos": [
+      6.0,
+      21,
+      0
+    ],
+    "lore": "Rat's Alley, Night. Rain Soaked Streets. Where the Shadows are Deeper than the Pits.\"\n\nWhat would you like to do?"
+  },
+  {
+    "seed": 790340,
+    "strategy": "spiral",
+    "best_score": 0.8529166666666667,
+    "best_pos": [
+      22.726,
+      21.073999999999998,
+      2.8000000000000003
+    ],
+    "lore": "Rain pours down on a deserted alley. Neon signs reflect off wet pavement."
+  },
+  {
+    "seed": 390232,
+    "strategy": "spiral_wide",
+    "best_score": 0.8529166666666667,
+    "best_pos": [
+      30.317500000000003,
+      24.682499999999997,
+      4.8999999999999995
+    ],
+    "lore": "Rain-soaked streets, lone figure vanishes into shadows."
+  },
+  {
+    "seed": 987654,
+    "strategy": "zigzag",
+    "best_score": 0.8529166666666667,
+    "best_pos": [
+      9.0,
+      21,
+      0
+    ],
+    "lore": "Rain-soaked streets, shadows danced."
+  },
+  {
+    "seed": 666666,
+    "strategy": "zigzag",
+    "best_score": 0.8529166666666667,
+    "best_pos": [
+      0.0,
+      21,
+      0
+    ],
+    "lore": "Rainy streets, neon lights, and a city that never sleeps..."
+  },
+  {
+    "seed": 999999,
+    "strategy": "straight_east",
+    "best_score": 0.8529166666666667,
+    "best_pos": [
+      16.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain pattered on the pavement, a lonely refrain."
+  },
+  {
+    "seed": 271801,
+    "strategy": "straight_east",
+    "best_score": 0.8525,
+    "best_pos": [
+      6.4,
+      16,
+      0.4
+    ],
+    "lore": "You're standing in the rain-soaked alley, neon signs reflected off the wet pavement."
+  },
+  {
+    "seed": 415222,
+    "strategy": "straight_east",
+    "best_score": 0.8525,
+    "best_pos": [
+      8.0,
+      16,
+      0.0
+    ],
+    "lore": "Rainy streets, neon lights, and the city's dark pulse"
+  },
+  {
+    "seed": 111111,
+    "strategy": "zigzag",
+    "best_score": 0.8525,
+    "best_pos": [
+      0.0,
+      21,
+      0
+    ],
+    "lore": "In the rain-soaked streets, a lone hacker sought redemption.\n\nASCII view zooms in on a specific section:\n\n |  #  |  #  |  #  |  #  |  #  |  #  |  #  |  #  |  #  |"
+  },
+  {
+    "seed": 888888,
+    "strategy": "perimeter",
+    "best_score": 0.8525,
+    "best_pos": [
+      0,
+      0,
+      0.0
+    ],
+    "lore": "Rain pours down on streets of New Erebo."
+  },
+  {
+    "seed": 270801,
+    "strategy": "perimeter",
+    "best_score": 0.8520833333333333,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's dirty streets.\"\n\nCurrent location: (4.0, 0.0) facing 0.00rad\n\nASCII view:\n|               |               |               |               |               |               |\n|               |               |               |               |               |               |"
+  },
+  {
+    "seed": 281679,
+    "strategy": "straight_east",
+    "best_score": 0.8520833333333333,
+    "best_pos": [
+      14.4,
+      16,
+      0.4
+    ],
+    "lore": "Rain soaks the city's dark alleys, a lonely saxophone wails in the distance."
+  },
+  {
+    "seed": 390232,
+    "strategy": "straight_east",
+    "best_score": 0.8520833333333333,
+    "best_pos": [
+      22.400000000000002,
+      16,
+      0.4
+    ],
+    "lore": "**Razed Cityscape, Eyes Only**\n\nYou stand at the edge of a perpetual dusk, neon derricks piercing the smog-choked sky. Rain drizzles, a thin veil of reality."
+  },
+  {
+    "seed": 271791,
+    "strategy": "straight_east",
+    "best_score": 0.8520833333333333,
+    "best_pos": [
+      8.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain lashes the city, a dirty shroud."
+  },
+  {
+    "seed": 101010,
+    "strategy": "spiral_wide",
+    "best_score": 0.8520833333333333,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rains pour down on streets of New Eden.\n\nWhat would you like to do? (type commands like 'investigate', 'interact', 'move', etc.)"
+  },
+  {
+    "seed": 800340,
+    "strategy": "perimeter",
+    "best_score": 0.8516666666666667,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "You stand alone in the rain-soaked streets of New Eden, the glow of holographic advertisements flickering above the crowded alleyways."
+  },
+  {
+    "seed": 799840,
+    "strategy": "zigzag",
+    "best_score": 0.8516666666666667,
+    "best_pos": [
+      9.0,
+      21,
+      0
+    ],
+    "lore": "Rain-soaked streets reflected the city's despair."
+  },
+  {
+    "seed": 111111,
+    "strategy": "spiral_wide",
+    "best_score": 0.8516666666666667,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rain-soaked streets, neon lights, and a bad habit to kick."
+  },
+  {
+    "seed": 415222,
+    "strategy": "spiral",
+    "best_score": 0.85125,
+    "best_pos": [
+      17.734,
+      17.666,
+      0.4
+    ],
+    "lore": "Rain-soaked streets. Shadows writhe. \n\nYour eyes scan the dimly lit alley. The only light comes from a flickering neon sign in the distance, casting an eerie glow on the wet pavement."
+  },
+  {
+    "seed": 801340,
+    "strategy": "straight_east",
+    "best_score": 0.85125,
+    "best_pos": [
+      0.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain-soaked streets. Neon lights flicker, casting shadows. A lone figure emerges from the darkness."
+  },
+  {
+    "seed": 389722,
+    "strategy": "zigzag",
+    "best_score": 0.85125,
+    "best_pos": [
+      6.0,
+      21,
+      0
+    ],
+    "lore": "The rain-soaked streets of Neo-Tokyo swallowed the last rays of sunlight whole."
+  },
+  {
+    "seed": 271791,
+    "strategy": "zigzag",
+    "best_score": 0.85125,
+    "best_pos": [
+      15.0,
+      21,
+      0
+    ],
+    "lore": "Rain-soaked streets, neon-lit alleys. A lone figure steps into the shadows."
+  },
+  {
+    "seed": 987654,
+    "strategy": "straight_east",
+    "best_score": 0.85125,
+    "best_pos": [
+      0.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain-soaked streets of Neo-Tokyo."
+  },
+  {
+    "seed": 888888,
+    "strategy": "zigzag",
+    "best_score": 0.85125,
+    "best_pos": [
+      9.0,
+      21,
+      0
+    ],
+    "lore": "Rain-soaked streets, city's dark underbelly, corruption lurks.\n\nWhat do you do?"
+  },
+  {
+    "seed": 101010,
+    "strategy": "spiral",
+    "best_score": 0.85125,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, a city's darkest secrets whispered in the shadows."
+  },
+  {
+    "seed": 390172,
+    "strategy": "zigzag",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      0.0,
+      21,
+      0
+    ],
+    "lore": "I'll create a short, atmospheric noir caption. Here it is:\n\n\"Rain-soaked streets. Shadows hide the truth.\"\n\nNow it's your turn. What do you do?"
+  },
+  {
+    "seed": 272801,
+    "strategy": "spiral",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "A lone figure stood in the rain-soaked streets, eyes scanning the neon-drenched sprawl.\n\nWhat would you like to do?\n\n(Note: you can type commands like 'move 5' to move in a direction, 'investigate' to examine your surroundings, 'talk' to interact with"
+  },
+  {
+    "seed": 272801,
+    "strategy": "straight_east",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      16.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain-soaked streets. Neon lights flicker. A lone figure emerges."
+  },
+  {
+    "seed": 272801,
+    "strategy": "spiral_wide",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "A rainy night in Neo-Tokyo. \n\nAs I gaze out into the city's bleak sprawl, I notice a lone figure standing under the flickering glow of a streetlamp. Their back is to me, but I can sense a hint of desperation emanating from them.\n\nThe rain-so"
+  },
+  {
+    "seed": 801340,
+    "strategy": "perimeter",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      0,
+      0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, neon-drenched night.\n\nYou are in a dimly lit alleyway, the only sound the patter of rain on the pavement. The alley is lined with crumbling buildings, their once-majestic facades now worn and weathered. The air is thick with the smell of"
+  },
+  {
+    "seed": 271791,
+    "strategy": "perimeter",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      0,
+      0,
+      0.0
+    ],
+    "lore": "Rain pours down, a lone streetlight's cold gaze.\"\n\nYour current location is a dimly lit alleyway. The walls on either side are covered in graffiti, with tags of various gangs vying for control. A lone streetlight casts a faint glow, illuminating the wet pavement.\n\nYour"
+  },
+  {
+    "seed": 321654,
+    "strategy": "straight_east",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      8.0,
+      16,
+      0.0
+    ],
+    "lore": "Ruin and rain, a city's dirty skin\"\n\nYou find yourself standing in the middle of a vast, rain-soaked parking lot. The lot is a sea of cracked asphalt, with the occasional flickering streetlamp or abandoned vehicle. The darkness is broken only by the distant hum of hover"
+  },
+  {
+    "seed": 555555,
+    "strategy": "spiral",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's neon-scarred streets.\"\n\nASCII view expands:\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|"
+  },
+  {
+    "seed": 555555,
+    "strategy": "spiral_wide",
+    "best_score": 0.8508333333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain soaks the city's neon soul."
+  },
+  {
+    "seed": 790340,
+    "strategy": "zigzag",
+    "best_score": 0.8504166666666667,
+    "best_pos": [
+      3.0,
+      21,
+      0
+    ],
+    "lore": "Rain pours down on the city's neon-scarred streets."
+  },
+  {
+    "seed": 654321,
+    "strategy": "perimeter",
+    "best_score": 0.8504166666666667,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rainy streets, lonely streets."
+  },
+  {
+    "seed": 111111,
+    "strategy": "perimeter",
+    "best_score": 0.8504166666666667,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain slicks the streets. A city never sleeps... and neither do I."
+  },
+  {
+    "seed": 222222,
+    "strategy": "straight_east",
+    "best_score": 0.8504166666666667,
+    "best_pos": [
+      22.400000000000002,
+      16,
+      0.4
+    ],
+    "lore": "I see a lone figure, umbrella in hand, against a drizzling rain-soaked street."
+  },
+  {
+    "seed": 444444,
+    "strategy": "perimeter",
+    "best_score": 0.8504166666666667,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain falls on a dystopian street, casting long shadows.\n\nWhat do you do?"
+  },
+  {
+    "seed": 999999,
+    "strategy": "spiral",
+    "best_score": 0.8504166666666667,
+    "best_pos": [
+      20.95,
+      20.05,
+      2.0
+    ],
+    "lore": "Rain drizzled on the wet streets, a lone figure emerged from the shadows."
+  },
+  {
+    "seed": 202020,
+    "strategy": "perimeter",
+    "best_score": 0.8504166666666667,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rainesville's rain-soaked streets swallowed the damned."
+  },
+  {
+    "seed": 888888,
+    "strategy": "straight_east",
+    "best_score": 0.8501041666666667,
+    "best_pos": [
+      0.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's darkest streets.\n\nWhat do you do?\n\nA) Investigate the seedy bar\nB) Follow the mysterious woman\nC) Check the crime scene\nD) Call for backup (if you have any)\nE) Other (type a command)"
+  },
+  {
+    "seed": 800330,
+    "strategy": "zigzag",
+    "best_score": 0.85,
+    "best_pos": [
+      0.0,
+      21,
+      0
+    ],
+    "lore": "Here's a possible caption:\n\n\"Rain pours down like blood on Chrome Street\"\n\nAnd here's a possible ASCII art view, expanded to give you a better sense of the environment:\n\n                  _______________________________________________________\n                  |                                                          |\n                  |  _______  _______  _______  _______"
+  },
+  {
+    "seed": 390172,
+    "strategy": "spiral_wide",
+    "best_score": 0.85,
+    "best_pos": [
+      28.1,
+      23.9,
+      4.199999999999999
+    ],
+    "lore": "Rain-soaked streets, neon nightmarish dreams."
+  },
+  {
+    "seed": 800340,
+    "strategy": "spiral_wide",
+    "best_score": 0.85,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "A dark and gritty cyberpunk world. What's the player's next move?"
+  },
+  {
+    "seed": 799840,
+    "strategy": "perimeter",
+    "best_score": 0.85,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Raining neon on the streets of New Eden."
+  },
+  {
+    "seed": 390232,
+    "strategy": "spiral",
+    "best_score": 0.85,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, lone shadows, and the city's dark, cold heart."
+  },
+  {
+    "seed": 123456,
+    "strategy": "straight_east",
+    "best_score": 0.85,
+    "best_pos": [
+      16.0,
+      16,
+      0.0
+    ],
+    "lore": "Rain pours down on neon streets."
+  },
+  {
+    "seed": 654321,
+    "strategy": "spiral_wide",
+    "best_score": 0.85,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rain patters against wet pavement, a lone taxi's headlights cast long shadows.\n\nWhat would you like to do?"
+  },
+  {
+    "seed": 321654,
+    "strategy": "perimeter",
+    "best_score": 0.85,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rains pour down on the city's dark streets.\n\nNow you're in a cityscape. What do you want to do?\n\n1. Move\n2. Interact\n3. Use item\n4. Map\n5. Inventory\n\nChoose a number."
+  },
+  {
+    "seed": 777777,
+    "strategy": "spiral_wide",
+    "best_score": 0.85,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "The rain-soaked streets of New Haven."
+  },
+  {
+    "seed": 390172,
+    "strategy": "straight_east",
+    "best_score": 0.8495833333333334,
+    "best_pos": [
+      16.0,
+      16,
+      0.0
+    ],
+    "lore": "Rainy streets, dark alleys."
+  },
+  {
+    "seed": 333333,
+    "strategy": "perimeter",
+    "best_score": 0.8495833333333334,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rain slicked streets. Shadows don't sleep."
+  },
+  {
+    "seed": 666666,
+    "strategy": "straight_east",
+    "best_score": 0.8495833333333334,
+    "best_pos": [
+      22.400000000000002,
+      16,
+      0.4
+    ],
+    "lore": "Rain pours down on New Kowloon's grey streets."
+  },
+  {
+    "seed": 777777,
+    "strategy": "spiral",
+    "best_score": 0.8495833333333334,
+    "best_pos": [
+      17.734,
+      17.666,
+      0.4
+    ],
+    "lore": "Rain-soaked streets, a city's dark soul.\"\n\nIn this gritty cyberpunk world, you find yourself standing in the middle of a dark and deserted alleyway, the only light coming from the faint glow of holographic advertisements plastered on the walls. The rain pours down, casting a mist"
+  },
+  {
+    "seed": 271801,
+    "strategy": "spiral_wide",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rain-soaked streets, a lone figure navigates the dark alleys of Neo-Tokyo.\"\n\nYour character's name is Kaito Yamato, a former member of an elite hacking unit. You're currently on the run from the corporation-controlled police force, trying to uncover the truth about"
+  },
+  {
+    "seed": 281679,
+    "strategy": "spiral_wide",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain patters on wet pavement."
+  },
+  {
+    "seed": 799840,
+    "strategy": "spiral",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      17.734,
+      17.666,
+      0.4
+    ],
+    "lore": "Rain soaks the streets, a lone figure steps into the night."
+  },
+  {
+    "seed": 790340,
+    "strategy": "perimeter",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain pours like acid on the city's rotten streets.\n\nWhat do you want to do?\n\n(Note: you can type movements like 'n', 's', 'e', 'w', 'f', 'b', 'up', 'down' or 'attack' to interact with the environment)"
+  },
+  {
+    "seed": 801340,
+    "strategy": "spiral",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain lashes down on the neon-drenched streets. Alone in the dark.\"\n\nWhat would you like to do?"
+  },
+  {
+    "seed": 801340,
+    "strategy": "spiral_wide",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, neon shroud, the city's dark heart beats on."
+  },
+  {
+    "seed": 654321,
+    "strategy": "spiral",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      18.496,
+      18.304,
+      0.8
+    ],
+    "lore": "Rain-soaked streets, neon whispers. Her eyes locked on mine, a fleeting smile."
+  },
+  {
+    "seed": 111111,
+    "strategy": "spiral",
+    "best_score": 0.8491666666666666,
+    "best_pos": [
+      17.734,
+      17.666,
+      0.4
+    ],
+    "lore": "Rain pours down, casting shadows on the city's bleak streets.\n\nWhat do you do?"
+  },
+  {
+    "seed": 800330,
+    "strategy": "perimeter",
+    "best_score": 0.84875,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain falls like tears on the neon-drenched streets.\"\n\nYou're standing in a dimly lit alleyway, surrounded by towering skyscrapers that seem to stretch on forever. The air is thick with the hum of holographic advertisements and the distant thrum of hovercars. You've got a"
+  },
+  {
+    "seed": 801340,
+    "strategy": "zigzag",
+    "best_score": 0.84875,
+    "best_pos": [
+      9.0,
+      21,
+      0
+    ],
+    "lore": "Rain lashes down on the sprawl, a lonely man walks alone."
+  },
+  {
+    "seed": 800330,
+    "strategy": "spiral_wide",
+    "best_score": 0.8483333333333333,
+    "best_pos": [
+      20.28,
+      19.72,
+      1.4
+    ],
+    "lore": "Rain falls on the rain-soaked streets."
+  },
+  {
+    "seed": 790340,
+    "strategy": "spiral_wide",
+    "best_score": 0.8483333333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets stretched out like a diseased lover's kiss.\n\nWhat's your next move?"
+  },
+  {
+    "seed": 987654,
+    "strategy": "spiral_wide",
+    "best_score": 0.8483333333333333,
+    "best_pos": [
+      37.6,
+      26.4,
+      7.0
+    ],
+    "lore": "Rain pours down on Neon Dreams' underbelly."
+  },
+  {
+    "seed": 222222,
+    "strategy": "spiral",
+    "best_score": 0.8483333333333333,
+    "best_pos": [
+      17.734,
+      17.666,
+      0.4
+    ],
+    "lore": "Rain pours down on city's dark alleys."
+  },
+  {
+    "seed": 666666,
+    "strategy": "spiral",
+    "best_score": 0.8483333333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rainy streets, lonely nights. Case files pile high on my desk."
+  },
+  {
+    "seed": 666666,
+    "strategy": "spiral_wide",
+    "best_score": 0.8483333333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Raining on the city's dirty streets."
+  },
+  {
+    "seed": 272801,
+    "strategy": "perimeter",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain soaks the city, a dirty shroud."
+  },
+  {
+    "seed": 270801,
+    "strategy": "spiral_wide",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rain pours down, neon lights reflect in wet streets.\"\n\nWhat do you want to do?"
+  },
+  {
+    "seed": 271801,
+    "strategy": "perimeter",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      30,
+      0,
+      1.57
+    ],
+    "lore": "Rain pours down, a relentless drumbeat on the city's cold streets.\"\n\nWhat would you like to do?"
+  },
+  {
+    "seed": 390232,
+    "strategy": "perimeter",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rain drips on the city's dark streets.\n\nWhat do you do?"
+  },
+  {
+    "seed": 987654,
+    "strategy": "perimeter",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      0,
+      26,
+      4.71
+    ],
+    "lore": "Rainy streets shroud the city."
+  },
+  {
+    "seed": 555555,
+    "strategy": "perimeter",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "The rain-soaked streets of Neo-Tokyo."
+  },
+  {
+    "seed": 888888,
+    "strategy": "spiral",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain drums on the pavement, a lone figure in the shadows."
+  },
+  {
+    "seed": 888888,
+    "strategy": "spiral_wide",
+    "best_score": 0.8479166666666667,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain lashes down on a city of neon and ash."
+  },
+  {
+    "seed": 800330,
+    "strategy": "spiral",
+    "best_score": 0.8475,
+    "best_pos": [
+      27.656,
+      23.144,
+      4.800000000000001
+    ],
+    "lore": "Rain pours down on the dystopian streets. Neon lights cast long shadows.\n\n Cursor moves to the left, interacting with the environment...\n\nWhat do you do?"
+  },
+  {
+    "seed": 390172,
+    "strategy": "spiral",
+    "best_score": 0.8475,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's dirty streets. Shadows dance on walls.\n\nYou see the following:\n\n* A lone streetlamp casts a weak glow at 35.0, 16.0\n* A figure in a long coat stands at 32.0, 17.0, partially"
+  },
+  {
+    "seed": 123456,
+    "strategy": "spiral_wide",
+    "best_score": 0.8475,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rain-soaked streets, shadows twist."
+  },
+  {
+    "seed": 666666,
+    "strategy": "perimeter",
+    "best_score": 0.8475,
+    "best_pos": [
+      2,
+      0,
+      0.0
+    ],
+    "lore": "Rain pours down on a city in perpetual night."
+  },
+  {
+    "seed": 777777,
+    "strategy": "perimeter",
+    "best_score": 0.8475,
+    "best_pos": [
+      0,
+      0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets swallowed by darkness"
+  },
+  {
+    "seed": 271801,
+    "strategy": "spiral",
+    "best_score": 0.8470833333333333,
+    "best_pos": [
+      21.823999999999998,
+      20.576,
+      2.4000000000000004
+    ],
+    "lore": "The city sprawls, a diseased fetus born of progress.\n\nThe player's character is standing in a dimly lit alleyway, with towering skyscrapers looming in the distance. The air is thick with the smell of exhaust fumes and smoke. The only sound is the distant hum of hover"
+  },
+  {
+    "seed": 389722,
+    "strategy": "spiral",
+    "best_score": 0.8470833333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain pours down on the city, shrouding the streets in a veil of mystery.\"\n\nYou are standing in a dimly lit alleyway, the only sound being the patter of raindrops on the wet pavement. The air is thick with the smell of smoke and desperation. The city's towering"
+  },
+  {
+    "seed": 389722,
+    "strategy": "spiral_wide",
+    "best_score": 0.8470833333333333,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain drizzles down, reflecting city's neon decay\"\n\nWhat do you do?"
+  },
+  {
+    "seed": 987654,
+    "strategy": "spiral",
+    "best_score": 0.8470833333333333,
+    "best_pos": [
+      28.726,
+      23.474,
+      5.2
+    ],
+    "lore": "Rain pours down on neon-soaked streets. A lone detective's gaze drifts..."
+  },
+  {
+    "seed": 222222,
+    "strategy": "zigzag",
+    "best_score": 0.8470833333333333,
+    "best_pos": [
+      12.0,
+      21,
+      0
+    ],
+    "lore": "Rain falls on a desolate street. Shadows loom. A lone figure emerges."
+  },
+  {
+    "seed": 222222,
+    "strategy": "spiral_wide",
+    "best_score": 0.8470833333333333,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "I'm stuck in this rain-soaked sprawl."
+  },
+  {
+    "seed": 333333,
+    "strategy": "spiral",
+    "best_score": 0.8470833333333333,
+    "best_pos": [
+      18.496,
+      18.304,
+      0.8
+    ],
+    "lore": "Rain-soaked streets glistened with the city's despair.\n\n* Player's vision is a blur, the rain distorting the view. \n\nThe player's character, Jack \"Zero Cool\" Lee, was a washed-up hacker, now a private investigator. He had a reputation for being good at"
+  },
+  {
+    "seed": 415222,
+    "strategy": "spiral_wide",
+    "best_score": 0.8466666666666667,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, flickering neon. A lone saxophone's melancholy cry.\n\n(Note: The ASCII view seems to be a vast, empty grid. The player's location is marked with a (17.0, 17.0) coordinate, and they're facing a direction of"
+  },
+  {
+    "seed": 444444,
+    "strategy": "spiral_wide",
+    "best_score": 0.8466666666666667,
+    "best_pos": [
+      37.6,
+      26.4,
+      7.0
+    ],
+    "lore": "Rain pours down on the city's neon-drenched streets. Shadows hide secrets."
+  },
+  {
+    "seed": 221801,
+    "strategy": "spiral",
+    "best_score": 0.84625,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rainy streets stretched out, a neon-drenched shroud."
+  },
+  {
+    "seed": 221801,
+    "strategy": "spiral_wide",
+    "best_score": 0.84625,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain drizzles, streets empty. A lone silhouette emerges.\"\n\nWhat would you like to do?"
+  },
+  {
+    "seed": 333333,
+    "strategy": "spiral_wide",
+    "best_score": 0.84625,
+    "best_pos": [
+      45.8275,
+      27.1725,
+      9.1
+    ],
+    "lore": "Rain falls on the city's steel canyons."
+  },
+  {
+    "seed": 202020,
+    "strategy": "spiral",
+    "best_score": 0.84625,
+    "best_pos": [
+      21.823999999999998,
+      20.576,
+      2.4000000000000004
+    ],
+    "lore": "Rain-soaked streets, flickering neon, and the city's dark heart beats on."
+  },
+  {
+    "seed": 800340,
+    "strategy": "spiral",
+    "best_score": 0.8458333333333333,
+    "best_pos": [
+      27.656,
+      23.144,
+      4.800000000000001
+    ],
+    "lore": "Rain-soaked streets, neon reflected off wet pavement. Gunsmoke lingers.\n\nWhat's your next move?"
+  },
+  {
+    "seed": 999999,
+    "strategy": "spiral_wide",
+    "best_score": 0.8458333333333333,
+    "best_pos": [
+      37.6,
+      26.4,
+      7.0
+    ],
+    "lore": "Rain pours on the city's dark heart."
+  },
+  {
+    "seed": 270801,
+    "strategy": "spiral",
+    "best_score": 0.845,
+    "best_pos": [
+      17.734,
+      17.666,
+      0.4
+    ],
+    "lore": "Rain pours down on the city's neon-lit sprawl."
+  },
+  {
+    "seed": 389722,
+    "strategy": "perimeter",
+    "best_score": 0.845,
+    "best_pos": [
+      4,
+      0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets stretch out before you like a black mirror."
+  },
+  {
+    "seed": 202020,
+    "strategy": "spiral_wide",
+    "best_score": 0.845,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets. Shadows hide secrets. You're just a ghost in the machine.\"\n\nNow, what do you want to do?\n\n(Note: you can type actions like \"move north\", \"investigate\", \"hack\", etc. to proceed)"
+  },
+  {
+    "seed": 444444,
+    "strategy": "spiral",
+    "best_score": 0.8445833333333334,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain pounds the wet streets, a lone figure huddled in the shadows."
+  },
+  {
+    "seed": 271791,
+    "strategy": "spiral",
+    "best_score": 0.8441666666666666,
+    "best_pos": [
+      26.613999999999997,
+      22.786,
+      4.4
+    ],
+    "lore": "Rain pours down on New Erebus's neon-drenched streets."
+  },
+  {
+    "seed": 271791,
+    "strategy": "spiral_wide",
+    "best_score": 0.84375,
+    "best_pos": [
+      17.0,
+      17.0,
+      0.0
+    ],
+    "lore": "Rain-soaked streets, neon lights reflected off wet pavement like a diseased soul's confession."
+  },
+  {
+    "seed": 123456,
+    "strategy": "spiral",
+    "best_score": 0.8433333333333334,
+    "best_pos": [
+      23.656,
+      21.544,
+      3.2
+    ],
+    "lore": "Rain pours down like a sinner's tears."
+  },
+  {
+    "seed": 999999,
+    "strategy": "perimeter",
+    "best_score": 0.8425,
+    "best_pos": [
+      0,
+      0,
+      0.0
+    ],
+    "lore": "Rain pounds streets, neon signs reflecting on wet pavement."
+  }
+]
