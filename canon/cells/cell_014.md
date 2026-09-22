@@ -4,16 +4,16 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8654166666666666
-**seed**: 995930
+**score**: 0.8658333333333333
+**seed**: 326028
 **path**: straight_east
-**lore**: "You step into the dimly lit alley, the rain-soaked streets of Neo-Tokyo stretching out before you like a dystopian canvas."
+**lore**: "Rain-soaked streets glisten in the neon haze."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 995930. 
+The substrate walker walked through ASCII cityscape at seed 326028. 
 This lore emerged from cell density patterns ranked #14 across 
-1613+ tested seeds (with 343+ lores generated across many voices).
+many tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -21,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xeece1b9a14d3159b` (FNV-1a 64-bit)
+`0x5182a76061f1ff06` (FNV-1a 64-bit)
 
 ## Witness
 

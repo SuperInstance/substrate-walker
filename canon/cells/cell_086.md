@@ -4,16 +4,16 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.86125
-**seed**: 174836
+**score**: 0.8633333333333333
+**seed**: 219453
 **path**: straight_east
-**lore**: "You're stuck in the rain-soaked streets of Neo-Tokyo."
+**lore**: "Rain pours down on streets of New Erebo."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 174836. 
+The substrate walker walked through ASCII cityscape at seed 219453. 
 This lore emerged from cell density patterns ranked #86 across 
-1613+ tested seeds (with 343+ lores generated across many voices).
+many tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -21,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xaaf3b6fcd2e65965` (FNV-1a 64-bit)
+`0xcded4dc4e4b71e9f` (FNV-1a 64-bit)
 
 ## Witness
 

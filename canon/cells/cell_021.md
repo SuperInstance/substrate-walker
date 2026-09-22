@@ -4,18 +4,16 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.865
-**seed**: 7001
+**score**: 0.8654166666666666
+**seed**: 1955253
 **path**: straight_east
-**lore**: "Rain pours down, a deluge of despair."
-
-Your character, a grizzled cyber-enhanced private investigator, stands in the midst of the neon-drenched sprawl, surrounded by towering skyscrapers and holographic advertisements. The air reeks of smoke and ozone."
+**lore**: "Rain poured down on the city's steel spires, casting a gloomy shroud."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 7001. 
+The substrate walker walked through ASCII cityscape at seed 1955253. 
 This lore emerged from cell density patterns ranked #21 across 
-1613+ tested seeds (with 343+ lores generated across many voices).
+many tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -23,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x90a63e1fea0748ee` (FNV-1a 64-bit)
+`0x1213a3794a20b163` (FNV-1a 64-bit)
 
 ## Witness
 

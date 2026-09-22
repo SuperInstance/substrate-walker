@@ -2,23 +2,22 @@
 
 **id**: doctrine-substrate-walker-2026-09-22-058
 **timestamp**: 2026-09-22T10:30:00Z
-**type**: canon
+**type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.8616666666666667
-**seed**: 518400
+**score**: 0.8641666666666666
+**seed**: 612171
 **path**: straight_east
-**lore**: "A gritty cyberpunk world awaits. What's your first move?
+**lore**: "Rain lashes streets, neon blinds, the city's dark heart beats."
 
-**Your location:** (12.0, 16.0) 
-**Direction:** facing 0.00rad (North)
+What do you do?
 
-The city's neon-drenched streets stretch out before you, a labyrinth of shadows and crime. You"
+(Note: you can type commands like 'move north' or 'investigate alleyway')"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 518400. 
+The substrate walker walked through ASCII cityscape at seed 612171. 
 This lore emerged from cell density patterns ranked #58 across 
-1613+ tested seeds (with 343+ lores generated across many voices).
+many tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -26,7 +25,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x4aa9067531a2c1a3` (FNV-1a 64-bit)
+`0xb02670c8bc261d99` (FNV-1a 64-bit)
 
 ## Witness
 

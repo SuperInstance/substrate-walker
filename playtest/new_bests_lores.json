@@ -1,0 +1,72 @@
+[
+  {
+    "seed": 3289967,
+    "best_score": 0.8683333333333333,
+    "x": 20,
+    "y": 12,
+    "lore": "Rain-soaked streets, neon lights flicker, shadows hide secrets.\n\nWhat do you do?"
+  },
+  {
+    "seed": 6358192,
+    "best_score": 0.8670833333333333,
+    "x": 8,
+    "y": 12,
+    "lore": "The rain-soaked streets of Neo-Tokyo.\n\nYou are standing in a dimly lit alleyway, surrounded by towering skyscrapers. The air is thick with the smell of smoke and desperation. A lone streetlight flickers above, casting eerie shadows on the ground.\n\nYour character is a"
+  },
+  {
+    "seed": 152417070,
+    "best_score": 0.86625,
+    "x": 8,
+    "y": 8,
+    "lore": "Rain-soaked streets, a lone figure strolls alone.\n\nWhat action?"
+  },
+  {
+    "seed": 11414805,
+    "best_score": 0.86625,
+    "x": 8,
+    "y": 20,
+    "lore": "A dimly lit alleyway stretches into the night, littered with trash and shadows. Rain falls in sheets, hiding the city's secrets."
+  },
+  {
+    "seed": 16777171,
+    "best_score": 0.86625,
+    "x": 24,
+    "y": 20,
+    "lore": "Rain soaks the streets of Neo-Tokyo."
+  },
+  {
+    "seed": 11751601,
+    "best_score": 0.8658333333333333,
+    "x": 8,
+    "y": 24,
+    "lore": "Rains pour down on neon-lit streets, umbrellas scarce."
+  },
+  {
+    "seed": 99310068,
+    "best_score": 0.8658333333333333,
+    "x": 8,
+    "y": 20,
+    "lore": "Rain-soaked streets, flickering neon, and the city's dark pulse beats on.\n\nWhat do you do?"
+  },
+  {
+    "seed": 18994366,
+    "best_score": 0.8658333333333333,
+    "x": 20,
+    "y": 12,
+    "lore": "Rainy streets, dark alleys, and a future lost.\n\nYou are in the sprawling metropolis of New Eden, where corporations reign and the streets are a battleground for those who refuse to be silenced. Your name is Jack, a former netrunner turned private investigator, seeking to uncover the truth in"
+  },
+  {
+    "seed": 2464645,
+    "best_score": 0.8645833333333334,
+    "x": 12,
+    "y": 24,
+    "lore": "Rainy streets, neon shadows, and a whispered promise: \"Meet me at Club Europa."
+  },
+  {
+    "seed": 18926250,
+    "best_score": 0.8645833333333334,
+    "x": 16,
+    "y": 12,
+    "lore": "Rain-soaked streets, neon lit.\n\nWhat action? (type 'n' to north, 's' to south, etc.)"
+  }
+]

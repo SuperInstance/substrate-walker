@@ -4,16 +4,16 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8608333333333333
-**seed**: 610
+**score**: 0.8633333333333333
+**seed**: 1085601
 **path**: straight_east
-**lore**: "Rain-soaked streets. Neon lights flicker. The city never sleeps."
+**lore**: "Rain-soaked streets. Neon screams."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 610. 
+The substrate walker walked through ASCII cityscape at seed 1085601. 
 This lore emerged from cell density patterns ranked #89 across 
-1613+ tested seeds (with 343+ lores generated across many voices).
+many tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -21,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xad117c8a71fd2bb6` (FNV-1a 64-bit)
+`0x15ca52107cd70881` (FNV-1a 64-bit)
 
 ## Witness
 

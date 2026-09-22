@@ -4,23 +4,18 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: doctrine
 **chain**: prev_hash → this_hash
-**score**: 0.865
-**seed**: 56953
+**score**: 0.8658333333333333
+**seed**: 99310068
 **path**: straight_east
-**lore**: "Rain-soaked streets. Neon glare. Shadow's lurking.
+**lore**: "Rain-soaked streets, flickering neon, and the city's dark pulse beats on.
 
-What do you do?
-
-A) Investigate the source of the light
-B) Head towards the dark alley
-C) Approach the suspicious character
-D) Keep moving, can't stay in one spot"
+What do you do?"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 56953. 
+The substrate walker walked through ASCII cityscape at seed 99310068. 
 This lore emerged from cell density patterns ranked #18 across 
-1613+ tested seeds (with 343+ lores generated across many voices).
+many tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -28,7 +23,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x93c07e6b38b2fc00` (FNV-1a 64-bit)
+`0x5e9feec35995ab15` (FNV-1a 64-bit)
 
 ## Witness
 
