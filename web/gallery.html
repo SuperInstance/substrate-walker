@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gallery — Cyberpunk ASCII City</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body { padding: 40px 20px; max-width: 1400px; margin: 0 auto; }
+        h1 { color: #FF80FF; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(480px, 1fr)); gap: 20px; }
+        .card { background: #14141f; border: 1px solid #FF80FF; padding: 12px; overflow: hidden; }
+        .card pre { 
+            color: #80FFFF; 
+            font-size: 0.55em; 
+            white-space: pre; 
+            line-height: 1.0;
+            overflow-x: auto;
+            font-family: 'Courier New', monospace;
+        }
+        .card h3 { color: #FFFF80; margin-bottom: 8px; font-size: 0.95em; }
+        .nav { margin-bottom: 24px; }
+        .nav a { color: #80FFFF; margin-right: 12px; }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <a href="index.html">← City</a>
+        <a href="docs.html">Docs</a>
+        <a href="gallery.html">Gallery</a>
+    </nav>
+
+    <h1>Cyberpunk ASCII City Gallery</h1>
+    <p>Pre-rendered views from the WASM raycaster.</p>
+
+    <div class="grid">
+        <div class="card">
+            <h3>① Central Plaza (16, 16) facing East</h3>
+            <pre id="view-1">Loading...</pre>
+        </div>
+        <div class="card">
+            <h3>② North Avenue facing North</h3>
+            <pre id="view-2">Loading...</pre>
+        </div>
+        <div class="card">
+            <h3>③ Skyscraper Alley (5, 5) facing East</h3>
+            <pre id="view-3">Loading...</pre>
+        </div>
+        <div class="card">
+            <h3>④ Wide open (20, 20) facing SW</h3>
+            <pre id="view-4">Loading...</pre>
+        </div>
+    </div>
+
+    <script>
+        async function renderViews() {
+            try {
+                const response = await fetch('walker.wasm');
+                const bytes = await response.arrayBuffer();
+                const module = await WebAssembly.compile(bytes);
+                const instance = await WebAssembly.instantiate(module, {});
+                const exp = instance.exports;
+                const mem = exp.memory;
+                const ptr = exp.buffer_ptr();
+
+                const views = [
+                    { id: 'view-1', x: 16, y: 16, angle: 0 },
+                    { id: 'view-2', x: 16, y: 16, angle: Math.PI / 2 },
+                    { id: 'view-3', x: 5, y: 5, angle: 0 },
+                    { id: 'view-4', x: 20, y: 20, angle: Math.PI * 0.75 }
+                ];
+
+                for (const view of views) {
+                    exp.set_camera(view.x, view.y, view.angle);
+                    exp.step();
+
+                    const buffer = new Uint32Array(mem.buffer, ptr, 160 * 60);
+                    let text = '';
+                    for (let y = 0; y < 60; y++) {
+                        let line = '';
+                        for (let x = 0; x < 160; x++) {
+                            const cell = buffer[y * 160 + x];
+                            const glyph = cell & 0xFF;
+                            line += glyph === 0 ? ' ' : String.fromCharCode(glyph);
+                        }
+                        text += line + '\n';
+                    }
+                    document.getElementById(view.id).textContent = text;
+                }
+            } catch (err) {
+                document.body.innerHTML += '<p style="color:#FF0080">Error: ' + err.message + '</p>';
+            }
+        }
+
+        renderViews();
+    </script>
+</body>
+</html>

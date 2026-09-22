@@ -1,0 +1,322 @@
+:root {
+    --neon-violet: #FF80FF;
+    --neon-green: #80FF80;
+    --neon-yellow: #FFFF80;
+    --neon-cyan: #80FFFF;
+    --neon-pink: #FF0080;
+    --bg-deep: #0a0a14;
+    --bg-dark: #14141f;
+    --grid-color: rgba(255, 128, 255, 0.06);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: var(--bg-deep);
+    color: #e0e0ff;
+    font-family: 'Courier New', 'Courier', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    border-bottom: 1px solid var(--neon-violet);
+    padding-bottom: 16px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.title {
+    font-size: 2.5em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    line-height: 1;
+    margin: 0;
+}
+
+.subtitle {
+    display: block;
+    font-size: 0.4em;
+    color: var(--neon-cyan);
+    letter-spacing: 0.2em;
+    margin-top: 8px;
+}
+
+.glitch {
+    position: relative;
+    color: var(--neon-pink);
+    text-shadow: 0 0 10px var(--neon-pink),
+                 2px 0 var(--neon-violet),
+                 -2px 0 var(--neon-cyan);
+}
+
+.glitch::before {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--neon-cyan);
+    z-index: -1;
+    transform: translate(2px, 0);
+    opacity: 0.7;
+}
+
+.hud {
+    display: flex;
+    gap: 16px;
+    font-size: 0.9em;
+    color: var(--neon-green);
+}
+
+.hud span {
+    background: rgba(128, 255, 128, 0.1);
+    padding: 4px 12px;
+    border: 1px solid var(--neon-green);
+    border-radius: 2px;
+}
+
+.canvas-wrap {
+    position: relative;
+    background: #000;
+    border: 2px solid var(--neon-violet);
+    box-shadow: 0 0 20px rgba(255, 128, 255, 0.4),
+                inset 0 0 20px rgba(255, 128, 255, 0.1);
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.overlay-grid {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background-image:
+        linear-gradient(var(--grid-color) 1px, transparent 1px),
+        linear-gradient(90deg, var(--grid-color) 1px, transparent 1px);
+    background-size: 10px 10px;
+}
+
+#ascii-canvas {
+    display: block;
+    width: 100%;
+    height: auto;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
+
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background: rgba(255, 128, 255, 0.1);
+    color: var(--neon-violet);
+    border: 1px solid var(--neon-violet);
+    padding: 10px 16px;
+    font-family: inherit;
+    font-size: 0.95em;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.15s;
+    flex: 1;
+    min-width: 120px;
+}
+
+.btn:hover {
+    background: rgba(255, 128, 255, 0.25);
+    box-shadow: 0 0 12px rgba(255, 128, 255, 0.5);
+    color: #fff;
+}
+
+.btn:active {
+    transform: translateY(1px);
+}
+
+.legend {
+    background: var(--bg-dark);
+    border: 1px solid var(--neon-cyan);
+    padding: 16px;
+    margin-bottom: 20px;
+}
+
+.legend h3 {
+    color: var(--neon-cyan);
+    margin-bottom: 8px;
+    font-size: 0.95em;
+    letter-spacing: 0.15em;
+}
+
+.legend-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 2px 0;
+    font-size: 0.85em;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    box-shadow: 0 0 6px currentColor;
+}
+
+.info {
+    background: var(--bg-dark);
+    border: 1px solid var(--neon-pink);
+    padding: 16px;
+    font-size: 0.85em;
+    line-height: 1.6;
+}
+
+.info h3 {
+    color: var(--neon-pink);
+    margin-bottom: 8px;
+    font-size: 0.95em;
+    letter-spacing: 0.15em;
+}
+
+.info strong {
+    color: var(--neon-yellow);
+}
+
+.info code {
+    background: rgba(255, 255, 128, 0.1);
+    padding: 1px 4px;
+    border-radius: 2px;
+    color: var(--neon-yellow);
+}
+
+.info .meta {
+    color: #888;
+    font-size: 0.85em;
+    margin-top: 8px;
+}
+
+.loading {
+    position: fixed;
+    inset: 0;
+    background: var(--bg-deep);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    transition: opacity 0.3s;
+}
+
+.loading.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.spinner {
+    width: 60px;
+    height: 60px;
+    border: 3px solid rgba(255, 128, 255, 0.2);
+    border-top-color: var(--neon-violet);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 16px;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.loading p {
+    color: var(--neon-violet);
+    letter-spacing: 0.2em;
+}
+
+@media (max-width: 720px) {
+    .title { font-size: 1.6em; }
+    .hud { font-size: 0.75em; gap: 8px; }
+    .btn { font-size: 0.85em; padding: 8px 10px; }
+}
+
+/* Lore bar */
+.lore-bar {
+    background: var(--bg-dark);
+    border: 1px solid var(--neon-pink);
+    border-radius: 2px;
+    padding: 14px 18px;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+#lore-display {
+    color: #e0e0ff;
+    font-size: 1.0em;
+    letter-spacing: 0.05em;
+    min-height: 1.4em;
+    flex: 1;
+    min-width: 300px;
+    transition: opacity 0.5s;
+}
+
+.lore-controls {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+#api-key-input {
+    background: rgba(0, 0, 0, 0.4);
+    color: var(--neon-yellow);
+    border: 1px solid var(--neon-yellow);
+    padding: 6px 10px;
+    font-family: inherit;
+    font-size: 0.85em;
+    border-radius: 2px;
+    width: 220px;
+}
+
+#api-key-input::placeholder {
+    color: rgba(255, 255, 128, 0.5);
+}
+
+.btn-small {
+    background: rgba(255, 255, 128, 0.15);
+    color: var(--neon-yellow);
+    border: 1px solid var(--neon-yellow);
+    padding: 6px 12px;
+    font-family: inherit;
+    font-size: 0.85em;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.btn-small:hover {
+    background: rgba(255, 255, 128, 0.3);
+}
+
+/* Lore pulse */
+@keyframes lore-pulse {
+    0%, 100% { box-shadow: 0 0 8px rgba(255, 128, 255, 0.3); }
+    50% { box-shadow: 0 0 16px rgba(255, 128, 255, 0.6); }
+}
+
+.lore-bar {
+    animation: lore-pulse 3s infinite;
+}

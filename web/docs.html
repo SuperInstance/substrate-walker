@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cyberpunk ASCII City — Docs</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body { padding: 40px 20px; max-width: 900px; margin: 0 auto; }
+        h1, h2 { color: #FF80FF; margin-top: 24px; }
+        h2 { font-size: 1.3em; border-bottom: 1px solid #FF80FF; padding-bottom: 6px; }
+        code { background: #14141f; color: #FFFF80; padding: 2px 6px; border-radius: 2px; }
+        pre { background: #14141f; color: #80FFFF; padding: 16px; overflow-x: auto; }
+        .nav { margin-bottom: 24px; }
+        .nav a { color: #80FFFF; margin-right: 12px; }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <a href="index.html">← City</a>
+        <a href="docs.html">Docs</a>
+    </nav>
+
+    <h1>Cyberpunk ASCII City</h1>
+    <p>
+        A 3D ASCII cyberpunk city rendered in the browser using Rust + WebAssembly + WebGL.
+        Every building is a <strong>substrate cell</strong> from the Quilt canon, carrying
+        an FNV-1a 64-bit <code>prev_hash</code> chain.
+    </p>
+
+    <h2>Architecture</h2>
+    <pre>
+  ┌─────────────────────────────────────────────┐
+  │              Rust Core (WASM)               │
+  │                                             │
+  │  [CityGrid (32×32 cells)]                   │
+  │         ↓                                   │
+  │  [Raycaster::cast(camera, grid)]            │
+  │         ↓                                   │
+  │  [Vec&lt;PackedCell&gt; of 160×60 cells]            │
+  │         ↓                                   │
+  │  [Zero-copy WASM memory buffer]             │
+  └─────────────────────────────────────────────┘
+                        ↓ (raw memory read)
+  ┌─────────────────────────────────────────────┐
+  │              Browser (WebGL 2.0)            │
+  │                                             │
+  │  [JS reads Uint8Array from WASM heap]       │
+  │         ↓                                   │
+  │  [texImage2D → texture slot 0]              │
+  │         ↓                                   │
+  │  [Fragment shader → font atlas → screen]    │
+  └─────────────────────────────────────────────┘
+    </pre>
+
+    <h2>Substrate Cells</h2>
+    <p>
+        Each cell in the city grid carries:
+    </p>
+    <ul>
+        <li><strong>x, y</strong>: position</li>
+        <li><strong>height</strong>: building height (0 = empty street)</li>
+        <li><strong>cell_type</strong>: 0=doctrine, 1=witness, 2=canon, 3=perception</li>
+        <li><strong>prev_hash</strong>: FNV-1a 64-bit hash of previous cell</li>
+        <li><strong>hash</strong>: FNV-1a 64-bit hash of self + prev_hash</li>
+    </ul>
+    <p>
+        The chain integrity is verified across all 1024 cells (32×32 grid).
+        Tampering with any cell breaks the chain.
+    </p>
+
+    <h2>Raycasting</h2>
+    <p>
+        Each frame, the raycaster casts 160 rays across the FOV. Each ray steps
+        through the grid in DDA style until it hits a building. The distance
+        determines the column's projection height via Thales' theorem:
+    </p>
+    <pre>
+        h(u) = H / D(u) × sec(θ)
+    </pre>
+    <p>
+        Where H is the screen height, D(u) is the ray's distance to the building,
+        and <code>sec(θ)</code> is the fish-eye correction factor.
+    </p>
+
+    <h2>Color Encoding</h2>
+    <p>
+        Each packed cell is a 32-bit word with this layout:
+    </p>
+    <pre>
+    bits  0..7   → ASCII glyph (u8)
+    bits  8..15  → Red channel
+    bits 16..23  → Green channel
+    bits 24..31  → Alpha (luminance/depth)
+    </pre>
+    <p>
+        The fragment shader decodes the glyph index and samples a 16×16 font
+        atlas texture. The cell's color is multiplied by the glyph mask.
+    </p>
+
+    <h2>Build</h2>
+    <pre>
+cargo build --release --target wasm32-unknown-unknown --features wasm
+cp target/wasm32-unknown-unknown/release/cyberpunk_ascii_city.wasm web/city.wasm
+    </pre>
+
+    <h2>Controls</h2>
+    <ul>
+        <li><strong>W / ↑</strong>: walk forward</li>
+        <li><strong>S / ↓</strong>: walk backward</li>
+        <li><strong>A / ←</strong>: turn left</li>
+        <li><strong>D / →</strong>: turn right</li>
+        <li><strong>Q / E</strong>: alternative turn</li>
+        <li><strong>R</strong>: reset to (16, 16) facing east</li>
+        <li><strong>P</strong>: capture PNG</li>
+    </ul>
+
+    <h2>Fleet Canary</h2>
+    <p>
+        The FNV-1a 64-bit canary for <code>"café Δ 日本語"</code> is
+        <code>0x24a555471370b18d</code>, verified across all SuperInstance
+        substrate-aware repos.
+    </p>
+</body>
+</html>

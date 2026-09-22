@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Substrate Walker — Canon City</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="cortex.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">
+                <span class="glitch" data-text="SUBSTRATE">SUBSTRATE</span>
+                <span class="subtitle">WALKER · CANON CITY</span>
+            </h1>
+            <div class="hud">
+                <span id="fps-counter">FPS: --</span>
+                <span id="frame-counter">Frame: 0</span>
+                <span id="chain-status">Chain: --</span>
+                <span id="pos-counter">Pos: (0, 0) → 0°</span>
+                <span id="api-counter">API: 0 calls</span>
+            </div>
+        </header>
+
+        <div class="lore-bar">
+            <div id="lore-display">Welcome to Substrate Walker. Every building is a canon cell.</div>
+            <div class="lore-controls">
+                <input type="password" id="api-key-input" placeholder="DeepInfra API key (optional)" />
+                <button id="save-key" class="btn-small">Save</button>
+            </div>
+        </div>
+
+        <div class="canvas-wrap">
+            <canvas id="ascii-canvas" width="1600" height="600"></canvas>
+            <div class="overlay-grid"></div>
+        </div>
+
+        <div class="controls">
+            <button id="btn-forward" class="btn">W ↑ Forward</button>
+            <button id="btn-back" class="btn">S ↓ Back</button>
+            <button id="btn-left" class="btn">A ← Strafe</button>
+            <button id="btn-right" class="btn">D → Strafe</button>
+            <button id="btn-rotate-l" class="btn">Q ↺ Turn</button>
+            <button id="btn-rotate-r" class="btn">E ↻ Turn</button>
+            <button id="btn-reset" class="btn">R Reset</button>
+            <button id="btn-examine" class="btn">L Examine</button>
+            <button id="btn-screenshot" class="btn">📷 Capture</button>
+        </div>
+
+        <div class="legend">
+            <h3>Frontal Cortex — Critical Moments Only</h3>
+            <p>The agent (JEV/JEPA) only fires at:
+                <strong>1)</strong> New district entered,
+                <strong>2)</strong> New cell with a building,
+                <strong>3)</strong> Idle for &gt;2s (looking around),
+                <strong>4)</strong> Press L (examine).
+                Routine movement is FREE.</p>
+        </div>
+
+        <div class="legend">
+            <h3>Cell Types</h3>
+            <div class="legend-row"><span class="dot" style="background:#FF80FF"></span> Doctrine (violet)</div>
+            <div class="legend-row"><span class="dot" style="background:#80FF80"></span> Witness (green)</div>
+            <div class="legend-row"><span class="dot" style="background:#FFFF80"></span> Canon (yellow)</div>
+            <div class="legend-row"><span class="dot" style="background:#80FFFF"></span> Perception (cyan)</div>
+        </div>
+
+        <div class="info">
+            <h3>About</h3>
+            <p>
+                Substrate Walker renders the canon as a 3D ASCII city. Every
+                building is a <strong>substrate cell</strong> with an FNV-1a
+                64-bit <code>prev_hash</code> chain. The agent (frontal cortex)
+                generates district and building names only at critical moments —
+                not on every frame. <strong>Speed makes inference a real-time UI.</strong>
+            </p>
+            <p>
+                Movement: <strong>WASD</strong> walk, <strong>Q/E</strong> turn,
+                <strong>R</strong> reset, <strong>L</strong> examine,
+                <strong>P</strong> screenshot.
+            </p>
+            <p class="meta">
+                Engine: Rust + no_std + WebAssembly &middot;
+                Renderer: WebGL 2.0 &middot;
+                Cortex: DeepInfra (seed-mini + DeepSeek) &middot;
+                Substrate: FNV-1a 64-bit chain
+            </p>
+        </div>
+    </div>
+
+    <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>Loading WASM...</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
