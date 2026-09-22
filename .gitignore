@@ -3,8 +3,9 @@
 **/*.rs.bk
 Cargo.lock.bak
 
-# WASM
-*.wasm
+# WASM (except docs/ which needs it for GitHub Pages)
+/*.wasm
+target/**/*.wasm
 
 # OS
 .DS_Store
