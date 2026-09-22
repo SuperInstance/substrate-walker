@@ -145,3 +145,40 @@ fn test_different_seeds_different_cities() {
         .any(|(c1, c2)| c1.height != c2.height || c1.cell_type != c2.cell_type);
     assert!(differs, "Different seeds should produce different cities");
 }
+
+#[test]
+fn test_jepa_prediction_idle() {
+    use substrate_walker::{JepaPredictor, Velocity, CityGrid};
+    let grid = CityGrid::new(32, 32);
+    let predictor = JepaPredictor::default();
+    let preds = predictor.predict(&grid, 16.0, 16.0, Velocity::zero());
+    assert_eq!(preds.len(), 0);
+}
+
+#[test]
+fn test_jepa_prediction_moving_east() {
+    use substrate_walker::{JepaPredictor, Velocity, CityGrid};
+    let mut grid = CityGrid::new(32, 32);
+    for x in 18..22 {
+        grid.set(x, 16, 5, 0);
+    }
+    let predictor = JepaPredictor::default();
+    let velocity = Velocity { vx: 1.0, vy: 0.0 };
+    let preds = predictor.predict(&grid, 16.0, 16.0, velocity);
+    assert!(preds.len() > 0);
+    let (x, _, _) = preds[0];
+    assert_eq!(x, 18);
+}
+
+#[test]
+fn test_jepa_prediction_north() {
+    use substrate_walker::{JepaPredictor, Velocity, CityGrid};
+    let mut grid = CityGrid::new(32, 32);
+    for y in 18..22 {
+        grid.set(16, y, 5, 0);
+    }
+    let predictor = JepaPredictor::default();
+    let velocity = Velocity { vx: 0.0, vy: 1.0 };
+    let preds = predictor.predict(&grid, 16.0, 16.0, velocity);
+    assert!(preds.len() > 0);
+}
