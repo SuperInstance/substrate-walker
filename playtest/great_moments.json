@@ -440,254 +440,260 @@
     "voice": "structuralist"
   },
   {
+    "seed": 857516,
+    "score": 0.864,
+    "rank": 65,
+    "lore": "The rain-soaked streets were always darkest."
+  },
+  {
     "seed": 3163870,
     "score": 0.8638391557496361,
     "lore": "A fractured grid of monolithic towers rises from a sprawling, pixelated cityscape, its dense, geometric forms evoking a dark, dystopian cyberpunk metropolis.",
-    "rank": 65,
+    "rank": 66,
     "voice": "structuralist"
   },
   {
     "seed": 1809721,
     "score": 0.86375,
     "lore": "Monolithic data-temples rise from the sprawl, their jagged facades fracturing light into encrypted grids of vertical power.",
-    "rank": 66,
+    "rank": 67,
     "voice": "structuralist"
   },
   {
     "seed": 1777555,
     "score": 0.86375,
     "lore": "In the sprawling metropolis, skyscrapers of intersecting crystalline structures pierced the smog-choked sky, their angular silhouettes a testament to the city's relentless pursuit of geometric perfection.",
-    "rank": 67,
+    "rank": 68,
     "voice": "structuralist"
   },
   {
     "seed": 226609321,
     "score": 0.86375,
     "lore": "Neon-scarred arcologies rise in stacked concrete tiers, their rain-slick viaducts threading black markets through a labyrinthine, surveillance",
-    "rank": 68,
+    "rank": 69,
     "voice": "structuralist"
   },
   {
     "seed": 55006666,
     "score": 0.86375,
     "lore": "Rain soaks streets, neon lights bleed\"\n\n(The player is in a dimly lit alleyway, the only sound the patter of rain on the pavement. The camera pans down to the player's character, a worn leather duster coat and fedora-clad figure, eyes fixed on a large",
-    "rank": 69
+    "rank": 70
   },
   {
     "seed": 3097600,
     "score": 0.86375,
     "lore": "Brutalist megastructures rise from ASCII ruins, their jagged geometric towers piercing a corrupted digital skyline of fractured code.",
-    "rank": 70,
+    "rank": 71,
     "voice": "structuralist"
   },
   {
     "seed": 1538456,
     "score": 0.86375,
     "lore": "Brutalist megastructures rise from a glyph-scattered grid, their fractured facades and crystalline towers encoding a sprawling, asymmetric cyberpunk metropolis.",
-    "rank": 71,
+    "rank": 72,
     "voice": "structuralist"
   },
   {
     "seed": 77072320,
     "score": 0.86375,
     "lore": "Beneath black stars, the city breathes through impossible angles, devouring names and reason until no human mind can remember why it hungers.",
-    "rank": 72,
+    "rank": 73,
     "voice": "cosmic_horror"
   },
   {
     "seed": 17781081,
     "score": 0.86375,
     "lore": "The rain-slicked neon veins of this city's rotting marrow pump nothing but bad blood and worse secrets, and tonight, they've got a missing person's case for me.",
-    "rank": 73,
+    "rank": 74,
     "voice": "noir_classic"
   },
   {
     "seed": 4293784,
     "score": 0.86375,
     "lore": "Brutalist megastructures rise from ASCII ruins, their fragmented geometric facades encoding a decaying cyberpunk metropolis in monochrome.",
-    "rank": 74,
+    "rank": 75,
     "voice": "structuralist"
   },
   {
     "seed": 15167010,
     "score": 0.86375,
     "lore": "I walk through neon rain, my boots splashing oily puddles while holograms flicker and distant sirens hum beneath the chrome sky.",
-    "rank": 75,
+    "rank": 76,
     "voice": "narrativist"
   },
   {
     "seed": 19754564,
     "score": 0.86375,
     "lore": "A cellular grid of monolithic towers and suspended bridges forms a fractured, rain-slicked cyberpunk skyline.",
-    "rank": 76,
+    "rank": 77,
     "voice": "structuralist"
   },
   {
     "seed": 24,
     "score": 0.86375,
     "lore": "Vertical arcologies rise through toxic rain, their fractured facades stitching corporate spires, transit veins, and shadowed alley cells into a relentless noir grid.",
-    "rank": 77,
+    "rank": 78,
     "voice": "structuralist"
   },
   {
     "seed": 17923,
     "score": 0.86375,
     "lore": "The city breathes through geometries no mind was meant to parse, and we are merely fleeting thoughts it dreams in the dark.",
-    "rank": 78,
+    "rank": 79,
     "voice": "cosmic_horror"
   },
   {
     "seed": 25303,
     "score": 0.86375,
     "lore": "I glimpsed the city\u2019s blasphemous geometry, a sentient, immune to sanity, its angles mocking reason while feeding on our fragile dreams, unveiling truths no mind can bear.",
-    "rank": 79,
+    "rank": 80,
     "voice": "cosmic_horror"
   },
   {
     "seed": 153181,
     "score": 0.86375,
     "lore": "In the city's labyrinthine sprawl, towering skyscrapers pierced the smog-filled sky, their angular silhouettes a testament to the architect's obsessive pursuit of geometric perfection.",
-    "rank": 80,
+    "rank": 81,
     "voice": "structuralist"
   },
   {
     "seed": 339849,
     "score": 0.86375,
     "lore": "Brutalist megastructures rise from ASCII ruins, their jagged towers and fractured facades encoding a decaying cyberpunk city's oppressive vertical geometry.",
-    "rank": 81,
+    "rank": 82,
     "voice": "structuralist"
   },
   {
     "seed": 1225372,
     "score": 0.86375,
     "lore": "Modular arcologies erupt as jagged crystalline clusters, their dense pixelated facades weaving chaotic interlocking volumes above rain-slicked, reflective street canyons.",
-    "rank": 82,
+    "rank": 83,
     "voice": "structuralist"
   },
   {
     "seed": 3997378,
     "score": 0.86375,
     "lore": "Brutalist megastructures rise from fractured grid, their jagged spires piercing neon-soaked skies above labyrinthine street canyons.",
-    "rank": 83,
+    "rank": 84,
     "voice": "structuralist"
   },
   {
     "seed": 20,
     "score": 0.86375,
     "lore": "Dense modular towers rise through a fractured grid of streets, their pixelated facades forming a brutalist, glitched metropolis.",
-    "rank": 84,
+    "rank": 85,
     "voice": "structuralist"
   },
   {
     "seed": 642,
     "score": 0.86375,
     "lore": "I jack a wet breath through my rebreather while neon glyphs bleed across the alley's chrome like a dying man's prayer.",
-    "rank": 85,
+    "rank": 86,
     "voice": "narrativist"
   },
   {
     "seed": 1284,
     "score": 0.86375,
     "lore": "A cellular megastructure of fractured data-spires and encrypted monoliths rises through perpetual neon rain.",
-    "rank": 86,
+    "rank": 87,
     "voice": "structuralist"
   },
   {
     "seed": 2548,
     "score": 0.86375,
     "lore": "A vertical megastructure of jagged, crystalline towers rises from a fragmented grid, fusing brutalist mass with chaotic digital noise.",
-    "rank": 87,
+    "rank": 88,
     "voice": "structuralist"
   },
   {
     "seed": 19652,
     "score": 0.86375,
     "lore": "Modular megastructures interweave through a recursive grid, forming a dense, stratified matrix of monolithic cellular repetition.",
-    "rank": 88,
+    "rank": 89,
     "voice": "structuralist"
   },
   {
     "seed": 4787965,
     "score": 0.8633333333333333,
     "lore": "I stalk through neon rain, my boots splashing oil-slick puddles while holographic ads whisper promises and distant sirens wail.",
-    "rank": 89,
+    "rank": 90,
     "voice": "narrativist"
   },
   {
     "seed": 536870870,
     "score": 0.8633333333333333,
     "lore": "A cellular grid of monolithic towers punctuated by neon glyphs forms a brutalist, labyrinthine cityscape of repetitive modular blocks.",
-    "rank": 90,
+    "rank": 91,
     "voice": "structuralist"
   },
   {
     "seed": 8388601,
     "score": 0.8633333333333333,
     "lore": "Modular arcologies rise as jagged crystalline clusters, their pixelated facades pierced by neon grids and shadowed algorithmic courtyards.",
-    "rank": 91,
+    "rank": 92,
     "voice": "structuralist"
   },
   {
     "seed": 28121809,
     "score": 0.8633333333333333,
     "lore": "The city breathes through neon veins, dreams in server rain, eats the lonely, and speaks your name through static.",
-    "rank": 92,
+    "rank": 93,
     "voice": "futurist"
   },
   {
     "seed": 4080,
     "score": 0.8633333333333333,
     "lore": "Rain writes dead lovers\u2019 names in neon across my chrome skull while memory flickers like a broken hologram under midnight\u2019s electric bruise.",
-    "rank": 93,
+    "rank": 94,
     "voice": "lyricist"
   },
   {
     "seed": 16546963,
     "score": 0.8633333333333333,
     "lore": "Brutalist megastructures rise as monolithic ziggurats, their fractured facades pierced by neon glyphs and labyrinthine arterial streets below.",
-    "rank": 94,
+    "rank": 95,
     "voice": "structuralist"
   },
   {
     "seed": 947640,
     "score": 0.8633333333333333,
     "lore": "Vertical monoliths rise from a fractured grid, their jagged crowns piercing a haze of coded static and neon decay.",
-    "rank": 95,
+    "rank": 96,
     "voice": "structuralist"
   },
   {
     "seed": 41373156,
     "score": 0.8633333333333333,
     "lore": "I walk through rain-slick neon alleys, my chrome boots splashing, while synthetic smoke burns my throat and distant sirens hum.",
-    "rank": 96,
+    "rank": 97,
     "voice": "narrativist"
   },
   {
     "seed": 15389929,
     "score": 0.8633333333333333,
     "lore": "The city\u2019s modular grid fractures into crystalline towers, embedding encrypted data-spires within a labyrinthine matrix of light and shadow.",
-    "rank": 97,
+    "rank": 98,
     "voice": "structuralist"
   },
   {
     "seed": 1085601,
     "score": 0.8633333333333333,
     "lore": "The city\u2019s jagged neon grids weave a labyrinth of fractured geometry, where towering monoliths and cascading X-patterns collapse into a chaotic dance of light and steel.",
-    "rank": 98,
+    "rank": 99,
     "voice": "structuralist"
   },
   {
     "seed": 6612066,
     "score": 0.8633333333333333,
     "lore": "Brutalist arcologies rise as jagged ziggurats, their fractured concrete facades pierced by neon glyphs and labyrinthine skybridges spanning void.",
-    "rank": 99,
+    "rank": 100,
     "voice": "structuralist"
   },
   {
     "seed": 4509130,
     "score": 0.8633333333333333,
     "lore": "Vast monolithic data-spires rise from a flooded, neon-scarred grid, their fractured geometric facades channeling noir shadows between brutalist corporate ziggurats.",
-    "rank": 100,
+    "rank": 101,
     "voice": "structuralist"
   }
 ]
