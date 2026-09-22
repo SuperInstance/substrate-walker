@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Number Theory · Substrate Walker</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0a14;
+      color: #d8e8d8;
+      padding: 30px;
+      min-height: 100vh;
+    }
+    h1 {
+      color: #a0f8a8;
+      margin-bottom: 30px;
+      font-size: 28px;
+    }
+    h2 {
+      color: #80c088;
+      margin: 30px 0 15px 0;
+      font-size: 20px;
+      border-bottom: 1px solid #3a5a3a;
+      padding-bottom: 5px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 15px 0;
+    }
+    th, td {
+      text-align: left;
+      padding: 8px 12px;
+      border: 1px solid #2a3a2a;
+    }
+    th {
+      background: #1a2a1a;
+      color: #a0f8a8;
+      font-weight: bold;
+    }
+    td.score {
+      color: #f8d088;
+      font-weight: bold;
+    }
+    td.seed {
+      color: #88c8f0;
+    }
+    tr:hover {
+      background: #1a2a1a;
+    }
+    .prime {
+      background: #2a3a4a;
+      color: #88c8f0;
+    }
+    .square {
+      background: #3a2a4a;
+      color: #c8a0f8;
+    }
+    .top {
+      background: #4a4a2a;
+      color: #f8f088;
+    }
+    .legend {
+      margin: 30px 0;
+      padding: 15px;
+      background: #14181f;
+      border-left: 3px solid #80c088;
+    }
+    .legend p {
+      margin: 5px 0;
+    }
+    a {
+      color: #88c8f0;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>📐 Number Theory · Substrate Walker Canon</h1>
+  
+  <p>The seeds that produce canon-worthy lores cluster around specific number-theoretic structures. This page explores the top 100 great moments and classifies them by mathematical form.</p>
+
+  <h2>🚀 Most Canon-Worthy Structures (by Average Score)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Structure</th>
+        <th>Count</th>
+        <th>Avg Score</th>
+        <th>Max Score</th>
+        <th>Best Seed</th>
+        <th>Pattern</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="top">
+        <td><b>Pentagonal</b></td>
+        <td>4</td>
+        <td class="score">0.8655</td>
+        <td>0.8667</td>
+        <td class="seed">550551</td>
+        <td>P_n = n(3n-1)/2</td>
+      </tr>
+      <tr>
+        <td><b>Triangular</b></td>
+        <td>24</td>
+        <td class="score">0.8643</td>
+        <td>0.8662</td>
+        <td class="seed">69006</td>
+        <td>T_n = n(n+1)/2</td>
+      </tr>
+      <tr>
+        <td><b>Hexagonal</b></td>
+        <td>15</td>
+        <td class="score">0.8643</td>
+        <td>0.8662</td>
+        <td class="seed">69006</td>
+        <td>H_n = n(2n-1)</td>
+      </tr>
+      <tr>
+        <td><b>Binary Palindrome</b></td>
+        <td>1</td>
+        <td class="score">0.8642</td>
+        <td>0.8642</td>
+        <td class="seed">1308153</td>
+        <td>Bit pattern reads same backwards</td>
+      </tr>
+      <tr class="prime">
+        <td><b>Prime</b></td>
+        <td>6</td>
+        <td class="score">0.8631</td>
+        <td>0.8654</td>
+        <td class="seed">9901</td>
+        <td>Only divisible by 1 and itself</td>
+      </tr>
+      <tr>
+        <td><b>Palindromic</b></td>
+        <td>8</td>
+        <td class="score">0.8616</td>
+        <td>0.8650</td>
+        <td class="seed">18381</td>
+        <td>Reads same forwards and backwards</td>
+      </tr>
+      <tr class="square">
+        <td><b>Perfect Square</b></td>
+        <td>30</td>
+        <td class="score">0.8618</td>
+        <td>0.8667</td>
+        <td class="seed">164836</td>
+        <td>n² for some integer n</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <h2>🌟 Top 25 Great Moments (All-Time)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Seed</th>
+        <th>Score</th>
+        <th>Lore</th>
+        <th>Structure</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="top">
+        <td>1</td>
+        <td class="seed">1504276</td>
+        <td class="score">0.8675</td>
+        <td>"Rains pour down on city streets like a dirty shroud"</td>
+        <td>2²×97×3877</td>
+      </tr>
+      <tr class="square">
+        <td>2</td>
+        <td class="seed">164836</td>
+        <td class="score">0.8667</td>
+        <td>"Rain pours down on neon-drenched streets"</td>
+        <td>406²</td>
+      </tr>
+      <tr class="top">
+        <td>3</td>
+        <td class="seed">302238</td>
+        <td class="score">0.8667</td>
+        <td>"Rain falls on the city's dark streets."</td>
+        <td>Figurate</td>
+      </tr>
+      <tr class="top">
+        <td>4</td>
+        <td class="seed">550551</td>
+        <td class="score">0.8667</td>
+        <td>"Rain-soaked streets. Neon lights flicker. One last case."</td>
+        <td>Pentagonal</td>
+      </tr>
+      <tr class="top">
+        <td>5</td>
+        <td class="seed">662290</td>
+        <td class="score">0.8667</td>
+        <td>"Rainy streets, dark alleys. She was supposed to meet me here."</td>
+        <td>Figurate</td>
+      </tr>
+      <tr class="top">
+        <td>6</td>
+        <td class="seed">2184160</td>
+        <td class="score">0.8667</td>
+        <td>"Rain falls on the city's cold, dark streets."</td>
+        <td>Figurate</td>
+      </tr>
+      <tr class="square">
+        <td>7</td>
+        <td class="seed">69006</td>
+        <td class="score">0.8662</td>
+        <td>"Rain pours down on the city's neon sprawl."</td>
+        <td>Triangular</td>
+      </tr>
+      <tr class="square">
+        <td>8</td>
+        <td class="seed">326028</td>
+        <td class="score">0.8658</td>
+        <td>"Rain-soaked streets. Shadows hide truths."</td>
+        <td>Triangular</td>
+      </tr>
+      <tr class="top">
+        <td>9</td>
+        <td class="seed">728365</td>
+        <td class="score">0.8654</td>
+        <td>"Rainy night, shadows dance, streets of New Eden."</td>
+        <td>Figurate</td>
+      </tr>
+      <tr class="top">
+        <td>10</td>
+        <td class="seed">995930</td>
+        <td class="score">0.8654</td>
+        <td>"You step into the dimly lit alley..."</td>
+        <td>Figurate</td>
+      </tr>
+      <tr class="square">
+        <td>11</td>
+        <td class="seed">310249</td>
+        <td class="score">0.8654</td>
+        <td>"Rain falls on the neon drenched streets."</td>
+        <td>557²</td>
+      </tr>
+      <tr class="square">
+        <td>12</td>
+        <td class="seed">9901</td>
+        <td class="score">0.8654</td>
+        <td>"I see a blurred silhouette of a lone figure..."</td>
+        <td>Palindrome prime</td>
+      </tr>
+      <tr class="square">
+        <td>13</td>
+        <td class="seed">690561</td>
+        <td class="score">0.8654</td>
+        <td>"Rain-soaked streets, neon-drenched night."</td>
+        <td>831²</td>
+      </tr>
+      <tr class="prime">
+        <td>14</td>
+        <td class="seed">7001</td>
+        <td class="score">0.8650</td>
+        <td>"Rain pours down, a deluge of despair."</td>
+        <td>Prime</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td class="seed">18381</td>
+        <td class="score">0.8650</td>
+        <td>"Rain falls on the city's concrete spine."</td>
+        <td>Palindrome</td>
+      </tr>
+      <tr class="prime">
+        <td>16</td>
+        <td class="seed">4073</td>
+        <td class="score">0.8646</td>
+        <td>"Rain pours down on neon drenched streets."</td>
+        <td>Prime</td>
+      </tr>
+      <tr class="square">
+        <td>17</td>
+        <td class="seed">970225</td>
+        <td class="score">0.8646</td>
+        <td>"In the rain-soaked alleys of Neo-Tokyo..."</td>
+        <td>985²</td>
+      </tr>
+      <tr class="square">
+        <td>18</td>
+        <td class="seed">800330</td>
+        <td class="score">0.8642</td>
+        <td>"Rain-soaked streets, neon haze, and a femme fatale's whisper"</td>
+        <td>Original</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td class="seed">163836</td>
+        <td class="score">0.8638</td>
+        <td>"Rain pours down on the city's neon streets."</td>
+        <td>Square neighbor</td>
+      </tr>
+      <tr class="top">
+        <td>20</td>
+        <td class="seed">1955253</td>
+        <td class="score">0.8633</td>
+        <td>"The rain soaks the city's neon-drenched streets..."</td>
+        <td>Figurate</td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td class="seed">1308153</td>
+        <td class="score">0.8633</td>
+        <td>Binary palindrome</td>
+        <td>Binary</td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td class="seed">39621</td>
+        <td class="score">0.8631</td>
+        <td>"Rain-soaked streets, neon drenched."</td>
+        <td>Triangular</td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td class="seed">56953</td>
+        <td class="score">0.8631</td>
+        <td>"Rain pours down on the city's neon sprawl."</td>
+        <td>Triangular</td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td class="seed">654321</td>
+        <td class="score">0.8629</td>
+        <td>Sequential digits</td>
+        <td>Special</td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td class="seed">390172</td>
+        <td class="score">0.8629</td>
+        <td>"Rain-soaked streets, neon-soaked dreams."</td>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <h2>🎯 The Pattern</h2>
+  <div class="legend">
+    <p><b>Why special-number seeds work:</b> Lower Kolmogorov complexity.</p>
+    <p>Numbers like perfect squares, triangulars, and pentagonals can be <i>described in fewer characters</i> than random integers. Their hashes are repeatable, their distributions are structured.</p>
+    <p>When the seed is special, the resulting city is special in the same way — pattern propagation. The substrate walker finds canon-worthy material where the math is cleanest.</p>
+  </div>
+
+  <h2>🧪 Negative-Space Mining</h2>
+  <ul style="margin: 20px 0; padding-left: 30px; line-height: 1.8;">
+    <li><b>Perfect Squares</b>: 9949 tested, top score 0.867 (seed 4363² = 19035769, tall=9)</li>
+    <li><b>Triangular</b>: 2000 tested, top score 0.8662 (seed 69006 = T_371)</li>
+    <li><b>Figurate</b>: 4407 tested (pentagonal/hexagonal/heptagonal), top score 0.8675 (NEW ALL-TIME)</li>
+    <li><b>Fibonacci</b>: 34 tested, top score 0.8621 (seed 13)</li>
+    <li><b>Special</b>: 72 tested (Catalan/Motzkin/Lucas/Pell), top score 0.8612 (seed 18)</li>
+    <li><b>Gold Mining GAN</b>: Found seed 613367 = 0.861, seed 450115 = 0.862</li>
+  </ul>
+
+  <p style="margin-top: 40px;">
+    <a href="canon_explorer.html">← Back to Canon Explorer</a> |
+    <a href="index.html">→ Play the Game</a>
+  </p>
+</body>
+</html>
