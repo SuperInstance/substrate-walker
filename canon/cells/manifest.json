@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0",
-  "updated_at": "2026-09-22T18:30:00Z",
+  "version": "2.6.0",
+  "updated_at": "2026-09-22T22:00:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 110,
+  "total_cells": 111,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -18,7 +18,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 10
+    "witness": 11
   },
   "entries": [
     {
@@ -1230,6 +1230,20 @@
       "type": "doctrine-prime",
       "voice": "witness",
       "hash": "0xcbf29ce484222392"
+    },
+    {
+      "rank": 111,
+      "cell_id": "doctrine-witness-57322595-2026-09-22-111",
+      "path": "canon/cells/cell_111.md",
+      "seed": 57322595,
+      "score": 0.63,
+      "lore": "I am the city, a tapestry of memories woven into the substrate...",
+      "voice": "witness",
+      "type": "canon-witness-voice",
+      "jev_canon_worthy": 0.46,
+      "jev_distinct_voice": 0.8,
+      "jev_promote_threshold": 0.7,
+      "timestamp": "2026-09-22T22:00:00Z"
     }
   ]
 }
