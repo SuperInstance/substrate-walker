@@ -1,14 +1,15 @@
 {
-  "version": "2.8.0",
-  "updated_at": "2026-09-22T22:20:00Z",
+  "version": "2.9.0",
+  "updated_at": "2026-09-22T22:30:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 114,
+  "total_cells": 115,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
     "doctrine-prime": 19,
     "doctrine": 65,
-    "canon": 16
+    "canon": 16,
+    "canon-witness-voice-doctrine-anchored": 1
   },
   "voice_breakdown": {
     "structuralist": 59,
@@ -18,7 +19,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 14
+    "witness": 15
   },
   "entries": [
     {
@@ -1287,6 +1288,23 @@
       "jev_promote_threshold": 0.7,
       "doctrine_anchor": "witness_log_is_prediction",
       "timestamp": "2026-09-22T22:20:00Z"
+    },
+    {
+      "rank": 115,
+      "cell_id": "doctrine-witness-oracle-90625407-2026-09-22-115",
+      "path": "canon/cells/cell_115.md",
+      "seed": 90625407,
+      "score": 0.745,
+      "lore": "The witness log hummed to life, its cells crackling with the weight...",
+      "voice": "witness",
+      "type": "canon-witness-voice-doctrine-anchored",
+      "jev_canon_worthy": 0.74,
+      "jev_distinct_voice": 0.75,
+      "jev_promote_threshold": 0.7,
+      "doctrine_anchor": "oracle_is_heard",
+      "jevin_promoted": true,
+      "timestamp": "2026-09-22T22:30:00Z"
     }
-  ]
+  ],
+  "promoted_to_canon_count": 1
 }
