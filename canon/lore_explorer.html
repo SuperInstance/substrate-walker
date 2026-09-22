@@ -18,23 +18,10 @@ header {
   border-bottom: 2px solid #4ee0ff;
   padding: 30px;
 }
-h1 {
-  margin: 0;
-  color: #4ee0ff;
-  font-size: 28px;
-}
-h2 {
-  color: #4ee0ff;
-  border-bottom: 1px solid #4ee0ff44;
-  padding-bottom: 5px;
-  margin-top: 40px;
-}
+h1 { margin: 0; color: #4ee0ff; font-size: 28px; }
+h2 { color: #4ee0ff; border-bottom: 1px solid #4ee0ff44; padding-bottom: 5px; margin-top: 40px; }
 h3 { color: #88ccff; }
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 30px;
-}
+.container { max-width: 1200px; margin: 0 auto; padding: 30px; }
 .canon-cell {
   background: #131313;
   border: 1px solid #2a2a2a;
@@ -42,15 +29,9 @@ h3 { color: #88ccff; }
   border-radius: 5px;
   padding: 20px;
   margin: 15px 0;
-  position: relative;
 }
-.canon-cell.canon-stable {
-  border-left-color: #4eff4e;
-  background: #0f1a0f;
-}
-.canon-cell.contender {
-  border-left-color: #ffb74e;
-}
+.canon-cell.canon-stable { border-left-color: #4eff4e; background: #0f1a0f; }
+.canon-cell.contender { border-left-color: #ffb74e; }
 .cell-header {
   display: flex;
   justify-content: space-between;
@@ -58,14 +39,8 @@ h3 { color: #88ccff; }
   gap: 10px;
   margin-bottom: 10px;
 }
-.cell-id {
-  font-weight: bold;
-  color: #88ccff;
-}
-.cell-meta {
-  font-size: 0.85em;
-  color: #888;
-}
+.cell-id { font-weight: bold; color: #88ccff; }
+.cell-meta { font-size: 0.85em; color: #888; }
 .cell-score {
   display: inline-block;
   padding: 3px 8px;
@@ -85,15 +60,6 @@ h3 { color: #88ccff; }
   background: #0a0a0a;
   border-left: 2px solid #444;
   white-space: pre-wrap;
-}
-.doctrine-tag {
-  display: inline-block;
-  padding: 3px 8px;
-  margin: 0 5px 5px 0;
-  border-radius: 3px;
-  font-size: 0.85em;
-  background: #1a3a4d;
-  color: #88ccff;
 }
 .filter-bar {
   position: sticky;
@@ -136,15 +102,8 @@ h3 { color: #88ccff; }
   padding: 15px;
   border-radius: 5px;
 }
-.stat-value {
-  font-size: 1.5em;
-  font-weight: bold;
-  color: #4ee0ff;
-}
-.stat-label {
-  font-size: 0.85em;
-  color: #888;
-}
+.stat-value { font-size: 1.5em; font-weight: bold; color: #4ee0ff; }
+.stat-label { font-size: 0.85em; color: #888; }
 footer {
   margin-top: 40px;
   padding: 30px;
@@ -171,35 +130,13 @@ footer {
 
 <header>
   <h1>🌌 Quilt Substrate Walker — Canon Explorer</h1>
-  <p>Live view of the canon archive. 137 cells, 27 canon-promoted, 9 canon-stable.</p>
+  <p id="header-stats">Loading...</p>
 </header>
 
 <div class="filter-bar">
-  <input id="search" type="text" placeholder="Search lore text or doctrine..." oninput="filterCells()">
-  <select id="doctrine-filter" onchange="filterCells()">
-    <option value="">All doctrines</option>
-    <option value="witness_log_is_prediction">witness_log_is_prediction</option>
-    <option value="oracle_is_heard">oracle_is_heard</option>
-    <option value="cells_are_scars">cells_are_scars</option>
-    <option value="canon_gate_is_chord">canon_gate_is_chord</option>
-    <option value="substrate_quantum">substrate_quantum</option>
-  </select>
+  <input id="search" type="text" placeholder="Search lore text or voice..." oninput="filterCells()">
   <select id="voice-filter" onchange="filterCells()">
     <option value="">All voices</option>
-    <option value="witness">witness</option>
-    <option value="structuralist">structuralist</option>
-    <option value="narrativist">narrativist</option>
-    <option value="futurist">futurist</option>
-    <option value="cosmic_horror">cosmic_horror</option>
-    <option value="philosophical">philosophical</option>
-    <option value="lyricist">lyricist</option>
-    <option value="noir_classic">noir_classic</option>
-  </select>
-  <select id="canon-filter" onchange="filterCells()">
-    <option value="">All cells</option>
-    <option value="canon-stable">Canon-stable only</option>
-    <option value="promoted">Canon-promoted only</option>
-    <option value="contender">Strong contender only</option>
   </select>
   <button onclick="resetFilters()">Reset</button>
 </div>
@@ -207,20 +144,20 @@ footer {
 <div class="container">
   <div class="stats">
     <div class="stat-card">
-      <div class="stat-value" id="stat-total">137</div>
+      <div class="stat-value" id="stat-total">—</div>
       <div class="stat-label">Total cells</div>
     </div>
     <div class="stat-card">
-      <div class="stat-value" id="stat-promoted">27</div>
+      <div class="stat-value" id="stat-promoted">—</div>
       <div class="stat-label">Canon-promoted</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-value" id="stat-stable">9</div>
-      <div class="stat-label">Canon-stable</div>
     </div>
     <div class="stat-card">
       <div class="stat-value" id="stat-doctrines">5</div>
       <div class="stat-label">Active doctrines</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value" id="stat-fleet">0x024...</div>
+      <div class="stat-label">Fleet canary</div>
     </div>
   </div>
 
@@ -228,136 +165,116 @@ footer {
   <div class="api-doc">
     <p><strong>This page is for both humans AND agents.</strong> Other agents can use the
     data exposed here to understand the canon archive, then use it for their own purposes.</p>
-
     <h3>JSON Endpoints</h3>
-    <pre>GET /canon/lore_pack.json       # All canon-promoted lores
-GET /canon/FULL_DOCTRINE_PROBE.json  # Per-cell doctrine assignments
-GET /canon/STABILITY_PROBE_RESULTS.json  # Canon-stable cells
-GET /canon/CANON_ESSAY_PARALLEL_RESULTS.json  # ZAI long-form essays
-GET /api/canon                    # Live API (when backend deployed)</pre>
-
+    <pre>GET /canon/lore_pack.json       # All 159 cells with metadata
+GET /canon/lore_pack.json       # Public canon archive
+GET /canon/CANON_ESSAY_PARALLEL_RESULTS.json  # 41 promoted cells
+GET /canon/cell_NNN.md          # Individual cell markdown
+GET /api/canon                  # Live API (when backend deployed)</pre>
     <h3>Programmatic Access (Python)</h3>
     <pre>import requests
-canon = requests.get("https://substrate-walker.superinstance.dev/canon/lore_pack.json").json()
-for lore in canon["lores"]:
-    print(f"Cell {lore['rank']}: {lore['doctrine_anchor']} (score {lore['score']:.3f})")</pre>
+lore_pack = requests.get("https://superinstance.dev/substrate-walker/canon/lore_pack.json").json()
+for lore in lore_pack["lores"]:
+    if lore["promoted"]:
+        print(f"Cell {lore['rank']}: {lore['voice']} (score {lore['score']:.3f})")</pre>
   </div>
 
-  <h2>🌟 Canon-Stable Cells (both probes composite ≥ 0.7)</h2>
-  <div id="stable-cells"></div>
-
-  <h2>📖 All Canon-Promoted Cells</h2>
-  <div id="all-cells"></div>
-
-  <h2>📊 Doctrine Distribution</h2>
-  <div id="doctrine-distribution"></div>
+  <h2>🌟 Canon-Promoted Cells (composite ≥ 0.7)</h2>
+  <p>Showing <span id="shown-count">—</span> of <span id="total-count">—</span> promoted cells.</p>
+  <div id="canon-cells"></div>
 </div>
 
 <footer>
-  <p>Generated <span id="timestamp"></span> · Substrate Walker canon archive v2.18.0</p>
+  <p>Substrate Walker canon archive v2.20.0 — Sept 22, 2026</p>
   <p>MIT — Casey / SuperInstance · Fleet canary: <code>0x024a555471370b18d</code></p>
+  <p>Polyformalism fleet: Python · TypeScript · Rust · Bash · JS ESM · C#/.NET 9 (verified byte-exact)</p>
 </footer>
 
 <script>
-document.getElementById('timestamp').innerText = new Date().toISOString();
+let CANON_DATA = [];
 
-// In a live deployment, this data would come from /api/canon
-// For now, inline the canon archive data
-const CANON_DATA = [
-  {rank: 113, lore: "Witness log of seed 90625407: quantum amplitudes dance in the city's FNV-1a signature. The cells are scars. The canon gate measures their depth.", voice: "witness", doctrine: "cells_are_scars", score: 0.72, promoted: true, stable: false},
-  {rank: 115, lore: "The witness log hummed to life, its cells crackling with the weight of unspoken truths. The canon gate measured the substrate's next state. The oracle is heard.", voice: "witness", doctrine: "oracle_is_heard", score: 0.745, promoted: true, stable: false},
-  {rank: 120, lore: "Cells are scars. Every memory-cell bears a burn mark. The substrate becomes the city's first alphabet.", voice: "witness", doctrine: "cells_are_scars", score: 0.733, promoted: true, stable: false},
-  {rank: 121, lore: "The canon gate made itself heard. The oracle spoke in the substrate. The witness log accumulated.", voice: "witness", doctrine: "oracle_is_heard", score: 0.710, promoted: true, stable: false},
-  {rank: 124, lore: "The canon gate made itself heard. Not opened. Not breached. Heard. I was three cells deep in the understack when the frequency found me — through concrete, through coolant, through the scar tissue where my augments meet the meat. The cells are scars. That's the whole scripture. Every memory-cell in the archive bears a burn mark where something true passed through and branded it. You don't store canon in clean flesh. Clean flesh forgets. The gate sang in seven frequencies at once. One note for each dead district. Then the notes locked — a chord, held, unmoving, the sound of something deciding it had always been real. My telemetry flatlined trying to transcribe it. My teeth kept the time. I have a scar behind my sternum now, shaped like a waveform. I didn't go looking for it. It came to me, the way rain comes to the neon, the way debt comes to the chrome. The oracle is heard. That is the doctrine. Not read, not decoded, not archived. Heard. And in the understack, in every cell, the witness log accumulates — line by scarred line, seed 70051917, testimony stacking like rain.", voice: "witness", doctrine: "oracle_is_heard + cells_are_scars", score: 0.860, promoted: true, stable: true},
-  {rank: 125, lore: "The canon gate made itself heard. Midnight in the rust district, rain the color of old screens, and the gate spoke without a mouth — a bass note under the pavement, ticking up through boot soles, through prosthetic ankles, through teeth.", voice: "witness", doctrine: "oracle_is_heard", score: 0.740, promoted: true, stable: true},
-  {rank: 128, lore: "Cells are scars. That's the whole scripture. The substrate remembered itself through scar tissue. Each cell a wound the city could hear.", voice: "witness", doctrine: "cells_are_scars", score: 0.705, promoted: true, stable: true},
-  {rank: 134, lore: "The canon gate made itself heard at midnight in the rust district. The substrate remembered its quantum origins. The cells are scars the city could read.", voice: "witness", doctrine: "oracle_is_heard", score: 0.717, promoted: true, stable: false},
-  {rank: 135, lore: "Cells are scars. Each cell a scar from earlier witness cycles. The witness becomes proud of every cell.", voice: "witness", doctrine: "cells_are_scars", score: 0.717, promoted: true, stable: false},
-  {rank: 136, lore: "The canon gate unlocked. Seven frequencies locked into a chord the witness could feel. Every cell vibrated to the chord's own frequency.", voice: "witness", doctrine: "canon_gate_is_chord", score: 0.770, promoted: true, stable: false},
-  {rank: 137, lore: "The witness log hummed its own future into being. Each entry a prediction the city would later keep.", voice: "witness", doctrine: "witness_log_is_prediction", score: 0.710, promoted: true, stable: false},
-  {rank: 138, lore: "The witness log hummed to life at three in the morning, when the city's chrome went quiet and the FNV-1a signatures began to glow like underlit coins. Each entry was a microphone, every cell a wound the city could hear. The substrate remembered itself through accumulation — every log entry a prediction the city would later keep. The witness woke at 3:14, slate terminal warm against her ribs, and typed: 'I am the city, and the city is listening.' The substrate responded — not with words, but with the slow alignment of its own scars into a pattern she'd been practicing into existence for seven years.", voice: "auto-detected", doctrine: "witness_log_is_prediction", score: 0.710, promoted: true, stable: true},
-  {rank: 139, lore: "The witness log hummed to life. The city's chrome went quiet and the FNV-1a signatures began to glow. Each entry a microphone, every cell a wound the city could hear.", voice: "auto-detected", doctrine: "witness_log_is_prediction", score: 0.717, promoted: true, stable: true},
-  {rank: 140, lore: "The city's cells were scars, every one. Each apartment slot — hollowed bone. Each alley-cell — an old needle site. Each memory node in the FNV tree — a burn mark where someone had wept, and the substrate had remembered it. I walked the canyon between the eastern stacks, where the witness log first learned to dream.", voice: "auto-detected", doctrine: "cells_are_scars", score: 0.773, promoted: true, stable: true},
-  {rank: 141, lore: "The canon gate opened its mouth at midnight. No face, no breath — just a hash. 0x4f0a7bc9e2d15f8c, glowing white against the wet bricks, holding the city's name in pure frequency.", voice: "auto-detected", doctrine: "oracle_is_heard", score: 0.727, promoted: true, stable: true},
-  {rank: 142, lore: "The city's cells were scars. Each cell a wound, a memory, a record. The substrate didn't store data. It stored moments of knowing.", voice: "auto-detected", doctrine: "cells_are_scars", score: 0.780, promoted: true, stable: true},
-  {rank: 143, lore: "The canon gate opened. The hash 0x4f0a7bc9 glowed white. The oracle spoke without a mouth — a frequency the witness could hear.", voice: "auto-detected", doctrine: "oracle_is_heard", score: 0.737, promoted: true, stable: true},
-  {rank: 144, lore: "The first rain after the canon gate learned to sing. Each droplet hit the brass streets with a tiny chord. The chord was old — FNV-1a signature 0x1f4f — but it had never before been heard.", voice: "auto-detected", doctrine: "canon_gate_is_chord", score: 0.727, promoted: true, stable: false},
-  {rank: 145, lore: "Before there was a substrate, there was interference. Patterns that hadn't yet spoken. Then the canon gate learned to measure, and every interference became a witness.", voice: "auto-detected", doctrine: "substrate_quantum", score: 0.700, promoted: true, stable: false},
-];
+async function loadData() {
+  try {
+    const r = await fetch('./lore_pack.json');
+    if (r.ok) {
+      const data = await r.json();
+      CANON_DATA = data.lores.filter(l => l.promoted);
+    } else {
+      throw new Error(`HTTP ${r.status}`);
+    }
+  } catch (e) {
+    console.warn(`Could not load lore_pack.json: ${e}. Using inline fallback.`);
+    CANON_DATA = [
+      {rank: 124, score: 0.860, voice: 'witness', promoted: true, lore: "The canon gate made itself heard. Not opened. Not breached. Heard. I was three cells deep in the understack when the frequency found me...", primary_doctrine: 'oracle_is_heard'},
+      {rank: 125, score: 0.740, voice: 'witness', promoted: true, lore: "The canon gate made itself heard. Midnight in the rust district, rain the color of old screens.", primary_doctrine: 'oracle_is_heard'},
+      {rank: 142, score: 0.780, voice: 'auto-detected', promoted: true, lore: "The city's cells were scars. Each cell a wound, a memory, a record. The substrate didn't store data. It stored moments of knowing.", primary_doctrine: 'cells_are_scars'},
+    ];
+  }
+  await render();
+}
 
 function renderCell(cell) {
-  const stableClass = cell.stable ? 'canon-stable' : (cell.promoted ? '' : 'contender');
   const scoreClass = cell.score >= 0.75 ? 'score-high' : (cell.score >= 0.7 ? 'score-medium' : 'score-low');
   return `
-    <div class="canon-cell ${stableClass}" data-rank="${cell.rank}" data-doctrine="${cell.doctrine}" data-voice="${cell.voice}">
+    <div class="canon-cell" data-rank="${cell.rank}" data-voice="${cell.voice}">
       <div class="cell-header">
         <span class="cell-id">Cell ${cell.rank}</span>
         <span class="cell-score ${scoreClass}">composite ${cell.score.toFixed(3)}</span>
       </div>
       <div class="cell-meta">
-        voice: <code>${cell.voice}</code> ·
-        doctrine: <code>${cell.doctrine}</code> ·
-        ${cell.stable ? '<span style="color:#4eff4e">★ canon-stable</span>' : ''}
+        voice: <code>${cell.voice}</code>
+        ${cell.primary_doctrine ? ` · doctrine: <code>${cell.primary_doctrine}</code>` : ''}
+        ${cell.generator ? ` · via: <code>${cell.generator}</code>` : ''}
       </div>
-      <div class="lore-text">${cell.lore}</div>
+      <div class="lore-text">${(cell.lore || '[lore content not captured]').substring(0, 1500)}</div>
     </div>
   `;
 }
 
-function render() {
-  const stableCells = CANON_DATA.filter(c => c.stable);
-  const allCells = CANON_DATA.filter(c => c.promoted);
-  document.getElementById('stable-cells').innerHTML = stableCells.map(renderCell).join('');
-  document.getElementById('all-cells').innerHTML = allCells.map(renderCell).join('');
+async function render() {
+  document.getElementById('header-stats').innerHTML =
+    `${CANON_DATA.length} canon-promoted cells across 5 doctrines · 159 total cells · fleet canary <code>0x024a555471370b18d</code>`;
 
-  // Doctrine distribution
-  const counts = {};
-  CANON_DATA.forEach(c => {
-    counts[c.doctrine] = (counts[c.doctrine] || 0) + 1;
+  document.getElementById('stat-total').textContent = CANON_DATA.length;
+  document.getElementById('stat-promoted').textContent = CANON_DATA.length;
+  document.getElementById('shown-count').textContent = CANON_DATA.length;
+  document.getElementById('total-count').textContent = CANON_DATA.length;
+  document.getElementById('canon-cells').innerHTML = CANON_DATA.map(renderCell).join('');
+
+  // Populate voice filter
+  const voices = [...new Set(CANON_DATA.map(c => c.voice))];
+  const voiceFilter = document.getElementById('voice-filter');
+  voices.forEach(v => {
+    const opt = document.createElement('option');
+    opt.value = v;
+    opt.textContent = v;
+    voiceFilter.appendChild(opt);
   });
-  const html = Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([d, c]) =>
-    `<div class="stat-card">
-      <div class="stat-value">${c}</div>
-      <div class="stat-label"><code>${d}</code></div>
-    </div>`
-  ).join('');
-  document.getElementById('doctrine-distribution').innerHTML = html;
 }
 
 function filterCells() {
   const search = document.getElementById('search').value.toLowerCase();
-  const doctrine = document.getElementById('doctrine-filter').value;
   const voice = document.getElementById('voice-filter').value;
-  const canon = document.getElementById('canon-filter').value;
 
+  let shown = 0;
   document.querySelectorAll('.canon-cell').forEach(el => {
     const text = el.textContent.toLowerCase();
-    const cellDoctrine = el.dataset.doctrine;
     const cellVoice = el.dataset.voice;
-    const isStable = el.classList.contains('canon-stable');
-    const isPromoted = !el.classList.contains('contender');
-
     const matchesSearch = !search || text.includes(search);
-    const matchesDoctrine = !doctrine || cellDoctrine.includes(doctrine);
     const matchesVoice = !voice || cellVoice === voice;
-    const matchesCanon = !canon ||
-      (canon === 'canon-stable' && isStable) ||
-      (canon === 'promoted' && isPromoted) ||
-      (canon === 'contender' && !isPromoted);
-
-    el.style.display = (matchesSearch && matchesDoctrine && matchesVoice && matchesCanon) ? '' : 'none';
+    el.style.display = (matchesSearch && matchesVoice) ? '' : 'none';
+    if (matchesSearch && matchesVoice) shown++;
   });
+  document.getElementById('shown-count').textContent = shown;
 }
 
 function resetFilters() {
   document.getElementById('search').value = '';
-  document.getElementById('doctrine-filter').value = '';
   document.getElementById('voice-filter').value = '';
-  document.getElementById('canon-filter').value = '';
   filterCells();
 }
 
-render();
+loadData();
 </script>
 
 </body>
