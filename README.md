@@ -38,7 +38,7 @@ cargo run --release --example text_render
 
 # WASM
 cargo build --release --target wasm32-unknown-unknown --features wasm
-cp target/wasm32-unknown-unknown/release/substrate_walker.wasm web/walker.wasm
+cp target/wasm32-unknown-unknown/release/substrate_walker.wasm docs/walker.wasm
 
 # Serve
 cd web && python3 -m http.server 8080
