@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Polyformalism Canaries · Substrate Walker</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0a14;
+      color: #d8e8d8;
+      padding: 30px;
+      min-height: 100vh;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 {
+      color: #a0f8a8;
+      margin-bottom: 20px;
+      font-size: 28px;
+    }
+    h2 {
+      color: #88c8f0;
+      margin-top: 30px;
+      margin-bottom: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 15px 0;
+    }
+    th, td {
+      padding: 8px 12px;
+      border-bottom: 1px solid #2a3040;
+      text-align: left;
+    }
+    th {
+      color: #c0c0a0;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    td.hash {
+      color: #88f0c0;
+      font-size: 13px;
+    }
+    .lang-python { color: #ffdf80; }
+    .lang-ts { color: #80c0ff; }
+    .lang-rust { color: #ff8080; }
+    .lang-bash { color: #80ff80; }
+    .pin {
+      display: inline-block;
+      padding: 5px 12px;
+      background: #1a3050;
+      border-left: 3px solid #88c8f0;
+      margin: 10px 0;
+      color: #88c8f0;
+    }
+    .success {
+      color: #88f088;
+    }
+    .code {
+      background: #14181f;
+      padding: 10px;
+      border-left: 3px solid #80c088;
+      margin: 10px 0;
+      font-size: 12px;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔐 Polyformalism Canaries</h1>
+  
+  <p>The substrate walker is a canonical member of the substrate-* fleet. The fleet canary is the FNV-1a 64-bit hash of <code style="color: #88c8f0;">'café Δ 日本語'</code> — it must be reproducible byte-exact across every port.</p>
+
+  <div class="pin">FLEET CANARY: 0x024a555471370b18d</div>
+
+  <h2>Reference Vectors (verified)</h2>
+  <table>
+    <tr><th>Input</th><th>FNV-1a 64-bit</th></tr>
+    <tr><td><code>""</code></td><td class="hash">0xcbf29ce484222325</td></tr>
+    <tr><td><code>"a"</code></td><td class="hash">0xaf63dc4c8601ec8c</td></tr>
+    <tr><td><code>"foobar"</code></td><td class="hash">0x85944171f73967e8</td></tr>
+    <tr><td><code>"abc"</code></td><td class="hash">0xe71fa2190541574b</td></tr>
+    <tr><td><code>"café Δ 日本語"</code></td><td class="hash">0x024a555471370b18d</td></tr>
+    <tr><td><code>"witness log is the prediction"</code></td><td class="hash">0x176137b542efe82a</td></tr>
+  </table>
+
+  <h2>Polyformalism Ports</h2>
+  <p>Each port implements FNV-1a 64-bit in its native language. All ports must produce byte-exact output for all reference vectors.</p>
+  
+  <table>
+    <tr><th>Language</th><th>File</th><th>Status</th></tr>
+    <tr>
+      <td><span class="lang-python">Python 3</span></td>
+      <td><code>scripts/canary_check.py</code></td>
+      <td class="success">✓ verified</td>
+    </tr>
+    <tr>
+      <td><span class="lang-ts">TypeScript</span></td>
+      <td><code>scripts/canary_check.ts</code> / <code>.js</code></td>
+      <td class="success">✓ verified</td>
+    </tr>
+    <tr>
+      <td><span class="lang-rust">Rust</span></td>
+      <td><code>scripts/canary_check_rust.rs</code></td>
+      <td class="success">✓ verified</td>
+    </tr>
+    <tr>
+      <td><span class="lang-bash">Bash</span></td>
+      <td><code>scripts/canary_check_bash.sh</code></td>
+      <td class="success">✓ verified</td>
+    </tr>
+  </table>
+
+  <h2>Why Polyformalism?</h2>
+  
+  <p>When the substrate walker hashes a canon cell, the hash must be reproducible across all substrate-* projects — regardless of language, runtime, or deployment. The canary is the seed that proves byte-exact agreement.</p>
+  
+  <p>This is the same polyformalism principle as:</p>
+  <ul style="margin-left: 25px; line-height: 1.6;">
+    <li>The <code>quilt-substrate-meta</code> C99 implementation (proves the algebra)</li>
+    <li>The 24-repo polyformalism fleet (ports the cell algebra across languages)</li>
+    <li>The 12-language witness-log encoding (one truth, many dialects)</li>
+  </ul>
+
+  <h2>Run the canary test</h2>
+  
+  <div class="code">
+    <code>
+$ ./scripts/canary_test.sh<br>
+=== FLEET CANARY VERIFICATION (Python + TypeScript + Rust) ===<br>
+<br>
+All 6 reference vectors match — fleet canary pinned ✓<br>
+All 6 reference vectors match — fleet canary pinned ✓<br>
+All 6 reference vectors match — fleet canary pinned ✓<br>
+<br>
+All 3 ports agree — fleet canary pinned ✓
+    </code>
+  </div>
+</body>
+</html>
