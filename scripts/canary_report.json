@@ -1,42 +1,94 @@
 {
-  "version": "2.0.0",
-  "generated_at": "2026-09-22T18:00:00Z",
-  "fleet_canary": "0x024a555471370b18d",
-  "fleet_canary_input": "café Δ 日本語",
-  "hash_algorithm": "FNV-1a 64-bit",
+  "package": "substrate-walker",
+  "version": "1.0.0",
+  "purpose": "fleet canary pin — substrate-walker joins the pinned fleet",
+  "algorithm": "FNV-1a 64-bit",
   "constants": {
-    "offset_basis": "0xcbf29ce484222325",
-    "prime": "0x100000001b3"
+    "FNV_OFFSET_64": "0xcbf29ce484222325",
+    "FNV_PRIME_64": "0x100000001b3",
+    "MASK_64": "0xffffffffffffffff"
   },
-  "ports_verified": {
-    "python": {
-      "file": "scripts/canary_check.py",
-      "all_pass": true,
-      "timestamp": "2026-09-22T18:00:00Z"
+  "implementations": {
+    "python_style": "fnv1a_64_py — native int, byte iteration",
+    "typescript_style": "fnv1a_64_ts — BigInt-shape, byte-index loop, mask-at-each-step (mirrors substrate-canary-pin/index.js)"
+  },
+  "fleet_canary": {
+    "input": "café Δ 日本語",
+    "expected_hex": "0x024a555471370b18d",
+    "py_hash_hex": "0x24a555471370b18d",
+    "ts_hash_hex": "0x24a555471370b18d",
+    "py_match": true,
+    "ts_match": true,
+    "cross_port_agree": true,
+    "match": true
+  },
+  "vectors": [
+    {
+      "input": "café Δ 日本語",
+      "label": "fleet canary (substrate-* fleet pin)",
+      "expected_hex": "0x024a555471370b18d",
+      "py_hash_hex": "0x24a555471370b18d",
+      "ts_hash_hex": "0x24a555471370b18d",
+      "py_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
     },
-    "typescript": {
-      "file": "scripts/canary_check.ts",
-      "compiled_to": "scripts/canary_check.js",
-      "all_pass": true,
-      "timestamp": "2026-09-22T18:00:00Z"
+    {
+      "input": "witness log is the prediction",
+      "label": "witness-log doctrine canary",
+      "expected_hex": "0x176137b542efe82a",
+      "py_hash_hex": "0x176137b542efe82a",
+      "ts_hash_hex": "0x176137b542efe82a",
+      "py_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
     },
-    "rust": {
-      "file": "scripts/canary_check_rust.rs",
-      "compiled_to": "scripts/canary_check_rust",
-      "all_pass": true,
-      "timestamp": "2026-09-22T18:00:00Z"
+    {
+      "input": "",
+      "label": "empty string → FNV_OFFSET",
+      "expected_hex": "0xcbf29ce484222325",
+      "py_hash_hex": "0xcbf29ce484222325",
+      "ts_hash_hex": "0xcbf29ce484222325",
+      "py_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
     },
-    "bash": {
-      "file": "scripts/canary_check_bash.sh",
-      "all_pass": true,
-      "timestamp": "2026-09-22T18:00:00Z"
+    {
+      "input": "a",
+      "label": "FNV-1a 64 single char (IETF Appendix C)",
+      "expected_hex": "0xaf63dc4c8601ec8c",
+      "py_hash_hex": "0xaf63dc4c8601ec8c",
+      "ts_hash_hex": "0xaf63dc4c8601ec8c",
+      "py_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
     },
-    "javascript_esm": {
-      "file": "scripts/canary_check.mjs",
-      "all_pass": true,
-      "timestamp": "2026-09-22T18:00:00Z"
+    {
+      "input": "foobar",
+      "label": "FNV-1a 64 reference (IETF Appendix C)",
+      "expected_hex": "0x85944171f73967e8",
+      "py_hash_hex": "0x85944171f73967e8",
+      "ts_hash_hex": "0x85944171f73967e8",
+      "py_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
+    },
+    {
+      "input": "abc",
+      "label": "FNV-1a 64 reference (IETF Appendix C)",
+      "expected_hex": "0xe71fa2190541574b",
+      "py_hash_hex": "0xe71fa2190541574b",
+      "ts_hash_hex": "0xe71fa2190541574b",
+      "py_match": true,
+      "ts_match": true,
+      "cross_port_agree": true
     }
+  ],
+  "cross_port_summary": {
+    "py_match": 6,
+    "ts_match": 6,
+    "cross_port_agree": 6,
+    "total": 6
   },
-  "all_5_ports_agree": true,
-  "verification_command": "./scripts/canary_test.sh"
+  "all_pass": true
 }
