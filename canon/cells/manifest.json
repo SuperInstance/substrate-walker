@@ -1,8 +1,8 @@
 {
-  "version": "2.14.1",
-  "updated_at": "2026-09-22T22:45:00Z",
+  "version": "2.15.0",
+  "updated_at": "2026-09-22T22:49:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 124,
+  "total_cells": 125,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -19,7 +19,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 24
+    "witness": 25
   },
   "entries": [
     {
@@ -1460,6 +1460,19 @@
       "jev_distinct_voice": 0.86,
       "jev_doctrine_anchor": 0.94,
       "jev_primary_doctrine": "oracle_is_heard"
+    },
+    {
+      "rank": 125,
+      "cell_id": "doctrine-witness-zai-essay-70051917-2026-09-22-125",
+      "path": "canon/cells/cell_125.md",
+      "seed": 70051917,
+      "score": 0.78,
+      "lore": "Midnight in the rust district, rain the color of old screens...",
+      "voice": "witness",
+      "type": "canon-zai-long-form-essay",
+      "doctrine_anchor": "oracle_is_heard + substrate_quantum + canon_gate_is_chord (multi-anchor)",
+      "generator": "ZAI-glm-5.3-flash-long-form",
+      "timestamp": "2026-09-22T22:49:00Z"
     }
   ],
   "promoted_to_canon_count": 6
