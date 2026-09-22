@@ -1,0 +1,192 @@
+[
+  {
+    "seed": 644321,
+    "best_score": 0.8604166666666666,
+    "best_pos": [
+      3.7528984795826235,
+      14.114874449448777,
+      0.0
+    ],
+    "lore": "Rain-soaked streets reflected the neon lights of the city's underbelly."
+  },
+  {
+    "seed": 654221,
+    "best_score": 0.8604166666666666,
+    "best_pos": [
+      14.277686376173815,
+      2.34097959079939,
+      0.0
+    ],
+    "lore": "Rain drizzles down on the city's dimly lit streets. A lone saxophone wails in the distance."
+  },
+  {
+    "seed": 704321,
+    "best_score": 0.86,
+    "best_pos": [
+      11.31942487487138,
+      18.187511981983757,
+      0.0
+    ],
+    "lore": "I stepped into the dimly lit alley, rain pattering against my trenchcoat."
+  },
+  {
+    "seed": 654271,
+    "best_score": 0.8591666666666666,
+    "best_pos": [
+      22.755518414820717,
+      21.986157346898526,
+      0.0
+    ],
+    "lore": "Rain patters on wet streets, neon lights reflecting off the damp pavement."
+  },
+  {
+    "seed": 654371,
+    "best_score": 0.85875,
+    "best_pos": [
+      18.498492014441467,
+      4.8681453603489455,
+      0.0
+    ],
+    "lore": "Rain pounds against the pavement, a lone figure lurks in the shadows.\n\n(Note: I'll assume the ASCII view is a map of the city, and the coordinates (18.5, 4.9) are the player's current location. The facing direction, 0.00rad,"
+  },
+  {
+    "seed": 655321,
+    "best_score": 0.85875,
+    "best_pos": [
+      13.765504731492221,
+      8.886971307558447,
+      1.57
+    ],
+    "lore": "Rain-soaked streets, shadows danced on walls.\"\n\nYour surroundings:\n\n  You are at (13.8, 8.9) with a 1.57 rad bearing.\n  Ahead, a lone streetlamp casts a weak glow.\n  To your left, a cramped alleyway beckons"
+  },
+  {
+    "seed": 654321,
+    "best_score": 0.8583333333333333,
+    "best_pos": [
+      11.25895949056352,
+      17.337952999405537,
+      0.0
+    ],
+    "lore": "Rain-soaked streets. Shadows hide secrets."
+  },
+  {
+    "seed": 659321,
+    "best_score": 0.8583333333333333,
+    "best_pos": [
+      22.656750400744677,
+      4.417419235813767,
+      0.0
+    ],
+    "lore": "Rain falls hard on city streets, neon lights reflecting in wet pavement."
+  },
+  {
+    "seed": 654821,
+    "best_score": 0.8579166666666667,
+    "best_pos": [
+      14.262539767512788,
+      6.328875711195348,
+      0.0
+    ],
+    "lore": "Rain falls on wet pavement. Neon lights cast long shadows."
+  },
+  {
+    "seed": 654311,
+    "best_score": 0.8575,
+    "best_pos": [
+      7.030603513107109,
+      27.791505559377192,
+      0.0
+    ],
+    "lore": "I can only see the darkness."
+  },
+  {
+    "seed": 604321,
+    "best_score": 0.8570833333333333,
+    "best_pos": [
+      1.153155137276392,
+      0.015125215576890838,
+      0.0
+    ],
+    "lore": "Rain soaks the city's neon veins\"\n\n(Note: in this game, you can type movement commands like \"n\" for north, \"s\" for south, \"e\" for east, \"w\" for west, \"f\" for forward (your current direction), and \"l"
+  },
+  {
+    "seed": 629321,
+    "best_score": 0.8566666666666667,
+    "best_pos": [
+      7.334783412255863,
+      4.04333459416576,
+      3.925
+    ],
+    "lore": "Rain pours down on city streets, neon lights reflecting off wet pavement.\n\n**You are** at (7.3, 4.0), facing 3.92 rad. What do you do?"
+  },
+  {
+    "seed": 649321,
+    "best_score": 0.8566666666666667,
+    "best_pos": [
+      8.090024406990835,
+      29.616162594451804,
+      0.0
+    ],
+    "lore": "Rain-soaked streets reflected the city's neon decay."
+  },
+  {
+    "seed": 654421,
+    "best_score": 0.8566666666666667,
+    "best_pos": [
+      0.41981167284948384,
+      29.88117858703259,
+      0.0
+    ],
+    "lore": "Rain pours down, casting a gloomy haze over the sprawl."
+  },
+  {
+    "seed": 679321,
+    "best_score": 0.8558333333333333,
+    "best_pos": [
+      16.850293254930545,
+      6.11906166296092,
+      0.0
+    ],
+    "lore": "Rain pours down on neon-lit streets, a lone figure disappears into the haze."
+  },
+  {
+    "seed": 664321,
+    "best_score": 0.8545833333333334,
+    "best_pos": [
+      14.357884954797015,
+      15.369633620197757,
+      0.0
+    ],
+    "lore": "Rain pours down, casting shadows on wet streets."
+  },
+  {
+    "seed": 653821,
+    "best_score": 0.8541666666666666,
+    "best_pos": [
+      3.7422878328124223,
+      22.569167917356918,
+      0.0
+    ],
+    "lore": "Rain pours down on the city's dark streets\"\n\n(The player is standing in a cramped alleyway, surrounded by towering skyscrapers. The air is thick with the smell of smoke and ozone."
+  },
+  {
+    "seed": 654331,
+    "best_score": 0.8541666666666666,
+    "best_pos": [
+      29.05765964015287,
+      3.3276700948738642,
+      2.355
+    ],
+    "lore": "**Rain-soaked streets shroud the city in shadows**"
+  },
+  {
+    "seed": 653321,
+    "best_score": 0.8533333333333333,
+    "best_pos": [
+      1.5620828501293516,
+      12.744641872834665,
+      5.495
+    ],
+    "lore": "Rain-soaked streets, shadows whisper secrets."
+  }
+]
