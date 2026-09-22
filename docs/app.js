@@ -64,6 +64,11 @@ class SubstrateWalker {
         this.loreCache = new LoreCacheLoader();
         await this.loreCache.load('lore_pack.json');
 
+        // Witness log
+        this.witnessLog = new WitnessLog();
+        this.witnessLog.record('session_start', { userAgent: navigator.userAgent });
+        this._lastPosition = null;
+
         this.lastTime = performance.now();
         this.recording = false;
         this.walkStep = 0;
@@ -293,6 +298,27 @@ class SubstrateWalker {
                 } else {
                     document.getElementById('ghost-status').textContent = 'no ghost saved';
                 }
+            };
+        }
+
+        // Witness log button
+        const witnessBtn = document.getElementById('btn-witness');
+        if (witnessBtn) {
+            witnessBtn.onclick = () => {
+                const stats = this.witnessLog.stats();
+                const verification = this.witnessLog.verify();
+                const report = `Witness Log ${stats.session}
+` +
+                    `Entries: ${stats.total}
+` +
+                    `Events: ${JSON.stringify(stats.types, null, 2)}
+` +
+                    `Chain integrity: ${verification.valid ? 'VALID' : 'BROKEN'}
+` +
+                    (verification.reason ? `Reason: ${verification.reason}
+` : '');
+                alert(report);
+                this.witnessLog.save();
             };
         }
 
