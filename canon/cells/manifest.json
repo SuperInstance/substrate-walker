@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "updated_at": "2026-09-22T22:00:00Z",
+  "version": "2.7.0",
+  "updated_at": "2026-09-22T22:10:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 111,
+  "total_cells": 113,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -18,7 +18,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 11
+    "witness": 13
   },
   "entries": [
     {
@@ -1244,6 +1244,34 @@
       "jev_distinct_voice": 0.8,
       "jev_promote_threshold": 0.7,
       "timestamp": "2026-09-22T22:00:00Z"
+    },
+    {
+      "rank": 112,
+      "cell_id": "doctrine-witness-3289967-2026-09-22-112",
+      "path": "canon/cells/cell_3289967.md",
+      "seed": 3289967,
+      "score": 0.625,
+      "lore": "I am the city, a tapestry of code and circuitry...",
+      "voice": "witness",
+      "type": "canon-witness-voice",
+      "jev_canon_worthy": 0.58,
+      "jev_distinct_voice": 0.67,
+      "jev_promote_threshold": 0.7,
+      "timestamp": "2026-09-22T22:10:00Z"
+    },
+    {
+      "rank": 113,
+      "cell_id": "doctrine-witness-90625407-2026-09-22-113",
+      "path": "canon/cells/cell_90625407.md",
+      "seed": 90625407,
+      "score": 0.61,
+      "lore": "( static crackles, a faint hum fills the air )...",
+      "voice": "witness",
+      "type": "canon-witness-voice",
+      "jev_canon_worthy": 0.5,
+      "jev_distinct_voice": 0.73,
+      "jev_promote_threshold": 0.7,
+      "timestamp": "2026-09-22T22:10:00Z"
     }
   ]
 }
