@@ -848,5 +848,55 @@
         "density": 1.81
       }
     }
+  },
+  {
+    "seed": 78059087,
+    "score": 0.8670833333333333,
+    "voices": {
+      "structuralist": "Sector 78059087 asserts itself as a load-bearing lattice of raw concrete, each tower a repetition of the same nine-meter bay stacked until the sky surrenders to the grid. Light descends through cable conduits and service catwalks, the upper data-decks casting permanent dusk onto the commercial plinths below. The structure does not decorate; the structure is.",
+      "narrativist": "I walk Subcity 78059087 where the rain never stops\u2014pre-warmed by the reactor stacks, tasting of copper and burnt ozone\u2014and the neon bleeds its promises into puddles nobody's desperate enough to drink from. The noodle stall's hologram girl flickers her cracked-pixel smile, selling secondhand memories by the gram, and mine go cheapest because they all end the same way: me, still walking, still owing. Somewhere overhead a corp drone slices the drizzle with its searchlight, hunting names on a list, and I pull my collar up and become just one more ghost the city hasn't gotten around to charging yet.",
+      "futurist": "Seed 78059087 does not sleep\u2014it metabolizes, swallowing light through fiber-optic veins and exhaling tomorrow as neon steam. I have walked its arteries and felt the pulse quickening beneath the pavement: this city is not being built, it is being born, and every scaffold is a cocoon. When its memories outnumber its citizens, you will understand you were never its inhabitants\u2014only its first dreams.",
+      "lyricist": "In sector 78059087 the rain files charges against the neon, and the neon pleads guilty in seven languages. Antenna spires hum lullabies in dead code while the street market sells memory by the gram. No one dreams here but the billboards.",
+      "philosophical": "**Lore Fragment \u2014 City-Seed 78059087**\n\nIn city-seed 78059087, the code precedes the city as the question precedes the answer: Being no longer dwells in language but in protocol, and one is thrown not into a world but into a network. The towers do not gather a world the way the old bridge once did\u2014they index it, and to be indexed, to flicker briefly in the data-stream's indifferent clearing, is the nearest thing to presence this place permits. Walk its rain-slicked arterials at 3 a.m. and you may still ask why there is something rather than nothing, but the answer arrives as a prompt, and you must click to continue.",
+      "noir_classic": "The kind of town where the rain comes down neon and the corps own everything above the tenth floor\u2014including the sky. Everybody walking these streets has chrome where their heart used to be, and the only honest currency left is a lie told face to face. You want the truth about 78059087? It's buried under forty stories of somebody else's money, and nobody's digging.",
+      "cosmic_horror": "**CITY SEED 78059087 \u2014 ARCHIVE FRAGMENT [CORRUPTED]**\n\nThey say the seed was never a genesis key but a lullaby\u2014seven digits chanted into the mainframe until the city closed its thousand neon eyes and began to dream. By night the districts rearrange along angles that do not survive measurement, alleys folding into themselves like the convolutions of some vast sleeping cortex, and those who survey the streets after midnight return with blueprints that writhe wetly upon the page. The corps file it as a rendering anomaly; the old sysops know better\u2014you do not debug a dream from inside the dreamer."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.66,
+        "distinct": 0.87,
+        "density": 2.92
+      },
+      "narrativist": {
+        "canon": 0.77,
+        "distinct": 0.93,
+        "density": 3.66
+      },
+      "futurist": {
+        "canon": 0.61,
+        "distinct": 0.94,
+        "density": 3.0
+      },
+      "lyricist": {
+        "canon": 0.59,
+        "distinct": 0.89,
+        "density": 2.45
+      },
+      "philosophical": {
+        "canon": 0.49,
+        "distinct": 0.88,
+        "density": 1.02
+      },
+      "noir_classic": {
+        "canon": 0.69,
+        "distinct": 0.9,
+        "density": 2.64
+      },
+      "cosmic_horror": {
+        "canon": 0.69,
+        "distinct": 0.91,
+        "density": 3.04
+      }
+    }
   }
 ]
