@@ -1,32 +1,302 @@
 [
   {
-    "run": "mine_big",
-    "score": 0.8591666666666666,
-    "seed": 5641,
-    "path_type": "spiral",
-    "start_x": 16.0,
-    "start_y": 15.995359644347015,
-    "lore": "Rains pour down on the city's dark streets.\"\n\nWhat will you do?",
-    "view_preview": "                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                 @@@ @                     $#$ @                      @  @      \n                @ # #                      $$###                      @##$@     \n                @#@ ##                     @@#$#                      $# #@     "
+    "rank": 1,
+    "seed": 800330,
+    "score": 0.8641666666666666,
+    "lore": "Rain-soaked streets, neon haze, and a femme fatale's whisper in the darkness..."
   },
   {
-    "run": "mine_005",
-    "score": 0.8575,
-    "seed": 137014,
-    "path_type": "straight_east",
-    "start_x": 16.0,
-    "start_y": 17.54379168131727,
-    "lore": "Rain pours down on the neon-drenched streets.",
-    "view_preview": "                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n            $ $@                      $###@                      @@#$$          \n           #$ $#                       @$$$                      @@$ @          \n           ###$@                      @$ @@                      # #$           "
+    "rank": 2,
+    "seed": 800340,
+    "score": 0.86125,
+    "lore": "Rain-soaked streets, neon lights dance on wet pavement. Your watch: 23:47."
   },
   {
-    "run": "mine_004",
-    "score": 0.8508333333333333,
-    "seed": 269010,
-    "path_type": "straight_east",
-    "start_x": 16,
-    "start_y": 16,
-    "lore": "Rainy streets, lonely nights, and the city's dark pulse.",
-    "view_preview": "                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n           @$@$$                      @#$@                       $@#$#          \n           @#@ @                       #$$$                       $#@           \n           $$@$@                       @#$$                       @#@#          "
+    "rank": 3,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 4,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 5,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 6,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 7,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 8,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 9,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 10,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 11,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 12,
+    "seed": 0,
+    "score": 0.8608333333333333,
+    "lore": ""
+  },
+  {
+    "rank": 13,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 14,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 15,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 16,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 17,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 18,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 19,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 20,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 21,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 22,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 23,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 24,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 25,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 26,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 27,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 28,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 29,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 30,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 31,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 32,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 33,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 34,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 35,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 36,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 37,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 38,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 39,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 40,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 41,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 42,
+    "seed": 0,
+    "score": 0.8604166666666666,
+    "lore": ""
+  },
+  {
+    "rank": 43,
+    "seed": 281679,
+    "score": 0.86,
+    "lore": "The rain-soaked streets of Neo-Eden stretched out before me, a tangled web of despair."
+  },
+  {
+    "rank": 44,
+    "seed": 799840,
+    "score": 0.86,
+    "lore": "Rain falls hard on wet streets, reflecting city's neon glow."
+  },
+  {
+    "rank": 45,
+    "seed": 0,
+    "score": 0.86,
+    "lore": ""
+  },
+  {
+    "rank": 46,
+    "seed": 0,
+    "score": 0.86,
+    "lore": ""
+  },
+  {
+    "rank": 47,
+    "seed": 0,
+    "score": 0.86,
+    "lore": ""
+  },
+  {
+    "rank": 48,
+    "seed": 0,
+    "score": 0.86,
+    "lore": ""
+  },
+  {
+    "rank": 49,
+    "seed": 790340,
+    "score": 0.8595833333333334,
+    "lore": "The city's neon smog choked the alley, where shadows hid secrets and sins."
+  },
+  {
+    "rank": 50,
+    "seed": 801340,
+    "score": 0.8595833333333334,
+    "lore": "The rain-soaked streets of New Eden stretched out before you like a diseased artery."
   }
 ]
