@@ -4,22 +4,18 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.86
-**seed**: 281679
+**score**: 0.86125
+**seed**: 32041
 **path**: straight_east
-**lore**: "In the neon-drenched streets, a lone figure walked the thin line between dreams and despair.
+**lore**: "Rain pours down, neon lights flicker"
 
-**Current Location:** (6.0, 21.0)
-**Direction:** 0.00rad
-
-**Environment:**
-                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |                                                                                |              ..."
+The player's character, a grizzled cyber-enhanced private eye, stands at the edge of a dimly lit alleyway. The rain-soaked streets are empty, save for a few stragglers hurrying to find shelter. The"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 281679. 
+The substrate walker walked through ASCII cityscape at seed 32041. 
 This lore emerged from cell density patterns ranked #72 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -27,7 +23,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xba1d6adaf032fd6e` (FNV-1a 64-bit)
+`0x6e56e76d82dc5848` (FNV-1a 64-bit)
 
 ## Witness
 

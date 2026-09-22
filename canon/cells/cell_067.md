@@ -4,18 +4,20 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8608333333333333
-**seed**: 221801
+**score**: 0.86125
+**seed**: 3333
 **path**: straight_east
-**lore**: "Rain pounds against the alley's walls, a lone streetlamp's glow like a dying soul's.
+**lore**: "Rain pours down like a sinner's tears.
 
-You are standing in a narrow alleyway, the walls on either side made of worn, gray concrete. The air is heavy with the smell of ozone and smoke. Ahead of you, the alleyway"
+What would you like to do?
+
+(Note: you can type actions like 'move north', 'investigate alley', 'hack terminal', etc.)"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 221801. 
+The substrate walker walked through ASCII cityscape at seed 3333. 
 This lore emerged from cell density patterns ranked #67 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -23,7 +25,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x7b97811f52de75eb` (FNV-1a 64-bit)
+`0xb5d93335d932d476` (FNV-1a 64-bit)
 
 ## Witness
 

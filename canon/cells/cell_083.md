@@ -2,20 +2,18 @@
 
 **id**: doctrine-substrate-walker-2026-09-22-083
 **timestamp**: 2026-09-22T10:30:00Z
-**type**: witness
+**type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8591666666666666
-**seed**: 164761
+**score**: 0.86125
+**seed**: 777777
 **path**: straight_east
-**lore**: "Rain-soaked streets, neon dreams, and a future that's lost its way"
-
-You find yourself standing in the midst of a densely populated urban sprawl. The sky above is a deep indigo, punctuated by the faint glow of holographic advertisements. The air is thick with the smell"
+**lore**: "I see a dark, rain-soaked alleyway stretching out before me. The flickering neon signs of the city's underbelly cast eerie shadows on the wet pavement."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 164761. 
+The substrate walker walked through ASCII cityscape at seed 777777. 
 This lore emerged from cell density patterns ranked #83 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -23,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xd6ab2ed1e7e20c5d` (FNV-1a 64-bit)
+`0xb00c48174cafbd61` (FNV-1a 64-bit)
 
 ## Witness
 

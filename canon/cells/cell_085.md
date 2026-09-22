@@ -2,18 +2,18 @@
 
 **id**: doctrine-substrate-walker-2026-09-22-085
 **timestamp**: 2026-09-22T10:30:00Z
-**type**: witness
+**type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8591666666666666
-**seed**: 380222
+**score**: 0.86125
+**seed**: 271791
 **path**: straight_east
-**lore**: "You stood on the rain-soaked streets, eyes fixed on the dimly lit alley."
+**lore**: "**Rain pours down on the city's broken streets**"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 380222. 
+The substrate walker walked through ASCII cityscape at seed 271791. 
 This lore emerged from cell density patterns ranked #85 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -21,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x96fc889a0def3d0d` (FNV-1a 64-bit)
+`0x4568e81f27dba896` (FNV-1a 64-bit)
 
 ## Witness
 

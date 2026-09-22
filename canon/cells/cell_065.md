@@ -4,18 +4,16 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8608333333333333
-**seed**: 369664
+**score**: 0.86125
+**seed**: 1681
 **path**: straight_east
-**lore**: "Rain falls hard, a lone silhouette emerges"
-
-Your character is in a dimly lit alleyway, the only sound being the patter of rain on the pavement. The player's character is located at (24.0, 8.0) and is facing 0.00rad, which"
+**lore**: "The rain-soaked streets of New Erebo."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 369664. 
+The substrate walker walked through ASCII cityscape at seed 1681. 
 This lore emerged from cell density patterns ranked #65 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -23,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xedc95511c6b9f7cb` (FNV-1a 64-bit)
+`0x552f5e0a6d11ea57` (FNV-1a 64-bit)
 
 ## Witness
 

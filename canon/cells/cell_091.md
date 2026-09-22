@@ -2,18 +2,18 @@
 
 **id**: doctrine-substrate-walker-2026-09-22-091
 **timestamp**: 2026-09-22T10:30:00Z
-**type**: witness
+**type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.85875
-**seed**: 440222
+**score**: 0.8608333333333333
+**seed**: 2048
 **path**: straight_east
-**lore**: "Raining neon on the wet streets of New Erebo."
+**lore**: "The city's neon lights reflected off the wet pavement like a diseased smile."
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 440222. 
+The substrate walker walked through ASCII cityscape at seed 2048. 
 This lore emerged from cell density patterns ranked #91 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -21,7 +21,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x5fc9bb79e98531de` (FNV-1a 64-bit)
+`0x80f3f6a09bb11e42` (FNV-1a 64-bit)
 
 ## Witness
 

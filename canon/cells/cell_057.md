@@ -4,18 +4,18 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8608333333333333
-**seed**: 82369
+**score**: 0.8616666666666667
+**seed**: 398161
 **path**: straight_east
-**lore**: "Rain pattered on the neon-soaked streets"
+**lore**: "A rainy night in the sprawl, the city's darkness reflected in the streets.
 
-You are standing in a crowded street, surrounded by towering skyscrapers. The air is thick with the smells of cheap food, exhaust fumes, and desperation. People of all shapes and sizes hurry past you, their eyes cast down at the"
+What do you do?"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 82369. 
+The substrate walker walked through ASCII cityscape at seed 398161. 
 This lore emerged from cell density patterns ranked #57 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -23,7 +23,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x198b446d3ca3727f` (FNV-1a 64-bit)
+`0x7d67421ba17847fb` (FNV-1a 64-bit)
 
 ## Witness
 

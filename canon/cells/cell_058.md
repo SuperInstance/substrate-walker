@@ -4,16 +4,21 @@
 **timestamp**: 2026-09-22T10:30:00Z
 **type**: canon
 **chain**: prev_hash → this_hash
-**score**: 0.8608333333333333
-**seed**: 100489
+**score**: 0.8616666666666667
+**seed**: 518400
 **path**: straight_east
-**lore**: "You stand at the edge of the city's neon-lit sprawl, the rain-soaked streets a maze of decay and rebirth."
+**lore**: "A gritty cyberpunk world awaits. What's your first move?
+
+**Your location:** (12.0, 16.0) 
+**Direction:** facing 0.00rad (North)
+
+The city's neon-drenched streets stretch out before you, a labyrinth of shadows and crime. You"
 
 ## Context
 
-The substrate walker walked through ASCII cityscape at seed 100489. 
+The substrate walker walked through ASCII cityscape at seed 518400. 
 This lore emerged from cell density patterns ranked #58 across 
-1613+ tested seeds (with 343 lores generated across many voices).
+1613+ tested seeds (with 343+ lores generated across many voices).
 
 The walk is canon-reading: each cell visited is a "passing reader 
 in a darkened library." Every cell carries the hash of all that 
@@ -21,7 +26,7 @@ came before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x2b309dfc3e019eb7` (FNV-1a 64-bit)
+`0x4aa9067531a2c1a3` (FNV-1a 64-bit)
 
 ## Witness
 
