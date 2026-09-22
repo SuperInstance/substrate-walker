@@ -1,0 +1,702 @@
+[
+  {
+    "seed": 883554,
+    "x": 20.446383835712165,
+    "y": 19.487046766021514,
+    "angle": 0.9598306064917066,
+    "score": 0.85375,
+    "lore": "Neon drips, shadows whisper\u2014you're already too late.\"\n\n*(City seed: 883554, Position (20.4, 19.5), Orientation: 0.96rad. Chars: # $ . : = @ X.)",
+    "all_lores": [
+      "\"Rain poured like blood on the city's neon arteries.\"",
+      "Rain-slick alleys. Neon lies.",
+      "Rain slicked the neon. Another dead end. \n\n\n\n",
+      "\"Neon drips, shadows whisper\u2014you're already too late.\"\n\n*(City seed: 883554, Position (20.4, 19.5), Orientation: 0.96rad. Chars: # $ . : = @ X.)"
+    ]
+  },
+  {
+    "seed": 559582,
+    "x": 24.506701737823608,
+    "y": 4.1085268639924095,
+    "angle": 2.9847733344600327,
+    "score": 0.8479166666666667,
+    "lore": "Neon drips, shadows whisper secrets.\"\n\n*(ASCII noir in seed 559582\u2014watch the Xes.)*",
+    "all_lores": [
+      "\"Rain-soaked streets, corrupt cops, and codes that kill.\"",
+      "Neon rain, dead signal.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Neon drips, shadows whisper secrets.\"\n\n*(ASCII noir in seed 559582\u2014watch the Xes.)*"
+    ]
+  },
+  {
+    "seed": 68136,
+    "x": 10.81873798871857,
+    "y": 18.825878990631466,
+    "angle": 1.4451205207065037,
+    "score": 0.8475,
+    "lore": "**\"Neon rain hides neon sins.\"**\n\n*(The ASCII city sprawls in 10.8, 18.8, shadows pooling where light bends.)*",
+    "all_lores": [
+      "\"Rain poured down on the city's cold steel heart.\"",
+      "Neon rain hides the killer's trail.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Neon rain hides neon sins.\"**\n\n*(The ASCII city sprawls in 10.8, 18.8, shadows pooling where light bends.)*"
+    ]
+  },
+  {
+    "seed": 909573,
+    "x": 3.2320457411113317,
+    "y": 8.895155299522948,
+    "angle": 3.9920983099804332,
+    "score": 0.8454166666666667,
+    "lore": "**\"Rain slicks shadows. Neon whispers danger.\"**\n\n*(Neon lights glint off wet chrome, revealing a world of corruption and forgotten souls.)*",
+    "all_lores": [
+      "\"Rain-soaked streets, neon rain, in a city that never slept.\"",
+      "Rain-slick grid. Somewhere, a debt comes due.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Rain slicks shadows. Neon whispers danger.\"**\n\n*(Neon lights glint off wet chrome, revealing a world of corruption and forgotten souls.)*"
+    ]
+  },
+  {
+    "seed": 188330,
+    "x": 16.245813587338407,
+    "y": 3.405146329526559,
+    "angle": 3.9268852155971024,
+    "score": 0.8441666666666666,
+    "lore": "**\"The neon ghosts whisper, but the rain drowns them out.\"**\n\n(ASCII view at (16.2, 3.4), facing 3.93 radians in seed 188330. Chars: #, $, ., :,",
+    "all_lores": [
+      "\"Rain pours down on the city, a bleak mirage in the neon haze.\"",
+      "Rain-slick grid. Somewhere, a debt comes due.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"The neon ghosts whisper, but the rain drowns them out.\"**\n\n(ASCII view at (16.2, 3.4), facing 3.93 radians in seed 188330. Chars: #, $, ., :,"
+    ]
+  },
+  {
+    "seed": 90814,
+    "x": 23.421043035028088,
+    "y": 26.112744109442833,
+    "angle": 6.141742620293659,
+    "score": 0.8441666666666666,
+    "lore": "Rain poured down on the city's neon-drenched streets. I had a score to settle.",
+    "all_lores": [
+      "\"Rain poured down on the city's neon-drenched streets. I had a score to settle.\"",
+      "Rain-slick data. A shadow moves.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Rain slicks neon on rust. silhouettes bleed shadows.\"**"
+    ]
+  },
+  {
+    "seed": 579856,
+    "x": 9.381705005026973,
+    "y": 20.116473583822188,
+    "angle": 5.560636977043147,
+    "score": 0.84375,
+    "lore": "**\"The rain hates us all. Even the streetlights.\"**\n\n*(ASCII city looms, neon flickers between # and @. A lone figure in $ lingers, dripping.)*",
+    "all_lores": [
+      "\"Raining Data on streets of New Haven.\"",
+      "Rooftop rain. Neon bleeds. Somebody's lying.",
+      "Rain slicked the neon. Another dead end. \n\n\n\n",
+      "**\"The rain hates us all. Even the streetlights.\"**\n\n*(ASCII city looms, neon flickers between # and @. A lone figure in $ lingers, dripping.)*"
+    ]
+  },
+  {
+    "seed": 658924,
+    "x": 5.119424055118408,
+    "y": 21.775398831882466,
+    "angle": 3.745448712996796,
+    "score": 0.84375,
+    "lore": "Rain-slicked chrome hides too many sins.\"\n\n(Or, for a grittier tone: \"The city whispers, neon turning lies to truth.\")",
+    "all_lores": [
+      "\"Fog rolled in, shrouding the city's neon scars.\"",
+      "Rain-slick alleys. Neon ghosts. No way out.",
+      "Rain slicked neon. Another dead end.\n",
+      "\"Rain-slicked chrome hides too many sins.\"\n\n(Or, for a grittier tone: \"The city whispers, neon turning lies to truth.\")"
+    ]
+  },
+  {
+    "seed": 975230,
+    "x": 11.615384549789873,
+    "y": 31.53028412620199,
+    "angle": 5.066545774125968,
+    "score": 0.8433333333333334,
+    "lore": "Rain-soaked streets reflected neon despair. Detective De Santos' eyes scanned the crowded streets.",
+    "all_lores": [
+      "\"Rain-soaked streets reflected neon despair. Detective De Santos' eyes scanned the crowded streets.\"",
+      "Rain-slick grid. Somewhere, a fixer waits.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Rain. Neon. A city that won\u2019t sleep.\"**"
+    ]
+  },
+  {
+    "seed": 748581,
+    "x": 9.974921321628639,
+    "y": 31.84477941314863,
+    "angle": 4.081234201975768,
+    "score": 0.8429166666666666,
+    "lore": "Rain pours down on the city's dirty dreams. The streetlights are my only friend.\"\n\n(Ascii view at 10.0, 31.8)",
+    "all_lores": [
+      "\"Rain pours down on the city's dirty dreams. The streetlights are my only friend.\"\n\n(Ascii view at 10.0, 31.8)",
+      "Rain-slick grid, neon ghosts.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain and neon blur as the neon sifts through the cracks.\""
+    ]
+  },
+  {
+    "seed": 250565,
+    "x": 8.911272446865503,
+    "y": 15.533263972815703,
+    "angle": 3.386389089159059,
+    "score": 0.8429166666666666,
+    "lore": "Rain poured down on the city, casting a gloomy shroud over the towering skyscrapers. I stood at the edge of the rooftop, gazing out at the endless neon sprawl.",
+    "all_lores": [
+      "\"Rain poured down on the city, casting a gloomy shroud over the towering skyscrapers. I stood at the edge of the rooftop, gazing out at the endless neon sprawl.\"",
+      "Rain-slicked alleys. Neon ghosts. No exit.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Neon ghosts lurk in every shadow.\"**\n\n( ASCII cyphers flicker like distant danger. )"
+    ]
+  },
+  {
+    "seed": 577510,
+    "x": 5.284062687172085,
+    "y": 16.885561197384128,
+    "angle": 3.8094098017909097,
+    "score": 0.8420833333333333,
+    "lore": "Rain pours down like tears from the smog-choked skyscrapers.",
+    "all_lores": [
+      "\"Rain pours down like tears from the smog-choked skyscrapers.\"",
+      "Rain-slick neon. A shadow waits at 5.3.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Rain drips. Concrete whispers. The neon lies.\"**"
+    ]
+  },
+  {
+    "seed": 718870,
+    "x": 10.3770475012903,
+    "y": 24.58603448295591,
+    "angle": 0.35129031060950316,
+    "score": 0.8416666666666667,
+    "lore": "Neon ghosts in a city that never sleeps.\"\n\n*(ASCII art wouldn't render here, but imagine towering neon signs, flickering streetlights, and shadows stretching across rain-slicked streets.)*",
+    "all_lores": [
+      "\"Rain-soaked streets, neon glare. A lone cyber-shade in 718870, searching for answers.\"",
+      "Rain-slicked data, neon ghosts.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Neon ghosts in a city that never sleeps.\"\n\n*(ASCII art wouldn't render here, but imagine towering neon signs, flickering streetlights, and shadows stretching across rain-slicked streets.)*"
+    ]
+  },
+  {
+    "seed": 223086,
+    "x": 29.72523177606966,
+    "y": 24.168486292345776,
+    "angle": 4.332368729585623,
+    "score": 0.8412499999999999,
+    "lore": "**\"Rain. Neon. A corpuscle in the wireworld.\"**\n\n*(Decipher the matrix\u2014your fate\u2019s in a dead pixel.)*",
+    "all_lores": [
+      "\"Rain-soaked streets reflected neon hellscapes. Shadows hid secrets in 223086's crumbling grid.\"",
+      "Neon rain, zero leads.",
+      "Rain slicked the neon. Another dead end. \n\n",
+      "**\"Rain. Neon. A corpuscle in the wireworld.\"**\n\n*(Decipher the matrix\u2014your fate\u2019s in a dead pixel.)*"
+    ]
+  },
+  {
+    "seed": 231914,
+    "x": 0.23010684752299326,
+    "y": 22.65091028955053,
+    "angle": 0.36972725598331097,
+    "score": 0.8412499999999999,
+    "lore": "Rain-soaked streets of Neo-Eden. A lone # stalks the shadows.",
+    "all_lores": [
+      "\"Rain-soaked streets of Neo-Eden. A lone # stalks the shadows.\"",
+      "Rain-slick alleys. Neon lies. Move.",
+      "Rain slicked the chrome. Another dead end.\n",
+      "**\"Neon shadows whisper in the rain.\"**\n\n*(14 chars)*"
+    ]
+  },
+  {
+    "seed": 404457,
+    "x": 12.211817168209176,
+    "y": 31.875884167683097,
+    "angle": 3.3228380872225807,
+    "score": 0.84,
+    "lore": "Rain-soaked streets shrouded in neon gloom. A city that never slept... or let you live.\"\n\n Cursor flashes at (12.2, 31.9).",
+    "all_lores": [
+      "\"Rain-soaked streets shrouded in neon gloom. A city that never slept... or let you live.\"\n\n Cursor flashes at (12.2, 31.9).",
+      "Rain-slick neon. Someone's watching.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Neon rain hides the truth, but @ lies in the blood.\"\n\n(38 chars)"
+    ]
+  },
+  {
+    "seed": 460381,
+    "x": 28.787650708574255,
+    "y": 14.447556524516152,
+    "angle": 1.55684725382253,
+    "score": 0.8395833333333333,
+    "lore": "**\"Rain-slicked neo-noir. The city whispers secrets.\"**\n\n*(A 39-character noir caption fitting the roguelike aesthetic. Popular in games like *Dungeons of Dredmor* or *Caves of Qud*.)*\n\n**Need a different vibe?**",
+    "all_lores": [
+      "\"Rain-soaked streets of New Erebo. Shadows hide more than just the truth.\"",
+      "Rain-slick streets. Neon lies.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Rain-slicked neo-noir. The city whispers secrets.\"**\n\n*(A 39-character noir caption fitting the roguelike aesthetic. Popular in games like *Dungeons of Dredmor* or *Caves of Qud*.)*\n\n**Need a different vibe?**\n"
+    ]
+  },
+  {
+    "seed": 222231,
+    "x": 29.22035597393744,
+    "y": 18.149761647312072,
+    "angle": 4.508501620115169,
+    "score": 0.83875,
+    "lore": "Rain slicks the neon, shadows bleed neon.\"\n\n(Visual: ASCII cybergrid, flickering streetlights, a lone chez \u062a\u0647\u062f unknown.)",
+    "all_lores": [
+      "\"Raining on the streets of Neo-Tokyo. My eyes scanned the cramped alleyway, searching for answers in the neon haze.\"",
+      "Rain-slick shadows. Everyone's selling something.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain slicks the neon, shadows bleed neon.\"\n\n(Visual: ASCII cybergrid, flickering streetlights, a lone chez \u062a\u0647\u062f unknown.)"
+    ]
+  },
+  {
+    "seed": 800550,
+    "x": 5.169569144100908,
+    "y": 30.51199192491209,
+    "angle": 5.7928860262827655,
+    "score": 0.83875,
+    "lore": "Rain poured down, reflecting neon lights on wet pavement. A lone cigarette butt glowed at my feet.",
+    "all_lores": [
+      "\"Rain poured down, reflecting neon lights on wet pavement. A lone cigarette butt glowed at my feet.\"",
+      "Neon rain hides the killer's trail.",
+      "Rain slicked the neon. Another dead end. \n\n",
+      "\"Neon flickers\u2014truth hides in static shadows.\""
+    ]
+  },
+  {
+    "seed": 518488,
+    "x": 2.9091011895614045,
+    "y": 1.5077240135915062,
+    "angle": 0.6885965386021395,
+    "score": 0.8383333333333334,
+    "lore": "*\"Neon kin, neon sin\u2014shadows don\u2019t lie.\"*\n\n**ASCII view:**\n```\n.........@.......\n.....###=##.....\n......$..........\n.X..:.=..::......\n.......:@........\n..#..=..=####....\n.......:#....",
+    "all_lores": [
+      "\"Rain-soaked streets, flickering neon. A lone cyber-shade's plea echoed through the void: `@X`\"",
+      "Rain-slick streets. Neon lies. Trust no one.",
+      "Rain slicked the neon. Another dead end.\n",
+      "*\"Neon kin, neon sin\u2014shadows don\u2019t lie.\"*\n\n**ASCII view:**\n```\n.........@.......\n.....###=##.....\n......$..........\n.X..:.=..::......\n.......:@........\n..#..=..=####....\n.......:#...."
+    ]
+  },
+  {
+    "seed": 758168,
+    "x": 28.02729409210221,
+    "y": 8.428449624034904,
+    "angle": 3.1436807899558734,
+    "score": 0.8383333333333334,
+    "lore": "Neon ghosts whisper in the rain.\"\n\n**[ASCII Scene: Shadowed alley, flickering sigils, a lone figure in the downpour]**\n\n*(Dripping barrel|confetti|signs mix in the neon fog. A neon \"=\" blinks ominously.)*",
+    "all_lores": [
+      "\"Rain soaks the neon sprawl. A lone X gazes up, lost in the city's artificial heart.\"",
+      "Neon rain hides a debt unpaid.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Neon ghosts whisper in the rain.\"\n\n**[ASCII Scene: Shadowed alley, flickering sigils, a lone figure in the downpour]**\n\n*(Dripping barrel|confetti|signs mix in the neon fog. A neon \"=\" blinks ominously.)*"
+    ]
+  },
+  {
+    "seed": 682453,
+    "x": 22.44239915488755,
+    "y": 13.42463427077308,
+    "angle": 2.821032810662601,
+    "score": 0.8379166666666666,
+    "lore": "Rain spills secrets. Neon hides bodies.\"\n\n(ASCII grid visible in the link below for context.)\n\\\n\u27a1\ufe0f [ASCII City View (22.4, 13.4, 682453)](https://www.lpnt",
+    "all_lores": [
+      "\"Rain-soaked streets, flickering billboards. Crime pays, but at what cost?\"",
+      "Rooftop rain. The city's always watching.",
+      "Rain slicked the neon. Another dead end. \n\n\n\n",
+      "\"Rain spills secrets. Neon hides bodies.\"\n\n(ASCII grid visible in the link below for context.)\n\\\n\u27a1\ufe0f [ASCII City View (22.4, 13.4, 682453)](https://www.lpnt"
+    ]
+  },
+  {
+    "seed": 223955,
+    "x": 20.97403728943616,
+    "y": 12.660220833941256,
+    "angle": 5.743358863570614,
+    "score": 0.8379166666666666,
+    "lore": "**\"Rain isn't the only thing falling tonight.\"**\n\n*(ASCII cityscape, neon drizzle, shadows whispering your name.)*",
+    "all_lores": [
+      "\"Rain-soaked streets, neon lights, and a raincoat full of secrets.\"",
+      "Rain-slick debt. The city never forgives.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Rain isn't the only thing falling tonight.\"**\n\n*(ASCII cityscape, neon drizzle, shadows whispering your name.)*"
+    ]
+  },
+  {
+    "seed": 252083,
+    "x": 1.8536053278140017,
+    "y": 28.096307174529297,
+    "angle": 5.946842516471403,
+    "score": 0.8379166666666666,
+    "lore": "**Caption: \"Neon ghosts in the binary rain.\"**\n\n*(ASCII cityscape: flickering holograms, crooked alleys, and a shadow always one step ahead.)*",
+    "all_lores": [
+      "\"Rain-soaked streets, neon hell.\"",
+      "Rain-slick streets. Neon bleeds. No exit.",
+      "Rain slicked the neon. Another dead end. \n\n\n\n",
+      "**Caption: \"Neon ghosts in the binary rain.\"**\n\n*(ASCII cityscape: flickering holograms, crooked alleys, and a shadow always one step ahead.)*"
+    ]
+  },
+  {
+    "seed": 92161,
+    "x": 18.89576039836927,
+    "y": 1.017045743417075,
+    "angle": 0.5884061063308006,
+    "score": 0.8375,
+    "lore": "*\"Neon drips. Shadows whisper stolen secrets.\"*\n\n(ASCII art remains hidden, but the caption sets the gritty, rain-soaked mood.)",
+    "all_lores": [
+      "\"Rain soaks the streets of New Erebus. A lone neon sign flickers to life in the darkness.\"",
+      "Neon rain. Everyone's hiding something.",
+      "Rain slicked the neon. Another dead end.\n",
+      "*\"Neon drips. Shadows whisper stolen secrets.\"*\n\n(ASCII art remains hidden, but the caption sets the gritty, rain-soaked mood.)"
+    ]
+  },
+  {
+    "seed": 383554,
+    "x": 5.204931108994714,
+    "y": 11.368662407280688,
+    "angle": 4.208700095091914,
+    "score": 0.8375,
+    "lore": "Neon shadows whisper secrets in the rain.\"\n\n(ASCII art view and seed left as OP describes.)\n\n*The flickering # and $ of a dripping neon sign. A shadowy = figure looms atop a rusted @ staircase. Somewhere, a distant X hums a static lull",
+    "all_lores": [
+      "\"Rain-soaked streets swallowed the neon glow.\"",
+      "Rain-slick neon. Someone's watching.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Neon shadows whisper secrets in the rain.\"\n\n(ASCII art view and seed left as OP describes.)\n\n*The flickering # and $ of a dripping neon sign. A shadowy = figure looms atop a rusted @ staircase. Somewhere, a distant X hums a static lull"
+    ]
+  },
+  {
+    "seed": 180451,
+    "x": 17.092476064950656,
+    "y": 7.833949604845639,
+    "angle": 2.9029941304250073,
+    "score": 0.8375,
+    "lore": "Rain-soaked streets, neon lights, and a city that never sleeps. But where was I going?",
+    "all_lores": [
+      "\"Rain-soaked streets, neon lights, and a city that never sleeps. But where was I going?\"",
+      "Neon rain hides a killer's trail.",
+      "Rain slicked the neon. Another dead end. \n\n",
+      "**Rain slicked asphalt, neon lies bleed.**\n\n(18 chars\u2014saves space, fits the grit.)"
+    ]
+  },
+  {
+    "seed": 566158,
+    "x": 8.407731472733929,
+    "y": 18.706751687153297,
+    "angle": 5.638327709023556,
+    "score": 0.8375,
+    "lore": "*\"Neon stars winking on a street called Never.\"*\n\n(Exactly 20 chars\u2014street lamps, city grit, and that classic noir inevitability.)",
+    "all_lores": [
+      "\"Rain-soaked streets, neon haze, and a mystery that won't be solved at 566158.\"",
+      "Rain-slick chrome, neon ghosts, no exit.",
+      "Rain slicked the neon. Another dead end.\n",
+      "*\"Neon stars winking on a street called Never.\"*\n\n(Exactly 20 chars\u2014street lamps, city grit, and that classic noir inevitability.)"
+    ]
+  },
+  {
+    "seed": 357699,
+    "x": 3.569669555068046,
+    "y": 13.91248802141136,
+    "angle": 2.8493848757474165,
+    "score": 0.8375,
+    "lore": "Rain-slicked neon whispers secrets in the dead of night.\"\n\n(ASCII grid hidden in the fog\u2014only the detective's keen eye matters.)",
+    "all_lores": [
+      "\"Rain-soaked streets of Neo-Eden. A lone silhouette stares back.\"",
+      "Neon rain hides the killer's trail.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain-slicked neon whispers secrets in the dead of night.\"\n\n(ASCII grid hidden in the fog\u2014only the detective's keen eye matters.)"
+    ]
+  },
+  {
+    "seed": 147316,
+    "x": 23.567078853248397,
+    "y": 21.65438359753316,
+    "angle": 5.602887685186429,
+    "score": 0.8366666666666667,
+    "lore": "**\"Rain slips through neon gravel. The city whispers.\"**\n\n*(ASCII grid, 5.60rad gaze\u2014X marks a body in the alleys.)*",
+    "all_lores": [
+      "\"Rains poured on the city's steel heart, where streets whispered secrets to the shadows.\"",
+      "Rain-slicked neon, blood on the wire.",
+      "Rain slicked chrome. Another dead end.\n",
+      "**\"Rain slips through neon gravel. The city whispers.\"**\n\n*(ASCII grid, 5.60rad gaze\u2014X marks a body in the alleys.)*"
+    ]
+  },
+  {
+    "seed": 889662,
+    "x": 11.006583119327075,
+    "y": 8.464667751104418,
+    "angle": 0.27286878155705035,
+    "score": 0.8366666666666667,
+    "lore": "*\"Neon lit the dead end like a last cigarette.\"*\n\n(36 chars)\n\n*(', pretty rough nights these, kid.)*",
+    "all_lores": [
+      "\"Rain-soaked streets swallowed the city's last illusions whole.\"",
+      "Rain-slick grid. Somewhere, a debt comes due.",
+      "Neon bleeds on rain-slicked chrome. Another dead end.\n",
+      "*\"Neon lit the dead end like a last cigarette.\"*\n\n(36 chars)\n\n*(', pretty rough nights these, kid.)*"
+    ]
+  },
+  {
+    "seed": 239968,
+    "x": 24.73818690523814,
+    "y": 31.527088661144248,
+    "angle": 5.371395287975123,
+    "score": 0.8366666666666667,
+    "lore": "Rain slick streets hide neons, lies\u2014guns loaded.\"\n\n*(A gritty, short, and moody caption fitting the cyberpunk noir aesthetic, hinting at deception and violence in the neon-drenched city.)*",
+    "all_lores": [
+      "\"Rains poured down on New Eden's dark streets, a lone eye gazed out from the shadows.\"",
+      "Neon rain hides the truth.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain slick streets hide neons, lies\u2014guns loaded.\"\n\n*(A gritty, short, and moody caption fitting the cyberpunk noir aesthetic, hinting at deception and violence in the neon-drenched city.)*"
+    ]
+  },
+  {
+    "seed": 736911,
+    "x": 29.972946806799808,
+    "y": 20.737132327890993,
+    "angle": 3.825342715588686,
+    "score": 0.8366666666666667,
+    "lore": "Rain poured down on the neon-drenched streets, casting a ghoulish glow over the city's dark underbelly.",
+    "all_lores": [
+      "\"Rain poured down on the neon-drenched streets, casting a ghoulish glow over the city's dark underbelly.\"",
+      "Rain-slicked chrome, no way out.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain drips. Neon winks. Somewhere, a deal goes bad.\""
+    ]
+  },
+  {
+    "seed": 671487,
+    "x": 3.5625941813017725,
+    "y": 23.729615992314653,
+    "angle": 1.5379208418858308,
+    "score": 0.83625,
+    "lore": "Neon shadows and a flicker of betrayal.\"\n\n(ASCII grid at (3.6, 23.7) in seed 671487 reveals a alleyway truth: $ and @ loiter, X watches from the dark.)",
+    "all_lores": [
+      "\"Rain-soaked streets, pixelated dreams.\"",
+      "Rain-slick grid. Somewhere, a debt comes due.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Neon shadows and a flicker of betrayal.\"\n\n(ASCII grid at (3.6, 23.7) in seed 671487 reveals a alleyway truth: $ and @ loiter, X watches from the dark.)"
+    ]
+  },
+  {
+    "seed": 482141,
+    "x": 4.571890894146005,
+    "y": 4.468170224816202,
+    "angle": 4.67853080753529,
+    "score": 0.83625,
+    "lore": "Rain-soaked streets reflected the city's despair. A lone neon sign flickered: 'Eve's'.",
+    "all_lores": [
+      "\"Rain-soaked streets reflected the city's despair. A lone neon sign flickered: 'Eve's'.\"",
+      "Neon rain hides the killer's trail.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Neon drips like blood in the rain.\"**\n\n*(ASCII cypher: `#$.:@X`)"
+    ]
+  },
+  {
+    "seed": 419801,
+    "x": 11.58388619883555,
+    "y": 31.914424895653152,
+    "angle": 0.8687233579145749,
+    "score": 0.8358333333333333,
+    "lore": "Rain poured down on Neo's rain-soaked streets, but he had a lead to follow, a lead that might just take him to the edge...",
+    "all_lores": [
+      "\"Rain poured down on Neo's rain-soaked streets, but he had a lead to follow, a lead that might just take him to the edge...\"",
+      "Rain-slick neon. A deal gone wrong.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain drips like a dying neon sign.\""
+    ]
+  },
+  {
+    "seed": 715825,
+    "x": 28.313230404131488,
+    "y": 24.02808958693151,
+    "angle": 4.82680004108876,
+    "score": 0.8358333333333333,
+    "lore": "**\"Neon drips. You're in over your head.\"**\n\n*(Short, punchy, and evocative of cyberpunk noir. The ASCII elements hint at a gritty, rain-slicked cityscape\u2014# for towering megastructures, $ for neon, and @/",
+    "all_lores": [
+      "\"Rain poured down on the city like a dirty confessional.\"",
+      "Neon rain hides the rot.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Neon drips. You're in over your head.\"**\n\n*(Short, punchy, and evocative of cyberpunk noir. The ASCII elements hint at a gritty, rain-slicked cityscape\u2014# for towering megastructures, $ for neon, and @/"
+    ]
+  },
+  {
+    "seed": 244962,
+    "x": 16.171369219307596,
+    "y": 0.849151029883636,
+    "angle": 1.2487004463121525,
+    "score": 0.8354166666666667,
+    "lore": "**\"Rain-slicked streets dream in neon, but the ghosts don\u2019t pay rent.\"**",
+    "all_lores": [
+      "\"Raining on a city that never slept.\"",
+      "Rain-slick grid. Neon ghosts. The city remembers.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Rain-slicked streets dream in neon, but the ghosts don\u2019t pay rent.\"**"
+    ]
+  },
+  {
+    "seed": 284060,
+    "x": 31.664747220371048,
+    "y": 20.47999231533097,
+    "angle": 3.4976443909047785,
+    "score": 0.8354166666666667,
+    "lore": "Rain pours down on streets of Neon Dreams, where shadows hide the truth.",
+    "all_lores": [
+      "\"Rain pours down on streets of Neon Dreams, where shadows hide the truth.\"",
+      "Neon rain hides the killer's trail.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain slicked neon bleeds into the shadows of your past.\""
+    ]
+  },
+  {
+    "seed": 862722,
+    "x": 1.0272078049292084,
+    "y": 10.094497537890621,
+    "angle": 1.6814127011274131,
+    "score": 0.8354166666666667,
+    "lore": "Rain pours down on the city, a dirty neon haze clinging to the wet streets like a bad habit.",
+    "all_lores": [
+      "\"Rain pours down on the city, a dirty neon haze clinging to the wet streets like a bad habit.\"",
+      "Rain-slick neon. The city's always watching.",
+      "Rain slicked neon. Another dead end.\n",
+      "**\"Rain streaks neon across the rusted signs.\"**"
+    ]
+  },
+  {
+    "seed": 71674,
+    "x": 28.973440416196095,
+    "y": 27.50833280811989,
+    "angle": 0.44498415730074364,
+    "score": 0.8354166666666667,
+    "lore": "**\"Shadows whisper in neon-lit alleyways.\"**",
+    "all_lores": [
+      "\"Rain-soaked streets, corruption's mist.\"",
+      "Neon rain hides a debt in blood.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Shadows whisper in neon-lit alleyways.\"**"
+    ]
+  },
+  {
+    "seed": 801581,
+    "x": 10.771025443604056,
+    "y": 2.967866988164733,
+    "angle": 0.607378846514154,
+    "score": 0.835,
+    "lore": "In a city of shadows, a lone hacker's gaze pierced the neon haze, seeking the truth in a tapestry of crime and corruption.",
+    "all_lores": [
+      "\"In a city of shadows, a lone hacker's gaze pierced the neon haze, seeking the truth in a tapestry of crime and corruption.\"",
+      "Neon rain hides the killers.",
+      "Rain slicked the neon. Another dead end. \n\n\n\n",
+      "\"Neon haze hides every truth.\""
+    ]
+  },
+  {
+    "seed": 292704,
+    "x": 25.901774613690453,
+    "y": 0.20796030969795254,
+    "angle": 5.060544901510034,
+    "score": 0.8341666666666666,
+    "lore": "Rain-soaked streets reflected neon hellscapes. Our hero stood at the edge of it all, a lone silhouette in a city that never slept.",
+    "all_lores": [
+      "\"Rain-soaked streets reflected neon hellscapes. Our hero stood at the edge of it all, a lone silhouette in a city that never slept.\"",
+      "Rain-slick neon. A shadow waits at 25.9.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"A raindrop hits the ascii. The city breathes neon.\"**"
+    ]
+  },
+  {
+    "seed": 482741,
+    "x": 17.159298926550424,
+    "y": 31.13970444733986,
+    "angle": 2.37719588886846,
+    "score": 0.8333333333333334,
+    "lore": "**\"Rain slick. Chrome glints. Shadows bite.\"**\n\n(36 chars)\n\n*The neon drizzle obscures a neon-lit alley where flickers of code (ASCII) whisper the city's secrets. A lone figure\u2014just another shadow\u2014turns the corner at 2.3",
+    "all_lores": [
+      "\"Rain poured down on Neon Spire's streets, washing away the city's last shreds of hope.\"",
+      "Rain-slick streets. Everyone's selling something.",
+      "Rain slicked the neon. Another ghost in the machine.\n",
+      "**\"Rain slick. Chrome glints. Shadows bite.\"**\n\n(36 chars)\n\n*The neon drizzle obscures a neon-lit alley where flickers of code (ASCII) whisper the city's secrets. A lone figure\u2014just another shadow\u2014turns the corner at 2.3"
+    ]
+  },
+  {
+    "seed": 380201,
+    "x": 18.475268648216385,
+    "y": 22.54629875887755,
+    "angle": 0.2877771293575587,
+    "score": 0.8333333333333334,
+    "lore": "Neon shadows whisper secrets in the rain\u2014some you pay for, some just take.\"\n\n*(The ASCII cityscape glows under smog-lit towers, your tracker flicking between $ and X targets. The rain oils the asphalt, pressing the past harder against the glass.)*",
+    "all_lores": [
+      "\"Rain slicks the streets of New Erebus, a city of smoke and mirrors.\"",
+      "Rain streaks the neon. Someone's watching.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Neon shadows whisper secrets in the rain\u2014some you pay for, some just take.\"\n\n*(The ASCII cityscape glows under smog-lit towers, your tracker flicking between $ and X targets. The rain oils the asphalt, pressing the past harder against the glass.)*"
+    ]
+  },
+  {
+    "seed": 581099,
+    "x": 27.544950471503938,
+    "y": 0.36739270217022835,
+    "angle": 4.5261330255820225,
+    "score": 0.8329166666666666,
+    "lore": "**\"Rain slick asphalt. Neon whispers a lie.\"**\n\n*(ASCII grid reveals a glimmering neon sign flickering behind neon-lit raindrops\u2014@ in the rain, # on fogged glass, $ dropped, $ scattered\u2014ganstas, and the city\u2019s lies.)*",
+    "all_lores": [
+      "\"Rain soaks the streets of New Erebus, where the desperate and the damned roam.\"",
+      "Neon rain hides the @'s sins.",
+      "Rain slicked the neon. Another dead end. \n\n\n\n",
+      "**\"Rain slick asphalt. Neon whispers a lie.\"**\n\n*(ASCII grid reveals a glimmering neon sign flickering behind neon-lit raindrops\u2014@ in the rain, # on fogged glass, $ dropped, $ scattered\u2014ganstas, and the city\u2019s lies.)*"
+    ]
+  },
+  {
+    "seed": 733052,
+    "x": 13.523660740912081,
+    "y": 8.891882933492539,
+    "angle": 1.3521704260356577,
+    "score": 0.8320833333333333,
+    "lore": "Rain slicks the pavement. Neon hums a lullaby of decay.\"\n\n(*ASCII cityscape at (13.5, 8.9), glowing grids and shadows bled in static.*)",
+    "all_lores": [
+      "\"Rain pours on the neon sprawl, a lone figure ducks into the shadows of New Haven's streets, eyes on the clock: 23:47:12.\"",
+      "Rain-slicked neon hides a debt unpaid.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain slicks the pavement. Neon hums a lullaby of decay.\"\n\n(*ASCII cityscape at (13.5, 8.9), glowing grids and shadows bled in static.*)"
+    ]
+  },
+  {
+    "seed": 964110,
+    "x": 0.01830067609419217,
+    "y": 10.372993824149539,
+    "angle": 0.12231394218302687,
+    "score": 0.8316666666666667,
+    "lore": "**\"Neon shadows, concrete lies.\"**\n\n*(ASCII cityscape reveals a rain-slicked alley where a flickering holo-ad surveys a lone figure, their coat tattered, a cyberware glitch flickering in their palm.)*",
+    "all_lores": [
+      "\"Rain lashes neon streets. A lone PI hails a robo-cab.\"",
+      "Neon rain on cold chrome.",
+      "Rain slicked the neon. Another dead end. \n\n\n\n",
+      "**\"Neon shadows, concrete lies.\"**\n\n*(ASCII cityscape reveals a rain-slicked alley where a flickering holo-ad surveys a lone figure, their coat tattered, a cyberware glitch flickering in their palm.)*"
+    ]
+  },
+  {
+    "seed": 823733,
+    "x": 15.135134174226998,
+    "y": 13.025918767549971,
+    "angle": 0.5923660019690203,
+    "score": 0.8316666666666667,
+    "lore": "Rain poured down on the city's neon veins, but I'd seen worse nights in the sprawl.",
+    "all_lores": [
+      "\"Rain poured down on the city's neon veins, but I'd seen worse nights in the sprawl.\"",
+      "Neon rain hides the killer's trail.",
+      "Rain slicked the neon. Another dead end.\n",
+      "**\"Neon veins bleed into the night.\"**\n\n*(ASCII noir flickers, rain-misted chrome.)*"
+    ]
+  },
+  {
+    "seed": 759490,
+    "x": 29.936455698581472,
+    "y": 18.273378986409103,
+    "angle": 2.9683740452380674,
+    "score": 0.8258333333333333,
+    "lore": "Rain sizzles on neon streets. Blood drips in silence.\"\n\n*(The sleek, synthwave-esque summary fits the cyberpunk noir grit\u2014backlit rain, neon glow, and a quiet, violent truth lurking in the shadows.)*",
+    "all_lores": [
+      "\"Rain pours down on the city's neon underbelly. I've got a lead on the latest Redstar hack.\"",
+      "Rain on chrome. The city never sleeps.",
+      "Rain slicked the neon. Another dead end.\n",
+      "\"Rain sizzles on neon streets. Blood drips in silence.\"\n\n*(The sleek, synthwave-esque summary fits the cyberpunk noir grit\u2014backlit rain, neon glow, and a quiet, violent truth lurking in the shadows.)*"
+    ]
+  }
+]
