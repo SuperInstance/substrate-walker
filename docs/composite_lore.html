@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Composite Lore · Substrate Walker</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0a14;
+      color: #d8e8d8;
+      padding: 30px;
+      min-height: 100vh;
+    }
+    h1 {
+      color: #a0f8a8;
+      margin-bottom: 20px;
+      font-size: 28px;
+    }
+    h2 {
+      color: #80c088;
+      margin: 30px 0 15px 0;
+      font-size: 20px;
+      border-bottom: 1px solid #3a5a3a;
+      padding-bottom: 5px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: #14181f;
+      border-left: 3px solid #80c088;
+      padding: 15px;
+      border-radius: 4px;
+    }
+    .card.top {
+      border-left-color: #f8d088;
+    }
+    .seed {
+      color: #88c8f0;
+      font-weight: bold;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+    .score {
+      color: #f8d088;
+      font-weight: bold;
+    }
+    .voice {
+      margin: 10px 0;
+      padding: 8px;
+      background: #1a2030;
+      border-radius: 3px;
+    }
+    .voice-label {
+      color: #c0c0a0;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 3px;
+    }
+    .voice-text {
+      color: #d8e8d8;
+      font-size: 13px;
+      line-height: 1.4;
+      font-style: italic;
+    }
+    .structuralist { border-left: 3px solid #88c8f0; }
+    .narrativist { border-left: 3px solid #c8a0f8; }
+    .futurist { border-left: 3px solid #f8a088; }
+    .header-link {
+      color: #88c8f0;
+      text-decoration: none;
+      margin-right: 20px;
+    }
+    .header-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>🎭 Composite Lore · Three Voices</h1>
+  <p>Each canon-worthy seed is given to three narrators — the structuralist, the narrativist, the futurist. Read them together for a fuller picture.</p>
+  
+  <p style="margin: 20px 0;">
+    <a href="index.html" class="header-link">← Game</a>
+    <a href="canon_explorer.html" class="header-link">📜 Canon Explorer</a>
+    <a href="number_theory.html" class="header-link">📐 Number Theory</a>
+  </p>
+
+  <h2>Top 30 Composite Lores</h2>
+  <div class="grid" id="lore-grid"></div>
+
+  <script>
+    // Load the v4 composite lore
+    fetch('../playtest/composite_lore/composite_lore_v4.json')
+      .then(r => r.json())
+      .then(data => {
+        const grid = document.getElementById('lore-grid');
+        data.forEach((item, idx) => {
+          const card = document.createElement('div');
+          card.className = 'card' + (idx < 7 ? ' top' : '');
+          let html = `<div class="seed">seed <b>${item.seed}</b></div>`;
+          for (const [voice, text] of Object.entries(item.voices)) {
+            html += `<div class="voice ${voice}">
+              <div class="voice-label">${voice}</div>
+              <div class="voice-text">${text.substring(0, 200)}</div>
+            </div>`;
+          }
+          card.innerHTML = html;
+          grid.appendChild(card);
+        });
+      });
+  </script>
+</body>
+</html>
