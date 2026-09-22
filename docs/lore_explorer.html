@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lore Explorer · Substrate Walker</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0a14;
+      color: #d8e8d8;
+      padding: 30px;
+      min-height: 100vh;
+    }
+    h1 {
+      color: #a0f8a8;
+      margin-bottom: 20px;
+      font-size: 28px;
+    }
+    h2 {
+      color: #80c088;
+      margin: 20px 0 10px 0;
+      font-size: 18px;
+    }
+    .input-area {
+      background: #14181f;
+      padding: 20px;
+      border-radius: 5px;
+      margin: 20px 0;
+    }
+    input, select, button {
+      font-family: 'Courier New', monospace;
+      font-size: 14px;
+      padding: 8px 14px;
+      background: #1a2030;
+      color: #d8e8d8;
+      border: 1px solid #2a3a3a;
+      border-radius: 3px;
+      margin: 5px;
+    }
+    button {
+      background: #2a4a2a;
+      color: #a0f8a8;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #3a5a3a;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+    .card {
+      background: #14181f;
+      border-left: 3px solid #80c088;
+      padding: 15px;
+      border-radius: 4px;
+    }
+    .seed-line {
+      color: #88c8f0;
+      font-weight: bold;
+      font-size: 14px;
+      margin-bottom: 8px;
+    }
+    .score {
+      color: #f8d088;
+    }
+    .lore {
+      color: #d8e8d8;
+      margin: 5px 0;
+      line-height: 1.5;
+      font-style: italic;
+    }
+    .stats {
+      color: #c0c0a0;
+      font-size: 12px;
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔍 Lore Explorer</h1>
+  <p>Search canon-worthy lores. The data comes from <code>playtest/great_moments.json</code> (top 100 canon seeds with valid lores).</p>
+  
+  <div class="input-area">
+    <h2>Filter</h2>
+    <div>
+      <label>Min Score:</label>
+      <input type="number" id="min-score" value="0.86" step="0.001">
+      <label>Max Score:</label>
+      <input type="number" id="max-score" value="0.87" step="0.001">
+      <label>Limit:</label>
+      <input type="number" id="limit" value="50" min="1" max="100">
+      <button onclick="loadAndFilter()">Filter</button>
+    </div>
+    <div style="margin-top: 10px;">
+      <label>Search lore text:</label>
+      <input type="text" id="search-text" placeholder="rain, neon, etc." style="width: 300px;">
+      <button onclick="loadAndFilter()">Search</button>
+    </div>
+  </div>
+
+  <h2>Top Matches</h2>
+  <div class="grid" id="lore-grid"></div>
+
+  <p style="margin-top: 30px;">
+    <a href="index.html" style="color: #88c8f0;">← Game</a> |
+    <a href="composite_lore.html" style="color: #88c8f0;">→ Composite Lore</a> |
+    <a href="canon_explorer.html" style="color: #88c8f0;">→ Canon Explorer</a>
+  </p>
+
+  <script>
+    let allLores = [];
+    
+    function loadAndFilter() {
+      const min = parseFloat(document.getElementById('min-score').value) || 0;
+      const max = parseFloat(document.getElementById('max-score').value) || 1;
+      const limit = parseInt(document.getElementById('limit').value) || 50;
+      const search = document.getElementById('search-text').value.toLowerCase();
+      
+      const filtered = allLores.filter(l => {
+        if (l.score < min || l.score > max) return false;
+        if (search && !l.lore.toLowerCase().includes(search)) return false;
+        return true;
+      }).slice(0, limit);
+      
+      const grid = document.getElementById('lore-grid');
+      grid.innerHTML = '';
+      filtered.forEach(l => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+          <div class="seed-line">seed <b>${l.seed}</b> · <span class="score">score ${l.score.toFixed(4)}</span></div>
+          <div class="lore">"${l.lore}"</div>
+          <div class="stats">rank #${l.rank}</div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+    
+    fetch('../playtest/great_moments.json')
+      .then(r => r.json())
+      .then(data => {
+        allLores = data;
+        loadAndFilter();
+      });
+  </script>
+</body>
+</html>
