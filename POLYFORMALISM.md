@@ -29,8 +29,9 @@ This is the canary that ties every substrate-* project together.
 | TypeScript | `scripts/canary_check.ts` + `canary_check.js` | runs on Node |
 | Rust | `scripts/canary_check_rust.rs` | compiled to `canary_check_rust` |
 | Bash | `scripts/canary_check_bash.sh` | uses 64-bit bash arithmetic |
+| JavaScript ESM | `scripts/canary_check.mjs` | Node 18+ BigInt |
 
-All four agree on the fleet canary. Run `./scripts/canary_test.sh` to verify.
+All five agree on the fleet canary. Run `./scripts/canary_test.sh` to verify.
 
 ## Why polyformalism matters
 
@@ -50,6 +51,7 @@ Substrate walker's polyformalism has 4 ports today:
 2. TypeScript (Node 18+)
 3. Rust (1.65+)
 4. Bash (4.0+ for 64-bit arithmetic)
+5. JavaScript ESM (Node 18+, BigInt support)
 
 Future ports: Go (when available), Zig, OCaml, Haskell, Lua, Ruby, PHP, Java.
 
