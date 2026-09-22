@@ -334,5 +334,5 @@ if __name__ == "__main__":
     parser.add_argument("--output", type=str, default="playtest_v2")
     args = parser.parse_args()
 
-    out_dir = WORKSPACE / "playtest" / args.output
+    out_dir = WORKSPACE / "playtest" / "v2" / args.output
     asyncio.run(playtest_swarm(args.runs, out_dir))

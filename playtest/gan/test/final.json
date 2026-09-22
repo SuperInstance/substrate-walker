@@ -1,0 +1,13 @@
+{
+  "test_genome": {
+    "seed": 42,
+    "path_type": "spiral",
+    "start_x": 16,
+    "start_y": 16,
+    "start_angle": 0.0,
+    "score": 0.85,
+    "lore": "Test lore",
+    "best_snap": null,
+    "generation": 0
+  }
+}
