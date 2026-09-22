@@ -16,7 +16,7 @@ In this dimly lit corner of the city, you stand at 8.0, 12.0, gazing out into th
 The substrate walker walked through ASCII cityscape at seed 690561. 
 The frontal cortex was silent during routine movement, speaking only 
 at the critical moment of entry. This lore emerged from cell density 
-patterns ranked #4 across 1500+ tested seeds.
+patterns ranked #4 across 1595 tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader in 
 a darkened library" — the player reads the city, and the city 

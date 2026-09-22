@@ -2,19 +2,19 @@
 
 **id**: doctrine-substrate-walker-2026-09-22-025
 **timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**type**: canon
 **chain**: prev_hash → this_hash
 **score**: 0.8629166666666667
 **seed**: 898704
 **path**: straight_east
-**lore**: "[seed 898704 - lore pending]"
+**lore**: "[seed 898704 lore pending]"
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 898704. 
 The frontal cortex was silent during routine movement, speaking only 
 at the critical moment of entry. This lore emerged from cell density 
-patterns ranked #25 across 1500+ tested seeds.
+patterns ranked #25 across 1595 tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader in 
 a darkened library" — the player reads the city, and the city 
@@ -23,9 +23,9 @@ before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xff75ad0ccc60c9f0` (FNV-1a 64-bit)
+`0xbcb1096f06b99b17` (FNV-1a 64-bit)
 
-Hash seed: "898704|[seed 898704 - lore pending]|0.8629166666666667|25"
+Hash seed: "898704|[seed 898704 lore pending]|0.8629166666666667|25"
 
 ## Witness
 

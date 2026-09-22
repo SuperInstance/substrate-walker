@@ -7,14 +7,14 @@
 **score**: 0.8654166666666666
 **seed**: 310249
 **path**: straight_east
-**lore**: "[seed 310249 - lore pending]"
+**lore**: "Rain falls on the neon drenched streets. A lone saxophone wails in the distance."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 310249. 
 The frontal cortex was silent during routine movement, speaking only 
 at the critical moment of entry. This lore emerged from cell density 
-patterns ranked #5 across 1500+ tested seeds.
+patterns ranked #5 across 1595 tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader in 
 a darkened library" — the player reads the city, and the city 
@@ -23,9 +23,9 @@ before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0x3a462bd8a6bf67bd` (FNV-1a 64-bit)
+`0x37cdae458ac05b03` (FNV-1a 64-bit)
 
-Hash seed: "310249|[seed 310249 - lore pending]|0.8654166666666666|5"
+Hash seed: "310249|Rain falls on the neon drenched streets. A lone saxophone wails in the distance.|0.8654166666666666|5"
 
 ## Witness
 

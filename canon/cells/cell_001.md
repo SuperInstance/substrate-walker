@@ -2,19 +2,19 @@
 
 **id**: doctrine-substrate-walker-2026-09-22-001
 **timestamp**: 2026-09-22T10:30:00Z
-**type**: doctrine
+**type**: doctrine-prime
 **chain**: prev_hash → this_hash
 **score**: 0.8666666666666667
 **seed**: 164836
 **path**: straight_east
-**lore**: "[seed 164836 - lore pending]"
+**lore**: "Rain pours down on neon-drenched streets."
 
 ## Context
 
 The substrate walker walked through ASCII cityscape at seed 164836. 
 The frontal cortex was silent during routine movement, speaking only 
 at the critical moment of entry. This lore emerged from cell density 
-patterns ranked #1 across 1500+ tested seeds.
+patterns ranked #1 across 1595 tested seeds.
 
 The walk is canon-reading: each cell visited is a "passing reader in 
 a darkened library" — the player reads the city, and the city 
@@ -23,9 +23,9 @@ before it, forming an immutable record of traversal.
 
 ## Cell Hash
 
-`0xbe6ada39f12d80ce` (FNV-1a 64-bit)
+`0x0d6530c82011868f` (FNV-1a 64-bit)
 
-Hash seed: "164836|[seed 164836 - lore pending]|0.8666666666666667|1"
+Hash seed: "164836|Rain pours down on neon-drenched streets.|0.8666666666666667|1"
 
 ## Witness
 

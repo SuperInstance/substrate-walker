@@ -1,24 +1,29 @@
 {
-  "version": "1.2.0",
-  "updated_at": "2026-09-22T10:43:38.188681",
+  "version": "1.3.0",
+  "updated_at": "2026-09-22T10:44:04.270201",
   "fnv_canary": "0x24a555471370b18d",
   "total_cells": 50,
   "best_score": 0.8666666666666667,
+  "type_breakdown": {
+    "doctrine": 9,
+    "doctrine-prime": 1,
+    "canon": 40
+  },
   "entries": [
     {
       "rank": 1,
       "cell_id": "doctrine-substrate-walker-2026-09-22-001",
-      "path": "canon/cells/cell_001.md",
+      "path": "cells/cell_001.md",
       "seed": 164836,
       "score": 0.8666666666666667,
-      "lore": "[seed 164836 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xbe6ada39f12d80ce"
+      "lore": "Rain pours down on neon-drenched streets.",
+      "type": "doctrine-prime",
+      "hash": "0x0d6530c82011868f"
     },
     {
       "rank": 2,
       "cell_id": "doctrine-substrate-walker-2026-09-22-002",
-      "path": "canon/cells/cell_002.md",
+      "path": "cells/cell_002.md",
       "seed": 163836,
       "score": 0.8658333333333333,
       "lore": "Rain pours down on the city's neon streets.",
@@ -28,7 +33,7 @@
     {
       "rank": 3,
       "cell_id": "doctrine-substrate-walker-2026-09-22-003",
-      "path": "canon/cells/cell_003.md",
+      "path": "cells/cell_003.md",
       "seed": 9901,
       "score": 0.8654166666666666,
       "lore": "I see a blurred silhouette of a lone figure in the distance, a faint glow of a holographic sign reading \"ECHO-1\" above a dark alleyway.",
@@ -38,7 +43,7 @@
     {
       "rank": 4,
       "cell_id": "doctrine-substrate-walker-2026-09-22-004",
-      "path": "canon/cells/cell_004.md",
+      "path": "cells/cell_004.md",
       "seed": 690561,
       "score": 0.8654166666666666,
       "lore": "**Rain-soaked streets, neon-drenched night.**\n\nIn this dimly lit corner of the city, you stand at 8.0, 12.0, gazing out into the downpour. The rain drums against the pavement, a relentless beat that mirrors the turmoil brewing in the",
@@ -48,17 +53,17 @@
     {
       "rank": 5,
       "cell_id": "doctrine-substrate-walker-2026-09-22-005",
-      "path": "canon/cells/cell_005.md",
+      "path": "cells/cell_005.md",
       "seed": 310249,
       "score": 0.8654166666666666,
-      "lore": "[seed 310249 - lore pending]",
+      "lore": "Rain falls on the neon drenched streets. A lone saxophone wails in the distance.",
       "type": "doctrine",
-      "hash": "0x3a462bd8a6bf67bd"
+      "hash": "0x37cdae458ac05b03"
     },
     {
       "rank": 6,
       "cell_id": "doctrine-substrate-walker-2026-09-22-006",
-      "path": "canon/cells/cell_006.md",
+      "path": "cells/cell_006.md",
       "seed": 18381,
       "score": 0.865,
       "lore": "Rain falls on the city's concrete spine.",
@@ -68,17 +73,17 @@
     {
       "rank": 7,
       "cell_id": "doctrine-substrate-walker-2026-09-22-007",
-      "path": "canon/cells/cell_007.md",
+      "path": "cells/cell_007.md",
       "seed": 7001,
       "score": 0.865,
-      "lore": "[seed 7001 - lore pending]",
+      "lore": "Rain pours down, a deluge of despair.\"\n\nYour character, a grizzled cyber-enhanced private investigator, stands in the midst of the neon-drenched sprawl, surrounded by towering skyscrapers and holographic advertisements. The air reeks of smoke and ozone.",
       "type": "doctrine",
-      "hash": "0x959bb36587ceaae4"
+      "hash": "0xd466764875a69584"
     },
     {
       "rank": 8,
       "cell_id": "doctrine-substrate-walker-2026-09-22-008",
-      "path": "canon/cells/cell_008.md",
+      "path": "cells/cell_008.md",
       "seed": 4073,
       "score": 0.8645833333333334,
       "lore": "Rain pours down on neon drenched streets.",
@@ -88,7 +93,7 @@
     {
       "rank": 9,
       "cell_id": "doctrine-substrate-walker-2026-09-22-009",
-      "path": "canon/cells/cell_009.md",
+      "path": "cells/cell_009.md",
       "seed": 970225,
       "score": 0.8645833333333334,
       "lore": "Rain falls on the city's dark streets.",
@@ -98,7 +103,7 @@
     {
       "rank": 10,
       "cell_id": "doctrine-substrate-walker-2026-09-22-010",
-      "path": "canon/cells/cell_010.md",
+      "path": "cells/cell_010.md",
       "seed": 800330,
       "score": 0.8641666666666666,
       "lore": "Rain-soaked streets, neon haze, and a femme fatale's whisper in the darkness...",
@@ -108,402 +113,402 @@
     {
       "rank": 11,
       "cell_id": "doctrine-substrate-walker-2026-09-22-011",
-      "path": "canon/cells/cell_011.md",
+      "path": "cells/cell_011.md",
       "seed": 654321,
       "score": 0.86375,
       "lore": "Rain patters on the city's perpetual twilight. \n\nWhat do you do?\n\n(Note: You can use simple commands like 'move', 'look', 'take', 'use', etc. to interact with the environment. For example, 'move north' or 'look around')",
-      "type": "doctrine",
+      "type": "canon",
       "hash": "0x93a893d304f6eb40"
     },
     {
       "rank": 12,
       "cell_id": "doctrine-substrate-walker-2026-09-22-012",
-      "path": "canon/cells/cell_012.md",
+      "path": "cells/cell_012.md",
       "seed": 105625,
       "score": 0.86375,
-      "lore": "[seed 105625 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xdf551ed9afa72d64"
+      "lore": "[seed 105625 lore pending]",
+      "type": "canon",
+      "hash": "0x2442c7167ccf8901"
     },
     {
       "rank": 13,
       "cell_id": "doctrine-substrate-walker-2026-09-22-013",
-      "path": "canon/cells/cell_013.md",
+      "path": "cells/cell_013.md",
       "seed": 329476,
       "score": 0.86375,
-      "lore": "[seed 329476 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x6db0961b7bc349ef"
+      "lore": "[seed 329476 lore pending]",
+      "type": "canon",
+      "hash": "0x52bfaba2afa68236"
     },
     {
       "rank": 14,
       "cell_id": "doctrine-substrate-walker-2026-09-22-014",
-      "path": "canon/cells/cell_014.md",
+      "path": "cells/cell_014.md",
       "seed": 652864,
       "score": 0.86375,
-      "lore": "[seed 652864 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xd2603523c7a984da"
+      "lore": "[seed 652864 lore pending]",
+      "type": "canon",
+      "hash": "0xff7deefb9eb0c58b"
     },
     {
       "rank": 15,
       "cell_id": "doctrine-substrate-walker-2026-09-22-015",
-      "path": "canon/cells/cell_015.md",
+      "path": "cells/cell_015.md",
       "seed": 390172,
       "score": 0.8633333333333333,
       "lore": "Rain-soaked streets reflected city's neon despair.",
-      "type": "doctrine",
+      "type": "canon",
       "hash": "0x012bfe335681f0fc"
     },
     {
       "rank": 16,
       "cell_id": "doctrine-substrate-walker-2026-09-22-016",
-      "path": "canon/cells/cell_016.md",
+      "path": "cells/cell_016.md",
       "seed": 5099,
       "score": 0.8633333333333333,
-      "lore": "[seed 5099 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xd33ce48efe505941"
+      "lore": "[seed 5099 lore pending]",
+      "type": "canon",
+      "hash": "0x42b75517ac148352"
     },
     {
       "rank": 17,
       "cell_id": "doctrine-substrate-walker-2026-09-22-017",
-      "path": "canon/cells/cell_017.md",
+      "path": "cells/cell_017.md",
       "seed": 31684,
       "score": 0.8633333333333333,
-      "lore": "[seed 31684 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x2f575d30058a914c"
+      "lore": "[seed 31684 lore pending]",
+      "type": "canon",
+      "hash": "0x35caaf5ce977ec53"
     },
     {
       "rank": 18,
       "cell_id": "doctrine-substrate-walker-2026-09-22-018",
-      "path": "canon/cells/cell_018.md",
+      "path": "cells/cell_018.md",
       "seed": 126025,
       "score": 0.8633333333333333,
-      "lore": "[seed 126025 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x891bcb870d5f7679"
+      "lore": "[seed 126025 lore pending]",
+      "type": "canon",
+      "hash": "0x85e2590cac8aef42"
     },
     {
       "rank": 19,
       "cell_id": "doctrine-substrate-walker-2026-09-22-019",
-      "path": "canon/cells/cell_019.md",
+      "path": "cells/cell_019.md",
       "seed": 620944,
       "score": 0.8633333333333333,
-      "lore": "[seed 620944 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xaf1d3d3c94d03b28"
+      "lore": "[seed 620944 lore pending]",
+      "type": "canon",
+      "hash": "0x984457021f4212af"
     },
     {
       "rank": 20,
       "cell_id": "doctrine-substrate-walker-2026-09-22-020",
-      "path": "canon/cells/cell_020.md",
+      "path": "cells/cell_020.md",
       "seed": 272801,
       "score": 0.8629166666666667,
       "lore": "Rain-soaked streets. Shadows hide secrets.",
-      "type": "doctrine",
+      "type": "canon",
       "hash": "0x5ac050925271adf8"
     },
     {
       "rank": 21,
       "cell_id": "doctrine-substrate-walker-2026-09-22-021",
-      "path": "canon/cells/cell_021.md",
+      "path": "cells/cell_021.md",
       "seed": 7396,
       "score": 0.8629166666666667,
-      "lore": "[seed 7396 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xc92b2ae8769c04b2"
+      "lore": "[seed 7396 lore pending]",
+      "type": "canon",
+      "hash": "0xf2b5226203832709"
     },
     {
       "rank": 22,
       "cell_id": "doctrine-substrate-walker-2026-09-22-022",
-      "path": "canon/cells/cell_022.md",
+      "path": "cells/cell_022.md",
       "seed": 18881,
       "score": 0.8629166666666667,
-      "lore": "[seed 18881 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xbc1560544910a455"
+      "lore": "[seed 18881 lore pending]",
+      "type": "canon",
+      "hash": "0x89bdb24f8d97407e"
     },
     {
       "rank": 23,
       "cell_id": "doctrine-substrate-walker-2026-09-22-023",
-      "path": "canon/cells/cell_023.md",
+      "path": "cells/cell_023.md",
       "seed": 332929,
       "score": 0.8629166666666667,
-      "lore": "[seed 332929 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x8e6426f363b3f882"
+      "lore": "[seed 332929 lore pending]",
+      "type": "canon",
+      "hash": "0xa317c162e61d3111"
     },
     {
       "rank": 24,
       "cell_id": "doctrine-substrate-walker-2026-09-22-024",
-      "path": "canon/cells/cell_024.md",
+      "path": "cells/cell_024.md",
       "seed": 401956,
       "score": 0.8629166666666667,
-      "lore": "[seed 401956 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xe5a2230fe86b976d"
+      "lore": "[seed 401956 lore pending]",
+      "type": "canon",
+      "hash": "0xd93eaeaeae59417e"
     },
     {
       "rank": 25,
       "cell_id": "doctrine-substrate-walker-2026-09-22-025",
-      "path": "canon/cells/cell_025.md",
+      "path": "cells/cell_025.md",
       "seed": 898704,
       "score": 0.8629166666666667,
-      "lore": "[seed 898704 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xff75ad0ccc60c9f0"
+      "lore": "[seed 898704 lore pending]",
+      "type": "canon",
+      "hash": "0xbcb1096f06b99b17"
     },
     {
       "rank": 26,
       "cell_id": "doctrine-substrate-walker-2026-09-22-026",
-      "path": "canon/cells/cell_026.md",
+      "path": "cells/cell_026.md",
       "seed": 164336,
       "score": 0.8625,
       "lore": "Rain poured down on the city's neon-lit streets. A lone figure emerged from the shadows.",
-      "type": "doctrine",
+      "type": "canon",
       "hash": "0x0cb09b702fcf3d6f"
     },
     {
       "rank": 27,
       "cell_id": "doctrine-substrate-walker-2026-09-22-027",
-      "path": "canon/cells/cell_027.md",
+      "path": "cells/cell_027.md",
       "seed": 6311,
       "score": 0.8625,
-      "lore": "[seed 6311 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x864974f3fe0f8ea4"
+      "lore": "[seed 6311 lore pending]",
+      "type": "canon",
+      "hash": "0x7ccfe3cdb70c39e7"
     },
     {
       "rank": 28,
       "cell_id": "doctrine-substrate-walker-2026-09-22-028",
-      "path": "canon/cells/cell_028.md",
+      "path": "cells/cell_028.md",
       "seed": 13456,
       "score": 0.8625,
-      "lore": "[seed 13456 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x09253624363ffed7"
+      "lore": "[seed 13456 lore pending]",
+      "type": "canon",
+      "hash": "0x74edb496970e2c44"
     },
     {
       "rank": 29,
       "cell_id": "doctrine-substrate-walker-2026-09-22-029",
-      "path": "canon/cells/cell_029.md",
+      "path": "cells/cell_029.md",
       "seed": 19191,
       "score": 0.8625,
-      "lore": "[seed 19191 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x8f053980ebd30130"
+      "lore": "[seed 19191 lore pending]",
+      "type": "canon",
+      "hash": "0xff89561963d83c5b"
     },
     {
       "rank": 30,
       "cell_id": "doctrine-substrate-walker-2026-09-22-030",
-      "path": "canon/cells/cell_030.md",
+      "path": "cells/cell_030.md",
       "seed": 58564,
       "score": 0.8625,
-      "lore": "[seed 58564 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x4332dee534ab5dde"
+      "lore": "[seed 58564 lore pending]",
+      "type": "canon",
+      "hash": "0xed6528c293e8926d"
     },
     {
       "rank": 31,
       "cell_id": "doctrine-substrate-walker-2026-09-22-031",
-      "path": "canon/cells/cell_031.md",
+      "path": "cells/cell_031.md",
       "seed": 439569,
       "score": 0.8625,
-      "lore": "[seed 439569 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xd2dee6a9ce12f521"
+      "lore": "[seed 439569 lore pending]",
+      "type": "canon",
+      "hash": "0x6fa08538897ececa"
     },
     {
       "rank": 32,
       "cell_id": "doctrine-substrate-walker-2026-09-22-032",
-      "path": "canon/cells/cell_032.md",
+      "path": "cells/cell_032.md",
       "seed": 589824,
       "score": 0.8625,
-      "lore": "[seed 589824 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x02579970c96869e8"
+      "lore": "[seed 589824 lore pending]",
+      "type": "canon",
+      "hash": "0xa37e4eefd5a46cf7"
     },
     {
       "rank": 33,
       "cell_id": "doctrine-substrate-walker-2026-09-22-033",
-      "path": "canon/cells/cell_033.md",
+      "path": "cells/cell_033.md",
       "seed": 727609,
       "score": 0.8625,
-      "lore": "[seed 727609 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xb9af8bbe0e49eb69"
+      "lore": "[seed 727609 lore pending]",
+      "type": "canon",
+      "hash": "0x99ef160ccb7b33c2"
     },
     {
       "rank": 34,
       "cell_id": "doctrine-substrate-walker-2026-09-22-034",
-      "path": "canon/cells/cell_034.md",
+      "path": "cells/cell_034.md",
       "seed": 784996,
       "score": 0.8625,
-      "lore": "[seed 784996 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x75081d9605ae6a58"
+      "lore": "[seed 784996 lore pending]",
+      "type": "canon",
+      "hash": "0xc3104a33a33cdc37"
     },
     {
       "rank": 35,
       "cell_id": "doctrine-substrate-walker-2026-09-22-035",
-      "path": "canon/cells/cell_035.md",
+      "path": "cells/cell_035.md",
       "seed": 846400,
       "score": 0.8625,
-      "lore": "[seed 846400 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xf2d3ea8af97090e5"
+      "lore": "[seed 846400 lore pending]",
+      "type": "canon",
+      "hash": "0xbf81a5deeef55ce6"
     },
     {
       "rank": 36,
       "cell_id": "doctrine-substrate-walker-2026-09-22-036",
-      "path": "canon/cells/cell_036.md",
+      "path": "cells/cell_036.md",
       "seed": 13,
       "score": 0.8620833333333333,
-      "lore": "[seed 13 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x4b514b5df3113258"
+      "lore": "[seed 13 lore pending]",
+      "type": "canon",
+      "hash": "0xa89a3d0b76740b5b"
     },
     {
       "rank": 37,
       "cell_id": "doctrine-substrate-walker-2026-09-22-037",
-      "path": "canon/cells/cell_037.md",
+      "path": "cells/cell_037.md",
       "seed": 63,
       "score": 0.8620833333333333,
-      "lore": "[seed 63 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xed800a4cb1433805"
+      "lore": "[seed 63 lore pending]",
+      "type": "canon",
+      "hash": "0x7bc0abcc8f6f04ca"
     },
     {
       "rank": 38,
       "cell_id": "doctrine-substrate-walker-2026-09-22-038",
-      "path": "canon/cells/cell_038.md",
+      "path": "cells/cell_038.md",
       "seed": 2704,
       "score": 0.8620833333333333,
-      "lore": "[seed 2704 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x351de666c7e827b0"
+      "lore": "[seed 2704 lore pending]",
+      "type": "canon",
+      "hash": "0xa02c7757d638c19b"
     },
     {
       "rank": 39,
       "cell_id": "doctrine-substrate-walker-2026-09-22-039",
-      "path": "canon/cells/cell_039.md",
+      "path": "cells/cell_039.md",
       "seed": 4624,
       "score": 0.8620833333333333,
-      "lore": "[seed 4624 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x636f288883cc8d99"
+      "lore": "[seed 4624 lore pending]",
+      "type": "canon",
+      "hash": "0xbba1c73ebb2c107e"
     },
     {
       "rank": 40,
       "cell_id": "doctrine-substrate-walker-2026-09-22-040",
-      "path": "canon/cells/cell_040.md",
+      "path": "cells/cell_040.md",
       "seed": 17571,
       "score": 0.8620833333333333,
-      "lore": "[seed 17571 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x505722cc9bca534d"
+      "lore": "[seed 17571 lore pending]",
+      "type": "canon",
+      "hash": "0xe25527565cd7fa8a"
     },
     {
       "rank": 41,
       "cell_id": "doctrine-substrate-walker-2026-09-22-041",
-      "path": "canon/cells/cell_041.md",
+      "path": "cells/cell_041.md",
       "seed": 47961,
       "score": 0.8620833333333333,
-      "lore": "[seed 47961 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x01b4a385f8ae8482"
+      "lore": "[seed 47961 lore pending]",
+      "type": "canon",
+      "hash": "0x2d48bdd175fd8495"
     },
     {
       "rank": 42,
       "cell_id": "doctrine-substrate-walker-2026-09-22-042",
-      "path": "canon/cells/cell_042.md",
+      "path": "cells/cell_042.md",
       "seed": 279841,
       "score": 0.8620833333333333,
-      "lore": "[seed 279841 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xecc159aa7c064431"
+      "lore": "[seed 279841 lore pending]",
+      "type": "canon",
+      "hash": "0xab9fb09afd1460be"
     },
     {
       "rank": 43,
       "cell_id": "doctrine-substrate-walker-2026-09-22-043",
-      "path": "canon/cells/cell_043.md",
+      "path": "cells/cell_043.md",
       "seed": 378225,
       "score": 0.8620833333333333,
-      "lore": "[seed 378225 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x748ed2c47aeab96a"
+      "lore": "[seed 378225 lore pending]",
+      "type": "canon",
+      "hash": "0x9b026d3c253483f5"
     },
     {
       "rank": 44,
       "cell_id": "doctrine-substrate-walker-2026-09-22-044",
-      "path": "canon/cells/cell_044.md",
+      "path": "cells/cell_044.md",
       "seed": 793881,
       "score": 0.8620833333333333,
-      "lore": "[seed 793881 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x46ab53fa95cee235"
+      "lore": "[seed 793881 lore pending]",
+      "type": "canon",
+      "hash": "0x42db8cf1ff82409a"
     },
     {
       "rank": 45,
       "cell_id": "doctrine-substrate-walker-2026-09-22-045",
-      "path": "canon/cells/cell_045.md",
+      "path": "cells/cell_045.md",
       "seed": 270801,
       "score": 0.8616666666666667,
       "lore": "Rain pours on the streets of Neo-Tokyo. Dark alleys hide secrets.",
-      "type": "doctrine",
+      "type": "canon",
       "hash": "0x67c6595ec01ca752"
     },
     {
       "rank": 46,
       "cell_id": "doctrine-substrate-walker-2026-09-22-046",
-      "path": "canon/cells/cell_046.md",
+      "path": "cells/cell_046.md",
       "seed": 877,
       "score": 0.8616666666666667,
-      "lore": "[seed 877 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x678f347421d84ed4"
+      "lore": "[seed 877 lore pending]",
+      "type": "canon",
+      "hash": "0xbe60a6c67d3d7517"
     },
     {
       "rank": 47,
       "cell_id": "doctrine-substrate-walker-2026-09-22-047",
-      "path": "canon/cells/cell_047.md",
+      "path": "cells/cell_047.md",
       "seed": 4153,
       "score": 0.8616666666666667,
-      "lore": "[seed 4153 - lore pending]",
-      "type": "doctrine",
-      "hash": "0xd72490ae4e4a47f9"
+      "lore": "[seed 4153 lore pending]",
+      "type": "canon",
+      "hash": "0xde4c92e4acfe1f1e"
     },
     {
       "rank": 48,
       "cell_id": "doctrine-substrate-walker-2026-09-22-048",
-      "path": "canon/cells/cell_048.md",
+      "path": "cells/cell_048.md",
       "seed": 4444,
       "score": 0.8616666666666667,
-      "lore": "[seed 4444 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x33d6699888e225b2"
+      "lore": "[seed 4444 lore pending]",
+      "type": "canon",
+      "hash": "0xc3fb49a208bd9efd"
     },
     {
       "rank": 49,
       "cell_id": "doctrine-substrate-walker-2026-09-22-049",
-      "path": "canon/cells/cell_049.md",
+      "path": "cells/cell_049.md",
       "seed": 9025,
       "score": 0.8616666666666667,
-      "lore": "[seed 9025 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x4c7cd9fa1894ffb9"
+      "lore": "[seed 9025 lore pending]",
+      "type": "canon",
+      "hash": "0x5e27ce51ac3a7496"
     },
     {
       "rank": 50,
       "cell_id": "doctrine-substrate-walker-2026-09-22-050",
-      "path": "canon/cells/cell_050.md",
+      "path": "cells/cell_050.md",
       "seed": 17071,
       "score": 0.8616666666666667,
-      "lore": "[seed 17071 - lore pending]",
-      "type": "doctrine",
-      "hash": "0x0c09dc1b7b4b96fb"
+      "lore": "[seed 17071 lore pending]",
+      "type": "canon",
+      "hash": "0xd1663753fb984c54"
     }
   ]
 }
