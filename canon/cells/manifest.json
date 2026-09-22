@@ -1,8 +1,8 @@
 {
-  "version": "2.10.0",
-  "updated_at": "2026-09-22T22:35:00Z",
+  "version": "2.11.0",
+  "updated_at": "2026-09-22T22:18:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 116,
+  "total_cells": 117,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -19,7 +19,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 16
+    "witness": 17
   },
   "entries": [
     {
@@ -1318,6 +1318,23 @@
       "jev_distinct_voice": 0.67,
       "doctrine_anchor": "oracle_is_heard",
       "timestamp": "2026-09-22T22:35:00Z"
+    },
+    {
+      "rank": 117,
+      "cell_id": "doctrine-witness-future-gan-70051917-2026-09-22-117",
+      "path": "canon/cells/cell_117.md",
+      "seed": 70051917,
+      "score": 0.667,
+      "lore": "The silence was broken. The substrate's hum, a gentle thrum...",
+      "voice": "witness",
+      "type": "canon-witness-voice-future-gan",
+      "jev_canon_worthy": 0.55,
+      "jev_distinct_voice": 0.77,
+      "jev_doctrine_anchor": 0.68,
+      "jev_promote_threshold": 0.7,
+      "doctrine_anchor": "oracle_is_heard",
+      "generator": "future-GAN-DeepInfra",
+      "timestamp": "2026-09-22T22:18:00Z"
     }
   ],
   "promoted_to_canon_count": 1
