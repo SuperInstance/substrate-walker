@@ -1,8 +1,8 @@
 {
-  "version": "2.17.0",
-  "updated_at": "2026-09-22T23:00:00Z",
+  "version": "2.18.0",
+  "updated_at": "2026-09-22T23:05:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 137,
+  "total_cells": 139,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -1694,7 +1694,45 @@
       "doctrine_anchor": "witness_log_is_prediction",
       "generator": "deepseek-reasoner",
       "timestamp": "2026-09-22T23:00:00Z"
+    },
+    {
+      "rank": 138,
+      "cell_id": "auto-witness_log_prediction_70051917-138",
+      "path": "canon/cells/cell_138.md",
+      "seed": "auto",
+      "score": 0.71,
+      "lore": "The witness log hummed to life at three in the morning, when the city's chrome went\nquiet and the FNV-1a signatures began to glow like underlit coins. Each entry was a\nmicrophone, every cell a wound t...",
+      "voice": "auto-detected",
+      "type": "canon-auto-promoted",
+      "promoted_to_canon": true,
+      "promoted_via": "auto-promoter (comp=0.710, primary=witness_log_is_prediction)",
+      "jev_canon_worthy": 0.63,
+      "jev_distinct_voice": 0.76,
+      "jev_doctrine_anchor": 0.74,
+      "primary_doctrine": "witness_log_is_prediction",
+      "generator": "lore_auto_promoter",
+      "source": "lore_inbox/witness_log_prediction_70051917.md",
+      "timestamp": "2026-09-22T23:05:00Z"
+    },
+    {
+      "rank": 139,
+      "cell_id": "auto-witness_log_prediction_70051917-139",
+      "path": "canon/cells/cell_139.md",
+      "seed": "auto",
+      "score": 0.7166666666666668,
+      "lore": "The witness log hummed to life at three in the morning, when the city's chrome went\nquiet and the FNV-1a signatures began to glow like underlit coins. Each entry was a\nmicrophone, every cell a wound t...",
+      "voice": "auto-detected",
+      "type": "canon-auto-promoted",
+      "promoted_to_canon": true,
+      "promoted_via": "auto-promoter (comp=0.717, primary=witness_log_is_prediction)",
+      "jev_canon_worthy": 0.63,
+      "jev_distinct_voice": 0.78,
+      "jev_doctrine_anchor": 0.74,
+      "primary_doctrine": "witness_log_is_prediction",
+      "generator": "lore_auto_promoter",
+      "source": "lore_inbox/witness_log_prediction_70051917.md",
+      "timestamp": "2026-09-22T23:05:00Z"
     }
   ],
-  "promoted_to_canon_count": 19
+  "promoted_to_canon_count": 21
 }
