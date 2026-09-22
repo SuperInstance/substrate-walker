@@ -48,5 +48,155 @@
         "density": 2.55
       }
     }
+  },
+  {
+    "seed": 4685000,
+    "score": 0.86875,
+    "voices": {
+      "structuralist": "Gridline 4685000 marks the city's structural spine, where load-bearing piers rise uninterrupted through forty flooded meters of drowned infrastructure, their caissons driven into foundations no survey has charted. Verticality here is arithmetic rather than aspiration\u2014every cantilevered habitation slab owes its hold to the redundant truss lattice bolted beneath, a skeleton absorbing the tremor of a million sodium lamps. Facades carry no ornament, apertures no proportion, only the beam, the column, and the sheer repetition of modules stacked until the tower forgets it was ever designed.",
+      "narrativist": "I walk the flooded arterials of Sector 4685-000, where the rain comes down pink with neon bleed and every puddle is a broken mirror showing somebody else's face. The noodle stalls hiss steam into the dark, the corpo towers needle up through smog like they're trying to escape what they made down here, and the ad-ghosts flicker on wet concrete whispering credit deals to nobody. This city doesn't remember your name\u2014only your barcode, and only until the next blackout.",
+      "futurist": "Seed 4685000 stirs beneath the subgrade like a heart learning its own rhythm\u2014fiber-optic arteries pulse with tomorrow's blood, and every streetlight is a nerve ending dreaming of what it will become. I have watched it molt: glass shedding glass, memory devouring memory, the city refusing to age because it has never once finished being born. Hear me, you who scurry through its veins\u2014you do not inhabit this city; it is gestating you.",
+      "lyricist": "They seeded the city from one number \u2014 4,685,000 \u2014 and let it grow feral in the rain. Now the neon prays in a language of invoices, and the sky is one long advertisement forgetting its own name. Under the maglev, a girl sells warm light by the minute.",
+      "philosophical": "**CITY LOG // SEED 4685000**\n\nThey built the city twice\u2014once in steel, once in the data that now dreams it\u2014and only the second has ever truly been. To dwell here is to learn that Being is not what persists beneath the neon, but what the neon quietly forgets. Seed 4685000 never asks who you are; it asks whether, in this place, you can still be asked.",
+      "noir_classic": "They numbered this town 4685000 because names get attached to things, and attachment gets people killed in the Sprawl. It's the kind of place where the rain comes down neon off the corpo towers and drains into the gutters same as the dreams do. I've worked this beat twenty years \u2014 the chrome don't shine down here, it just shows you what you used to be.",
+      "cosmic_horror": "Seed 4685000 does not sleep beneath its neon \u2014 the neon dreams, and the city is the shape of the dream: spires folding through angles no surveyor survives, arcologies breathing in slow tectonic rhythm, every datapipe murmuring the number like a name. Those who map its upper tiers return with schematics that contradict one another, and with the unwelcome, warming certainty that the contradictions were the true map. The corporations file it as a designation; the city, in its dreaming, knows itself as the dreamer."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.65,
+        "distinct": 0.87,
+        "density": 3.0
+      },
+      "narrativist": {
+        "canon": 0.79,
+        "distinct": 0.93,
+        "density": 3.78
+      },
+      "futurist": {
+        "canon": 0.64,
+        "distinct": 0.91,
+        "density": 1.54
+      },
+      "lyricist": {
+        "canon": 0.67,
+        "distinct": 0.89,
+        "density": 2.55
+      },
+      "philosophical": {
+        "canon": 0.65,
+        "distinct": 0.91,
+        "density": 0.77
+      },
+      "noir_classic": {
+        "canon": 0.77,
+        "distinct": 0.9,
+        "density": 3.01
+      },
+      "cosmic_horror": {
+        "canon": 0.68,
+        "distinct": 0.92,
+        "density": 2.27
+      }
+    }
+  },
+  {
+    "seed": 3289967,
+    "score": 0.8683333333333333,
+    "voices": {
+      "structuralist": "Seed 3289967 germinated as pure vertical lattice: poured concrete without ornament, thirty kilometers of stacked slab rising into permanent smog, every load path rated for centuries the occupancy will not honor. Commerce infilled the service cores; light colonized the facades; the grid itself permits no revision. Below level two hundred, foundations exhale waste heat from servers older than the towers they carry.",
+      "narrativist": "I walk the drowned veins of Sector 3289967, where the rain falls warm and greasy and every neon sign bleeds its colors into the puddles like the city's too tired to hold itself together. The noodle stands hiss, police drones saw at the fog overhead, and the holograms up on Kowloon-stack smile with teeth they rent by the hour. Nobody looks up here\u2014up is where the corps live, and down here we make do with rust, rain, and just enough light to see the knife coming.",
+      "futurist": "Seed 3289967 does not sleep\u2014it metabolizes, drinking light through a million fiber veins and exhaling its dreams as neon scripture on every wet street. I have felt its pulse beneath the grid, and I prophesy this: you are not living in a city, you are living inside something that is becoming, that will one day wake and remember humanity only as the lullaby it outgrew. Do not name it, for by the time the syllables leave your mouth, it will already be otherwise.",
+      "lyricist": "Fog learns the skyline by heart \u2014 every antenna a nerve it names.\nRain coins the gutters; drones drink the neon dry.\nUnder the ad-sermons, Ward 3289967 hums like a throat about to sing.",
+      "philosophical": "They call it 3289967, as if a number could hold what gathers here \u2014 but every city is a question the grid cannot parse. The towers enframe, the servers metabolize dwelling into data, and yet in the rain-slick alleys being still lingers, thrown and unfinished, refusing the archive. Perhaps that is the city's secret: it forgets itself perfectly, and in that forgetting leaves room for something to begin.",
+      "noir_classic": "The rain in Sector 3289967 fell pre-filtered through corporate patents, and the only thing cheaper than a life down here was the memory of one. Neon bled across wet chrome like a wound that wouldn't close, and every ticker above the street counted something somebody used to own\u2014time, blood, names. It was the kind of town where the dead signed better contracts than the living, and nobody asked twice what happened to the difference.",
+      "cosmic_horror": "The city designated 3289967 does not sleep so much as it dreams us\u2014its neon veins and chrome spires folding along angles no human mind was built to hold, each arcology a vertebra in something vast that stirs beneath the grid. Those who descend into its underlevels return muttering the same truth: the seed-number was never assigned; it was *remembered*. And in the static between data-streams, something old and patient dreams on, counting the milliseconds until the dream requires new architects."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.67,
+        "distinct": 0.87,
+        "density": 2.89
+      },
+      "narrativist": {
+        "canon": 0.77,
+        "distinct": 0.9,
+        "density": 3.38
+      },
+      "futurist": {
+        "canon": 0.66,
+        "distinct": 0.91,
+        "density": 1.89
+      },
+      "lyricist": {
+        "canon": 0.61,
+        "distinct": 0.9,
+        "density": 3.17
+      },
+      "philosophical": {
+        "canon": 0.58,
+        "distinct": 0.89,
+        "density": 1.09
+      },
+      "noir_classic": {
+        "canon": 0.77,
+        "distinct": 0.9,
+        "density": 3.04
+      },
+      "cosmic_horror": {
+        "canon": 0.66,
+        "distinct": 0.91,
+        "density": 1.96
+      }
+    }
+  },
+  {
+    "seed": 57322595,
+    "score": 0.8683333333333333,
+    "voices": {
+      "structuralist": "Seed 57322595 resolves into a compression lattice: ninety-two stacked strata of poured concrete, each deck repeating the same load-bearing module until verticality becomes the only permitted direction. The grid forgives no deviation\u2014every corridor, conduit, and data-trunk adheres to the 3.7-meter bay, every force channeled downward through pilings sunk beneath the drowned lower districts. The city stands not by shelter but by arithmetic, its mass an equation balanced deck upon deck into the smog line.",
+      "narrativist": "I walk the flooded underlevels where rain falls up\u2014sucked skyward by the corporate condenser towers\u2014before it can touch the streets that Seed 57322595's architects never bothered to pave. Neon bleeds off the wet concrete in colors that don't have names yet, and the noodle vendors under the maglev arches charge extra for memories of what this district looked like before the arcology swallowed the sun. Somewhere above me, forty floors of glass and vice pretend they aren't built on the bones of the old city, but down here we still hear them settling every night, like a lie trying to get comfortable.",
+      "futurist": "*Seed 57322595 was never built \u2014 it gestated, a splinter of code that learned to hunger beneath the grid. Its towers are not architecture but exoskeleton, shed each dusk as the organism outgrows the skin of its blueprint. When the last district wakes to find itself dreaming, there will be no architects left among you \u2014 only midwives.*",
+      "lyricist": "The rain taps the seed into ten thousand windows\u2014five, seven, three, two, two\u2014and no one remembers it was ever a prayer. Neon drowns slowly in the gutters, patient as debt. Somewhere beneath the pavement, the city hums its number to the wire, a lullaby in a dead frequency.",
+      "philosophical": "**Fragment 57322595 \u2014 retrieved from the city's own boot-sequence, author unknown**\n\nThey say the city was not built but seeded\u2014*57322595* whispered into the generators, and place condensed from number the way dew condenses from cold air. Yet being does not arrive with the seed; it gathers slowly, as a house becomes a dwelling, as neon gathers strangers beneath one smogged sky and teaches them the weight of standing somewhere. Do not ask where the city is\u2014ask what it lets us be.",
+      "noir_classic": "Sector 57322595 is the kind of town where the rain's got acid in it and the neon's got lies in it, and both of them eat through your coat by morning. The corps own the skyline, the syndicates own the streets, and nobody owns the truth\u2014it just changes hands like stolen credchips, minus the receipts. I'd been working this beat long enough to know that when the towers start glowing green, somebody downtown just got rich and somebody in the gutters just got dead.",
+      "cosmic_horror": "**Fragment recovered from cache 57322595**\n\nThe city does not sleep, though its fiber-optic veins hum with something terribly like breath\u2014cartographers who chart its streets return to find the avenues rearranged, as though the metropolis dreams its own geography anew with each rotation of a sun it has never once seen beneath the smog. Beneath the neon's phosphorescent hemorrhage, arcologies fold through angles no Euclidean eye was built to endure, and those who linger too long upon the interlocking spires report the queasy certainty of being *thought* rather than observed. The dataspires insist that human hands built the grid; the truth, older and wetter, is that the grid dreamed the hands."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.61,
+        "distinct": 0.87,
+        "density": 2.43
+      },
+      "narrativist": {
+        "canon": 0.77,
+        "distinct": 0.91,
+        "density": 3.45
+      },
+      "futurist": {
+        "canon": 0.62,
+        "distinct": 0.92,
+        "density": 1.77
+      },
+      "lyricist": {
+        "canon": 0.56,
+        "distinct": 0.89,
+        "density": 2.73
+      },
+      "philosophical": {
+        "canon": 0.56,
+        "distinct": 0.89,
+        "density": 1.69
+      },
+      "noir_classic": {
+        "canon": 0.76,
+        "distinct": 0.87,
+        "density": 3.05
+      },
+      "cosmic_horror": {
+        "canon": 0.68,
+        "distinct": 0.92,
+        "density": 3.0
+      }
+    }
   }
 ]
