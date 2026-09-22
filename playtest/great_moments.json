@@ -1,0 +1,32 @@
+[
+  {
+    "run": "mine_big",
+    "score": 0.8591666666666666,
+    "seed": 5641,
+    "path_type": "spiral",
+    "start_x": 16.0,
+    "start_y": 15.995359644347015,
+    "lore": "Rains pour down on the city's dark streets.\"\n\nWhat will you do?",
+    "view_preview": "                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                 @@@ @                     $#$ @                      @  @      \n                @ # #                      $$###                      @##$@     \n                @#@ ##                     @@#$#                      $# #@     "
+  },
+  {
+    "run": "mine_005",
+    "score": 0.8575,
+    "seed": 137014,
+    "path_type": "straight_east",
+    "start_x": 16.0,
+    "start_y": 17.54379168131727,
+    "lore": "Rain pours down on the neon-drenched streets.",
+    "view_preview": "                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n            $ $@                      $###@                      @@#$$          \n           #$ $#                       @$$$                      @@$ @          \n           ###$@                      @$ @@                      # #$           "
+  },
+  {
+    "run": "mine_004",
+    "score": 0.8508333333333333,
+    "seed": 269010,
+    "path_type": "straight_east",
+    "start_x": 16,
+    "start_y": 16,
+    "lore": "Rainy streets, lonely nights, and the city's dark pulse.",
+    "view_preview": "                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n                                                                                \n           @$@$$                      @#$@                       $@#$#          \n           @#@ @                       #$$$                       $#@           \n           $$@$@                       @#$$                       @#@#          "
+  }
+]

@@ -68,6 +68,17 @@
             <div class="legend-row"><span class="dot" style="background:#80FFFF"></span> Perception (cyan)</div>
         </div>
 
+        <div class="legend">
+            <h3>👻 Ghost Substrate</h3>
+            <p>Record your walk. Then race your past self's cortex. JEPA prediction errors glow magenta on cells where the ghost guessed wrong.</p>
+            <div style="margin-top: 8px;">
+                <button id="btn-record" class="btn-small">⏺ Record</button>
+                <button id="btn-promote" class="btn-small">👻 Promote to Ghost</button>
+                <button id="btn-load-ghost" class="btn-small">📂 Load Ghost</button>
+                <span id="ghost-status" style="color:#80FFFF;margin-left:12px;">idle</span>
+            </div>
+        </div>
+
         <div class="info">
             <h3>About</h3>
             <p>
@@ -96,6 +107,7 @@
         <p>Loading WASM...</p>
     </div>
 
+    <script src="ghost.js"></script>
     <script src="app.js"></script>
 </body>
 </html>

@@ -1,0 +1,52 @@
+{
+  "prompt": "Substrate Walker is a 3D ASCII cyberpunk city game running on Rust + WebAssembly + WebGL. Each building is a canon cell. The agent (frontal cortex) only fires on critical moments. We just added JEPA-style next-cell prediction and tournament scoring.\n\nQuestion: What is the single most impactful feature we could add next?\n\nConstraints:\n- Must work in browser (Rust/WASM + JS)\n- Must respect the frontal-cortex pattern (no API spam)\n- Should be surprising or delightful, not boring\n\nAnswer in 2-3 sentences. Be specific about what to build and why.",
+  "responses": [
+    {
+      "model": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+      "response": "I would recommend implementing a \"Memory\" system, where the agent (frontal cortex) can learn and remember patterns of the city, such as where to find specific resources or how to navigate through crowded streets. This can be achieved by introducing a simple, web-friendly data structure (e.g. a JS-based graph database) that stores the agent's experiences and allows it to recall and leverage this knowledge in future encounters. This feature would be impactful because it would enable the agent to develop a sense of \"history\" and \"context\", adding a new layer of depth and realism to the city simulation."
+    },
+    {
+      "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+      "response": "To create a surprising and delightful experience, I recommend adding a \"neural network-inspired\" dynamic soundtrack that adapts to the player's actions and the city's state. This feature would utilize Web Audio API and Rust's audio processing capabilities to generate a immersive, pulsing soundtrack that reflects the agent's firing patterns, building activity, and tournament scores. By integrating audio cues that respond to the game's internal state, you can create a more engaging and immersive experience that respects the frontal-cortex pattern and leverages the browser's capabilities."
+    },
+    {
+      "model": "google/gemma-3-27b-it",
+      "response": "The most impactful next feature is **dynamic, procedurally generated holographic advertisements projected *onto* the building facades (canon cells)**. This builds on the cyberpunk aesthetic, utilizes WebGL for visual flair without API calls, and crucially, the \"frontal cortex\" agent can *react* to the content \u2013 perhaps prioritizing routes avoiding disturbing ads, or even triggering a critical shot if an ad displays a target. It's surprising, visually engaging, and directly leverages the existing game systems for emergent gameplay.\n\n\n\n"
+    },
+    {
+      "model": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+      "response": "Add **procedural soundscaping** that dynamically generates cyberpunk ambient sounds (neon hums, distant synth music, rain on grates) based on the agent\u2019s position and surrounding buildings. This would immerse players in the world\u2019s atmosphere without frontend clutter or API calls, deepening the \"frontal cortex\" focus by tying sensory feedback to world simulation. The sound could encode subtle cues about upcoming hazards (e.g., sirens for rogue agents) to reward attention."
+    },
+    {
+      "model": "deepseek-chat",
+      "response": "Build **\"Ghost Substrate\"**: record every frontal-cortex firing into a compact replay tape (input state \u2192 predicted cell \u2192 actual cell \u2192 outcome), then let players scrub a translucent ASCII ghost of a previous run through the same city, with JEPA prediction error visualized as pulsing magenta corruption on cells where the ghost's brain guessed wrong. It's delightful because you're literally racing your past self's cortex, it's surprising because prediction error becomes a visible aesthetic, and it respects the constraint by making the frontal cortex's *scarcity* the drama \u2014 every firing is a precious, reviewable event rather than API spam."
+    }
+  ],
+  "keyword_counts": {
+    "npc": 0,
+    "dialogue": 0,
+    "music": 1,
+    "audio": 3,
+    "save": 0,
+    "load": 0,
+    "multiplayer": 0,
+    "share": 0,
+    "narrative": 0,
+    "story": 1,
+    "weather": 0,
+    "time": 0,
+    "day": 0,
+    "night": 0,
+    "procedural": 2,
+    "generation": 0,
+    "diffusion": 0,
+    "memory": 1,
+    "persistence": 0,
+    "visual": 3,
+    "ascii": 1,
+    "art": 0,
+    "agent": 8,
+    "ai": 4,
+    "llm": 0
+  }
+}

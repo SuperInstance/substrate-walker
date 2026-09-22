@@ -49,7 +49,15 @@ class SubstrateWalker {
         this.cortex.setApiKey(this.apiKey);
 
         this.cortex.walker = this; // Wire back-pointer
+
+        // Set up ghost substrate
+        if (window.GhostSubstrate) {
+            this.ghost = new GhostSubstrate(this);
+        }
+
         this.lastTime = performance.now();
+        this.recording = false;
+        this.walkStep = 0;
 
         // Initial district
         const x = this.exports.camera_x();
@@ -245,6 +253,39 @@ class SubstrateWalker {
             link.href = this.canvas.toDataURL('image/png');
             link.click();
         };
+
+        // Ghost substrate buttons
+        const recordBtn = document.getElementById('btn-record');
+        if (recordBtn && this.ghost) {
+            recordBtn.onclick = () => {
+                this.recording = !this.recording;
+                recordBtn.textContent = this.recording ? '⏹ Stop' : '⏺ Record';
+                document.getElementById('ghost-status').textContent =
+                    this.recording ? 'recording...' : 'idle';
+            };
+        }
+
+        const promoteBtn = document.getElementById('btn-promote');
+        if (promoteBtn && this.ghost) {
+            promoteBtn.onclick = () => {
+                this.ghost.promoteToGhost();
+                this.ghost.saveGhost();
+                document.getElementById('ghost-status').textContent =
+                    `ghost: ${this.ghost.getGhostLength()} waypoints`;
+            };
+        }
+
+        const loadBtn = document.getElementById('btn-load-ghost');
+        if (loadBtn && this.ghost) {
+            loadBtn.onclick = () => {
+                if (this.ghost.loadGhost()) {
+                    document.getElementById('ghost-status').textContent =
+                        `ghost: ${this.ghost.getGhostLength()} waypoints (loaded)`;
+                } else {
+                    document.getElementById('ghost-status').textContent = 'no ghost saved';
+                }
+            };
+        }
         document.getElementById('btn-examine').onclick = async () => {
             const text = await this.cortex.onExamine();
             if (text && this.onLore) this.onLore({ kind: 'examine', text });
@@ -326,6 +367,19 @@ class SubstrateWalker {
     }
 
     render(time) {
+        // Ghost recording
+        if (this.recording && this.ghost && this.exports) {
+            const x = this.exports.camera_x();
+            const y = this.exports.camera_y();
+            const angle = this.exports.camera_angle();
+            const predicted = this.lastPrediction || 0;
+            const actual = this.exports.get_cell_height(Math.round(x), Math.round(y));
+            const error = this.ghost.computePredictionError(predicted, actual);
+            this.ghost.record(x, y, angle, error);
+            this.ghost.errorHistory.push(error);
+            this.walkStep++;
+        }
+
         // JEPA prediction — runs every frame, no API
         if (this.exports && this.lastVx !== undefined) {
             const vx = this.lastVx || 0;
