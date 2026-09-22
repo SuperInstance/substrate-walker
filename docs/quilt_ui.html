@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quilt UI · Substrate Walker Canon</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Courier New', monospace;
+      background: #0a0a14;
+      color: #d8e8d8;
+      padding: 20px;
+      min-height: 100vh;
+    }
+    h1 { color: #a0f8a8; font-size: 28px; margin-bottom: 15px; }
+    h2 { color: #88c8f0; margin: 20px 0 10px; border-bottom: 1px solid #2a3040; padding-bottom: 5px; }
+    
+    .controls {
+      background: #14181f;
+      padding: 15px;
+      border-radius: 4px;
+      margin-bottom: 20px;
+    }
+    .controls label { margin-right: 10px; color: #88a098; font-size: 12px; }
+    .controls select, .controls input {
+      background: #1a2030;
+      color: #d8e8d8;
+      border: 1px solid #2a3040;
+      padding: 5px 10px;
+      border-radius: 3px;
+      font-family: inherit;
+      margin-right: 15px;
+    }
+    button {
+      background: #2a4060;
+      color: #88c8f0;
+      border: 1px solid #88c8f0;
+      padding: 7px 14px;
+      border-radius: 3px;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    
+    #viewer {
+      background: #0d0f14;
+      border: 1px solid #2a3040;
+      padding: 15px;
+      border-radius: 4px;
+      white-space: pre;
+      font-size: 12px;
+      line-height: 1.1;
+      max-height: 500px;
+      overflow-y: auto;
+      margin: 15px 0;
+    }
+    
+    .lore-card {
+      background: #14181f;
+      border-left: 3px solid #80c088;
+      padding: 12px;
+      border-radius: 4px;
+      margin: 10px 0;
+    }
+    .lore-card.jev-accept { border-left-color: #c080c0; }
+    .lore-seed { color: #88c8f0; font-weight: bold; }
+    .lore-score { color: #a0f8a8; font-size: 13px; margin-left: 10px; }
+    .lore-voice { color: #c0c0a0; font-size: 11px; }
+    .lore-text { margin-top: 8px; font-style: italic; line-height: 1.5; }
+  </style>
+</head>
+<body>
+  <h1>🧩 Quilt UI — Canon Cells of the Substrate Walker</h1>
+  
+  <div class="controls">
+    <label>Seed: <input id="seed-input" type="number" value="70051917" min="1" max="999999999"/></label>
+    <label>Filter:
+      <select id="filter">
+        <option value="all">All</option>
+        <option value="jev-accept">JEV ACCEPT only</option>
+        <option value="doctrine-prime">Doctrine-Prime only</option>
+        <option value="structuralist">Structuralist voice</option>
+        <option value="narrativist">Narrativist voice</option>
+        <option value="lyricist">Lyricist voice</option>
+        <option value="noir_classic">Noir classic voice</option>
+        <option value="cosmic_horror">Cosmic horror voice</option>
+      </select>
+    </label>
+    <label>Sort:
+      <select id="sort">
+        <option value="score-desc">Score (high → low)</option>
+        <option value="seed-asc">Seed (low → high)</option>
+      </select>
+    </label>
+    <button onclick="render()">Apply</button>
+    <span style="margin-left: 20px; color: #88a098; font-size: 11px;" id="status">Loading…</span>
+  </div>
+
+  <h2>City View (ASCII)</h2>
+  <div id="viewer">// loading ...</div>
+  
+  <h2>Lore Cells</h2>
+  <div id="lore-list"></div>
+  
+  <p style="margin-top: 30px;">
+    <a href="index.html" style="color: #88c8f0;">← Home</a> |
+    <a href="canon_v3.html" style="color: #88c8f0;">→ Canon v3</a>
+  </p>
+  
+  <script>
+    let data = null;
+    let jev = null;
+    
+    async function load() {
+      const [manifest, jevResp] = await Promise.all([
+        fetch('../canon/cells/manifest.json').then(r => r.json()),
+        fetch('../playtest/jev_canon.json').then(r => r.json()),
+      ]);
+      data = manifest;
+      jev = Object.fromEntries(jevResp.filter(d => 'noul_canon' in d).map(d => [d.seed, d]));
+      document.getElementById('status').textContent = `${data.total_cells} cells loaded, ${Object.keys(jev).length} JEV-scored`;
+      render();
+    }
+    
+    function render() {
+      const filterVal = document.getElementById('filter').value;
+      const sortVal = document.getElementById('sort').value;
+      const seed = parseInt(document.getElementById('seed-input').value);
+      
+      // Get cells based on filter
+      let cells = data.entries.slice();
+      
+      // Find the right cell
+      const cell = cells.find(c => (typeof c.seed === 'number' || !isNaN(parseInt(c.seed))) && parseInt(c.seed) === seed);
+      
+      if (cell) {
+        // Show that cell's city view (procedurally rendered if available)
+        const view = generateAsciiView(seed);
+        document.getElementById('viewer').textContent = view;
+      } else {
+        // For non-numeric seeds (doctrine cells), show the lore
+        if (cell && typeof cell.seed !== 'number') {
+          document.getElementById('viewer').textContent = `DOCTRINE-PRIME CELL\n\n${cell.lore}\n\n${cell.seed}`;
+        } else {
+          document.getElementById('viewer').textContent = `Seed ${seed} not found in canon.`;
+        }
+      }
+      
+      // Filter + sort
+      if (filterVal === 'jev-accept') {
+        cells = cells.filter(c => jev[parseInt(c.seed)] && jev[parseInt(c.seed)].promote);
+      } else if (filterVal === 'doctrine-prime') {
+        cells = cells.filter(c => c.type === 'doctrine-prime' || c.type === 'doctrine-prime-abstract');
+      } else {
+        cells = cells.filter(c => c.voice === filterVal);
+      }
+      
+      if (sortVal === 'score-desc') {
+        cells.sort((a, b) => b.score - a.score);
+      } else {
+        cells.sort((a, b) => parseInt(a.seed) - parseInt(b.seed));
+      }
+      
+      // Render lore cards
+      const list = document.getElementById('lore-list');
+      list.innerHTML = '';
+      cells.slice(0, 30).forEach(c => {
+        const card = document.createElement('div');
+        const jevEntry = jev[parseInt(c.seed)];
+        if (jevEntry && jevEntry.promote) card.className = 'lore-card jev-accept';
+        else card.className = 'lore-card';
+        card.innerHTML = `
+          <span class="lore-seed">seed ${c.seed}</span>
+          <span class="lore-score">${c.score.toFixed(4)}</span>
+          <span class="lore-voice">[${c.voice || '—'}]</span>
+          ${jevEntry && jevEntry.promote ? `<span style="color: #c080c0; margin-left: 10px;">✓ JEV ACCEPT (${jevEntry.noul_canon.toFixed(2)})</span>` : ''}
+          <div class="lore-text">${(c.lore || '').substring(0, 300)}${c.lore && c.lore.length > 300 ? '…' : ''}</div>
+        `;
+        list.appendChild(card);
+      });
+    }
+    
+    // Generate a fake ASCII view for the seed
+    function generateAsciiView(seed) {
+      const chars = ' .,:;+=*#%@';
+      const lines = [];
+      let h = seed;
+      for (let y = 0; y < 20; y++) {
+        let line = '';
+        for (let x = 0; x < 60; x++) {
+          h = (h * 1664525 + 1013904223) & 0xffffffff;
+          const c = chars[(h >>> 24) % chars.length];
+          line += c;
+        }
+        lines.push(line);
+      }
+      return lines.join('\n');
+    }
+    
+    // Bind events
+    document.getElementById('filter').addEventListener('change', render);
+    document.getElementById('sort').addEventListener('change', render);
+    document.getElementById('seed-input').addEventListener('change', render);
+    
+    load();
+  </script>
+</body>
+</html>
