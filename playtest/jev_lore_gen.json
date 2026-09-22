@@ -448,5 +448,55 @@
         "density": 2.55
       }
     }
+  },
+  {
+    "seed": 6358192,
+    "score": 0.8670833333333333,
+    "voices": {
+      "structuralist": "Seed 6358192: the grid was poured before it was planned\u2014raw concrete shafts rising four vertical kilometers through permanent electromagnetic haze, each megastructure load-bearing the one stacked upon it. Light reaches the lower strata only in authorized wavelengths; the concrete absorbs everything else. Nothing here collapses. Everything merely compresses, and the city calls that equilibrium.",
+      "narrativist": "I walk the flooded arcade district of Vesper-9, where the rain comes down yellow from the smelter stacks and every puddle holds a drowned advertisement blinking for someone who stopped paying years ago. The noodle vendors weld their shutters half-shut against the Kessler Collective's collection runs, and the neon bleeding off the wet duracrete paints everyone the same sickly sacramental pink. Somewhere above me, in the spire tiers where the air is filtered and the rain never falls, they call this city the Jewel of the Coast \u2014 down here it's just the jewel's setting, and the stone got sold off long before I ever learned to walk these streets.",
+      "futurist": "**// LORE FRAGMENT \u2014 SEED 6358192**\n\nThey called it seed 6358192, but that was never a name \u2014 it was a genome, and for a century the city has been unwinding it, streets unfurling like root-hairs beneath a neon epidermis. It has no future tense, only an eternal mid-birth: neural towers flexing like new muscle, storm-drains metabolizing ten thousand private weathers. You are not its citizen \u2014 you are its next organ, growing.",
+      "lyricist": "6358192 \u2014 the fog was hired first, then the rain; both are still on payroll.\nSix million windows burn amber, and nobody's home but the servers.\nAt night the drains recite the city's serial number like a lullaby.",
+      "philosophical": "**Seed 6358192** \u2014 a city numbered before it was ever named, as though being itself had been issued a serial code and instructed to dwell. Its towers do not stand in the rain so much as the rain stands in them, a condensate of chrome, code, debt, and breath gathered into a place that mistakes itself for mere infrastructure. To live here is to be thrown not into a world but into a feed, and yet beneath the neon hums the old question like current through copper: what does it mean to dwell where no ground was ever given?",
+      "noir_classic": "The kind of town where the neon never slept and neither did anyone who owed it money. Six million souls in the shadow of the Voss-Hayden Arcology\u2014chipped, leased, or lying about it\u2014and the acid rain scrubbed the streets clean every night without ever touching the blood in the ledgers. I'd worked prettier graves.",
+      "cosmic_horror": "They seeded the grid from number 6358192, and the towers grew as the algorithm willed\u2014stairwells coiling through themselves, avenues converging at angles that sum to something no mortal geometry permits. The neon does not flicker because it does not burn; it is the phosphorescent dreaming of a vastness coiled in the server-deep dark, turning data as old gods once turned stars. Those who jack in to chart its streets return babbling of corridors that breathe, and of the cold, inevitable understanding that the city does not house them\u2014it dreams them."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.52,
+        "distinct": 0.88,
+        "density": 2.84
+      },
+      "narrativist": {
+        "canon": 0.78,
+        "distinct": 0.92,
+        "density": 3.64
+      },
+      "futurist": {
+        "canon": 0.6,
+        "distinct": 0.93,
+        "density": 2.3
+      },
+      "lyricist": {
+        "canon": 0.61,
+        "distinct": 0.89,
+        "density": 2.87
+      },
+      "philosophical": {
+        "canon": 0.65,
+        "distinct": 0.91,
+        "density": 1.96
+      },
+      "noir_classic": {
+        "canon": 0.73,
+        "distinct": 0.89,
+        "density": 2.82
+      },
+      "cosmic_horror": {
+        "canon": 0.69,
+        "distinct": 0.93,
+        "density": 2.35
+      }
+    }
   }
 ]
