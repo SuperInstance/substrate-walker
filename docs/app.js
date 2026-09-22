@@ -60,6 +60,10 @@ class SubstrateWalker {
             this.sound = new AdaptiveSoundtrack();
         }
 
+        // Load lore cache
+        this.loreCache = new LoreCacheLoader();
+        await this.loreCache.load('lore_pack.json');
+
         this.lastTime = performance.now();
         this.recording = false;
         this.walkStep = 0;
