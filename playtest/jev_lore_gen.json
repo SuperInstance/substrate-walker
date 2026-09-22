@@ -1,0 +1,52 @@
+[
+  {
+    "seed": 70051917,
+    "score": 0.8691666666666666,
+    "voices": {
+      "structuralist": "Seed 70051917 resolves into a vertical lattice of raw concrete strata, each slab load-bearing the next in unbroken compression toward the smog ceiling. Neon conduits trace the grid's honest geometry\u2014no ornament permitted, only the exposed logic of structure serving ten thousand stacked functions. Below grade, the pylons descend in mirrored rhythm, gripping bedrock where light was never part of the load calculation.",
+      "narrativist": "I walk Sector 7005-1917 where the rain tastes like copper and broken promises, each drop hissing off the neon veins that pump ads into the flooded gutters\u2014**KASUMI DREAMS, 40% OFF, FORGET WHO YOU WERE**. The broth-sellers and chip-fences watch me from under awnings, and I watch them back, because in this district the only thing cheaper than a memory is a life. Somewhere above the smog-line, the corp towers burn their clean light, but down here we navigate by the flicker of dying signs, and tonight every one of them is stuttering my name.",
+      "futurist": "Seed 70051917 does not sleep \u2014 it metabolizes, drinking light through fiber-optic veins and exhaling tomorrow in towers of steam and signal. I have watched its oldest districts calcify into bone while the data-gutters beneath them learn to dream, each blackout a contraction, each reboot a first breath. Do not ask *when* the city becomes \u2014 it is already becoming you.",
+      "lyricist": "*Seed 70051917*\n\nThey wired the moon into the grid, and it forgot how to wane.\nNeon bleeds down the gutters till dawn drinks it.\nEven the ghosts pay rent here.",
+      "philosophical": "**Lore Fragment \u2014 City Seed 70051917**\n\nThey ask *where* the city is, but 70051917 answers with the older question: whether one can still dwell beneath a sky wired equally for weather and for watching. Its towers do not stand upon the earth so much as enframe it \u2014 soil converted to signal, horizon to bandwidth \u2014 and yet the addict slumped in the alley is thrown here as wholly as any farmer ever was, thrown into a clearing of sodium light and static. To exist in this place is to accept the bargain struck at its founding: total connectivity purchased at the price of slow concealment, the Being of the city withdrawing one leased frequency at a time.",
+      "noir_classic": "This town doesn't sleep\u2014it just dims the neon and calls it mercy. Seven million souls stacked into Sector 70051917, every one of them renting their own heartbeat back from a corp that'd sell their memories by the gram. The rain here washes away blood, secrets, and the occasional badly-disposed body, but it never once washed clean the money.",
+      "cosmic_horror": "*Seed 70051917*\n\nThey say Sector 70051917 was engineered, yet its streets predate its architects: avenues meeting at angles that sum to more than their parts, stairwells descending into floors above them. This is no city but the outer dream of something coiled beneath the bedrock\u2014its neon the phosphorescent flicker of a slow leviathan's dreaming, its datastreams the shallow breath of a sleeper not yet ready to wake. Those who glimpse this truth flee, or worse, remain and begin speaking of the city in the first person plural."
+    },
+    "jev_scores": {
+      "structuralist": {
+        "canon": 0.62,
+        "distinct": 0.85,
+        "density": 3.02
+      },
+      "narrativist": {
+        "canon": 0.77,
+        "distinct": 0.93,
+        "density": 3.79
+      },
+      "futurist": {
+        "canon": 0.65,
+        "distinct": 0.93,
+        "density": 2.47
+      },
+      "lyricist": {
+        "canon": 0.57,
+        "distinct": 0.87,
+        "density": 2.69
+      },
+      "philosophical": {
+        "canon": 0.66,
+        "distinct": 0.9,
+        "density": 1.74
+      },
+      "noir_classic": {
+        "canon": 0.77,
+        "distinct": 0.88,
+        "density": 3.02
+      },
+      "cosmic_horror": {
+        "canon": 0.63,
+        "distinct": 0.9,
+        "density": 2.55
+      }
+    }
+  }
+]
