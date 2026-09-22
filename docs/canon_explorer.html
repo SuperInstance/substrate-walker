@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Canon Explorer</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  body { font-family: 'Courier New', monospace; }
+  
+  #grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  
+  .cell {
+    background: linear-gradient(135deg, #1a1a30 0%, #0a0a14 100%);
+    border: 1px solid #4af;
+    padding: 1rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  
+  .cell:hover {
+    border-color: #f4a;
+    box-shadow: 0 0 20px #4af44a44;
+  }
+  
+  .cell-type-doctrine { border-left: 5px solid #f4a; }
+  .cell-type-canon    { border-left: 5px solid #4af; }
+  .cell-type-witness  { border-left: 5px solid #af4; }
+  .cell-type-perception { border-left: 5px solid #888; }
+  
+  .cell-id {
+    color: #888;
+    font-size: 0.7rem;
+  }
+  
+  .cell-score {
+    color: #4f4;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .cell-lore {
+    color: #fff;
+    margin: 0.5rem 0;
+    font-style: italic;
+  }
+  
+  .cell-hash {
+    color: #ff4;
+    font-size: 0.7rem;
+    word-break: break-all;
+    font-family: monospace;
+  }
+  
+  .header {
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 1px solid #4af;
+    margin-bottom: 1rem;
+  }
+  
+  #detail {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.9);
+    display: none;
+    padding: 2rem;
+    z-index: 100;
+    overflow-y: auto;
+  }
+  
+  #detail.show { display: block; }
+  
+  #detail-content {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #111;
+    padding: 2rem;
+    border: 1px solid #4af;
+    border-radius: 4px;
+  }
+  
+  pre {
+    background: #000;
+    padding: 1rem;
+    border-radius: 4px;
+    overflow-x: auto;
+    color: #4af;
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>📜 CANON EXPLORER</h1>
+  <p>Browse the substrate-walker's canon cells. Click any cell to see full witness metadata.</p>
+  <p style="color:#888;font-size:0.85rem;" id="stats">Loading...</p>
+</div>
+
+<div id="grid"></div>
+
+<div id="detail">
+  <div id="detail-content">
+    <button id="close-detail" style="float:right;background:#4af;color:#000;border:none;padding:0.3rem 1rem;cursor:pointer">Close</button>
+    <pre id="detail-pre"></pre>
+  </div>
+</div>
+
+<script>
+// Load manifest and render grid
+fetch('../canon/cells/manifest.json')
+  .then(r => r.json())
+  .then(manifest => {
+    const grid = document.getElementById('grid');
+    const stats = document.getElementById('stats');
+    
+    stats.textContent = `${manifest.total_cells} cells | best score: ${manifest.best_score.toFixed(4)} | FNV canary: ${manifest.fnv_canary}`;
+    
+    // Sort by score (highest first)
+    const sorted = [...manifest.entries].sort((a, b) => b.score - a.score);
+    
+    for (const entry of sorted) {
+      const card = document.createElement('div');
+      card.className = `cell cell-type-${entry.type.split('-')[0]}`;
+      card.innerHTML = `
+        <div class="cell-id">${entry.cell_id} | rank #${entry.rank}</div>
+        <div class="cell-score">${entry.score.toFixed(4)}</div>
+        <div class="cell-lore">"${escapeHtml(entry.lore)}"</div>
+        <div class="cell-hash">hash: ${entry.hash}</div>
+        <div style="margin-top:0.5rem;color:#888;font-size:0.8rem">
+          type: ${entry.type} | seed: ${entry.seed}
+        </div>
+      `;
+      
+      card.addEventListener('click', () => {
+        showDetail(entry);
+      });
+      
+      grid.appendChild(card);
+    }
+    
+    // Setup detail close
+    document.getElementById('close-detail').addEventListener('click', () => {
+      document.getElementById('detail').classList.remove('show');
+    });
+  })
+  .catch(e => {
+    document.getElementById('stats').textContent = 'Failed to load manifest: ' + e;
+  });
+
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  })[c]);
+}
+
+function showDetail(entry) {
+  const detail = document.getElementById('detail');
+  const pre = document.getElementById('detail-pre');
+  
+  const content = `# Canon Cell: ${entry.cell_id}
+
+id: ${entry.cell_id}
+type: ${entry.type}
+timestamp: 2026-09-22T10:30:00Z
+chain: prev_hash → this_hash
+score: ${entry.score}
+seed: ${entry.seed}
+path: straight_east
+lore: "${entry.lore}"
+
+## Cell Hash
+
+${entry.hash} (FNV-1a 64-bit)
+
+## Witness
+
+FNV-1a canary: 0x24a555471370b18d
+Type: cyberpunk_noir
+Rank: #${entry.rank}
+`;
+  pre.textContent = content;
+  detail.classList.add('show');
+}
+</script>
+</body>
+</html>
