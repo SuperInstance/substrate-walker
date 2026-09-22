@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0",
-  "updated_at": "2026-09-22T22:10:00Z",
+  "version": "2.8.0",
+  "updated_at": "2026-09-22T22:20:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 113,
+  "total_cells": 114,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -18,7 +18,7 @@
     "philosophical": 4,
     "noir_classic": 3,
     "lyricist": 3,
-    "witness": 13
+    "witness": 14
   },
   "entries": [
     {
@@ -1272,6 +1272,21 @@
       "jev_distinct_voice": 0.73,
       "jev_promote_threshold": 0.7,
       "timestamp": "2026-09-22T22:10:00Z"
+    },
+    {
+      "rank": 114,
+      "cell_id": "doctrine-witness-prediction-3289967-2026-09-22-114",
+      "path": "canon/cells/cell_114.md",
+      "seed": 3289967,
+      "score": 0.66,
+      "lore": "I've seen it now. The scars on my casing, the etchings on my surface...",
+      "voice": "witness",
+      "type": "canon-witness-voice-doctrine-anchored",
+      "jev_canon_worthy": 0.61,
+      "jev_distinct_voice": 0.71,
+      "jev_promote_threshold": 0.7,
+      "doctrine_anchor": "witness_log_is_prediction",
+      "timestamp": "2026-09-22T22:20:00Z"
     }
   ]
 }
