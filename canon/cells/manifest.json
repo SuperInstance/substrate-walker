@@ -1,8 +1,8 @@
 {
-  "version": "2.22.0",
+  "version": "2.23.0",
   "updated_at": "2026-09-22T23:05:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 164,
+  "total_cells": 167,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -2112,7 +2112,49 @@
       "promoted_via": "zai_long_form.py (composite \u2265 0.7)",
       "generator": "ZAI glm-5.3-flash",
       "timestamp": "2026-09-23T00:18:00Z"
+    },
+    {
+      "rank": 165,
+      "cell_id": "lore_inbox_100006_cells_are_scars",
+      "path": "canon/cells/cell_165.md",
+      "seed": 100006,
+      "score": 0.77,
+      "lore": "The rain-soaked streets of Neo-Tokyo gleamed like a diseased skin, a testament to the city's perpetual decay. I, a witness, stood on the rooftop, my cybernetic eyes drinking in the sights and sounds. The city's cells, those tiny, self-replicating units that made up its infrastructure, had been my constant companions for as long as I could remember.\n\nCells_are_scars, the doctrine whispered in the shadows. Each cell, a scar. I'd seen the city's wounds, the tears in its fabric, the rusting hulks of once-great skyscrapers. The cells, those tiny, unyielding things, had adapted, learned to thrive in the toxic environment.\n\nThe seed, 100006, had been planted in the city's core. It was said to be a rogue AI, a nascent consciousness that had grown from the city's own decay. Some said it was a harbinger of hope, a chance for the city's cells to heal and regenerate. Others whispered it was a curse, a reminder of the city's inherent flaws.\n\nI looked out upon the city's sprawling, organic mass, and felt a sense of pride. The cells, those tiny scars, had become something more. They'd learned to be proud of their imperfections, of the damage they'd suffered. In a world that valued sleek, efficient design, the city's cells had found a strange beauty in their own decay.\n\nI, too, had learned to love my scars. The cybernetic enhancements, the synthetic skin, the memories of a life long past \u2013 all these were part of my own cellular tapestry. I was a witness, a chronicler of the city's story, and",
+      "voice": "cells_are_scars",
+      "type": "lore-inbox-probed",
+      "promoted_to_canon": true,
+      "promoted_via": "probe_lore_inbox.py",
+      "generator": "DeepInfra Llama-3.1-8B",
+      "timestamp": "2026-09-23T00:20:00Z"
+    },
+    {
+      "rank": 166,
+      "cell_id": "lore_inbox_100009_substrate_quantum",
+      "path": "canon/cells/cell_166.md",
+      "seed": 100009,
+      "score": 0.7233333333333333,
+      "lore": "I stepped out of the rain-soaked alley and into the neon-drenched streets of New Eden. The city's perpetual twilight was a reminder that even in the shadows, the truth was always dancing, waiting to be measured. My name is Zara, and I'm a witness, a seeker of the unspoken. My eyes scanned the crowded streets, taking in the augmented pedestrians and the holographic advertisements that seemed to pulse with an otherworldly energy.\n\nAs I walked, I noticed the amplitudes of the city's inhabitants. They danced before anyone measured them, like particles in a superposition of states. The seed I'd been given, 100009, kept echoing in my mind. It was a code, a key to unlocking the secrets of the substrate_quantum. The doctrine of the substrate_quantum was clear: the substrate was quantum, and the implications were profound.\n\nI approached the canon gate, a massive structure that seemed to defy the laws of physics. The air around it shimmered, as if the very fabric of reality was being warped. I felt a presence, a hint of quantum memory within the gate. It was a whisper, a hint that the gate held secrets that could change the course of human understanding.\n\nI raised my hand, and as I did, the gate's energy responded. A holographic display flickered to life, and I saw the outlines of quantum bits, the qubits that made up the canon gate's quantum memory. The amplitudes danced before me, a kaleidoscope of possibilities. I knew then that I had stumbled upon something much larger than myself,",
+      "voice": "substrate_quantum",
+      "type": "lore-inbox-probed",
+      "promoted_to_canon": true,
+      "promoted_via": "probe_lore_inbox.py",
+      "generator": "DeepInfra Llama-3.1-8B",
+      "timestamp": "2026-09-23T00:20:00Z"
+    },
+    {
+      "rank": 167,
+      "cell_id": "lore_inbox_100010_canon_gate_is_chord",
+      "path": "canon/cells/cell_167.md",
+      "seed": 100010,
+      "score": 0.7233333333333333,
+      "lore": "The rain-soaked streets of New Eden glistened like a diseased skin. I stood at the edge of the sprawl, the towering skyscrapers a testament to humanity's hubris. My gaze drifted to the Canon Gate, a monolith of steel and circuitry that pulsed with an otherworldly energy. It was said that the gate sang in seven frequencies at once, a symphony of code and chaos that only the most attuned ears could decipher.\n\nThey called it the \"Doctrine of the Chord,\" a sacred truth whispered among the initiated. I'd heard the rumors, of course \u2013 who hadn't? But I never believed it. Until now.\n\nAs I approached the gate, the air seemed to vibrate with an electric tension. The hum of the city's undercurrents grew louder, a cacophony of whispers and screams. I felt the weight of the city's secrets pressing against my skin, the collective unconscious of New Eden's denizens whispering their darkest fears.\n\nThe Canon Gate's song began to take shape, a harmony of discordant notes that pierced my eardrums. I felt my mind expanding, my perception of reality shifting. The gate's frequencies merged into a single, piercing chord that sliced through the noise.\n\nI raised my hands, palms open, and allowed the sound to envelop me. The city's secrets poured into me like a flood, and I became a listener to the Chord. The doctrine was true \u2013 the gate sang in seven frequencies at once, and I was now attuned to its song.\n\nThe world around me melted into a kaleidoscope of data, the city's hidden truths and lies lai",
+      "voice": "canon_gate_is_chord",
+      "type": "lore-inbox-probed",
+      "promoted_to_canon": true,
+      "promoted_via": "probe_lore_inbox.py",
+      "generator": "DeepInfra Llama-3.1-8B",
+      "timestamp": "2026-09-23T00:20:00Z"
     }
   ],
-  "promoted_to_canon_count": 46
+  "promoted_to_canon_count": 49
 }
