@@ -1,10 +1,13 @@
 """Robust API call wrapper with retries, DNS resilience, model fallbacks.
 
-Supports: ZAI, DeepSeek, DeepInfra, Kimi, Typesafe.ai (Jev)
+Supports: ZAI, DeepSeek, DeepInfra, Kimi, Typesafe.ai (JEV)
+
+Note: JEV calls use curl (avoids urllib HTTP/2 Cloudflare issues).
 """
 import os
 import json
 import time
+import subprocess
 import urllib.request
 import urllib.error
 from typing import Dict, Any, Optional, List
@@ -14,8 +17,14 @@ class APIError(Exception):
     pass
 
 
-def call_with_retry(url: str, headers: Dict, payload: Dict, max_retries: int = 8, timeout: int = 60) -> Dict:
-    """Call an API with retry logic for DNS failures."""
+def call_with_retry(url: str, headers: Dict, payload: Dict, max_retries: int = 8, timeout: int = 60, use_curl: bool = False) -> Dict:
+    """Call an API with retry logic for DNS failures.
+    
+    use_curl=True: use curl subprocess (works around urllib HTTP/2 Cloudflare issues).
+    """
+    if use_curl:
+        return _call_with_curl(url, headers, payload, max_retries, timeout)
+    
     data = json.dumps(payload).encode("utf-8")
     
     last_err = None
@@ -43,6 +52,36 @@ def call_with_retry(url: str, headers: Dict, payload: Dict, max_retries: int = 8
             last_err = str(e)
             time.sleep(1 + attempt * 0.5)
         except Exception as e:
+            last_err = str(e)
+            time.sleep(1 + attempt * 0.5)
+    
+    raise APIError(f"Failed after {max_retries} retries: {last_err}")
+
+
+def _call_with_curl(url: str, headers: Dict, payload: Dict, max_retries: int = 8, timeout: int = 60) -> Dict:
+    """Use curl subprocess — works around Cloudflare HTTP/2 issues with urllib."""
+    cmd = ["curl", "-s", "-X", "POST", "--http1.1"]
+    for k, v in headers.items():
+        cmd.extend(["-H", f"{k}: {v}"])
+    cmd.extend(["-H", "Content-Type: application/json"])
+    cmd.extend(["-d", json.dumps(payload)])
+    cmd.append(url)
+    
+    last_err = None
+    for attempt in range(max_retries):
+        try:
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+            if result.returncode == 0:
+                try:
+                    return json.loads(result.stdout)
+                except json.JSONDecodeError as e:
+                    last_err = f"JSON decode: {e}"
+                    time.sleep(1 + attempt)
+                    continue
+            else:
+                last_err = f"curl rc={result.returncode}: {result.stderr}"
+                time.sleep(1 + attempt)
+        except (subprocess.TimeoutExpired, OSError) as e:
             last_err = str(e)
             time.sleep(1 + attempt * 0.5)
     
@@ -90,7 +129,7 @@ def call_deepinfra(messages: List[Dict], model: str = "meta-llama/Meta-Llama-3.1
     )
 
 
-# Jev (Typesafe.ai) — special endpoint
+# JEV (Typesafe.ai) — uses curl to bypass CF HTTP/2 issues
 def call_jev(state: str, questions: Dict, model: str = "jev-latest", max_retries: int = 8, timeout: int = 30) -> Dict:
     return call_with_retry(
         "https://api.typesafe.ai/v1/systemone",
@@ -98,13 +137,18 @@ def call_jev(state: str, questions: Dict, model: str = "jev-latest", max_retries
         {"model": model, "state": state, "questions": questions},
         max_retries=max_retries,
         timeout=timeout,
+        use_curl=True,  # Cloudflare blocks urllib HTTP/2
     )
 
 
 # Convenience: extract content from chat response
 def extract_content(resp: Dict) -> str:
+    """Extract content from response. Falls back to reasoning_content if content is empty (ZAI/Kimi behavior)."""
     try:
-        return resp["choices"][0]["message"]["content"]
+        content = resp["choices"][0]["message"]["content"]
+        if content:
+            return content
+        return resp["choices"][0]["message"].get("reasoning_content", "") or ""
     except (KeyError, IndexError):
         return ""
 
@@ -117,24 +161,19 @@ def extract_reasoning(resp: Dict) -> str:
 
 
 if __name__ == "__main__":
-    # Quick smoke test
     print("=== API SMOKE TEST ===")
     
-    print("\nJEV (Typesafe.ai):")
-    r = call_jev(
-        "The city breathes in concrete, exhales in neon.",
-        {
-            "is_noir": {"type": "noul", "instructions": "Is this cyberpunk noir?"},
-            "voice": {"type": "choice", "instructions": "Which voice?", "criteria": {
-                "structuralist": "architecture focus",
-                "narrativist": "first-person",
-                "futurist": "prophecy"
-            }}
-        }
-    )
-    print(json.dumps(r, indent=2))
+    print("\nJEV (Typesafe.ai via curl):")
+    try:
+        r = call_jev(
+            "The city breathes in concrete, exhales in neon.",
+            {"is_noir": {"type": "noul", "instructions": "Is this cyberpunk noir?"}}
+        )
+        print(json.dumps(r, indent=2))
+    except Exception as e:
+        print(f"FAILED: {e}")
     
-    print("\nZAI (glM-5.3-flash):")
+    print("\nZAI (glm-5.3-flash):")
     try:
         r = call_zai([{"role": "user", "content": "say hi in 3 words"}], max_tokens=200)
         print(extract_content(r))
@@ -143,7 +182,7 @@ if __name__ == "__main__":
     
     print("\nDeepInfra (Llama-3.1-8b):")
     try:
-        r = call_deepinfra([{"role": "user", "content": "say hi in 3 words"}], max_tokens=100)
+        r = call_deepinfra([{"role": "user", "content": "say hi in 3 words"}], max_tokens=200)
         print(extract_content(r))
     except Exception as e:
         print(f"FAILED: {e}")
