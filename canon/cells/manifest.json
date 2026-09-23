@@ -1,8 +1,8 @@
 {
-  "version": "2.23.0",
+  "version": "2.24.0",
   "updated_at": "2026-09-22T23:05:00Z",
   "fnv_canary": "0x024a555471370b18d",
-  "total_cells": 167,
+  "total_cells": 168,
   "best_score": 1.0,
   "type_breakdown": {
     "doctrine-prime-abstract": 10,
@@ -2154,7 +2154,21 @@
       "promoted_via": "probe_lore_inbox.py",
       "generator": "DeepInfra Llama-3.1-8B",
       "timestamp": "2026-09-23T00:20:00Z"
+    },
+    {
+      "rank": 168,
+      "cell_id": "lore_inbox_100009_oracle_is_heard",
+      "path": "canon/cells/cell_168.md",
+      "seed": 100009,
+      "score": 0.7033333333333335,
+      "lore": "The rain-soaked streets of Neo-Tokyo glistened like a diseased serpent's skin. I stood at the edge of the crowded marketplace, a lone figure amidst the throngs of humanity. My eyes, a piercing shade of indigo, scanned the sea of faces, searching for the one I'd been tasked to find.\n\nThe air was heavy with the hum of holographic advertisements and the distant thrum of hovercars. I tuned it out, focusing on the whispers of the city's underbelly. The oracle_is_heard doctrine was a myth, a mere rumor whispered among the initiated. Yet, I'd heard the rumors myself, and the seed of doubt had been planted.\n\n100009, the numerical identifier, echoed in my mind like a mantra. A cipher, a key, a warning. I'd been tracking the signal for weeks, following the breadcrumbs of encrypted messages and hacked servers. The canon gate, a mythical gateway to the hidden truths of the city, was said to emit an audible signal when the time was right.\n\nAnd then, it happened. A low, pulsing hum, like the beat of a thousand distant hearts. The marketplace fell silent, and I felt the collective attention of the city shift towards me. The canon gate spoke, and I was the chosen one, the listener.\n\nI raised my head, and the sound washed over me like a baptism of fire. The city's secrets, hidden for so long, were now laid bare before me. I was no longer just a witness; I was a listener, a conduit for the whispers of the city's underbelly. The oracle_is_heard doctrine was no longer a myth; it was a reality, a",
+      "voice": "oracle_is_heard",
+      "type": "lore-inbox-probed",
+      "promoted_to_canon": true,
+      "promoted_via": "probe_lore_inbox.py",
+      "generator": "DeepInfra Llama-3.1-8B",
+      "timestamp": "2026-09-23T00:25:00Z"
     }
   ],
-  "promoted_to_canon_count": 49
+  "promoted_to_canon_count": 50
 }
