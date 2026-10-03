@@ -90,6 +90,9 @@ def _call_with_curl(url: str, headers: Dict, payload: Dict, max_retries: int = 8
 
 # ZAI
 def call_zai(messages: List[Dict], model: str = "glm-5.3-flash", max_tokens: int = 4000, **kwargs) -> Dict:
+    # Default to thinking disabled to get content directly (not in reasoning_content)
+    if "thinking" not in kwargs:
+        kwargs["thinking"] = {"type": "disabled"}
     return call_with_retry(
         "https://api.z.ai/api/coding/paas/v4/chat/completions",
         {"Authorization": f"Bearer {os.environ['ZAI_TOKEN']}"},
